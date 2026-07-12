@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-12T22:10:31.391Z",
+ "generatedAt": "2026-07-12T23:11:46.378Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:18888553-4060-48c4-ac1f-72b52213d88a",
+     "title": "Versus #259: Mbani frymën! Tani luhen gjysmëfinalet",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122743919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2Fec45f0b4-d2bb-9caf-bbb7-9be16e7e537f.mp3",
+     "publishedAt": "2026-07-12T22:43:26.000Z",
+     "durationSec": 7652,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Dramë, adrenalinë dhe spektakël, ky Botëror i ka të gjitha. Pas çerekfinaleve të luftuara deri në frymën e fundit, vijnë ditët e gjysmëfinaleve! Komente, analiza dhe parashikime për dy sfidat spektakolare. 0:00 Çerekfinalet 40:26 Vlerësimet 49:18 Xhaka 1:21:02 Anglia 1:35:04 Norvegjia 1:58:51 Fantasy",
+     "episodeNumber": 259,
+     "seasonNumber": 3
+    },
+    {
      "id": "1849137636:d5089b3b-84ed-4a04-a0c0-c091d497632f",
      "title": "Versus #258: Kupa e Botës, komentojmë çerekfinalet me legjendën Altin Lala",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122676268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Feaa29cf1-127c-b708-0cdb-7b1873d995da.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Finalja e Champions League është kulminacioni i këtij sezoni futbollistik. Komente, analiza dhe përfundime për PSG - Arsenal, sfida që mund të vendosë edhe \"Topin e Artë\". 0:00 Finalja UCL 1:13:46 Qethja 0",
      "episodeNumber": 237,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:622ee88d-62b2-4587-b340-6a5b80d8b1d3",
-     "title": "Versus #236: Champions League, preview për finalen PSG - Arsenal",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/120696256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-29%2F0b441f53-3a27-c91d-cb38-cbf22813fa7d.mp3",
-     "publishedAt": "2026-05-29T00:30:00.000Z",
-     "durationSec": 11932,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Po vjen finalja e Champions League! Komente, analiza dhe parashikime për PSG - Arsenal, sfidë e cila mbyll praktikisht këtë sezon futbollistik në prag të Kupës së Botës. Flasim edhe për lajmet e fundit nga merkatoja, veçanërisht për lëvizjen e befasishme të Barcelonës për anglezin Gordon. Detaje, batuta dhe komunikim në 'live chat' me pyetje e pergjigje. 0:00 Merkato Boom 1:48:38 Kombëtarja 2:06:49 Dominimi Anglez 2:27:45 Finalja e Champions 3:06:49 Fantasy Premier: Epilogu",
-     "episodeNumber": 236,
      "seasonNumber": 3
     }
    ]
