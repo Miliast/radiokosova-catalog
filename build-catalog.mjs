@@ -154,6 +154,18 @@ const parser = new XMLParser({
   // Keep CDATA content as regular text.
   cdataPropName: false,
   trimValues: true,
+  // fxp's default entity-expansion limits (1000 total) are DoS protection
+  // sized for untrusted input on end-user devices. A big feed legitimately
+  // contains tens of thousands of &amp;/&#39; entities across hundreds of
+  // episodes — two of our seeds tripped the default. This builder runs in a
+  // throwaway CI job on public feeds, so generous-but-bounded limits are
+  // the right trade-off.
+  processEntities: {
+    enabled: true,
+    maxTotalExpansions: 1_000_000,
+    maxEntityCount: 100_000,
+    maxExpandedLength: 50_000_000,
+  },
 });
 
 // Step 2+3+4: fetch, parse, normalise each seed (parallel).

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-12T20:07:55.145Z",
+ "generatedAt": "2026-07-12T20:10:23.527Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -863,6 +863,237 @@
    ]
   },
   {
+   "id": "1849137636",
+   "title": "Versus",
+   "author": "Telesport",
+   "feedUrl": "https://anchor.fm/s/f6563050/podcast/rss",
+   "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/f2/22/8ef22284-c280-d63f-6732-fce5c734c5ef/mza_10485598089769966655.jpg/600x600bb.jpg",
+   "genre": "Sports",
+   "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
+   "episodes": [
+    {
+     "id": "1849137636:d5089b3b-84ed-4a04-a0c0-c091d497632f",
+     "title": "Versus #258: Kupa e Botës, komentojmë çerekfinalet me legjendën Altin Lala",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122676268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Feaa29cf1-127c-b708-0cdb-7b1873d995da.mp3",
+     "publishedAt": "2026-07-11T00:36:34.000Z",
+     "durationSec": 8710,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Emocionet e Kupës së Botës, tashmë në fazën më delikate, me përshtypjet dhe analizat e legjendës Altin Lala. Ish-futbollisti i kombëtares shqiptare dhe treshja ADN komentojnë dy ndeshjet e para çerekfinale dhe japin parashikimet për sfidat në vijim. 0:00 Spanja 27:40 Franca 30:35 Mbappe 36:43 Gjermania 1:19:46 Brazili 1:37:35 Shqiperia",
+     "episodeNumber": 258,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:f53161a2-9da6-4d38-b2be-c4595b7e9fee",
+     "title": "Versus #257: Kupa e Botës, po vijnë çerekfinalet",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122545568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2Fcaede4b4-1123-0004-b20b-f0d204be626e.mp3",
+     "publishedAt": "2026-07-08T09:15:59.000Z",
+     "durationSec": 7162,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Kupa e Botës tashmë ka 8 skuadrat më të forta dhe mezi presim përballjet spektakolare të korrikut! Komentojmë dy ndeshjet e ditës japim parashikimet tona për sfidat çerekfinale. 0:00 Argjentina 55:45 Belgjika 1:18:15 Portugalia 1:41:26 Brazili 1:46:33 Cerekfinalet 1:51:43 Parashikimet 1:54:15 FWC",
+     "episodeNumber": 257,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:b8da1ba9-d105-43ad-9637-f2c233f55aea",
+     "title": "Versus #256: Kupa e Botës, faza 1/8: analiza e dy ndeshjeve",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122395657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-5%2F16e2ab18-05b3-31d6-5fc9-c9fe32bc16df.mp3",
+     "publishedAt": "2026-07-05T01:13:23.000Z",
+     "durationSec": 5427,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Kupa e Botës është tashmë në fazat vendimtare! Komentojmë dy ndeshjet e para të 1/8-ave dhe japim parashikimet tona për sfidat e ditëve në vijim. 0:00 France-Paraguai 31:27 Kanada-Marok 51:29 Argjentina 1:19:36 Kolumbi 1:25:04 OPA Player of the round. 1:27:00 Parashikime",
+     "episodeNumber": 256,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:ced32a8b-2395-479d-8118-2f849475a60f",
+     "title": "Versus #255: Cristiano vs. Yamal, Botërori drejt ndeshjeve epike",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122365045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F3b8fb686-a85f-3756-4cf5-f76cac272e16.mp3",
+     "publishedAt": "2026-07-04T01:19:19.000Z",
+     "durationSec": 4932,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Kupa e Botës po shkon drejt ndeshjeve të mëdha! Pas fitores së Portugalisë me Kroacinë, mezi presim duelin Cristiano Ronaldo - Lamine Yamal. Komente, analiza dhe parashikime për sfidat e ditëve në vijim. 0:00 Portugalia 51:38 Zvicra 1:02:08 Egjipt v Australi 1:08:00 Parashikime 1:22:14 Fantazi",
+     "episodeNumber": 255,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:980c6876-5ee0-4a83-8571-b5bbd5801b93",
+     "title": "Versus #254:Komentet për Spanjë - Austri & preview për Portugali - Kroaci",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122320960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2F2c58d680-7e40-d1d9-278e-5cba7b797117.mp3",
+     "publishedAt": "2026-07-03T02:03:08.000Z",
+     "durationSec": 4724,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Sërish live në Youtube për të komentuar ndeshjet e Kupës së Botës. Radhën e ka Spanja me yllin Lamine Yamal në sfidën me Austrinë. Më tej, preview për Portugali - Kroaci dhe parashikimet tona për sfidat e ditëve në vijim. 0:00 Spanja 1:02:56 SHBA 1:12:44 Aludimi 1:15:30 Parashikime",
+     "episodeNumber": 254,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:e2546b66-08fa-43a4-9709-aa8fa75224c4",
+     "title": "Versus #253: Spektakli vazhdon, sytë nga Lamine Yamal",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122270992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-2%2F0030edf9-bf02-78a6-e294-c2fa042e7712.mp3",
+     "publishedAt": "2026-07-02T00:18:11.000Z",
+     "durationSec": 6397,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Ky Botëror është spektakolar, plot gola dhe surpriza! Pas ndeshjeve të ditës, komentojmë gjithçka që ndodhi në fushë dhe jashtë saj. Më tej, analizojmë dhe japim parashikimet tona për sfidat në vijim, 0:00 Angli v Kongo 1:01:04 Meksike v Ekuador 1:14:35 Belgjik v Senegal 1:43:07 Parashikime",
+     "episodeNumber": 253,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:3ee6ce3d-1751-4354-87b7-86e5190cb3c7",
+     "title": "Versus #252: Nuk ka më kombëtare big! Ky Botëror nuk fal askënd",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122222458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F90fb0ef3-e889-88f3-5821-80981973b60b.mp3",
+     "publishedAt": "2026-07-01T00:53:14.000Z",
+     "durationSec": 5319,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Gjermania dhe Holanda janë jashtë Botërorit! Ky turne po i befason të gjithë. Brazili vuajti shumë për kualifikimin. Radhën e kanë Franca, Anglia e Belgjika. Analizojmë dhe japim parashikimet tona për sfidat në vijim. 0:00 France v Suedi 51:12 Bregu F. v Norvegji 1:04:40 Holande v Marok 1:21:37 Parashikime",
+     "episodeNumber": 252,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:72113fc0-b405-454b-b4b5-7d489867ac45",
+     "title": "Versus #251: Kupa e Botës, në fazën dramatike! Një gabim të nxjerr jashtë",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122174042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F3387ba4b-6bcc-f3c5-4e58-f315e0797914.mp3",
+     "publishedAt": "2026-06-30T01:50:48.000Z",
+     "durationSec": 6677,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Ethet e garës direkte janë gjithçka që kemi pritur nga Botërori 2026! Komentojmë Brazil - Japoni dhe Gjermani - Paraguai. Analizojmë dhe japim parashikimet tona për sfidat në vijim, veçanërisht të Holandës dhe Francës. 0:00 Gjermani Paraguaj 1:31:16 Brazili 1:42:10 Parashikime",
+     "episodeNumber": 251,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:6ac6e3de-c803-4648-b42b-53ec2e8c3c08",
+     "title": "Versus #250: Kupa e Botës, analiza dhe parashikime për sfidat direkte",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122117127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F1815d721-9b10-ef37-514f-2ebbb8009f10.mp3",
+     "publishedAt": "2026-06-28T23:26:15.000Z",
+     "durationSec": 7141,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Botërori i vërtetë fillon sot! Çiftet e skuadrave për përballjet me eliminim direkt janë gati dhe ne mezi presim të shohim spektakël! Analizojmë dhe japim parashikimet tona për çdo sfidë deri në finalen e madhe. Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Afrike e Jugut v Canada 22:16 Parashikimi Rrugetimit 44:00 OPA MVP + Top XI 50:09 Messi vs Fontaine 58:44 Portugalia 1:42:06 Parashikime",
+     "episodeNumber": 250,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:dbfd2366-1303-4bf7-9ffc-dd28d6bc7473",
+     "title": "Versus #249: Holanda, Gjermania & Franca, komentet nga ADN",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122063458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F0173e2b6-6595-8ed6-cb98-0b929d8279cd.mp3",
+     "publishedAt": "2026-06-27T13:16:31.000Z",
+     "durationSec": 8693,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komentojmë ndeshjet më pikante të Botërorit dhe japim përfundimet tona për skuadrat big. Analiza, batuta dhe parashikime për sfidat në vijim (Spanja dhe Anglia). Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Franca 40:56 Perralla Ekuador 1:17:32 Holanda favorite? 1:44:11 Ciftet e para te krijuara 1:48:46 Parashikime 2:03:08 Merkato",
+     "episodeNumber": 249,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:0cca6749-07b6-47a6-9114-d39bac5f0c0a",
+     "title": "Versus #248: Gara e goleadorëve: Messi, Mbappe, Haaland & Kane",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121926411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F02c804cb-d0fc-7315-51e3-bda892ec8b7e.mp3",
+     "publishedAt": "2026-06-24T10:13:21.000Z",
+     "durationSec": 7262,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komentojmë ndeshjet e dy ditëve të fundit, me peshat e rënda si Argjentina, Franca, Portugalia dhe Anglia. Gara e golave arrin kulmin, me sulmues që nuk shterojnë. Analiza, bilance dhe parashikime. Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Portugalia 39:53 Franca 1:02:15 Anglia 1:25:07 Këpuca e Artë 1:33:55 Parashikimet 1:36:42 Julian Alvarez",
+     "episodeNumber": 248,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:6b878d32-51d6-4f1d-9a70-0dca0a7ede47",
+     "title": "Versus #247: Kupa e Botës, Messi & Mbappe, skena është për ju!",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121802332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2Ff743561d-2dfd-5629-c908-7851c17ff329.mp3",
+     "publishedAt": "2026-06-21T23:23:08.000Z",
+     "durationSec": 6719,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Diskutojmë për ndeshjet e ditës të Spanjës dhe Belgjikës, teksa japim edhe parashikimet tona për përballjet në vijim. Në fushë zbresin Messi dhe Mbappe, gati për aksion dhe rekordet e radhës. Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Spanja ndizet 36:06 Belgjika vuan 59:43 Ekuador 1:15:57 Deklarata e Bale 1:33:47 Japonia solide 1:45:40 Parashikimet",
+     "episodeNumber": 247,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:62108783-b2aa-4191-998d-1c68ae273deb",
+     "title": "Versus #246: Kupa e Botës, sytë nga Spanja dhe Belgjika",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121767387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-21%2Ff3f1a5c0-4259-a945-46c0-043056937d55.mp3",
+     "publishedAt": "2026-06-21T01:03:10.000Z",
+     "durationSec": 6623,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Pas Gjermanisë, në fushë zbresin për ndeshjet e dyta Spanja dhe Belgjika. Diskutojmë për ndeshjet e ditës, japim parashikimet tona për përballjet në vijim dhe komentojmë informacione të përgjithshme për gjithçka nga turneu. 0:00 Gjermania nuk ndalet 42:04 Turqia jashte 1:00:42 Nis samba? 1:19:58 Disiplina e Marokut 1:31:42 Holanda... 1:43:24 Parashikimet",
+     "episodeNumber": 246,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:5ad93f72-183f-4ec5-880c-5dc5d370c462",
+     "title": "Versus #245: Kupa e Botës, shansi i dytë për Samba!",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121732843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F00e360de-8239-2937-f807-b4226690c0b4.mp3",
+     "publishedAt": "2026-06-19T23:19:32.000Z",
+     "durationSec": 7432,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Raundi i dytë i fazës së grupeve në Botëror sjell një shans tjetër për Brazilin. Sfida e radhës, me Haitin. Në fushë do të zbresin edhe Holanda dhe Gjermania. Diskutojmë për ndeshjet aktuale, japim parashikimet tona për përballjet në vijim dhe komentojmë informacione të përgjithshme për gjithçka nga turneu.",
+     "episodeNumber": 245,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:37a2715a-b9c3-4c7e-84cc-2169a8a56513",
+     "title": "Versus #244: Messi vs. Ronaldo, dueli i fundit për historinë",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121657970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F7c74ae5a-5350-2070-90fa-c3ea21a609a1.mp3",
+     "publishedAt": "2026-06-18T11:41:38.000Z",
+     "durationSec": 9056,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Gjithë vëmendja e Botërorit këto ditë është totalisht e fokusuar te \"përbindëshat\" e futbollit, Leo Messi dhe Cristiano Ronaldo. Flasim së bashku për këtë duel të fundit të legjendave. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Gjeniu Messi 1:05:38 Polemikat 1:15:53 Portugalia e CR7 1:54:08 Debuton Anglia 2:14:09 Këpuca e Artë 2:16:45 Fantasy WC 2:24:02 Parashikimet",
+     "episodeNumber": 244,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:3d013aa2-a1c3-4e48-baec-153179d2222a",
+     "title": "Versus #243: Duke pritur legjendat! Po vijnë Messi dhe Cristiano",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121608888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F070296b4-2310-563c-f315-0d5b25c0b318.mp3",
+     "publishedAt": "2026-06-17T13:03:26.000Z",
+     "durationSec": 6905,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Gjermania shkëlqeu, Spanja dhe Belgjika zhgënjyen. Sfida e radhës për t'u ndjekur është Francë - Senegal, por mendjet e tifozëve në mbarë botën janë te Messi dhe Cristiano. Po vjen momenti i Argjentinës dhe Portugalisë! Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batuta 14:18 France-Senegal 44:46 Faktori barazim 59:05 Po vjen Argjentina 1:46:28 Parashikimet",
+     "episodeNumber": 243,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:e139b596-2e55-409c-8b3e-b68f8313057e",
+     "title": "Versus #242: Botërori sfidon temperaturat, nis festivali i golave",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121547206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2Fad88522b-c519-fe4b-6261-65438499303a.mp3",
+     "publishedAt": "2026-06-16T08:44:13.000Z",
+     "durationSec": 6629,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Përtej temperaturave të larta, në Botëror tashmë kanë nisur goleadat e para. Emocionet shtohen, ashtu si edhe adrenalina që sjellin skuadrat big. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 UEFA vs FIFA 35:59 Spanja dhe Belgjika 1:23:49 Bregu i Fildishte-Ekuador 1:36:59 Suedia agresive 1:42:19 Parashikimet & Preview",
+     "episodeNumber": 242,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:2525f0d3-5e22-4fd5-884e-858ee88d3ad2",
+     "title": "Versus #241: Gjermani - Kuraçao & Holandë - Japoni",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121498142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-15%2F3cb70f0b-7f92-fd4a-b8ef-37a52318e510.mp3",
+     "publishedAt": "2026-06-15T10:46:00.000Z",
+     "durationSec": 5631,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Rikthehemi live në Versus për të komentuar dy ndeshjet e mbrëmjes në Botëror, Gjermani - Kuraçao dhe Holandë - Japoni. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batutat e para 10:28 Zhgënjimi Brazil 56:44 Holandë-Japoni 1:03:59 Surprizat 1:28:55 Parashikimet",
+     "episodeNumber": 241,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:4e00e559-73b9-4a9b-a9ef-e140995103dc",
+     "title": "Versus #237: Finalja e Champions League, komente dhe analiza",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/120777034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F5cd9d4e2-510b-7317-b916-061f784c5fe9.mp3",
+     "publishedAt": "2026-05-31T01:10:00.000Z",
+     "durationSec": 5963,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Finalja e Champions League është kulminacioni i këtij sezoni futbollistik. Komente, analiza dhe përfundime për PSG - Arsenal, sfida që mund të vendosë edhe \"Topin e Artë\". 0:00 Finalja UCL 1:13:46 Qethja 0",
+     "episodeNumber": 237,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:622ee88d-62b2-4587-b340-6a5b80d8b1d3",
+     "title": "Versus #236: Champions League, preview për finalen PSG - Arsenal",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/120696256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-29%2F0b441f53-3a27-c91d-cb38-cbf22813fa7d.mp3",
+     "publishedAt": "2026-05-29T00:30:00.000Z",
+     "durationSec": 11932,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Po vjen finalja e Champions League! Komente, analiza dhe parashikime për PSG - Arsenal, sfidë e cila mbyll praktikisht këtë sezon futbollistik në prag të Kupës së Botës. Flasim edhe për lajmet e fundit nga merkatoja, veçanërisht për lëvizjen e befasishme të Barcelonës për anglezin Gordon. Detaje, batuta dhe komunikim në 'live chat' me pyetje e pergjigje. 0:00 Merkato Boom 1:48:38 Kombëtarja 2:06:49 Dominimi Anglez 2:27:45 Finalja e Champions 3:06:49 Fantasy Premier: Epilogu",
+     "episodeNumber": 236,
+     "seasonNumber": 3
+    }
+   ]
+  },
+  {
    "id": "1812026405",
    "title": "Shëndeti në Rend të Parë - Telegrafi",
    "author": "Elfije Boletini-Bejtullahu",
@@ -1522,6 +1753,215 @@
      "imageUrl": "https://img.transistorcdn.com/HBhkItKF6_FfoklNlT-ScOW0cbwjTFTr4lublzRQQwY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjIw/MDUxNDNkMTZjYjM3/NTczODljYTY5MTYy/ZDE2NS5qcGc.jpg",
      "description": "Në episodin e parë të “Edukimi medial” është trajtuar tema që ka të bëjë me dezinformimin, keqinformimin, gazetarinë e dobët, edukimin medial dhe qëndrueshmërinë e mediave. Mbështetur nga: - Instituti Kombëtar Demokratik (NDI). - Agjencia e Shteteve të Bashkuara për Zhvillim Ndërkombëtar (USAID) në Kosovë.",
      "episodeNumber": 1
+    }
+   ]
+  },
+  {
+   "id": "1573751706",
+   "title": "Buchi Podcast Shqip",
+   "author": "Bleon Hasani",
+   "feedUrl": "https://anchor.fm/s/5fe49454/podcast/rss",
+   "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/de/d4/cbded421-8f81-16cd-238a-d540055d9aae/mza_11936552856242279900.jpg/600x600bb.jpg",
+   "genre": "Society & Culture",
+   "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
+   "episodes": [
+    {
+     "id": "1573751706:e5d90fd7-0c8b-4eba-af5b-40e179dcce2c",
+     "title": "Ligji 21/2024 për zonat e mbrojtura shpjeguar thjeshtë - Buchi Podcast Shqip #211 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122650542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427711819-44100-2-772daf6fbc485.m4a",
+     "publishedAt": "2026-07-10T12:31:58.000Z",
+     "durationSec": 2045,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783686700127-347420b6bdf68.jpg",
+     "description": "Në këtë episod analizojmë një nga ligjet më të debatuara të viteve të fundit: Ligjin nr. 21/2024 , i cili ndryshon mënyrën se si menaxhohen zonat e mbrojtura në Shqipëri. Çfarë ndryshoi realisht? A hap ligji më shumë hapësirë për zhvillime turistike në parqet kombëtare dhe zonat e mbrojtura? Çfarë nënkuptojnë termat \"turizëm i ekselencës\", \"infrastrukturë mbështetëse\" dhe \"fleksibilitet i menaxhimit\"? Kush mund të propozojë ndryshimin e zonimit të një zone të mbrojtur dhe çfarë do të thotë kjo …",
+     "episodeNumber": 211
+    },
+    {
+     "id": "1573751706:05f8030a-e87f-4d85-b52f-ef550091ea94",
+     "title": "Ligji 20/2025 Paketa e maleve shpjeguar thjeshtë - Buchi Podcast Shqip #210 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122568346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2Fb6ce9a69-5f64-a605-da0f-1370d6290e9c.m4a",
+     "publishedAt": "2026-07-09T12:27:05.000Z",
+     "durationSec": 3814,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783534037208-0fa16bee14803.jpg",
+     "description": "Episodi 210 – Paketa e Maleve A është \"Paketa e Maleve\" një mundësi historike për zhvillimin e zonave malore, apo një ligj që ngre pikëpyetje serioze mbi pronën publike, transparencën dhe të drejtat e komuniteteve lokale? Në këtë episod analizojmë në mënyrë të detajuar Ligjin nr. 20/2025, duke shpjeguar mekanizmat e tij kryesorë: figurën e \"poseduesit jopronar\", mundësinë për marrjen e lejeve të zhvillimit, transferimin e tokës shtetërore me çmimin simbolik prej 1 euro, përjashtimet fiskale dhe…",
+     "episodeNumber": 210
+    },
+    {
+     "id": "1573751706:47369c26-0a4b-417a-b50a-834087a8ac38",
+     "title": "Ligji 55/2015 Investimet Strategjike shpjeguar thjeshtë - Buchi Podcast Shqip #209 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122555981/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F427584440-44100-2-e7a43ff4c4c63.m4a",
+     "publishedAt": "2026-07-08T14:02:16.000Z",
+     "durationSec": 2414,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783519318806-74d3ca72208a2.jpg",
+     "description": "🎙️ EPISODI 209 – Ligji për Investimet Strategjike: Zhvillim ekonomik apo privilegj mbi ligjin? A mundet një investim privat të marrë trajtim të veçantë nga shteti? Ku mbaron interesi publik dhe ku fillojnë privilegjet? Dhe a është e drejtë që, në emër të zhvillimit ekonomik, procedurat normale ligjore të anashkalohen? Në episodin e parë të këtij seriali analizojmë në detaje Ligjin nr. 55/2015 \"Për Investimet Strategjike në Republikën e Shqipërisë\" , një nga ligjet më të debatuara të dekadës së…",
+     "episodeNumber": 209
+    },
+    {
+     "id": "1573751706:0b84e67e-e6e3-4b57-9559-e1d933073320",
+     "title": "Këtu ka dorë Zoti! Një histori mërgimi nga Denis Risto në Buchi Podcast Shqip #208 | Agora",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122043215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2F426900753-44100-2-9741feefb6454.mp3",
+     "publishedAt": "2026-06-27T10:03:23.000Z",
+     "durationSec": 5852,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1782508916635-30ea6e291e5d6.jpg",
+     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit: Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse …",
+     "episodeNumber": 208
+    },
+    {
+     "id": "1573751706:eaa12ac4-130a-470b-94c2-3b866ceac59d",
+     "title": "Rrëfimi i një mërgimtari - shkrim nga Kevin Gjoka",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/121424126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-13%2F426068002-44100-2-5ad6a5ca1448a.mp3",
+     "publishedAt": "2026-06-13T12:28:56.000Z",
+     "durationSec": 270,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1781353725340-366d3a2b9adeb.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …"
+    },
+    {
+     "id": "1573751706:0a9a18de-ab09-4c5e-b50d-b231c75e57d1",
+     "title": "Revoltë kundër sfungjerit - Buchi Podcast Shqip #207 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120794977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425227445-44100-2-da02e48c50b3b.m4a",
+     "publishedAt": "2026-06-10T23:00:00.000Z",
+     "durationSec": 1537,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780901909927-a101308b1350f.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 207
+    },
+    {
+     "id": "1573751706:246413eb-68e6-4a09-9b78-bbc22c030436",
+     "title": "Ndihmat shtetërore nuk funksionojnë - Buchi Podcast Shqip #206 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120792285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F43c1a4d7-d4fe-7c52-0b43-d06859c9c337.m4a",
+     "publishedAt": "2026-06-08T00:59:00.000Z",
+     "durationSec": 2320,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310909797-64cd40ce12bd6.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 206
+    },
+    {
+     "id": "1573751706:cc83387c-2c8a-4e82-b59f-ccdda8df9959",
+     "title": "Një humnerë financiare si NATO - Buchi Podcast Shqip #205 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120789178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F3e69d0af-1f87-5057-9ca3-6884ac65e0c1.m4a",
+     "publishedAt": "2026-06-06T10:53:00.000Z",
+     "durationSec": 1971,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310859377-b09d3c3a4f1f5.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 205
+    },
+    {
+     "id": "1573751706:d9506e22-b9c1-4364-b0a4-8050dd81945f",
+     "title": "Armiqtë e jashtëm të Shqiptarisë - Buchi Podcast Shqip #204 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120788363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425218670-44100-2-ff2e8d295c941.m4a",
+     "publishedAt": "2026-06-04T10:27:00.000Z",
+     "durationSec": 1691,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310812651-3419477be7f86.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 204
+    },
+    {
+     "id": "1573751706:f2b49c1c-2e34-49bf-beed-021c1a5ea9df",
+     "title": "Problemi i terapisë hormonale për minorenët - Buchi Podcast Shqip #203 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120788123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425218367-44100-2-e18a403577638.m4a",
+     "publishedAt": "2026-06-02T00:00:00.000Z",
+     "durationSec": 1992,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310773233-e547a3def9b6d.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 203
+    },
+    {
+     "id": "1573751706:c46b2b64-7e72-4799-80d6-4160da6bbf0d",
+     "title": "Bojkoto vipat, televizionet dhe oligarkët - Buchi Podcast Shqip #202 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120834539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F425279398-44100-2-9feccea931a09.mp3",
+     "publishedAt": "2026-06-01T10:54:10.000Z",
+     "durationSec": 988,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780311237669-2330aff4bd466.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 202
+    },
+    {
+     "id": "1573751706:5fde8669-6105-43c8-8c1e-4c2bc825d53f",
+     "title": "Kush fshihet pas shkatërrimit të Nartës - Buchi Podcast Shqip #201 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120766159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-30%2F425189998-44100-2-ba41d09b707ad.mp3",
+     "publishedAt": "2026-05-30T17:39:02.000Z",
+     "durationSec": 1569,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780160804548-4731716459507.jpg",
+     "description": "Materialet e lexuara në këtë episod vijnë nga një shkrim i z. Vladimir Karaj në Reporter.alhttps://www.reporter.al/2026/05/29/kush-fshihet-pas-resortit-te-familjes-trump-ne-shqiperi/ \"Ky material publikohet dhe rishpërndahet ekskluzivisht për qëllime informuese dhe në interes të informimit publik, duke iu referuar informacionit të bërë publik nga burimet përkatëse të sipërpërmendura. Përmbajtja nuk paraqet pretendim për autorësi, verifikim të pavarur apo garantim të saktësisë, plotësisë ose akt…",
+     "episodeNumber": 201
+    },
+    {
+     "id": "1573751706:c54a50f8-654c-4582-a967-3fe132fc97a4",
+     "title": "Dëgjoni lotët e Nartës, vajtimet Rjollit, vuajtjet e Shqipërisë - Buchi Podcast Shqip #200 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120607731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-27%2F424976988-44100-2-3364c6652588f.mp3",
+     "publishedAt": "2026-05-27T08:59:30.000Z",
+     "durationSec": 2220,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1779872350061-e6bb77cc31857.jpg",
+     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse j…",
+     "episodeNumber": 200
+    },
+    {
+     "id": "1573751706:968baa5e-1d40-45cf-9422-10fe4a4bc796",
+     "title": "Ndalohet elefantimi i elefantëve - Buchi Podcast Shqip #199 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119455411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-4%2F423427258-44100-2-5b0d24289c34b.m4a",
+     "publishedAt": "2026-05-09T12:20:00.000Z",
+     "durationSec": 1505,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777897668679-6726dc09209e.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit: Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 199
+    },
+    {
+     "id": "1573751706:d264a0b4-3c1a-4e49-a8fd-5b3bcc330b33",
+     "title": "Depresioni i madh, shpjeguar thjeshtë - Buchi Podcast Shqip #198 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119188375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F96cd74d2-0a82-864f-5477-47fdd95661ac.m4a",
+     "publishedAt": "2026-05-04T00:00:00.000Z",
+     "durationSec": 1413,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777404003520-6da6735a47bc.jpg",
+     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:T ë gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse j…",
+     "episodeNumber": 198
+    },
+    {
+     "id": "1573751706:b4e2d982-dcf5-4268-b0d6-519232292368",
+     "title": "Rrezikshmëria e budallenjve - Buchi Podcast Shqip #197 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119038161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F6fab9d61-6eef-8a7e-985c-ecc8f862962e.m4a",
+     "publishedAt": "2026-05-01T00:00:00.000Z",
+     "durationSec": 1243,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777403633348-17379d6212689.jpg",
+     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse je…",
+     "episodeNumber": 197
+    },
+    {
+     "id": "1573751706:2af4c8aa-74b7-470b-bbce-613149016606",
+     "title": "Ouroboros - Buchi Podcast Shqip #196 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119074104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-26%2F002c6a24-33df-870d-887d-93c9e80b372b.m4a",
+     "publishedAt": "2026-04-28T19:03:53.000Z",
+     "durationSec": 2784,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777224583230-30ec40e69129b.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 199
+    },
+    {
+     "id": "1573751706:2627434a-ed06-479c-9e72-0a9dd3e7f6bf",
+     "title": "Budallallëku në nivele - Buchi Podcast Shqip #195 | Testament",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119028559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F63aa7962-8add-aee8-1db2-8354fca4053f.m4a",
+     "publishedAt": "2026-04-25T11:16:07.000Z",
+     "durationSec": 1404,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777115741973-560831871b0bd.jpg",
+     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse je…",
+     "episodeNumber": 195
+    },
+    {
+     "id": "1573751706:3379062c-6ced-4630-a4c4-97aa9699bd3d",
+     "title": "Dasma e Halilit - Tregime të moçme shqiptare - Buchi Podcast Shqip | Tradita",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/118434095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-17%2F422291151-44100-2-043881221db7.mp3",
+     "publishedAt": "2026-04-19T07:27:00.000Z",
+     "durationSec": 1847,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1776162480706-20d15182b5c7d.jpg",
+     "description": "Në këtë episod të rubrikës “Tradita”, paraqitet një nga rrëfimet më të dashura të epikës shqiptare: “Dasma e Halilit”.Tregimi përqendrohet te përpjekjet dhe sfidat që Halili duhet të përballojë për të arritur bashkimin me të dashurën e tij. Nëpërmjet udhëtimit të tij plot rreziqe, përplasje dhe zgjuarsi, shpalosen vlera thelbësore të traditës sonë si besa, dashuria, trimëria dhe vendosmëria. Rrëfimi thekson gjithashtu rëndësinë e nderit dhe sakrificës, duke treguar se dashuria e vërtetë kërkon …"
+    },
+    {
+     "id": "1573751706:37ebb215-a629-43f6-a6b6-cb89738ae40b",
+     "title": "Bëje mirë, bëje vetë - Albanian Film Festival Berlin në Buchi Podcast Shqip #194 | Agora",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/117873809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-2%2F421302172-44100-2-04f9387d6e8a.mp3",
+     "publishedAt": "2026-04-12T23:00:00.000Z",
+     "durationSec": 3298,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1775167524175-2eab39e6f9fae.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://studio.buymeacoffee.com/dashboard- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Episodi 194 i Buchi Podcast në rubrikën “Agora” sjell në fokus një moment historik për komunitetin shqiptar në Berlin: organizimin e Albanian Film Festival, festivali i parë i filmit shqiptar në këtë qytet – dhe një nga iniciativat e para të këtij…",
+     "episodeNumber": 194
     }
    ]
   },
