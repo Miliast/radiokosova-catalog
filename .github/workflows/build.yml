@@ -1,0 +1,31 @@
+name: build-catalog
+on:
+  schedule:
+    # :17, not :00 — on-the-hour crons queue behind half of GitHub's jobs.
+    - cron: '17 * * * *'
+  workflow_dispatch: {}
+concurrency:
+  group: build-catalog
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm ci
+      - run: node build-catalog.mjs
+      - name: Commit if changed
+        # Commit ONLY on a real diff: empty commits would churn the file's
+        # ETag and break the client's 304 optimisation.
+        run: |
+          if ! git diff --quiet public/catalog-v1.json; then
+            git config user.name "catalog-bot"
+            git config user.email "actions@github.com"
+            git add public/catalog-v1.json
+            git commit -m "catalog: $(date -u +%FT%TZ)"
+            git push
+          fi

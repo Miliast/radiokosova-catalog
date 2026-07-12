@@ -1,0 +1,23 @@
+{
+  "podcasts": [
+    { "appleId": "1598825570" },
+    { "feedUrl": "https://api.substack.com/feed/podcast/2494789.rss" },
+    { "appleId": "1859577019" },
+    { "appleId": "1519484904" },
+    { "appleId": "1812021835" },
+    { "appleId": "1849137636" },
+    { "appleId": "1812026405" },
+    { "appleId": "1845345706" },
+    { "appleId": "1845345981" },
+    { "appleId": "1845345912" },
+    { "appleId": "1573751706" },
+    { "appleId": "1679019644" },
+    { "appleId": "1872647114" },
+    { "appleId": "1563435971" },
+    { "appleId": "1552672198" },
+    { "appleId": "1631674515" },
+    { "appleId": "1648484492" },
+    { "appleId": "1558288707" },
+    { "appleId": "1720218634" }
+  ]
+}

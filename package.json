@@ -1,0 +1,11 @@
+{
+  "name": "radiokosova-catalog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-catalog.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
