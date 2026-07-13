@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-13T11:31:53.289Z",
+ "generatedAt": "2026-07-13T15:15:02.525Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2309,6 +2309,42 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25507",
+     "title": "Kush po blen apartamente dhe prona të paluajtshme në Shqipëri?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25507/kush-po-blen-apartamente-dhe-prona-te-paluajtshme-ne-shqiperi-wake-up.mp3",
+     "publishedAt": "2026-07-13T13:20:00.000Z",
+     "durationSec": 1422,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25509",
+     "title": "A ka elementë që po na prishin turizmin që ofrojmë sot?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25509/a-ka-elemente-qe-po-na-prishin-turizmin-qe-ofrojme-sot-wake-up.mp3",
+     "publishedAt": "2026-07-13T13:19:12.000Z",
+     "durationSec": 1323,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25505",
+     "title": "House Classics #291",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25505/house-classics-291-2.mp3",
+     "publishedAt": "2026-07-13T13:16:07.000Z",
+     "durationSec": 2953,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Kaloni 60 minuta me klasiket e muzikës House, nga SAIX. Në një kohë kur muzika elektronike është bërë mainstream, house i viteve 80 – 90 – 00 tingëllon si Evergreen."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25504",
+     "title": "House Nation 13/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25504/house-nation-13-07-2026.mp3",
+     "publishedAt": "2026-07-13T13:15:07.000Z",
+     "durationSec": 2938,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25502",
      "title": "PASO’ 10 Korrik. Franca e para gjysëmfinale. Historia që lidh Klopp me Mbappé",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25502/paso-10-korrik-franca-e-para-gjysemfinale-historia-qe-lidh-klopp-me-mbappe.mp3",
@@ -2449,42 +2485,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25466/ujerat-ne-shqiperi-me-cilesi-te-dobet-si-e-rrezikojne-shendetin-publik-wake-up.mp3",
      "publishedAt": "2026-07-07T09:56:31.000Z",
      "durationSec": 1494,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25465",
-     "title": "PASO’ Mondial 6 Korrik/ Telefonata e Trump me Infantinon trondit Kupën e Botës!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25465/paso-mondial-6-korrik-telefonata-e-trump-me-infantinon-trondit-kupen-e-botes.mp3",
-     "publishedAt": "2026-07-06T14:09:58.000Z",
-     "durationSec": 1631,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Top Albania Radio vjen me një mbulim 360° të Kampionatit Botëror të Futbollit 2026. Me analiza, informacione, të ftuar specialistë të futbollit, personazhe VIP dhe tifozë, si edhe situata gazmore për të përcjellë një atmosferë energjike në radio dhe për të vazhduar traditën e informacionit sportiv live në valët e radios më të dëgjuar shqiptare në botë."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25464",
-     "title": "“Probleme me makinën dhe rikthim ish-i”/Astrologia zbulon çfarë sjell Mërkuri në retrogradë:Tërmete…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25464/probleme-me-makinen-dhe-rikthim-ish-i-astrologia-zbulon-cfare-sjell-merkuri-ne-retrogradetermete.mp3",
-     "publishedAt": "2026-07-06T14:09:28.000Z",
-     "durationSec": 1419,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25463",
-     "title": "Botërori 2026, cilat skuadra do të shkojnë drejt finales!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25463/boterori-2026-cilat-skuadra-do-te-shkojne-drejt-finales-wake-up.mp3",
-     "publishedAt": "2026-07-06T14:08:55.000Z",
-     "durationSec": 1247,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25462",
-     "title": "Pse në verë helmohemi më shumë nga ushqimi në dasma dhe ditëlindje?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25462/pse-ne-vere-helmohemi-me-shume-nga-ushqimi-ne-dasma-dhe-ditelindje-wake-up.mp3",
-     "publishedAt": "2026-07-06T14:08:28.000Z",
-     "durationSec": 1511,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
