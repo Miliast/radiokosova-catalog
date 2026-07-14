@@ -15,7 +15,9 @@
  *    — identical ids are what make the client's union-merge dedupe.
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import net from 'node:net';
 import path from 'node:path';
+import tls from 'node:tls';
 import { fileURLToPath } from 'node:url';
 import { XMLParser } from 'fast-xml-parser';
 
@@ -114,6 +116,79 @@ async function fetchWithRetry(url, init = {}) {
   }
 }
 
+// ── live-stream probing ──────────────────────────────────────────────────────
+//
+// Raw sockets instead of fetch(): Shoutcast v1 answers with "ICY 200 OK",
+// which is not valid HTTP — undici/fetch rejects the response even though
+// the stream is perfectly alive. Speaking HTTP/1.0 on a plain socket accepts
+// both worlds, and a couple of body bytes prove audio actually flows.
+
+const STREAM_PROBE_TIMEOUT_MS = 8000;
+
+/** One connection attempt. Resolves { ok } or { redirect } (3xx Location). */
+function probeOnce(url) {
+  return new Promise((resolve) => {
+    let u;
+    try {
+      u = new URL(url);
+    } catch {
+      return resolve({ ok: false });
+    }
+    const secure = u.protocol === 'https:';
+    const port = u.port ? Number(u.port) : secure ? 443 : 80;
+    let settled = false;
+    const finish = (result) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      socket.destroy();
+      resolve(result);
+    };
+    const socket = secure
+      ? tls.connect({ host: u.hostname, port, servername: u.hostname, rejectUnauthorized: false })
+      : net.connect({ host: u.hostname, port });
+    const timer = setTimeout(() => finish({ ok: false }), STREAM_PROBE_TIMEOUT_MS);
+    socket.on('error', () => finish({ ok: false }));
+    socket.on(secure ? 'secureConnect' : 'connect', () => {
+      socket.write(
+        `GET ${u.pathname}${u.search} HTTP/1.0\r\n` +
+          `Host: ${u.hostname}\r\n` +
+          `User-Agent: radiokosova-catalog-builder/1.0\r\n` +
+          `Icy-MetaData: 0\r\nAccept: */*\r\nConnection: close\r\n\r\n`,
+      );
+    });
+    let buf = '';
+    socket.on('data', (chunk) => {
+      buf += chunk.toString('latin1');
+      const nl = buf.indexOf('\n');
+      if (nl < 0 && buf.length < 512) return; // wait for a full status line
+      const status = buf.slice(0, nl >= 0 ? nl : 512).match(/^(?:HTTP\/\d\.\d|ICY)\s+(\d{3})/);
+      if (!status) {
+        // No HTTP/ICY status line at all, but the server is pushing bytes —
+        // some ancient Shoutcasts stream raw audio straight away.
+        if (buf.length > 2048) finish({ ok: true });
+        return;
+      }
+      const code = Number(status[1]);
+      if (code >= 300 && code < 400) {
+        const loc = buf.match(/\r?\nlocation:\s*(\S+)/i)?.[1];
+        return finish(loc ? { redirect: new URL(loc, u).toString() } : { ok: false });
+      }
+      if (code !== 200) return finish({ ok: false });
+      // 200 alone isn't proof (some mounts 200 then hang) — require body
+      // bytes after the header terminator before declaring the stream live.
+      const headerEnd = buf.indexOf('\r\n\r\n');
+      if (headerEnd >= 0 && buf.length > headerEnd + 64) finish({ ok: true });
+    });
+  });
+}
+
+async function probeStream(url, redirectsLeft = 3) {
+  const result = await probeOnce(url);
+  if (result.redirect && redirectsLeft > 0) return probeStream(result.redirect, redirectsLeft - 1);
+  return result.ok === true;
+}
+
 // ── pipeline ─────────────────────────────────────────────────────────────────
 
 const seeds = JSON.parse(readFileSync(path.join(ROOT, 'seeds.json'), 'utf8')).podcasts;
@@ -140,9 +215,12 @@ if (appleIds.length > 0) {
 
 // Previous catalog for self-healing.
 const previous = new Map();
+let previousStations = [];
 if (existsSync(OUT)) {
   try {
-    for (const p of JSON.parse(readFileSync(OUT, 'utf8')).podcasts ?? []) previous.set(p.id, p);
+    const prev = JSON.parse(readFileSync(OUT, 'utf8'));
+    for (const p of prev.podcasts ?? []) previous.set(p.id, p);
+    previousStations = prev.stations ?? [];
   } catch {
     /* corrupt previous file — heal nothing, rebuild everything */
   }
@@ -258,12 +336,35 @@ if (problems.length) {
   process.exit(1);
 }
 
+// ── live-stream health check ─────────────────────────────────────────────────
+// A station being down is DATA, not a build error — it must never fail the
+// run. Exception: if EVERY station probes offline, the far likelier cause is
+// a broken checker or runner network, so we keep the previous status instead
+// of wrongly greying out the whole rail in every installed app.
+let stations = [];
+const stationsPath = path.join(ROOT, 'stations.json');
+if (existsSync(stationsPath)) {
+  const stationSeeds = JSON.parse(readFileSync(stationsPath, 'utf8')).stations ?? [];
+  stations = await Promise.all(
+    stationSeeds.map(async (s) => ({ id: s.id, online: await probeStream(s.streamUrl) })),
+  );
+  const offline = stations.filter((s) => !s.online);
+  if (offline.length === stations.length && previousStations.length > 0) {
+    console.log('Stream check: ALL offline → keeping previous status (checker/network suspect).');
+    stations = previousStations;
+  } else if (offline.length > 0) {
+    console.log(`Streams offline: ${offline.map((s) => s.id).join(', ')}`);
+  } else {
+    console.log('Streams: all online.');
+  }
+}
+
 mkdirSync(path.dirname(OUT), { recursive: true });
 writeFileSync(
   OUT,
-  JSON.stringify({ version: 1, generatedAt: new Date().toISOString(), podcasts }, null, 1),
+  JSON.stringify({ version: 1, generatedAt: new Date().toISOString(), podcasts, stations }, null, 1),
 );
 const kb = Math.round(Buffer.byteLength(readFileSync(OUT)) / 1024);
 console.log(
-  `catalog-v1.json written: ${podcasts.length} shows, ${podcasts.reduce((n, p) => n + p.episodes.length, 0)} episodes, ${kb} KB raw.`,
+  `catalog-v1.json written: ${podcasts.length} shows, ${podcasts.reduce((n, p) => n + p.episodes.length, 0)} episodes, ${stations.length} stations checked, ${kb} KB raw.`,
 );

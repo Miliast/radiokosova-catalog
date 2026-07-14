@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-14T06:28:17.337Z",
+ "generatedAt": "2026-07-14T07:38:01.430Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3270,6 +3270,168 @@
      "seasonNumber": 2
     }
    ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "kosova1",
+   "online": true
+  },
+  {
+   "id": "dukagjini",
+   "online": true
+  },
+  {
+   "id": "radioplus",
+   "online": true
+  },
+  {
+   "id": "valarinore",
+   "online": true
+  },
+  {
+   "id": "radiokosovaelire",
+   "online": true
+  },
+  {
+   "id": "radioprishtina",
+   "online": true
+  },
+  {
+   "id": "radio1",
+   "online": true
+  },
+  {
+   "id": "radionostalgjia",
+   "online": true
+  },
+  {
+   "id": "radiok4",
+   "online": true
+  },
+  {
+   "id": "shqiperiaelire",
+   "online": true
+  },
+  {
+   "id": "capitalfm",
+   "online": true
+  },
+  {
+   "id": "rockfans",
+   "online": true
+  },
+  {
+   "id": "zerishtimes",
+   "online": true
+  },
+  {
+   "id": "radiofontana",
+   "online": true
+  },
+  {
+   "id": "clubfm",
+   "online": true
+  },
+  {
+   "id": "radioilirida",
+   "online": true
+  },
+  {
+   "id": "klankosova",
+   "online": true
+  },
+  {
+   "id": "radioalba",
+   "online": true
+  },
+  {
+   "id": "radiovizioni",
+   "online": false
+  },
+  {
+   "id": "aradio",
+   "online": true
+  },
+  {
+   "id": "antennaprishtina",
+   "online": true
+  },
+  {
+   "id": "radiozemra",
+   "online": true
+  },
+  {
+   "id": "radiostar",
+   "online": true
+  },
+  {
+   "id": "radio7",
+   "online": true
+  },
+  {
+   "id": "ubtcampus",
+   "online": true
+  },
+  {
+   "id": "radiodeqani",
+   "online": true
+  },
+  {
+   "id": "radiokoha",
+   "online": true
+  },
+  {
+   "id": "radiovushtrria",
+   "online": true
+  },
+  {
+   "id": "topradio",
+   "online": true
+  },
+  {
+   "id": "shqippopullore",
+   "online": true
+  },
+  {
+   "id": "urbanfm",
+   "online": false
+  },
+  {
+   "id": "glamradio",
+   "online": true
+  },
+  {
+   "id": "glamcoffee",
+   "online": true
+  },
+  {
+   "id": "glamgold",
+   "online": true
+  },
+  {
+   "id": "oxygen",
+   "online": true
+  },
+  {
+   "id": "radioalbafolk",
+   "online": true
+  },
+  {
+   "id": "awferizaj",
+   "online": true
+  },
+  {
+   "id": "awgjilan",
+   "online": true
+  },
+  {
+   "id": "albradio",
+   "online": true
+  },
+  {
+   "id": "radiorainca",
+   "online": true
   }
  ]
 }

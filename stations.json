@@ -1,0 +1,204 @@
+{
+  "stations": [
+    {
+      "id": "kosova1",
+      "name": "Radio Kosova 1",
+      "streamUrl": "http://82.114.72.2:8088/;stream.mp3"
+    },
+    {
+      "id": "dukagjini",
+      "name": "Radio Dukagjini",
+      "streamUrl": "https://s2.voscast.com:8825/radiodukagjini"
+    },
+    {
+      "id": "radioplus",
+      "name": "Radio Plus",
+      "streamUrl": "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+    },
+    {
+      "id": "valarinore",
+      "name": "Radio Vala Rinore",
+      "streamUrl": "https://stream1.rcast.net/61253"
+    },
+    {
+      "id": "radiokosovaelire",
+      "name": "Radio Kosova e Lirë",
+      "streamUrl": "https://radiokos.radioca.st/stream"
+    },
+    {
+      "id": "radioprishtina",
+      "name": "Radio Prishtina",
+      "streamUrl": "https://stream.radio.co/sbe73908d2/listen"
+    },
+    {
+      "id": "radio1",
+      "name": "Radio 1",
+      "streamUrl": "https://ec6.yesstreaming.net:3430/stream"
+    },
+    {
+      "id": "radionostalgjia",
+      "name": "Radio Nostalgjia",
+      "streamUrl": "https://radionos.radioca.st/radionostalgjia"
+    },
+    {
+      "id": "radiok4",
+      "name": "Radio K4 Shqip",
+      "streamUrl": "https://radiokfor.com/1/proxy.php"
+    },
+    {
+      "id": "shqiperiaelire",
+      "name": "Radio Shqipëria e Lirë",
+      "streamUrl": "https://a1.asurahosting.com/listen/radio_skenderaj/radio.mp3"
+    },
+    {
+      "id": "capitalfm",
+      "name": "92.1 Capital FM",
+      "streamUrl": "https://cfm.albaservers.com:8012/live.m4a"
+    },
+    {
+      "id": "rockfans",
+      "name": "Rock Fans Kosova",
+      "streamUrl": "https://stream.zeno.fm/ybwz7k5gzchvv"
+    },
+    {
+      "id": "zerishtimes",
+      "name": "Radio Zëri i Shtimes",
+      "streamUrl": "http://radio.1dhe1.com:8090/stream"
+    },
+    {
+      "id": "radiofontana",
+      "name": "Radio Fontana",
+      "streamUrl": "https://live.radiostreaming.al:8010/;stream.mp3"
+    },
+    {
+      "id": "clubfm",
+      "name": "Club FM Kosovë",
+      "streamUrl": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream"
+    },
+    {
+      "id": "radioilirida",
+      "name": "Radio Ilirida",
+      "streamUrl": "http://eu1.reliastream.com:8015/stream.mp3"
+    },
+    {
+      "id": "klankosova",
+      "name": "KLAN Kosova FM",
+      "streamUrl": "https://s4.radio.co/sd1d1904dc/listen"
+    },
+    {
+      "id": "radioalba",
+      "name": "Radio Alba",
+      "streamUrl": "http://server.radioalba.eu:8000/stream"
+    },
+    {
+      "id": "radiovizioni",
+      "name": "Radio Vizioni",
+      "streamUrl": "http://live.rcast.net:8864/;stream.mp3"
+    },
+    {
+      "id": "aradio",
+      "name": "A Radio - ATV",
+      "streamUrl": "https://radio.itprishtina.com/aradio"
+    },
+    {
+      "id": "antennaprishtina",
+      "name": "Antenna Web Prishtina",
+      "streamUrl": "https://kosovo.radioantennaweb.com/Pristina"
+    },
+    {
+      "id": "radiozemra",
+      "name": "Radio Zemra",
+      "streamUrl": "https://live.radio-zemra.eu/stream"
+    },
+    {
+      "id": "radiostar",
+      "name": "Radio Star",
+      "streamUrl": "https://radio.1dhe1.com:2020/stream/radiostar"
+    },
+    {
+      "id": "radio7",
+      "name": "Radio 7 Kosova",
+      "streamUrl": "https://cp1.sednastream.com/proxy/radio7kosova?mp=/live"
+    },
+    {
+      "id": "ubtcampus",
+      "name": "UBT Campus Radio",
+      "streamUrl": "https://radiostream.ubt-uni.net/live"
+    },
+    {
+      "id": "radiodeqani",
+      "name": "Radio Deqani",
+      "streamUrl": "https://mars.streamerr.co/8052/stream"
+    },
+    {
+      "id": "radiokoha",
+      "name": "Radio Koha",
+      "streamUrl": "https://radiokoha.radioca.st/stream"
+    },
+    {
+      "id": "radiovushtrria",
+      "name": "Radio Vushtrria",
+      "streamUrl": "https://cast3.my-control-panel.com/proxy/radiovus/stream"
+    },
+    {
+      "id": "topradio",
+      "name": "Top Radio",
+      "streamUrl": "https://a1.asurahosting.com/listen/top_radio/radio.mp3"
+    },
+    {
+      "id": "shqippopullore",
+      "name": "Shqip Popullore",
+      "streamUrl": "https://cp1.sednastream.com/proxy/shqipfolk/stream"
+    },
+    {
+      "id": "urbanfm",
+      "name": "Urban FM",
+      "streamUrl": "https://radio.itprishtina.com/urbanfm.ogg"
+    },
+    {
+      "id": "glamradio",
+      "name": "Glam Radio",
+      "streamUrl": "https://stream.glamradio.fm:8443/glamradio"
+    },
+    {
+      "id": "glamcoffee",
+      "name": "Glam Radio Coffee",
+      "streamUrl": "https://stream.glamradio.fm:8443/glamcoffee"
+    },
+    {
+      "id": "glamgold",
+      "name": "Glam Radio Gold",
+      "streamUrl": "https://stream.glamradio.fm:8443/rockglam.ogg"
+    },
+    {
+      "id": "oxygen",
+      "name": "Radio Oxygen 96.6",
+      "streamUrl": "https://stream.radio.co/s6bb9533cb/listen"
+    },
+    {
+      "id": "radioalbafolk",
+      "name": "Radio Alba Folk",
+      "streamUrl": "http://213.163.115.103:8000/folk"
+    },
+    {
+      "id": "awferizaj",
+      "name": "Antenna Web Ferizaj",
+      "streamUrl": "https://kosovo.radioantennaweb.com/Ferizaj"
+    },
+    {
+      "id": "awgjilan",
+      "name": "Antenna Web Gjilan",
+      "streamUrl": "https://kosovo.radioantennaweb.com/Gjilan"
+    },
+    {
+      "id": "albradio",
+      "name": "Albradio",
+      "streamUrl": "https://ec6.yesstreaming.net:2530/stream"
+    },
+    {
+      "id": "radiorainca",
+      "name": "Radio Rainca",
+      "streamUrl": "https://radiocast.ch:8000/stream"
+    }
+  ]
+}

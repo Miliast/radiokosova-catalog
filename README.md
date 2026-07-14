@@ -51,6 +51,15 @@ ist das Feature aus und die App verhält sich wie bisher.
 Show hinzufügen/entfernen → `seeds.json` editieren, committen, pushen,
 optional "Run workflow" für sofort. Kein App-Release nötig.
 
+**Live-Stream-Check:** `stations.json` (Sender-Id + Stream-URL) wird bei
+jedem Lauf mitgeprüft (Raw-Socket-Probe, ICY-tauglich). Das Ergebnis landet
+als `stations: [{id, online}]` im Katalog; die App graut offline gemeldete
+Sender aus. Ein toter Sender ist KEIN Build-Fehler. Sind ALLE offline, wird
+der vorherige Status behalten (dann ist eher der Runner/Checker schuld als
+40 Sender gleichzeitig). Wichtig: Ändert sich die Senderliste in der App
+(`src/data/mock.ts` / `STREAM_URLS` in `config.ts`), muss `stations.json`
+hier nachgezogen werden.
+
 Rote Action = Validierung fehlgeschlagen oder Builder-Crash; der alte
 Katalog bleibt online, GitHub schickt dir eine Mail. Einzelne tote Feeds
 sind KEIN Fehler: Selbstheilung behält den letzten funktionierenden Stand
