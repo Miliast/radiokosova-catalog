@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-14T07:38:01.430Z",
+ "generatedAt": "2026-07-14T09:19:28.031Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,17 +872,6 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
-     "id": "1849137636:b880a544-7e93-46dd-930c-74577804a3d6",
-     "title": "Versus #260: Kupa e Botës, analiza dhe parashikime për katërshen",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122796874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2Ffdd1815d-ced9-9770-001f-19a13a23408d.mp3",
-     "publishedAt": "2026-07-13T23:56:15.000Z",
-     "durationSec": 8017,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Francë - Spanjë dhe Angli - Argjentinë. 24 orë para gjysmëfinales së parë të Botërorit, diskutojmë së bashku çdo detaj të ngjarjes më të madhe sportive. Komente, analiza dhe parashikime për dy sfidat spektakolare që na presin. 0:00 Gjysmefinalet 1:38:08 Deklarata 1:50:03 Parashikime 2:02:14 Guardiola",
-     "episodeNumber": 260,
-     "seasonNumber": 3
-    },
-    {
      "id": "1849137636:18888553-4060-48c4-ac1f-72b52213d88a",
      "title": "Versus #259: Mbani frymën! Tani luhen gjysmëfinalet",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122743919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2Fec45f0b4-d2bb-9caf-bbb7-9be16e7e537f.mp3",
@@ -1089,6 +1078,17 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Rikthehemi live në Versus për të komentuar dy ndeshjet e mbrëmjes në Botëror, Gjermani - Kuraçao dhe Holandë - Japoni. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batutat e para 10:28 Zhgënjimi Brazil 56:44 Holandë-Japoni 1:03:59 Surprizat 1:28:55 Parashikimet",
      "episodeNumber": 241,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:4e00e559-73b9-4a9b-a9ef-e140995103dc",
+     "title": "Versus #237: Finalja e Champions League, komente dhe analiza",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/120777034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F5cd9d4e2-510b-7317-b916-061f784c5fe9.mp3",
+     "publishedAt": "2026-05-31T01:10:00.000Z",
+     "durationSec": 5963,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Finalja e Champions League është kulminacioni i këtij sezoni futbollistik. Komente, analiza dhe përfundime për PSG - Arsenal, sfida që mund të vendosë edhe \"Topin e Artë\". 0:00 Finalja UCL 1:13:46 Qethja 0",
+     "episodeNumber": 237,
      "seasonNumber": 3
     }
    ]
@@ -3275,11 +3275,11 @@
  "stations": [
   {
    "id": "kosova1",
-   "online": true
+   "online": false
   },
   {
    "id": "dukagjini",
-   "online": true
+   "online": false
   },
   {
    "id": "radioplus",
@@ -3351,7 +3351,7 @@
   },
   {
    "id": "aradio",
-   "online": true
+   "online": false
   },
   {
    "id": "antennaprishtina",
