@@ -3,12 +3,14 @@
     {
       "id": "kosova1",
       "name": "Radio Kosova 1",
-      "streamUrl": "http://82.114.72.2:8088/;stream.mp3"
+      "streamUrl": "http://82.114.72.2:8088/;stream.mp3",
+      "skipCheck": true
     },
     {
       "id": "dukagjini",
       "name": "Radio Dukagjini",
-      "streamUrl": "https://s2.voscast.com:8825/radiodukagjini"
+      "streamUrl": "https://s2.voscast.com:8825/radiodukagjini",
+      "skipCheck": true
     },
     {
       "id": "radioplus",
@@ -98,7 +100,8 @@
     {
       "id": "aradio",
       "name": "A Radio - ATV",
-      "streamUrl": "https://radio.itprishtina.com/aradio"
+      "streamUrl": "https://radio.itprishtina.com/aradio",
+      "skipCheck": true
     },
     {
       "id": "antennaprishtina",
@@ -153,7 +156,8 @@
     {
       "id": "urbanfm",
       "name": "Urban FM",
-      "streamUrl": "https://radio.itprishtina.com/urbanfm.ogg"
+      "streamUrl": "https://radio.itprishtina.com/urbanfm.ogg",
+      "skipCheck": true
     },
     {
       "id": "glamradio",
