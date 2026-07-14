@@ -150,10 +150,14 @@ function probeOnce(url) {
     const timer = setTimeout(() => finish({ ok: false }), STREAM_PROBE_TIMEOUT_MS);
     socket.on('error', () => finish({ ok: false }));
     socket.on(secure ? 'secureConnect' : 'connect', () => {
+      // HTTP/1.1 + a player-like UA: picky stream hosts serve real players
+      // but shrug off minimal/bot-looking requests — the app's AVPlayer
+      // identifies as AppleCoreMedia, so probing the same way measures what
+      // LISTENERS would actually get.
       socket.write(
-        `GET ${u.pathname}${u.search} HTTP/1.0\r\n` +
+        `GET ${u.pathname}${u.search} HTTP/1.1\r\n` +
           `Host: ${u.hostname}\r\n` +
-          `User-Agent: radiokosova-catalog-builder/1.0\r\n` +
+          `User-Agent: AppleCoreMedia/1.0.0 (iPhone; U; CPU OS 18_0 like Mac OS X)\r\n` +
           `Icy-MetaData: 0\r\nAccept: */*\r\nConnection: close\r\n\r\n`,
       );
     });
@@ -175,10 +179,19 @@ function probeOnce(url) {
         return finish(loc ? { redirect: new URL(loc, u).toString() } : { ok: false });
       }
       if (code !== 200) return finish({ ok: false });
-      // 200 alone isn't proof (some mounts 200 then hang) — require body
-      // bytes after the header terminator before declaring the stream live.
       const headerEnd = buf.indexOf('\r\n\r\n');
-      if (headerEnd >= 0 && buf.length > headerEnd + 64) finish({ ok: true });
+      if (headerEnd < 0) return; // headers still incoming
+      const headers = buf.slice(0, headerEnd);
+      // A mount that answers with an HTML page is the Shoutcast STATUS page,
+      // not a stream — a player would fail on it just the same.
+      if (/\r?\ncontent-type:\s*text\/html/i.test(headers)) return finish({ ok: false });
+      // Clearly a stream by its headers → online, no need to wait for bytes.
+      if (/\r?\n(?:icy-|content-type:\s*(?:audio\/|application\/ogg))/i.test(headers)) {
+        return finish({ ok: true });
+      }
+      // Ambiguous headers: require SOME body bytes before calling it live
+      // (a few mounts answer 200 and then hang forever).
+      if (buf.length > headerEnd + 16) finish({ ok: true });
     });
   });
 }
@@ -345,8 +358,25 @@ let stations = [];
 const stationsPath = path.join(ROOT, 'stations.json');
 if (existsSync(stationsPath)) {
   const stationSeeds = JSON.parse(readFileSync(stationsPath, 'utf8')).stations ?? [];
+  const prevById = new Map(previousStations.map((s) => [s.id, s]));
   stations = await Promise.all(
-    stationSeeds.map(async (s) => ({ id: s.id, online: await probeStream(s.streamUrl) })),
+    stationSeeds.map(async (s) => {
+      // Per-station opt-out for hosts that block datacenter IPs: probes from
+      // GitHub's runners would flag them offline forever even though every
+      // phone plays them fine. `"skipCheck": true` in stations.json → always
+      // reported online.
+      if (s.skipCheck) return { id: s.id, online: true, fails: 0 };
+      const ok = await probeStream(s.streamUrl);
+      const prev = prevById.get(s.id);
+      const fails = ok ? 0 : (prev?.fails ?? 0) + 1;
+      // Two-strike rule: one failed hourly probe is often a hiccup (server
+      // restart, transient network) — a station flips to offline only after
+      // TWO consecutive failures, and back to online after ONE success.
+      // Trade-off: a truly dead stream shows its badge up to 2h late, but
+      // healthy stations never flicker offline for an hour by mistake.
+      const online = ok ? true : fails >= 2 ? false : (prev?.online ?? true);
+      return { id: s.id, online, fails };
+    }),
   );
   const offline = stations.filter((s) => !s.online);
   if (offline.length === stations.length && previousStations.length > 0) {
