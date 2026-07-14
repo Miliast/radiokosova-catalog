@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-14T09:19:28.031Z",
+ "generatedAt": "2026-07-14T11:47:48.989Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:b880a544-7e93-46dd-930c-74577804a3d6",
+     "title": "Versus #260: Kupa e Botës, analiza dhe parashikime për katërshen",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122796874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2Ffdd1815d-ced9-9770-001f-19a13a23408d.mp3",
+     "publishedAt": "2026-07-13T23:56:15.000Z",
+     "durationSec": 8017,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Francë - Spanjë dhe Angli - Argjentinë. 24 orë para gjysmëfinales së parë të Botërorit, diskutojmë së bashku çdo detaj të ngjarjes më të madhe sportive. Komente, analiza dhe parashikime për dy sfidat spektakolare që na presin. 0:00 Gjysmefinalet 1:38:08 Deklarata 1:50:03 Parashikime 2:02:14 Guardiola",
+     "episodeNumber": 260,
+     "seasonNumber": 3
+    },
+    {
      "id": "1849137636:18888553-4060-48c4-ac1f-72b52213d88a",
      "title": "Versus #259: Mbani frymën! Tani luhen gjysmëfinalet",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122743919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2Fec45f0b4-d2bb-9caf-bbb7-9be16e7e537f.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Rikthehemi live në Versus për të komentuar dy ndeshjet e mbrëmjes në Botëror, Gjermani - Kuraçao dhe Holandë - Japoni. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batutat e para 10:28 Zhgënjimi Brazil 56:44 Holandë-Japoni 1:03:59 Surprizat 1:28:55 Parashikimet",
      "episodeNumber": 241,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:4e00e559-73b9-4a9b-a9ef-e140995103dc",
-     "title": "Versus #237: Finalja e Champions League, komente dhe analiza",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/120777034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F5cd9d4e2-510b-7317-b916-061f784c5fe9.mp3",
-     "publishedAt": "2026-05-31T01:10:00.000Z",
-     "durationSec": 5963,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Finalja e Champions League është kulminacioni i këtij sezoni futbollistik. Komente, analiza dhe përfundime për PSG - Arsenal, sfida që mund të vendosë edhe \"Topin e Artë\". 0:00 Finalja UCL 1:13:46 Qethja 0",
-     "episodeNumber": 237,
      "seasonNumber": 3
     }
    ]
@@ -2309,6 +2309,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25512",
+     "title": "Eksperti rrugor: Po, në verë rritet numri i aksidenteve. Çfarë ndodh me shoferët?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25512/eksperti-rrugor-po-ne-vere-rritet-numri-i-aksidenteve-cfare-ndodh-me-shoferet-wake-up.mp3",
+     "publishedAt": "2026-07-14T10:53:15.000Z",
+     "durationSec": 1362,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25514",
+     "title": "Pse Shqipërisë i është tkurrur popullsia me ritme të shpejta?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25514/pse-shqiperise-i-eshte-tkurrur-popullsia-me-ritme-te-shpejta-wake-up.mp3",
+     "publishedAt": "2026-07-14T10:51:51.000Z",
+     "durationSec": 1454,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25507",
      "title": "Kush po blen apartamente dhe prona të paluajtshme në Shqipëri?/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25507/kush-po-blen-apartamente-dhe-prona-te-paluajtshme-ne-shqiperi-wake-up.mp3",
@@ -2467,24 +2485,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25471/top-employer-grupi-balfin-merr-certifikimin-e-rendesishem-wake-up.mp3",
      "publishedAt": "2026-07-08T08:28:37.000Z",
      "durationSec": 1367,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25469",
-     "title": "Meri Shehu: Datë 27 dhe 29 Korrik, takohet “parajsa me ferrin”. Pse janë me rëndësi?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25469/meri-shehu-date-27-dhe-29-korrik-takohet-parajsa-me-ferrin-pse-jane-me-rendesi-wake-up.mp3",
-     "publishedAt": "2026-07-07T09:57:06.000Z",
-     "durationSec": 1317,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25466",
-     "title": "Ujërat në Shqipëri me cilësi të dobët, si e rrezikojnë shëndetin publik?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25466/ujerat-ne-shqiperi-me-cilesi-te-dobet-si-e-rrezikojne-shendetin-publik-wake-up.mp3",
-     "publishedAt": "2026-07-07T09:56:31.000Z",
-     "durationSec": 1494,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
@@ -3275,163 +3275,203 @@
  "stations": [
   {
    "id": "kosova1",
-   "online": false
+   "online": true,
+   "fails": 0
   },
   {
    "id": "dukagjini",
-   "online": false
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radioplus",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "valarinore",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiokosovaelire",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radioprishtina",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radio1",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radionostalgjia",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiok4",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "capitalfm",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "rockfans",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "zerishtimes",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiofontana",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "clubfm",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radioilirida",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "klankosova",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radioalba",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiovizioni",
-   "online": false
+   "online": false,
+   "fails": 1
   },
   {
    "id": "aradio",
-   "online": false
+   "online": true,
+   "fails": 0
   },
   {
    "id": "antennaprishtina",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiozemra",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiostar",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radio7",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "ubtcampus",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiodeqani",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiokoha",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiovushtrria",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "topradio",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "shqippopullore",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "urbanfm",
-   "online": false
+   "online": true,
+   "fails": 0
   },
   {
    "id": "glamradio",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "glamcoffee",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "glamgold",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "oxygen",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radioalbafolk",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awferizaj",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awgjilan",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "albradio",
-   "online": true
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiorainca",
-   "online": true
+   "online": true,
+   "fails": 0
   }
  ]
 }
