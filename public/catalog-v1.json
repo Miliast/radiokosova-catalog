@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-15T17:41:24.217Z",
+ "generatedAt": "2026-07-15T19:39:01.083Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,17 +872,6 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
-     "id": "1849137636:56b8c8d8-4d99-4154-8a99-c95079ea2b8f",
-     "title": "Versus #261: Gjysmëfinalja Francë - Spanjë, komentet pas ndeshjes",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122846483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F46ac5c2e-9e99-f689-cfb1-0df1026f5350.mp3",
-     "publishedAt": "2026-07-14T23:17:48.000Z",
-     "durationSec": 5804,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Francë - Spanjë, diskutojmë së bashku gjithçka që ndodhi në gjysmëfinalen e parë të Botërorit. Në vijim, komente, analiza dhe parashikime për sfidën e nesërme. 0:00 France v Spanje 1:15:49 Preview",
-     "episodeNumber": 261,
-     "seasonNumber": 3
-    },
-    {
      "id": "1849137636:b880a544-7e93-46dd-930c-74577804a3d6",
      "title": "Versus #260: Kupa e Botës, analiza dhe parashikime për katërshen",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122796874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2Ffdd1815d-ced9-9770-001f-19a13a23408d.mp3",
@@ -1089,6 +1078,17 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Përtej temperaturave të larta, në Botëror tashmë kanë nisur goleadat e para. Emocionet shtohen, ashtu si edhe adrenalina që sjellin skuadrat big. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 UEFA vs FIFA 35:59 Spanja dhe Belgjika 1:23:49 Bregu i Fildishte-Ekuador 1:36:59 Suedia agresive 1:42:19 Parashikimet & Preview",
      "episodeNumber": 242,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:2525f0d3-5e22-4fd5-884e-858ee88d3ad2",
+     "title": "Versus #241: Gjermani - Kuraçao & Holandë - Japoni",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121498142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-15%2F3cb70f0b-7f92-fd4a-b8ef-37a52318e510.mp3",
+     "publishedAt": "2026-06-15T10:46:00.000Z",
+     "durationSec": 5631,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Rikthehemi live në Versus për të komentuar dy ndeshjet e mbrëmjes në Botëror, Gjermani - Kuraçao dhe Holandë - Japoni. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batutat e para 10:28 Zhgënjimi Brazil 56:44 Holandë-Japoni 1:03:59 Surprizat 1:28:55 Parashikimet",
+     "episodeNumber": 241,
      "seasonNumber": 3
     }
    ]
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 14
+   "fails": 15
   },
   {
    "id": "aradio",
