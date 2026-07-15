@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-15T11:52:12.877Z",
+ "generatedAt": "2026-07-15T14:14:07.467Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 11
+   "fails": 12
   },
   {
    "id": "aradio",
@@ -3406,7 +3406,7 @@
   {
    "id": "radiokoha",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiovushtrria",
