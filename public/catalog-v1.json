@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-16T09:31:53.007Z",
+ "generatedAt": "2026-07-16T11:55:46.524Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3325,8 +3325,8 @@
   },
   {
    "id": "capitalfm",
-   "online": false,
-   "fails": 3
+   "online": true,
+   "fails": 0
   },
   {
    "id": "rockfans",
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 21
+   "fails": 22
   },
   {
    "id": "aradio",
