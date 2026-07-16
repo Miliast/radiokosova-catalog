@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-16T14:26:37.178Z",
+ "generatedAt": "2026-07-16T16:44:14.941Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2309,6 +2309,42 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25535",
+     "title": "“Heritage Is Our Brand”, projekti i 15 nismave kreative mbi trashëgiminë kulturore!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25535/heritage-is-our-brand-projekti-i-15-nismave-kreative-mbi-trashegimine-kulturore-wake-up.mp3",
+     "publishedAt": "2026-07-16T15:20:37.000Z",
+     "durationSec": 1440,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25533",
+     "title": "2100 vrotjues plazhi janë certifikuar, por pse mungojnë në terren?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25533/2100-vrotjues-plazhi-jane-certifikuar-por-pse-mungojne-ne-terren-wake-up.mp3",
+     "publishedAt": "2026-07-16T15:19:40.000Z",
+     "durationSec": 1291,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25529",
+     "title": "House Nation 16/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25529/house-nation-16-07-2026.mp3",
+     "publishedAt": "2026-07-16T15:16:51.000Z",
+     "durationSec": 2938,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25530",
+     "title": "PASO’ 16 Korrik. Anglia OUT! Magjia e Messit. FIFA nis hetimin për finalen",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25530/paso-16-korrik-anglia-out-magjia-e-messit-fifa-nis-hetimin-per-finalen.mp3",
+     "publishedAt": "2026-07-16T15:15:36.000Z",
+     "durationSec": 2023,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Top Albania Radio vjen me një mbulim 360° të Kampionatit Botëror të Futbollit 2026. Me analiza, informacione, të ftuar specialistë të futbollit, personazhe VIP dhe tifozë, si edhe situata gazmore për të përcjellë një atmosferë energjike në radio dhe për të vazhduar traditën e informacionit sportiv live në valët e radios më të dëgjuar shqiptare në botë. Glent Nallbani, Lorenc Jemini dhe Livia Brunga, mendojnë për të gjithë ju dashamirës të futbollit duke ardhur me një emision të dedikuar plotësi…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25525",
      "title": "PASO’ 15 Korrik. Spanja leksion botës. Messi përballë Bellingam dhe Kane",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25525/paso-15-korrik-spanja-leksion-botes-messi-perballe-bellingam-dhe-kane.mp3",
@@ -2449,42 +2485,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25495/debatet-qe-po-shoqerojne-kupen-e-botes-2026-a-po-cenohet-besimi-te-drejtesia-sportive-wake-up.mp3",
      "publishedAt": "2026-07-10T10:08:22.000Z",
      "durationSec": 1220,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25494",
-     "title": "Psikoseksologia: Partnerët në dhomën e gjumit bëjnë këtë gabim!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25494/psikoseksologia-partneret-ne-dhomen-e-gjumit-bejne-kete-gabim-wake-up.mp3",
-     "publishedAt": "2026-07-10T10:07:16.000Z",
-     "durationSec": 1302,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25484",
-     "title": "“Brikena lër Prizrenin mbrapa!“/ Kosta i “Top Arena“ ironizon moderatoren! Rrëfehet Senera Hoxha!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25484/brikena-ler-prizrenin-mbrapa-kosta-i-top-arena-ironizon-moderatoren-rrefehet-senera-hoxha.mp3",
-     "publishedAt": "2026-07-10T10:01:15.000Z",
-     "durationSec": 4824,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25482",
-     "title": "Moderatorja prej 15 vitesh zgjedh të pushojë në Livadh, këtë vit më e revoltuar se kurrë!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25482/moderatorja-prej-15-vitesh-zgjedh-te-pushoje-ne-livadh-kete-vit-me-e-revoltuar-se-kurre-wake-up.mp3",
-     "publishedAt": "2026-07-09T08:44:26.000Z",
-     "durationSec": 1038,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25479",
-     "title": "Mos thithni gjakun, mos lëvizni shumë gjatë kafshimit nga gjarpri. Gabimet që bëjmë!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25479/mos-thithni-gjakun-mos-levizni-shume-gjate-kafshimit-nga-gjarpri-gabimet-qe-bejme-wake-up.mp3",
-     "publishedAt": "2026-07-09T08:44:00.000Z",
-     "durationSec": 1296,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 23
+   "fails": 24
   },
   {
    "id": "aradio",
