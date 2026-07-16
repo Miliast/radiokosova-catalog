@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-16T03:43:26.562Z",
+ "generatedAt": "2026-07-16T06:34:02.712Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:08d31f48-168f-44b8-9947-4858c0a35201",
+     "title": "Versus #262: Gjysmëfinalja Angli - Argjentinë, komentet pas ndeshjes",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122895616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F2aae695f-5533-7758-bede-41bf08eaf140.mp3",
+     "publishedAt": "2026-07-16T00:19:05.000Z",
+     "durationSec": 7847,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Angli - Argjentinë, diskutojmë së bashku gjithçka që ndodhi në gjysmëfinalen e dytë të Botërorit. Në vijim, komente, analiza dhe parashikime për dy sfidat e fundit të turneut, përballja për vendin e tretë dhe finalja e madhe.",
+     "episodeNumber": 262,
+     "seasonNumber": 3
+    },
+    {
      "id": "1849137636:56b8c8d8-4d99-4154-8a99-c95079ea2b8f",
      "title": "Versus #261: Gjysmëfinalja Francë - Spanjë, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122846483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F46ac5c2e-9e99-f689-cfb1-0df1026f5350.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Gjermania shkëlqeu, Spanja dhe Belgjika zhgënjyen. Sfida e radhës për t'u ndjekur është Francë - Senegal, por mendjet e tifozëve në mbarë botën janë te Messi dhe Cristiano. Po vjen momenti i Argjentinës dhe Portugalisë! Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batuta 14:18 France-Senegal 44:46 Faktori barazim 59:05 Po vjen Argjentina 1:46:28 Parashikimet",
      "episodeNumber": 243,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:e139b596-2e55-409c-8b3e-b68f8313057e",
-     "title": "Versus #242: Botërori sfidon temperaturat, nis festivali i golave",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121547206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-16%2Fad88522b-c519-fe4b-6261-65438499303a.mp3",
-     "publishedAt": "2026-06-16T08:44:13.000Z",
-     "durationSec": 6629,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Përtej temperaturave të larta, në Botëror tashmë kanë nisur goleadat e para. Emocionet shtohen, ashtu si edhe adrenalina që sjellin skuadrat big. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 UEFA vs FIFA 35:59 Spanja dhe Belgjika 1:23:49 Bregu i Fildishte-Ekuador 1:36:59 Suedia agresive 1:42:19 Parashikimet & Preview",
-     "episodeNumber": 242,
      "seasonNumber": 3
     }
    ]
@@ -3325,8 +3325,8 @@
   },
   {
    "id": "capitalfm",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "rockfans",
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 19
+   "fails": 20
   },
   {
    "id": "aradio",
