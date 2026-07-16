@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-16T11:55:46.524Z",
+ "generatedAt": "2026-07-16T14:26:37.178Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:922ef9ca-b25e-434e-a433-6eed5e257790",
+     "title": "Ligjet shkatërrimtare në praktikë - Franc Ribaj në Buchi Podcast Shqip #212 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122917057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428069158-44100-2-37b8ab8e3ca3a.m4a",
+     "publishedAt": "2026-07-16T13:40:36.000Z",
+     "durationSec": 2123,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1784209210599-9689333568491.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 212
+    },
+    {
      "id": "1573751706:e5d90fd7-0c8b-4eba-af5b-40e179dcce2c",
      "title": "Ligji 21/2024 për zonat e mbrojtura shpjeguar thjeshtë - Buchi Podcast Shqip #211 | Hapsirë Publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122650542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427711819-44100-2-772daf6fbc485.m4a",
@@ -1952,16 +1962,6 @@
      "durationSec": 1847,
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1776162480706-20d15182b5c7d.jpg",
      "description": "Në këtë episod të rubrikës “Tradita”, paraqitet një nga rrëfimet më të dashura të epikës shqiptare: “Dasma e Halilit”.Tregimi përqendrohet te përpjekjet dhe sfidat që Halili duhet të përballojë për të arritur bashkimin me të dashurën e tij. Nëpërmjet udhëtimit të tij plot rreziqe, përplasje dhe zgjuarsi, shpalosen vlera thelbësore të traditës sonë si besa, dashuria, trimëria dhe vendosmëria. Rrëfimi thekson gjithashtu rëndësinë e nderit dhe sakrificës, duke treguar se dashuria e vërtetë kërkon …"
-    },
-    {
-     "id": "1573751706:37ebb215-a629-43f6-a6b6-cb89738ae40b",
-     "title": "Bëje mirë, bëje vetë - Albanian Film Festival Berlin në Buchi Podcast Shqip #194 | Agora",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/117873809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-2%2F421302172-44100-2-04f9387d6e8a.mp3",
-     "publishedAt": "2026-04-12T23:00:00.000Z",
-     "durationSec": 3298,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1775167524175-2eab39e6f9fae.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://studio.buymeacoffee.com/dashboard- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Episodi 194 i Buchi Podcast në rubrikën “Agora” sjell në fokus një moment historik për komunitetin shqiptar në Berlin: organizimin e Albanian Film Festival, festivali i parë i filmit shqiptar në këtë qytet – dhe një nga iniciativat e para të këtij…",
-     "episodeNumber": 194
     }
    ]
   },
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 22
+   "fails": 23
   },
   {
    "id": "aradio",
