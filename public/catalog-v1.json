@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-17T14:06:16.316Z",
+ "generatedAt": "2026-07-17T15:45:52.324Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2309,6 +2309,60 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25544",
+     "title": "House Nation 17/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25544/house-nation-17-07-2026.mp3",
+     "publishedAt": "2026-07-17T15:15:12.000Z",
+     "durationSec": 2798,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25540",
+     "title": "Financim deri në 2 milion euro për sipërmarrjet e vogla! -Edicioni Kryesor Informativ 17/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25540/financim-deri-ne-2-milion-euro-per-sipermarrjet-e-vogla-edicioni-kryesor-informativ-17-07-2026.mp3",
+     "publishedAt": "2026-07-17T15:13:55.000Z",
+     "durationSec": 352,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25546",
+     "title": "She’s On Top/ Niko Komani “zbulon” fituesen, Mateo bëhet “shënjestër” nga vajzat &#038; Cako plas bombat!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25546/shes-on-top-niko-komani-zbulon-fituesen-mateo-behet-shenjester-nga-vajzat-cako-plas-bombat.mp3",
+     "publishedAt": "2026-07-17T15:13:02.000Z",
+     "durationSec": 5118,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25548",
+     "title": "“Steroidet ndihmojnë në jetën s*ksuale”, deklarata e trajnerit të fitnesit ngre debat në studio!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25548/steroidet-ndihmojne-ne-jeten-sksuale-deklarata-e-trajnerit-te-fitnesit-ngre-debat-ne-studio.mp3",
+     "publishedAt": "2026-07-17T15:12:19.000Z",
+     "durationSec": 2074,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25538",
+     "title": "Librat që duhet të lexojmë patjetër poshtë çadrës!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25538/librat-qe-duhet-te-lexojme-patjeter-poshte-cadres-wake-up.mp3",
+     "publishedAt": "2026-07-17T15:10:26.000Z",
+     "durationSec": 1551,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25537",
+     "title": "“Tirana College of Technology”, çfarë ofron për të ardhmen e maturantëve?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25537/tirana-college-of-technology-cfare-ofron-per-te-ardhmen-e-maturanteve-wake-up.mp3",
+     "publishedAt": "2026-07-17T15:09:42.000Z",
+     "durationSec": 1286,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25535",
      "title": "“Heritage Is Our Brand”, projekti i 15 nismave kreative mbi trashëgiminë kulturore!/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25535/heritage-is-our-brand-projekti-i-15-nismave-kreative-mbi-trashegimine-kulturore-wake-up.mp3",
@@ -2433,60 +2487,6 @@
      "durationSec": 2938,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25502",
-     "title": "PASO’ 10 Korrik. Franca e para gjysëmfinale. Historia që lidh Klopp me Mbappé",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25502/paso-10-korrik-franca-e-para-gjysemfinale-historia-qe-lidh-klopp-me-mbappe.mp3",
-     "publishedAt": "2026-07-10T17:47:29.000Z",
-     "durationSec": 1915,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Emisioni më i kërkuar nga të gjithë fanatikët e sportit. Glent Nallbani, Edi Manushi, Redi Jupi, Lorenc Jemini dhe Gëzim Sinemati mendojnë për të gjithë ju dashamirës të futbollit duke sjellë “Pasó”, emisionin që do t’ju ndjekë çdo të premte në frekuencën e radios tuaj të preferuar, vetëm në Top Albania Radio. Një program sportiv prej 120 minutash i rikthehet informacionit dedikuar sportit çdo javë. Konceptuar si një emision info-argëtues, informohuni mbi faktet, njihuni me protagonistët dhe që…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25500",
-     "title": "Rilindja 2.0 Rama: “Gati 1.5 miliard euro!”-Edicioni kryesor informativ 7/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25500/rilindja-2-0-rama-gati-1-5-miliard-euro-edicioni-kryesor-informativ-7-10-2026.mp3",
-     "publishedAt": "2026-07-10T16:50:03.000Z",
-     "durationSec": 388,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25493",
-     "title": "House Nation 10/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25493/house-nation-10-07-2026.mp3",
-     "publishedAt": "2026-07-10T12:00:00.000Z",
-     "durationSec": 2798,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25492",
-     "title": "Vera do të kalohet edhe më bukur nën shoqërinë e këtyre filmave&#8230;",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25492/vera-do-te-kalohet-edhe-me-bukur-nen-shoqerine-e-ketyre-filave.mp3",
-     "publishedAt": "2026-07-10T11:00:00.000Z",
-     "durationSec": 1002,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25498",
-     "title": "&#8220;Nuk është tezja ime&#8221;/Adriatik Lapaj rrëfehet pa doreza: Rama, boll na vodhe!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25498/nuk-eshte-tezja-ime-adriatik-lapaj-rrefehet-pa-doreza-rama-boll-na-vodhe.mp3",
-     "publishedAt": "2026-07-10T10:26:40.000Z",
-     "durationSec": 2013,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "I ftuar në “Live From Tirana” me Ronaldo Sharkën, ka qenë kryetari i partisë “Shqipëri Bëhet”, Adriatik Lapaj. Ai ka folur më shumë mbi situatën politike aktuale në vend, por jo vetëm&#8230;"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25495",
-     "title": "Debatet që po shoqërojnë Kupën e Botës 2026! A po cënohet besimi te drejtësia sportive?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25495/debatet-qe-po-shoqerojne-kupen-e-botes-2026-a-po-cenohet-besimi-te-drejtesia-sportive-wake-up.mp3",
-     "publishedAt": "2026-07-10T10:08:22.000Z",
-     "durationSec": 1220,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
    ]
   },
@@ -3316,7 +3316,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3366,7 +3366,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 34
+   "fails": 35
   },
   {
    "id": "aradio",
