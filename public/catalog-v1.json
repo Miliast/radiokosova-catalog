@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-18T03:37:11.316Z",
+ "generatedAt": "2026-07-18T06:22:28.710Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:09273774-8fa1-4096-8bfa-98f9e98883d1",
+     "title": "Hapat e mundshëm politik - Franc Ribaj në Buchi Podcast Shqip #213 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122917990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428070364-44100-2-e00ef18e634e8.m4a",
+     "publishedAt": "2026-07-18T06:00:00.000Z",
+     "durationSec": 1539,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1784209638752-2d6e63d2a25e7.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 213
+    },
+    {
      "id": "1573751706:922ef9ca-b25e-434e-a433-6eed5e257790",
      "title": "Ligjet shkatërrimtare në praktikë - Franc Ribaj në Buchi Podcast Shqip #212 | Hapsirë publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122917057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428069158-44100-2-37b8ab8e3ca3a.m4a",
@@ -1953,15 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777115741973-560831871b0bd.jpg",
      "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse je…",
      "episodeNumber": 195
-    },
-    {
-     "id": "1573751706:3379062c-6ced-4630-a4c4-97aa9699bd3d",
-     "title": "Dasma e Halilit - Tregime të moçme shqiptare - Buchi Podcast Shqip | Tradita",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/118434095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-17%2F422291151-44100-2-043881221db7.mp3",
-     "publishedAt": "2026-04-19T07:27:00.000Z",
-     "durationSec": 1847,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1776162480706-20d15182b5c7d.jpg",
-     "description": "Në këtë episod të rubrikës “Tradita”, paraqitet një nga rrëfimet më të dashura të epikës shqiptare: “Dasma e Halilit”.Tregimi përqendrohet te përpjekjet dhe sfidat që Halili duhet të përballojë për të arritur bashkimin me të dashurën e tij. Nëpërmjet udhëtimit të tij plot rreziqe, përplasje dhe zgjuarsi, shpalosen vlera thelbësore të traditës sonë si besa, dashuria, trimëria dhe vendosmëria. Rrëfimi thekson gjithashtu rëndësinë e nderit dhe sakrificës, duke treguar se dashuria e vërtetë kërkon …"
     }
    ]
   },
@@ -3316,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3366,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 42
+   "fails": 43
   },
   {
    "id": "aradio",
