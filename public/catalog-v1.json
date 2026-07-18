@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-18T09:01:49.574Z",
+ "generatedAt": "2026-07-18T10:42:49.298Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/audio-podcast-dukagjin-popovci/33805804.html",
+     "title": "A po i çojnë studimet të rinjtë drejt punësimit apo vetëm drejt një diplome?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/17/3b6af54d-37f8-4644-168c-08decad58b60_hq.mp3",
+     "publishedAt": "2026-07-18T09:59:35.000Z",
+     "durationSec": 1492,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Në podkastin 5 Pyetje të Radios Evropa e Lirë, ish-zëvendësministri i Arsimit dhe eksperti i fushës, Dukagjin Pupovci, thotë se në Kosovë mungojnë analiza të mirëfillta për nevojat e tregut të punës."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/vaji-palmes-produkte-qumeshti/33801552.html",
      "title": "Vaji i palmës në produktet e qumështit: Çfarë duhet të dimë?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/11/1843267c-7be8-413d-4150-08decacf94d0_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1568,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Tensionet në Lindjen e Mesme, lufta në Iran, mbyllja e Ngushticës së Hormuzit po shtojnë frikën për tronditje në ekonominë globale. Sa mund të ndikojnë këto zhvillime në ekonominë e Kosovës? A pritet rritje e çmimeve, dhe si duhet të reagojë shteti? Për këto çështje flasim në podkastin 5 pyetje me eksperten e tregtisë, Sytrime Dervisholli."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/kosova-investime-turizem/33689707.html",
-     "title": "A është Kosova destinacion i investimeve në turizëm?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/02/27/5535d23b-02da-496a-30a6-08de3be37656_hq.mp3",
-     "publishedAt": "2026-02-28T12:53:44.000Z",
-     "durationSec": 1132,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Kosova ofron bukuri natyrore, trashëgimi me potencial për turizëm, por mungesa e infrastrukturës shfaqet shpesh si pengesë për turistët. Në podkastin 5 pyetje flasim me njohësin e zhvillimit të turizmit, Esad Islami, rreth potencialit turistik të Kosovës për nxitje të investimeve të reja."
     }
    ]
   },
@@ -872,17 +872,6 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
-     "id": "1849137636:806c0786-1126-42ff-acee-3c1c83ffdea5",
-     "title": "Versus #263: Francë - Angli, finalja e vogël e të mëdhenjve",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122982391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F9314d830-8656-99b6-2e27-4cc57fbe200c.mp3",
-     "publishedAt": "2026-07-17T22:56:02.000Z",
-     "durationSec": 8849,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Një episod kushtuar betejës për vendin e tretë, Francë - Angli. Asnjëra skuadër nuk dëshiron të luajë, por motivimi është numri i golave të yjeve Kylian Mbappe dhe Harry Kane. Komente, analiza dhe parashikime për dy sfidat e fundit në Botëror. 0:00 POK 13:47 Francë-Angli 52:53 OPA Lojtari Raundit 1:00:45 Finalja 1:36:28 Topi i Artë 2:04:52 Merkato 2:20:43 Kampionati Shqiptar 2:23:27 Parashikimi",
-     "episodeNumber": 263,
-     "seasonNumber": 3
-    },
-    {
      "id": "1849137636:08d31f48-168f-44b8-9947-4858c0a35201",
      "title": "Versus #262: Gjysmëfinalja Angli - Argjentinë, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122895616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F2aae695f-5533-7758-bede-41bf08eaf140.mp3",
@@ -1089,6 +1078,17 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Gjithë vëmendja e Botërorit këto ditë është totalisht e fokusuar te \"përbindëshat\" e futbollit, Leo Messi dhe Cristiano Ronaldo. Flasim së bashku për këtë duel të fundit të legjendave. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Gjeniu Messi 1:05:38 Polemikat 1:15:53 Portugalia e CR7 1:54:08 Debuton Anglia 2:14:09 Këpuca e Artë 2:16:45 Fantasy WC 2:24:02 Parashikimet",
      "episodeNumber": 244,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:3d013aa2-a1c3-4e48-baec-153179d2222a",
+     "title": "Versus #243: Duke pritur legjendat! Po vijnë Messi dhe Cristiano",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121608888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F070296b4-2310-563c-f315-0d5b25c0b318.mp3",
+     "publishedAt": "2026-06-17T13:03:26.000Z",
+     "durationSec": 6905,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Gjermania shkëlqeu, Spanja dhe Belgjika zhgënjyen. Sfida e radhës për t'u ndjekur është Francë - Senegal, por mendjet e tifozëve në mbarë botën janë te Messi dhe Cristiano. Po vjen momenti i Argjentinës dhe Portugalisë! Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batuta 14:18 France-Senegal 44:46 Faktori barazim 59:05 Po vjen Argjentina 1:46:28 Parashikimet",
+     "episodeNumber": 243,
      "seasonNumber": 3
     }
    ]
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 44
+   "fails": 45
   },
   {
    "id": "aradio",
