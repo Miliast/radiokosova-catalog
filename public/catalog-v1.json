@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-18T10:42:49.298Z",
+ "generatedAt": "2026-07-18T12:07:43.714Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:806c0786-1126-42ff-acee-3c1c83ffdea5",
+     "title": "Versus #263: Francë - Angli, finalja e vogël e të mëdhenjve",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122982391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F9314d830-8656-99b6-2e27-4cc57fbe200c.mp3",
+     "publishedAt": "2026-07-17T22:56:02.000Z",
+     "durationSec": 8849,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Një episod kushtuar betejës për vendin e tretë, Francë - Angli. Asnjëra skuadër nuk dëshiron të luajë, por motivimi është numri i golave të yjeve Kylian Mbappe dhe Harry Kane. Komente, analiza dhe parashikime për dy sfidat e fundit në Botëror. 0:00 POK 13:47 Francë-Angli 52:53 OPA Lojtari Raundit 1:00:45 Finalja 1:36:28 Topi i Artë 2:04:52 Merkato 2:20:43 Kampionati Shqiptar 2:23:27 Parashikimi",
+     "episodeNumber": 263,
+     "seasonNumber": 3
+    },
+    {
      "id": "1849137636:08d31f48-168f-44b8-9947-4858c0a35201",
      "title": "Versus #262: Gjysmëfinalja Angli - Argjentinë, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122895616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F2aae695f-5533-7758-bede-41bf08eaf140.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Gjithë vëmendja e Botërorit këto ditë është totalisht e fokusuar te \"përbindëshat\" e futbollit, Leo Messi dhe Cristiano Ronaldo. Flasim së bashku për këtë duel të fundit të legjendave. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Gjeniu Messi 1:05:38 Polemikat 1:15:53 Portugalia e CR7 1:54:08 Debuton Anglia 2:14:09 Këpuca e Artë 2:16:45 Fantasy WC 2:24:02 Parashikimet",
      "episodeNumber": 244,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:3d013aa2-a1c3-4e48-baec-153179d2222a",
-     "title": "Versus #243: Duke pritur legjendat! Po vijnë Messi dhe Cristiano",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121608888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2F070296b4-2310-563c-f315-0d5b25c0b318.mp3",
-     "publishedAt": "2026-06-17T13:03:26.000Z",
-     "durationSec": 6905,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Gjermania shkëlqeu, Spanja dhe Belgjika zhgënjyen. Sfida e radhës për t'u ndjekur është Francë - Senegal, por mendjet e tifozëve në mbarë botën janë te Messi dhe Cristiano. Po vjen momenti i Argjentinës dhe Portugalisë! Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Batuta 14:18 France-Senegal 44:46 Faktori barazim 59:05 Po vjen Argjentina 1:46:28 Parashikimet",
-     "episodeNumber": 243,
      "seasonNumber": 3
     }
    ]
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 45
+   "fails": 46
   },
   {
    "id": "aradio",
