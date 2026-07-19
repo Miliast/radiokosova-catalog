@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-19T19:35:40.293Z",
+ "generatedAt": "2026-07-19T21:09:51.109Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3332,7 +3332,7 @@
   {
    "id": "rockfans",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "zerishtimes",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 62
+   "fails": 63
   },
   {
    "id": "aradio",
@@ -3387,7 +3387,7 @@
   {
    "id": "radiostar",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radio7",
