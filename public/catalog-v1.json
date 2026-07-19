@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-19T17:26:38.184Z",
+ "generatedAt": "2026-07-19T19:35:40.293Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3332,7 +3332,7 @@
   {
    "id": "rockfans",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "zerishtimes",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 61
+   "fails": 62
   },
   {
    "id": "aradio",
@@ -3387,7 +3387,7 @@
   {
    "id": "radiostar",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "radio7",
