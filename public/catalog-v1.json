@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-20T20:43:32.354Z",
+ "generatedAt": "2026-07-20T22:15:14.092Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -681,6 +681,15 @@
    "description": "Një podcast autentik nga Telegrafi, ku çdo episod sjell në qendër të vëmendjes historitë, sfidat dhe sukseset e figurave më të ndritura nga bota e sportit. Me një atmosferë të ngrohtë dhe biseda të thella, Lavdimi, Romaku dhe Shkumbini i ftojnë mysafirët të ndajnë përvojat e tyre, historitë e rrëfimet interesante, të zbulojnë anën e panjohur të famës dhe të inspirojnë dëgjuesit me rrëfime autentike dhe emocionale. 🎧 Çdo javë – një histori e re, një yll i ri në arenë",
    "episodes": [
     {
+     "id": "1812021835:6932dd60-8ce6-4706-8cff-4bf60f555af1",
+     "title": "#96: Arena e Yjeve - Nga gjysmëfinalet te finalja e Botërorit, gazetarët e Telegrafit analizojnë gjithçka",
+     "audioUrl": "https://media.transistor.fm/38dc0a70/f9897d23.mp3",
+     "publishedAt": "2026-07-20T21:00:02.000Z",
+     "durationSec": 3138,
+     "imageUrl": "https://img.transistorcdn.com/_jvfs6RgQx1_FyLciPMo2Vn4OwYzdrhXzPG3x3KjacM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZjA3/MGU2MGNkNDhmYjg3/OTY4MmViMzNiOTM1/ZmQ3NC5qcGc.jpg",
+     "description": "Në episodin më të ri të podcastit “Arena e Yjeve”, gazetarët sportivë të Telegrafit, Lavdim Pireva, Shkumbin Pireva dhe Bardh Maxhuni, analizuan momentet më të rëndësishme të fazës finale të Kupës së Botës 2026, duke diskutuar gjysmëfinalet dhe finalen e madhe mes Spanjës dhe Argjentinës. Biseda nisi me analizën e gjysmëfinales mes Spanjës dhe Francës, ku Bardh Maxhuni vlerësoi punën e përzgjedhësit Luis de la Fuente, duke shpjeguar arsyet pse ai konsiderohet një nga arkitektët kryesorë të suks…"
+    },
+    {
      "id": "1812021835:2dd2c8c6-3790-4cdf-a810-c8e960b8a0a4",
      "title": "#95: Arena e Yjeve - Viktor Kuka - Nga sukseset me Prishtinën e Dritën te sfidat e karrierës",
      "audioUrl": "https://media.transistor.fm/6e2847d1/341ffa6b.mp3",
@@ -850,15 +859,6 @@
      "durationSec": 4407,
      "imageUrl": "https://img.transistorcdn.com/P0xggIhnHUeqCBGTocXKYF365L0syn7julWo9pNk24Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNDRj/ZDI1NGM3NzU0NjM1/Yjc2ZTUzOGRjZGY5/NTFhMS5qcGc.jpg",
      "description": "Në episodin e 77-të të podcastit “Arena e Yjeve”, mysafir ishte trajneri i njohur dhe përgatitësi atletik, Artan Luzi. Ai rrëfen emocionet e para të debutimit si 16-vjeçar te Tirana, duke përshkruar presionin, kënaqësinë dhe ndjenjat e papërshkrueshme të paraqitjes së tij të parë në futbollin profesionist. Trajneri foli gjithashtu për futbollistët shqiptarë që e kanë lënë më shumë mbresë gjatë karrierës së tij, duke përmendur dy emra të jashtëzakonshëm për cilësitë teknike dhe mentalitetin e ty…"
-    },
-    {
-     "id": "1812021835:8acb9970-761f-4f60-85f9-6ab790726443",
-     "title": "#76: Arena e Yjeve - Bajram Jashanica: Goli historik në Evropë, prapaskenat e transferimit dhe sfida e rastit të dopingut",
-     "audioUrl": "https://media.transistor.fm/78d012ef/a9c1e66b.mp3",
-     "publishedAt": "2026-02-19T19:26:58.000Z",
-     "durationSec": 4420,
-     "imageUrl": "https://img.transistorcdn.com/qivPK6Av7PLCilCek7nqG97u0fceWAnybvgdW3sK-pQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZTdk/ZGJiYmEzODU4NDEx/YTcwN2EwNmQ0ZmFi/ZGYwZi5qcGc.jpg",
-     "description": "Në episodin e 76-të të podcastit “Arena e Yjeve”, mysafir ishte futbollisti i njohur Bajram Jashanica. Gjatë një bisede të sinqertë dhe pa filtra, Jashanica rrëfeu përvojën e tij kur kaloi provat te një skuadër gjermane, transferim që në fund nuk u realizua. Ai tregoi se si ishte pritur nga një lojtar i Kombëtares dhe çfarë ndodhi prapa skenave që bëri që marrëveshja të mbetej vetëm në tentativë. Ish-mbrojtësi u ndal te momenti historik në Ligën e Evropës me fanellën e Skënderbeut, duke kujtuar…"
     }
    ]
   },
@@ -871,6 +871,17 @@
    "genre": "Sports",
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
+    {
+     "id": "1849137636:825c1843-dedf-4902-9240-5a60ebdc9d95",
+     "title": "Versus #264: Finalja e Botërorit, komentet pas ndeshjes Spanjë - Argjentinë",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/123051040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2Fb77c1a8f-339a-c3b1-ab5b-7398b4ae551d.mp3",
+     "publishedAt": "2026-07-20T01:04:20.000Z",
+     "durationSec": 7988,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Pas OPA Watchalong, sërish live për të komentuar çdo detaj të finales së Botërorit, Spanjë - Argjentinë. Kush shkëlqeu? Kush dështoi? Çfarë do të ndodhë tani me Topin e Artë? Komente, analiza dhe parashikime për këtë ndeshje të madhe. 0:00 KAMPIONI 1:05:00 Boterori 2026",
+     "episodeNumber": 264,
+     "seasonNumber": 3
+    },
     {
      "id": "1849137636:806c0786-1126-42ff-acee-3c1c83ffdea5",
      "title": "Versus #263: Francë - Angli, finalja e vogël e të mëdhenjve",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Raundi i dytë i fazës së grupeve në Botëror sjell një shans tjetër për Brazilin. Sfida e radhës, me Haitin. Në fushë do të zbresin edhe Holanda dhe Gjermania. Diskutojmë për ndeshjet aktuale, japim parashikimet tona për përballjet në vijim dhe komentojmë informacione të përgjithshme për gjithçka nga turneu.",
      "episodeNumber": 245,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:37a2715a-b9c3-4c7e-84cc-2169a8a56513",
-     "title": "Versus #244: Messi vs. Ronaldo, dueli i fundit për historinë",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121657970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F7c74ae5a-5350-2070-90fa-c3ea21a609a1.mp3",
-     "publishedAt": "2026-06-18T11:41:38.000Z",
-     "durationSec": 9056,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Gjithë vëmendja e Botërorit këto ditë është totalisht e fokusuar te \"përbindëshat\" e futbollit, Leo Messi dhe Cristiano Ronaldo. Flasim së bashku për këtë duel të fundit të legjendave. Analiza dhe parashikime nga ADN për sfidat e sotme dhe informacione të përgjithshme për gjithçka nga turneu. 0:00 Gjeniu Messi 1:05:38 Polemikat 1:15:53 Portugalia e CR7 1:54:08 Debuton Anglia 2:14:09 Këpuca e Artë 2:16:45 Fantasy WC 2:24:02 Parashikimet",
-     "episodeNumber": 244,
      "seasonNumber": 3
     }
    ]
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 73
+   "fails": 74
   },
   {
    "id": "aradio",
