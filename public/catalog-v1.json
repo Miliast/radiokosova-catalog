@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-21T16:45:48.433Z",
+ "generatedAt": "2026-07-21T18:43:00.215Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3291,8 +3291,8 @@
   },
   {
    "id": "valarinore",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiokosovaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 81
+   "fails": 82
   },
   {
    "id": "aradio",
