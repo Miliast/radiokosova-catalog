@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-21T22:13:59.599Z",
+ "generatedAt": "2026-07-21T23:15:19.722Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3287,12 +3287,12 @@
   {
    "id": "radioplus",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "valarinore",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radiokosovaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 84
+   "fails": 85
   },
   {
    "id": "aradio",
@@ -3377,7 +3377,7 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiozemra",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "ubtcampus",
@@ -3417,12 +3417,12 @@
   {
    "id": "topradio",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqippopullore",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "urbanfm",
