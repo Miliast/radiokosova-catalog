@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-21T12:02:19.644Z",
+ "generatedAt": "2026-07-21T14:26:51.491Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1294,6 +1294,86 @@
    "description": "\"Përballje\" me autor kryeredaktorin e Telegrafi.com, Muhamet Hajrullahu, është një platformë edukative dhe informuese që ka për qëllim të ndriçojë çështjet kryesore që preokupojnë shoqërinë kosovare dhe më gjerë. Duke ofruar hapësira për diskutime të thella mbi temat shoqërore, politike, ekonomike, ndërmarrësi, sociale e veçanërisht angazhimin e të rinjve, grave dhe diasporës, si brenda ashtu edhe jashtë Kosovës.",
    "episodes": [
     {
+     "id": "1845345706:5e48e602-e1c9-4ce2-a2ef-099051669d1b",
+     "title": "#39: Përballje Podcast: Berim Ramosaj flet për zhvillimet në LDK, Abdixhikun dhe përplasjet në parti",
+     "audioUrl": "https://media.transistor.fm/bae04fc9/f982de5f.mp3",
+     "publishedAt": "2026-07-21T14:18:29.000Z",
+     "durationSec": 2714,
+     "imageUrl": "https://img.transistorcdn.com/6UnLH56TXBpbj9yrYoPRmhpwwl2ba5ZKoMSVG5RkFG8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iY2I1/NDI5OTY2MGIwODEy/MmE0YzM4YzUxNTBk/MTY3Yy5qcGc.jpg",
+     "description": "Në episodin e 39-të të Përballje Podcast, i ftuar është profesori i ekonomisë dhe ish-deputeti i LDK-së, Berim Ramosaj, i cili flet për zhvillimet e fundit brenda partisë, pakënaqësitë e grupeve të ndryshme dhe iniciativën që mund ta vërë në pikëpyetje të ardhmen e Lumir Abdixhikut në krye të LDK-së.",
+     "episodeNumber": 39
+    },
+    {
+     "id": "1845345706:5fa03463-829e-4ba0-b764-651f71950531",
+     "title": "#38: Përballje Podcast: Nga Ukraina te Ballkani: Çfarë la pas Samiti i NATO-s? Tregon Xhemajl Rexha",
+     "audioUrl": "https://media.transistor.fm/4de5ab1f/7a42ebd7.mp3",
+     "publishedAt": "2026-07-21T14:18:05.000Z",
+     "durationSec": 2563,
+     "imageUrl": "https://img.transistorcdn.com/IMPbFIPxZ5QAhu9i4o93vF06s69TtBtRpZrRXgE1UPA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yOTA5/ZGRjODc0NDNiMDFj/NDJiM2JjYmJjOWZm/NTUxOS5qcGc.jpg",
+     "description": "Në episodin e ri të Përballje, Xhemajl Rexha flet për Samitin e NATO-s në Ankara, një nga takimet më të rëndësishme të Aleancës Veriatlantike në vitet e fundit. Gjatë dy ditëve, kryeqyteti turk ishte në qendër të vëmendjes ndërkombëtare, me pjesëmarrjen e liderëve kryesorë të NATO-s dhe shteteve anëtare nga rajoni. Nga Ukraina te Ballkani Perëndimor, nga roli i KFOR-it në Kosovë te propaganda ruse dhe rëndësia e raportimit nga terreni – çfarë la pas ky samit dhe si duhet t’i lexojë Kosova mesaz…",
+     "episodeNumber": 38
+    },
+    {
+     "id": "1845345706:3caf1755-a907-4e6f-a981-768e4e943dbd",
+     "title": "#37: Përballje Podcast: Jeton Zulfaj - Pse Kosova po humb mbi 40 milionë euro nga BE-ja?",
+     "audioUrl": "https://media.transistor.fm/9a6ba42a/78f557a5.mp3",
+     "publishedAt": "2026-07-21T13:59:51.000Z",
+     "durationSec": 2578,
+     "imageUrl": "https://img.transistorcdn.com/mt3EA9Sv4y_z9wIcI0hlBjbjRiR2fM9JRTTkQ7DdVpU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZWQ0/NzhiNzZjZDE3MzM5/ZDVmODNhZmZjNDBl/YmFjNy5qcGc.jpg",
+     "description": "Kryenegociatori i Kosovës me Bashkimin Evropian, Jeton Zulfaj, flet për temat kryesore që lidhen me integrimin evropian të Kosovës në BE. Pse llogariten të humbura mbi 40 milionë euro nga Plani i Rritjes? Cilat reforma nuk u përmbushën me kohë dhe cilat janë pasojat e krizës politike në raport me Brukselin? Si u përgjigjet ai kritikave se Kosova i humbi këto mjete dhe se po rrezikon të humbë një shans të rëndësishëm për integrim evropian? Në fokus të diskutimit janë edhe aplikimi i Kosovës për …",
+     "episodeNumber": 37
+    },
+    {
+     "id": "1845345706:6d10c3df-504b-4924-9838-e8c16ac27642",
+     "title": "#36: Përballje Podcast: Kushtrim Ajvazi  - A po bëhet e pamundur të prodhosh në Kosovë?",
+     "audioUrl": "https://media.transistor.fm/1b159fea/f6b11f70.mp3",
+     "publishedAt": "2026-07-21T13:54:11.000Z",
+     "durationSec": 2332,
+     "imageUrl": "https://img.transistorcdn.com/-ZOIf0lNlLzaW7qF_joyXpe1-lXGwYyoa4z1hDO2oVI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NzBj/NzEzMjg3MzllNGM0/ZmQxOTM2ZGRlNjNh/MzExYi5qcGc.jpg",
+     "description": "Në episodin e ri të “Përballje Podcast” diskutohet për prodhuesit vendorë të Kosovës. Kushtrim Ajvazi, drejtor i Shoqatës së Prodhuesve të Kosovës, e cila vepron në kuadër të Odës Ekonomike të Kosovës, flet për gjendjen e prodhimit vendor, daljen në tregun e lirë të energjisë, konkurrencën me importin dhe sfidat që po përcaktojnë të ardhmen ekonomike të vendit. A po bëhet gjithnjë e më e vështirë të prodhosh në Kosovë? Si po ndikojnë çmimet e energjisë te bizneset? A ka Kosova strategji për ind…",
+     "episodeNumber": 36
+    },
+    {
+     "id": "1845345706:c8635290-0083-4feb-b99a-1af8c2963ee2",
+     "title": "#35: Përballje Podcast: Donika Emini - A po humb Kosova momentin evropian?",
+     "audioUrl": "https://media.transistor.fm/81dd6044/bdd58322.mp3",
+     "publishedAt": "2026-07-21T13:48:33.000Z",
+     "durationSec": 2464,
+     "imageUrl": "https://img.transistorcdn.com/XQbddSDnYnOkC8c4OsHgTq6roRCrFp3bJhwEwE2GEaQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZWY1/Mjg0MzdiODhiMTYz/ZjRlMmU5MzM1NDlh/MTgwNi5qcGc.jpg",
+     "description": "Analistja politike dhe aktivistja e shoqërisë civile, Donika Emini, ka vlerësuar se Kosova po përballet me rrezikun e vazhdimit të krizës politike edhe pas zgjedhjeve të 7 qershorit, ndërsa paralajmëroi se vendi mund të humbasë një moment të rëndësishëm në procesin e integrimit evropian nëse institucionet nuk formohen shpejt. Në “Përballje Podcast”, Emini tha se zgjedhjet nuk e kanë zgjidhur problemin politik, por vetëm e kanë zhvendosur atë në një fazë tjetër.",
+     "episodeNumber": 35
+    },
+    {
+     "id": "1845345706:7c0061cd-acbe-4710-978f-454a955b51c2",
+     "title": "#34: Përballje Podcast: Agon Ahmeti - A po e ndryshon ChatGPT arsimin në Kosovë?",
+     "audioUrl": "https://media.transistor.fm/eba9ffb3/166b36dd.mp3",
+     "publishedAt": "2026-07-21T13:44:15.000Z",
+     "durationSec": 2714,
+     "imageUrl": "https://img.transistorcdn.com/tEEovCQ-epi26spBwc2HY_VWpstq7zbOApS7W6oNke0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNzIy/OWQwY2U5ZjYxYmZh/YWIxODE3MjdmMzky/ZGNlYS5qcGc.jpg",
+     "description": "Një studim i realizuar në Kosovë për përdorimin e Inteligjencës Artificiale në shkollat publike të Kosovës tregon se AI tashmë është bërë pjesë e përditshme e procesit. Cilat platforma po përdorin nxënësit në Kosovë dhe për çfarë? Cilat janë përfitimet dhe cilat rreziqet nga përdorimi i inteligjencës artificiale në arsim? Për çfarë po e përdorin nxënësit ChatGPT-in? Sa të përgatitura janë shkollat, drejtoritë komunale të arsimit dhe Ministria e Arsimit për këtë realitet të ri? Për këto flasim m…",
+     "episodeNumber": 34
+    },
+    {
+     "id": "1845345706:505cb926-5656-4f30-9e40-e276571cd88e",
+     "title": "#33: Përballje Podcast: Nenad Rashiq - Zgjedhjet e 7 qershorit, komuniteti serb dhe këndvështrimi tij",
+     "audioUrl": "https://media.transistor.fm/d8fd5a1a/c34477d3.mp3",
+     "publishedAt": "2026-07-21T13:28:34.000Z",
+     "durationSec": 2140,
+     "imageUrl": "https://img.transistorcdn.com/6zxrloX743-DbhnQ9FxKwjeHJ3eyPSx8LEd9l7vJVTU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDdj/ZDJhY2YyMjVmZDMx/ZjgxYTExMTkxZTMw/ZjdmZi5qcGc.jpg",
+     "description": "Kosova do të votojë të dielën, më 7 qershor. Akuzat dhe kundërakuzat mes partive politike shqiptare kanë lënë disi në hije vëmendjen ndaj komunitetit serb në vend. Në qendër të kësaj teme është roli i Listës Serbe, ndikimi i Beogradit në politikën e serbëve të Kosovës, presioni mbi votuesit dhe hapësira për alternativa të tjera politike brenda komunitetit serb. Për këto çështje në “Përballje Podcast” në Telegrafi ka folur Nenad Rashiq, politikan serb, ministër në detyrë për Komunitete dhe Kthim…",
+     "episodeNumber": 33
+    },
+    {
+     "id": "1845345706:c4f0aa95-be88-4973-b2d1-955776913cc6",
+     "title": "#32: Përballje Podcast: Arber Fetoshi nga OCTOPUS: Zgjedhjet, fake news, ndikimet e jashtme në Kosovë",
+     "audioUrl": "https://media.transistor.fm/187c756e/b978c251.mp3",
+     "publishedAt": "2026-07-21T13:23:04.000Z",
+     "durationSec": 2394,
+     "imageUrl": "https://img.transistorcdn.com/dQ7epKTweHKbErRUttDEIm-i1WvELs5yVavJ3qh2Pv8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMmQz/MGJkZTAwZTU4NTYx/YTQ3ZWU4NmNmZWJk/MzZlYy5qcGc.jpg",
+     "description": "Në këtë episod të Përballje Podcast, i ftuar është Arben Fetoshi nga OCTOPUS, me të cilin diskutohet për zgjedhjet parlamentare, integritetin zgjedhor, fake news dhe ndikimet e jashtme në Kosovë. Fetoshi flet për sfidat që mund të cenojnë procesin demokratik, për rrezikun nga kërcënimet hibride, për rolin e mediave dhe rrjeteve sociale, si dhe për nevojën që institucionet dhe qytetarët të jenë më të përgatitur përballë dezinformimit. Një diskutim për zgjedhjet, sigurinë kombëtare dhe demokracin…",
+     "episodeNumber": 32
+    },
+    {
      "id": "1845345706:f63b7e66-5a3f-48ac-ad24-3b28c26481ff",
      "title": "#31: Përballje Podcast: Arian Tahiri nga PDK - Pse Kosova po shkon në zgjedhje?",
      "audioUrl": "https://media.transistor.fm/2d14ea7b/fa5264fe.mp3",
@@ -1411,86 +1491,6 @@
      "imageUrl": "https://img.transistorcdn.com/IEqKrbOGvg6LRvSLgYdo5ZeS93vR67lfqpUoKAVjo_I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ODJh/YTI5NDBiZDhlYWNm/NTdmNDA1MmMzZTlm/YWM2ZS5qcGc.jpg",
      "description": "Inteligjenca artificiale dhe integriteti i informacionit ishte tema e radhës në “Përballje Podcast\" në Telegrafi. Në këtë podcast u diskutua se si po ndryshon mënyra e prodhimit dhe marrjes së informacionit. A është Inteligjenca Artificiale rrezik për median dhe integritetin e informacionit, apo thjesht një teknologji që përshpejton proceset ekzistuese?",
      "episodeNumber": 20
-    },
-    {
-     "id": "1845345706:61895eb0-b5ec-477f-8e54-61d69503d291",
-     "title": "#19: Përballje: Ejup Maqedonci flet për Ushtrinë e Kosovës, NATO-n dhe reagimet nga Serbia",
-     "audioUrl": "https://media.transistor.fm/8369e5e6/df607cb2.mp3",
-     "publishedAt": "2026-02-23T15:29:42.000Z",
-     "durationSec": 2473,
-     "imageUrl": "https://img.transistorcdn.com/dTO1mEKuIOH_HyILdrGpP-FHCXtwBLBlgdBUzyvS7Z4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZWE2/YjIzNDM2MGRiMWVk/NTgxMzVjMzhjMjI5/ZTQ3Yy5qcGc.jpg",
-     "description": "Ministri i Mbrojtjes, Ejup Maqedonci, ka deklaruar se 18 vjet pas shpalljes së pavarësisë, Kosova ka ndërtuar një ushtri moderne, profesionale dhe në përputhje me standardet e NATO-s, duke theksuar se vetëm në katër vitet e fundit janë investuar mbi 450 milionë euro në sisteme armatimi. Në një diskutim në “Përballje Podcast” me kryeredaktorin Muhamet Hajrullahu, Maqedonci tha se progresi më i madh në sektorin e mbrojtjes është arritur në vitet e fundit.",
-     "episodeNumber": 19
-    },
-    {
-     "id": "1845345706:f052d1c0-872c-451c-8b51-2fd59cad2d38",
-     "title": "#18: Përballje: Cili është roli i shoqërisë civile në Kosovë nga vitet ’90-ta deri sot? Bashkëbisedim me Taulant Hoxhën",
-     "audioUrl": "https://media.transistor.fm/005ec81f/179b1496.mp3",
-     "publishedAt": "2026-02-23T15:26:27.000Z",
-     "durationSec": 1898,
-     "imageUrl": "https://img.transistorcdn.com/Hp52u9R0Z50_db0PhiU6sZO5Fx2OSoA78AhRPzbSQkw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZDk3/YTE4YTYzNmE3NTgw/YTkzZDk2YTlkMGQ3/NDQ5Yy5qcGc.jpg",
-     "description": "Shoqëria civile ka qenë historikisht një nga shtyllat kryesore të organizimit shoqëror, duke luajtur rol kyç në mbrojtjen e interesit publik, dokumentimin e shkeljeve të të drejtave të njeriut dhe mbikëqyrjen e pushtetit.",
-     "episodeNumber": 18
-    },
-    {
-     "id": "1845345706:6858eef5-5313-40d9-9ab9-1677233aeb22",
-     "title": "#17: Përballje: Zgjedhjet, mediat dhe AI: çfarë po paralajmëron Komisioni i Pavarur i Mediave? Flet Niman Racaj",
-     "audioUrl": "https://media.transistor.fm/94836ed7/a704f939.mp3",
-     "publishedAt": "2026-02-23T15:13:02.000Z",
-     "durationSec": 1766,
-     "imageUrl": "https://img.transistorcdn.com/dYre4QPRYO7ukgLk-wbPPTzY-NIkkqor3KhGpHvVv9I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYzdl/NWI3NDdkMTJhZjg4/ODMwYmQzYjJmYzdl/OTZmZC5qcGc.jpg",
-     "description": "Përhapja e shpejtë e inteligjencës artificiale në prodhimin e përmbajtjeve mediatike po krijon sfida të reja për rregullatorët, mediat dhe publikun, veçanërisht në kontekstin e dezinformimit dhe proceseve zgjedhore. Në “Përballje Podcast”, Niman Racaj, ushtrues detyre i Kryeshefit Ekzekutiv të Komisioni i Pavarur i Mediave, ka theksuar se inteligjenca artificiale po e transformon rrënjësisht mënyrën e krijimit të përmbajtjes, por nuk e ndryshon parimin themelor të përgjegjësisë editoriale.",
-     "episodeNumber": 17
-    },
-    {
-     "id": "1845345706:170c1f4e-48b0-4661-bb67-56027a9db741",
-     "title": "#16: Përballje: Vjosa Osmani jep detaje për Bordin e Paqes dhe takimin me Donald Trump",
-     "audioUrl": "https://media.transistor.fm/9a3116db/fffb2bd1.mp3",
-     "publishedAt": "2026-02-06T15:38:16.000Z",
-     "durationSec": 1422,
-     "imageUrl": "https://img.transistorcdn.com/RMbF0iZMi-eYFsPTkrNciZCe2haZuLLDjWZlTimBcRQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNjZi/MWVkNDk3ODVhOGFm/M2I1YjQyMWI5MDE5/ZTdlYi5qcGc.jpg",
-     "description": "Në një intervistë ekskluzive për “Përballje Podcast” në Telegrafi.com, Presidentja e Kosovës, Vjosa Osmani, tregon çfarë do të thotë për Kosovën përfshirja në Bordin e Paqes të themeluar nga Shtetet e Bashkuara të Amerikës dhe cilat janë obligimet. Gjithashtu tregoi edhe për diskutimet që kishte me presidentin e ShBA-së, Donald Trump.",
-     "episodeNumber": 16
-    },
-    {
-     "id": "1845345706:fba15b42-7cda-41df-a9f6-8b626126b9e5",
-     "title": "#15: Përballje: Aimona Vogli thotë se verifikimi i fakteve është thelbësor në epokën e AI-së",
-     "audioUrl": "https://media.transistor.fm/4a77b5a5/80b40917.mp3",
-     "publishedAt": "2026-01-26T14:48:53.000Z",
-     "durationSec": 1585,
-     "imageUrl": "https://img.transistorcdn.com/w5_5GquaEuKlkg_Dfb2gt2bxZwFt_v7v069d5i0-WJs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jOThh/YmQxNjE0YmI0YmJk/MmRhODNhMzgwMmQz/ODZhMi5qcGc.jpg",
-     "description": "Në një kohë kur inteligjenca artificiale po e përshpejton prodhimin dhe shpërndarjen e përmbajtjeve, dezinformimi dhe keqinformimi janë shndërruar në një nga sfidat më serioze për mediat, demokracinë dhe proceset zgjedhore në rajon.",
-     "episodeNumber": 15
-    },
-    {
-     "id": "1845345706:0c7eb0b9-e111-461c-8457-13bd998c5430",
-     "title": "#14: Përballje: Janina Ymeri flet për situatën në sektorin e energjisë",
-     "audioUrl": "https://media.transistor.fm/627cca3c/6227b417.mp3",
-     "publishedAt": "2026-01-26T14:40:15.000Z",
-     "durationSec": 1597,
-     "imageUrl": "https://img.transistorcdn.com/wI4Mf-FHiwUYOMB2qPDvAAwSc2AK-Tge3RCns4Jw-kQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MzE2/N2YwOTE0OWZjODg0/M2RkNTZkNGM4NTA2/ZmQ1NS5qcGc.jpg",
-     "description": "Mungesa e energjisë elektrike dhe reduktimet e shpeshta të furnizimit gjatë muajit janar janë shndërruar në shqetësim serioz për qytetarët dhe bizneset në Kosovë. Për këtë temë është diskutuar në podcastin “Përballje” në Telegrafi.ku e ftuar ishte deputetja e zgjedhur nga Lidhja Demokratike e Kosovës, Janina Ymeri. #TeLegrafi #PërballjePodcast #JaninaYmeri",
-     "episodeNumber": 14
-    },
-    {
-     "id": "1845345706:555ae93a-a635-407e-a896-584bc911fdf3",
-     "title": "#13: Përballje: Agron Demi tregon se çfarë mund ta pret Kosovën në 2026",
-     "audioUrl": "https://media.transistor.fm/8cfd525e/acb47588.mp3",
-     "publishedAt": "2026-01-26T14:33:29.000Z",
-     "durationSec": 2123,
-     "imageUrl": "https://img.transistorcdn.com/v9E6TLo-jQLEzHMddNK5W-PRpe9FKrWJG6U06Rhky6E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMDRl/OTBmOTNjNDYxNzI2/NjU0MzY1ZTI2YTg5/MDNhNi5qcGc.jpg",
-     "description": "Kosova hyn në vitin 2026 me pritje për institucione të reja dhe me pritshmëri të larta për stabilitet politik dhe zhvillim ekonomik.Në “Përballje Podcast”, analisti i politikave Agron Demi ka folur për gjendjen ekonomike të vendit, prioritetet që e presin Qeverinë e re dhe rreziqet që mund ta shoqërojnë vitin 2026 nëse nuk ka ndryshim qasjeje.",
-     "episodeNumber": 13
-    },
-    {
-     "id": "1845345706:f692f701-e350-4b48-9735-e9dd9f006492",
-     "title": "#12: Përballje: 2026 do të jetë vit i nxehtë: Trump, tregjet dhe trusti - analiza e Emanuel Bajrës",
-     "audioUrl": "https://media.transistor.fm/25b9e38c/858e53f6.mp3",
-     "publishedAt": "2026-01-26T10:55:21.000Z",
-     "durationSec": 2598,
-     "imageUrl": "https://img.transistorcdn.com/fyF_yjIg6UdpJ6JepOEHrAf2uez_96prkOB1ZQ3Bsr0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZmIz/Y2VlODMwNjlkOTVj/MWVlZjAwNTI4MzBk/M2U4ZC5qcGc.jpg",
-     "description": "Viti 2025 ka shënuar një ndryshim të thellë në rendin gjeopolitik dhe ekonomik global, veçanërisht pas rikthimit të Donald Trump në Shtëpinë e Bardhë si president i Shteteve të Bashkuara të Amerikës. Kështu tha në “Përballje Podcast”, eksperti i tregjeve financiare ndërkombëtare, Emanuel Bajra #Telegrafi #PërballjePodcast #EmanuelBajra",
-     "episodeNumber": 12
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 79
+   "fails": 80
   },
   {
    "id": "aradio",
