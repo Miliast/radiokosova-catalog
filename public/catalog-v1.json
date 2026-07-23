@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-23T18:39:36.256Z",
+ "generatedAt": "2026-07-23T20:32:17.728Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 103
+   "fails": 104
   },
   {
    "id": "aradio",
