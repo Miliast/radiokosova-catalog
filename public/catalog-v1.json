@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-24T11:57:24.731Z",
+ "generatedAt": "2026-07-24T14:16:20.015Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1103,6 +1103,33 @@
    "description": "Podcasti “Shëndeti në rend të parë” me autore Elfije Boletini-Bejtullahu çdo të diele sjelle biseda informuese me profesionistë të shëndetësisë, mjekë, studiues dhe specialistë të fushave të ndryshme për t’i ofruar publikut informacion të saktë mbi çështje të rëndësishme që lidhen me shëndetin. Nga këshillat për një jetë të shëndetshme, informata për sëmundje të ndryshme, simptomat, diagnostikimin e trajtimet e fundit mjekësore, me bisedat me profesionistë të fushës përmes secilit episod synojmë të rrisim ndërgjegjësimin dhe të ndihmojmë dëgjuesit tanë të dinë më shumë për shëndetin e tyre. Podcasti trajton një gamë të gjerë temash për sëmundje kronike, shëndetin mendor, stilin e jetesës, përfshirë ushqyerjen dhe aktivitetin fizik, kujdesin ndaj grave dhe fëmijëve, kujdesin për të moshuarit, rëndësinë e parandalimit të sëmundjeve dhe edukimin shëndetësor, etj. Qëllimi i podcastit “Shëndeti në rend të parë” është të afrojë informacion të besueshëm dhe të dobishëm për publikun e gjerë, …",
    "episodes": [
     {
+     "id": "1812026405:56944700-472c-4ff1-bc8a-ed233b8e1e9a",
+     "title": "#81: Shëndeti në rend të parë - Naser Salihu, oftalmolog",
+     "audioUrl": "https://media.transistor.fm/1d6dfe0c/e706ce34.mp3",
+     "publishedAt": "2026-07-24T13:05:57.000Z",
+     "durationSec": 4038,
+     "imageUrl": "https://img.transistorcdn.com/3CmUVFp0Ocq_EVzJklEh6HTsoNVHJrG2BAKzHDo7_Lc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjIy/OGYzMTJiYzI2MWVk/MTlkYjE2NTJmYTVi/NDA0OC5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, oftalmologu dhe kirurgu i syrit, Naser Salihu foli për rëndësinë e kontrollit të hershëm të syve, sidomos te fëmijët para moshës shkollore. Në këtë episod trajtohen sëmundjet më të shpeshta të syrit, si katarakta, glaukoma, shkurtpamësia, largpamësia dhe astigmatizmi."
+    },
+    {
+     "id": "1812026405:2148c194-e17c-40f9-b8bd-2773ea505a0e",
+     "title": "#80: Shëndeti në rend të parë - radiolog, Ilir Ahmetxhekaj",
+     "audioUrl": "https://media.transistor.fm/b2f668f6/22d717a1.mp3",
+     "publishedAt": "2026-07-24T12:58:33.000Z",
+     "durationSec": 2807,
+     "imageUrl": "https://img.transistorcdn.com/NoGe3cSAGnL01DlTIsUpoVw6XbvDOeYloEdZlmC1zT0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MDY5/Y2I5OWRkYzZhNTNm/ZGY3MzQwNzEzODYx/MDgzMi5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, radiologu Ilir Ahmetxhekaj ka folur për rëndësinë e diagnostikimit të hershëm dhe zhvillimet më të fundit në radiologji. Ai shpjegon rolin e inteligjencës artificiale në ekzaminimet moderne, dallimet mes metodave diagnostikuese dhe rëndësinë e interpretimit profesional të imazheve."
+    },
+    {
+     "id": "1812026405:11da6a3a-ac85-4c44-a1db-ec4f6370fc0e",
+     "title": "#79: Shëndeti në rend të parë - Bujar Gashi, Specialist i Mjekësisë Familjare",
+     "audioUrl": "https://media.transistor.fm/172e2fac/b4823dc7.mp3",
+     "publishedAt": "2026-07-24T12:47:09.000Z",
+     "durationSec": 3161,
+     "imageUrl": "https://img.transistorcdn.com/NXwlMTDNwPaMPXQuuZ9_T_GhQyO0FWpYiMkHncpTX4A/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZGRi/NDcxMTg0YWEwOGJk/YzE1MDg5ZWFkMTRi/ZTM5Ni5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, i ftuar është specialisti i mjekësisë familjare, Bujar Gashi. Ai flet për rëndësinë e mjekësisë familjare, sfidat e profesionit, përvojën gjatë pandemisë COVID-19 dhe vizionin për zhvillimin e shërbimeve shëndetësore në Kosovë. Në këtë bisedë ai ndan edhe historinë e tij personale, sakrificat, vlerat që e kanë formësuar si mjek dhe mesazhet që dëshiron t’u përcjellë brezave të rinj."
+    },
+    {
      "id": "1812026405:37aefa1b-77f4-46eb-87c4-252563c6f550",
      "title": "#78: Shëndeti në rend të parë - Specialiste e Ortodoncisë, Pasionare Xharra-Budima",
      "audioUrl": "https://media.transistor.fm/3399436b/179be90a.mp3",
@@ -1254,33 +1281,6 @@
      "durationSec": 4842,
      "imageUrl": "https://img.transistorcdn.com/jGtZ2u4S6ZKBO5iD6n1YrlvKg1Lqz0jY0hGNsah0LD8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWYy/MjVjMzZkZWU3ODI4/ZDM2ZjYwYjhmYWJh/NDgwYS5qcGc.jpg",
      "description": "Në episodin e 62-të të podcastit Shëndeti në rend të parë, i përkrahur nga United Hospital, mjeku dhe nutricionisti sportiv Agron Rexhepi ka folur për rolin e ushqimit në shëndetin e përgjithshëm, balancimin e peshës trupore dhe pasojat e kequshqyerjes. Po ashtu ai diskutoi edhe rreth dietave ekstreme, konsumit të mishit, rëndësisë së drithërave integrale dhe hidratimit të duhur. Në pjesë e dytë të emisionit Rexhepi ka folur edhe për agjërimin, dhe të mirat që i ka trupi gjatë këtij procesi. Mb…"
-    },
-    {
-     "id": "1812026405:299dc40e-373d-4c5b-ac3c-82541caab789",
-     "title": "#61: Shëndeti në rend të parë - Specialiste e Mjekësisë Interne, Fjolla Zhubi-Bakija",
-     "audioUrl": "https://media.transistor.fm/ec283c94/59ef884c.mp3",
-     "publishedAt": "2026-02-06T10:06:00.000Z",
-     "durationSec": 3018,
-     "imageUrl": "https://img.transistorcdn.com/Hw8PLdeQoFtuZ08isqPGhevtM_K1O3DBP0Esekek-Ok/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNTZj/OWFmZjMxZDFmN2Nl/ZTU1NDNkYzYzZjI5/MWY5ZC5qcGc.jpg",
-     "description": "Në episodin e 61-të të podcastit “Shëndeti në rend të parë”, flasim për një nga temat më të rëndësishme të shëndetit publik: shëndetin e zemrës. E ftuar është Fjolla Zhubi Bakija, specialiste e Mjekësisë Interne dhe Kardiologjisë, e cila ndan informacione të rëndësishme mbi rritjen e rasteve të infarktit në moshë të re. Diskutohet roli i stilit të jetesës, stresit dhe gjumit në sëmundjet kardiovaskulare. Sqarohen simptomat tipike dhe jotipike të infarktit, veçanërisht te gratë dhe personat me d…"
-    },
-    {
-     "id": "1812026405:7fff2935-9d55-40a2-add6-1436a79d3304",
-     "title": "#60: Shëndeti në rend të parë - trajner fitnesi, Arbër Peci",
-     "audioUrl": "https://media.transistor.fm/107bebf7/05ae7722.mp3",
-     "publishedAt": "2026-02-06T09:04:43.000Z",
-     "durationSec": 2502,
-     "imageUrl": "https://img.transistorcdn.com/KCPFMvla38TeP9WkfCKBGJAxnlTc6-OEgsX8uQlzkd8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ODMz/NjZkMmFmZmFiNTJh/ZTNmYjU1MDcwNDUx/ZDk4ZS5qcGc.jpg",
-     "description": "Në episodin e 60-të të podcastit “Shëndeti në rend të parë”, trajneri i fitnesit, Arbër Peci ka folur për suplementet ushqimore dhe rolin e tyre real në fitnes dhe shëndet. Ai ndau dallimin mes miteve dhe fakteve rreth proteinës, kreatinës, BCAA-ve dhe pre-workout, për suplementet që janë të nevojshme dhe kur janë të panevojshme. Peci ka folur për rreziqet e keqpërdorimit dhe mbidozimit të tyre. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern dhe …"
-    },
-    {
-     "id": "1812026405:3151f8b4-a322-4c71-8264-ebb07ad7db8b",
-     "title": "#59: Shëndeti në rend të parë - psikologe e kriminologjisë, Dita Makasqi",
-     "audioUrl": "https://media.transistor.fm/7ccfd408/d5db8ed0.mp3",
-     "publishedAt": "2026-01-26T15:29:34.000Z",
-     "durationSec": 2976,
-     "imageUrl": "https://img.transistorcdn.com/pJCL2hy_xIeEmWdEJRqxYSIjXcubvbik-0hB3M2x1WM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hN2Ri/YWUwNDRhYTRkMDky/MGE4NTlmN2ZkZjVm/YmQ2OS5qcGc.jpg",
-     "description": "Në episodin e 59-të të podcastit “Shëndeti në rend të parë”, e ftuar është Dita Makasqi, psikologe e kriminologjisë, e cila shpjegon pse kriminalët nuk lindin të tillë, por formohen nga faktorë socialë, familjarë dhe psikologjikë. Diskutuam për rolin e familjes dhe shkollës në parandalimin e sjelljeve të rrezikshme tek të rinjtë. Ndalesë e veçantë i bëhet ndikimit të rrjeteve sociale në shëndetin mendor të fëmijëve dhe adoleshentëve. Po ashtu Makasqi foli edhe për shenjat e para të ankthit dhe …"
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 110
+   "fails": 111
   },
   {
    "id": "aradio",
