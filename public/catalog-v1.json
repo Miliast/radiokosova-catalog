@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-25T09:14:00.824Z",
+ "generatedAt": "2026-07-25T10:47:40.493Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/investime-renovime-shtreter-qkuk/33812451.html",
+     "title": "Nga investimet në renovime te shtretërit e prishur: Çfarë po dështon në QKUK?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/24/8ffa13ea-4f20-4ff5-43e3-08decacf94d0_hq.mp3",
+     "publishedAt": "2026-07-25T09:55:59.000Z",
+     "durationSec": 1829,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Në podkastin 5 pyetje të Radios Evropa e Lirë, gazetarja Saranda Ramaj, thotë se reagimi i madh i qytetarëve ndaj fotografive nga Pediatria lidhet me faktin se ato nuk paraqesin vetëm një rast të veçantë, por një problem më të gjerë që pacientët e kanë përjetuar edhe në klinika të tjera."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/audio-podcast-dukagjin-popovci/33805804.html",
      "title": "A po i çojnë studimet të rinjtë drejt punësimit apo vetëm drejt një diplome?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/17/3b6af54d-37f8-4644-168c-08decad58b60_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1901,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Në një kohë tensionesh mes SHBA-së dhe Iranit, sa mund të preket siguria në Kosovë dhe në Ballkanin Perëndimor? Eksperti i sigurisë, Adrian Shtuni, flet në podkastin 5 pyetje të Radios Evropa e Lirë për rreziqet e mundshme."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/ekonomia-kosova-sfidat-lufta-irani/33697702.html",
-     "title": "Si e prek lufta në Iran ekonominë e Kosovës?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/03/06/de2eb056-849c-4675-ccd2-08de3c914337_hq.mp3",
-     "publishedAt": "2026-03-07T10:52:32.000Z",
-     "durationSec": 1568,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Tensionet në Lindjen e Mesme, lufta në Iran, mbyllja e Ngushticës së Hormuzit po shtojnë frikën për tronditje në ekonominë globale. Sa mund të ndikojnë këto zhvillime në ekonominë e Kosovës? A pritet rritje e çmimeve, dhe si duhet të reagojë shteti? Për këto çështje flasim në podkastin 5 pyetje me eksperten e tregtisë, Sytrime Dervisholli."
     }
    ]
   },
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 119
+   "fails": 120
   },
   {
    "id": "aradio",
@@ -3376,8 +3376,8 @@
   },
   {
    "id": "antennaprishtina",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiozemra",
@@ -3432,7 +3432,7 @@
   {
    "id": "glamradio",
    "online": false,
-   "fails": 5
+   "fails": 6
   },
   {
    "id": "glamcoffee",
@@ -3456,13 +3456,13 @@
   },
   {
    "id": "awferizaj",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "awgjilan",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "albradio",
