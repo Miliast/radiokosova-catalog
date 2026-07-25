@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-25T10:47:40.493Z",
+ "generatedAt": "2026-07-25T12:11:18.370Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 120
+   "fails": 121
   },
   {
    "id": "aradio",
@@ -3376,8 +3376,8 @@
   },
   {
    "id": "antennaprishtina",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiozemra",
@@ -3432,7 +3432,7 @@
   {
    "id": "glamradio",
    "online": false,
-   "fails": 6
+   "fails": 7
   },
   {
    "id": "glamcoffee",
@@ -3456,13 +3456,13 @@
   },
   {
    "id": "awferizaj",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awgjilan",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "albradio",
