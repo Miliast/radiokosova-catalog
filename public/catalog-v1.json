@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-26T07:46:57.275Z",
+ "generatedAt": "2026-07-26T10:14:31.540Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 131
+   "fails": 132
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radiostar",
@@ -3432,7 +3432,7 @@
   {
    "id": "glamradio",
    "online": false,
-   "fails": 17
+   "fails": 18
   },
   {
    "id": "glamcoffee",
