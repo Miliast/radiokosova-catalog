@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-26T11:39:53.273Z",
+ "generatedAt": "2026-07-26T14:01:50.405Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3361,13 +3361,13 @@
   },
   {
    "id": "radioalba",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 133
+   "fails": 134
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 6
+   "fails": 7
   },
   {
    "id": "radiostar",
@@ -3432,7 +3432,7 @@
   {
    "id": "glamradio",
    "online": false,
-   "fails": 19
+   "fails": 20
   },
   {
    "id": "glamcoffee",
@@ -3451,8 +3451,8 @@
   },
   {
    "id": "radioalbafolk",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "awferizaj",
