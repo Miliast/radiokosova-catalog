@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-27T07:55:34.456Z",
+ "generatedAt": "2026-07-27T11:43:41.039Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,51 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25572",
+     "title": "House Nation 27/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25572/house-nation-27-07-2026.mp3",
+     "publishedAt": "2026-07-27T10:34:12.000Z",
+     "durationSec": 2991,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25570",
+     "title": "Hip Hop On Top 25/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25570/hip-hop-on-top-25-07-2026.mp3",
+     "publishedAt": "2026-07-27T10:33:08.000Z",
+     "durationSec": 2703,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Hip Hop at it’s best. Top Albania Radio ka një traditë të transmetimit të Hip Hop-it që në fillimin e saj, atëhere kur kjo rrymë konsiderohej nga kritikët si denigrim i muzikës. Ky program sjell më të mirat e rrap-it të pa censuruara, dje dhe sot, duke zgjuar nostalgji dhe duke ju prezantuar hitet që do trondisin bokset e makinës tuaj, të miksuara nga Dj Keddos."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25568",
+     "title": "“S’ke personalitet!” Ida shpërthen ndaj Kaderit pas përplasjes me Suhin: Je agresive, arrogante!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25568/ske-personalitet-ida-shperthen-ndaj-kaderit-pas-perplasjes-me-suhin-je-agresive-arrogante.mp3",
+     "publishedAt": "2026-07-27T10:29:40.000Z",
+     "durationSec": 5047,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Rikthehet “She&#8217;s On Top Club”! Këtë sezon të dytë vjen ekskluzivisht në Top Albania Radio. Programi që nxjerr çdo “sekret” të konkurrenteve të spektaklit të modës “She&#8217;s On Top”; çdo përballje, prapaskenat që nuk mund t’i shihni gjatë sfidave, seteve fotografike dhe spektaklit të së dielave do mund t’i zbuloni vetëm në “She&#8217;s On Top Club”. Programi ka në fokus emocionet, rivalitetet, marrëdhëniet dhe përjetimet e konkurrenteve, duke i afruar ato më pranë publikut përtej magjis…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25567",
+     "title": "Fituesja e “She’s on Top 7”: Do ndjek studimet dhe ëndrrën për TV! BBV qëllimi i rradhës?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25567/fituesja-e-shes-on-top-7-do-ndjek-studimet-dhe-endrren-per-tv-bbv-qellimi-i-rradhes-wake-up.mp3",
+     "publishedAt": "2026-07-27T08:53:23.000Z",
+     "durationSec": 1023,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25564",
+     "title": "Ekspertja e rekrutimeve: Jo krahasime mes brezash në tregun e punës!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25564/ekspertja-e-rekrutimeve-jo-krahasime-mes-brezash-ne-tregun-e-punes-wake-up.mp3",
+     "publishedAt": "2026-07-27T08:52:33.000Z",
+     "durationSec": 1274,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25561",
      "title": "Tensionet SHBA-Iran. Eksperti: Pritej rikthimi i luftës për këto tre arsye!/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25561/tensionet-shba-iran-eksperti-pritej-rikthimi-i-luftes-per-keto-tre-arsye-wake-up.mp3",
@@ -2443,51 +2488,6 @@
      "durationSec": 2023,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Top Albania Radio vjen me një mbulim 360° të Kampionatit Botëror të Futbollit 2026. Me analiza, informacione, të ftuar specialistë të futbollit, personazhe VIP dhe tifozë, si edhe situata gazmore për të përcjellë një atmosferë energjike në radio dhe për të vazhduar traditën e informacionit sportiv live në valët e radios më të dëgjuar shqiptare në botë. Glent Nallbani, Lorenc Jemini dhe Livia Brunga, mendojnë për të gjithë ju dashamirës të futbollit duke ardhur me një emision të dedikuar plotësi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25525",
-     "title": "PASO’ 15 Korrik. Spanja leksion botës. Messi përballë Bellingam dhe Kane",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25525/paso-15-korrik-spanja-leksion-botes-messi-perballe-bellingam-dhe-kane.mp3",
-     "publishedAt": "2026-07-15T15:02:58.000Z",
-     "durationSec": 2130,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Top Albania Radio vjen me një mbulim 360° të Kampionatit Botëror të Futbollit 2026. Me analiza, informacione, të ftuar specialistë të futbollit, personazhe VIP dhe tifozë, si edhe situata gazmore për të përcjellë një atmosferë energjike në radio dhe për të vazhduar traditën e informacionit sportiv live në valët e radios më të dëgjuar shqiptare në botë. Glent Nallbani, Lorenc Jemini dhe Livia Brunga, mendojnë për të gjithë ju dashamirës të futbollit duke ardhur me një emision të dedikuar plotësi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25527",
-     "title": "“Shqiptarët në Top 5 në botë nga madhësia e pen*sit”, shokon mjeku kirurg:Nivele të larta anatomike!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25527/shqiptaret-ne-top-5-ne-bote-nga-madhesia-e-pensit-shokon-mjeku-kirurgnivele-te-larta-anatomike.mp3",
-     "publishedAt": "2026-07-15T14:51:48.000Z",
-     "durationSec": 2247,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25521",
-     "title": "House Nation 14/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25521/house-nation-14-07-2026.mp3",
-     "publishedAt": "2026-07-14T13:34:07.000Z",
-     "durationSec": 2797,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25519",
-     "title": "PASO 14 Korrik. Trendi i ri botëror, si po dominon Franca dhe Spanja shekullin e 21",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25519/paso-14-korrik-trendi-i-ri-boteror-si-po-dominon-franca-dhe-spanja-shekullin-e-21.mp3",
-     "publishedAt": "2026-07-14T13:32:39.000Z",
-     "durationSec": 2073,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Top Albania Radio vjen me një mbulim 360° të Kampionatit Botëror të Futbollit 2026. Me analiza, informacione, të ftuar specialistë të futbollit, personazhe VIP dhe tifozë, si edhe situata gazmore për të përcjellë një atmosferë energjike në radio dhe për të vazhduar traditën e informacionit sportiv live në valët e radios më të dëgjuar shqiptare në botë. Glent Nallbani, Lorenc Jemini dhe Livia Brunga, mendojnë për të gjithë ju dashamirës të futbollit duke ardhur me një emision të dedikuar plotësi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25512",
-     "title": "Eksperti rrugor: Po, në verë rritet numri i aksidenteve. Çfarë ndodh me shoferët?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25512/eksperti-rrugor-po-ne-vere-rritet-numri-i-aksidenteve-cfare-ndodh-me-shoferet-wake-up.mp3",
-     "publishedAt": "2026-07-14T10:53:15.000Z",
-     "durationSec": 1362,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 142
+   "fails": 143
   },
   {
    "id": "aradio",
@@ -3376,13 +3376,13 @@
   },
   {
    "id": "antennaprishtina",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 15
+   "fails": 16
   },
   {
    "id": "radiostar",
@@ -3456,13 +3456,13 @@
   },
   {
    "id": "awferizaj",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awgjilan",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "albradio",
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": false,
-   "fails": 2
+   "fails": 3
   }
  ]
 }
