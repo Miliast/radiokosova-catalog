@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T16:53:03.105Z",
+ "generatedAt": "2026-07-28T18:49:49.226Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25584",
+     "title": "Një Miley Cyrus e re po vjen: album, label i ri dhe rikthim në aktrim",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25584/nje-miley-cyrus-e-re-po-vjen-album-label-i-ri-dhe-rikthim-ne-aktrim.mp3",
+     "publishedAt": "2026-07-28T17:39:58.000Z",
+     "durationSec": 136,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25582",
+     "title": "Raporti i DASH: Krimi dhe korrupsioni mbeten sfidat e Shqipërisë!- Edicioni informativ 28/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25582/raporti-i-dash-krimi-dhe-korrupsioni-mbeten-sfidat-e-shqiperise-edicioni-informativ-28-07-2026.mp3",
+     "publishedAt": "2026-07-28T17:39:46.000Z",
+     "durationSec": 493,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 28 Korrik."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25580",
      "title": "Rrëmbeu dokumentin, a mund të shpallet “Non Grata” Agron Shehaj?",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25580/rrembeu-dokumentin-a-mund-te-shpallet-non-grata-agron-shehaj.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 2074,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25538",
-     "title": "Librat që duhet të lexojmë patjetër poshtë çadrës!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25538/librat-qe-duhet-te-lexojme-patjeter-poshte-cadres-wake-up.mp3",
-     "publishedAt": "2026-07-17T15:10:26.000Z",
-     "durationSec": 1551,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25537",
-     "title": "“Tirana College of Technology”, çfarë ofron për të ardhmen e maturantëve?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25537/tirana-college-of-technology-cfare-ofron-per-te-ardhmen-e-maturanteve-wake-up.mp3",
-     "publishedAt": "2026-07-17T15:09:42.000Z",
-     "durationSec": 1286,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 154
+   "fails": 155
   },
   {
    "id": "aradio",
@@ -3377,12 +3377,12 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 27
+   "fails": 28
   },
   {
    "id": "radiostar",
@@ -3457,12 +3457,12 @@
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "albradio",
