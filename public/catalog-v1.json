@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T12:16:19.531Z",
+ "generatedAt": "2026-07-28T14:45:34.723Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25580",
+     "title": "Rrëmbeu dokumentin, a mund të shpallet “Non Grata” Agron Shehaj?",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25580/rrembeu-dokumentin-a-mund-te-shpallet-non-grata-agron-shehaj.mp3",
+     "publishedAt": "2026-07-28T12:49:29.000Z",
+     "durationSec": 2467,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "I ftuar në “Live From Tirana” me Ronaldo Sharkën, ka qenë deputeti i partisë “Mundësia”, Erald Kapri, për të diskutuar mbi çështjen e Agron Shehajt, i cili rrëmbeu marrëveshjen konfidenciale me SHBA-të në Kuvend dhe iku me vrap. Ndërkohë, këshilltarja që e ndoqi deputetin, u rrëzua nga shkallët dhe pësoi lëndime."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25574",
      "title": "House Nation 28/07/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25574/house-nation-28-07-2026.mp3",
@@ -2477,15 +2486,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25537/tirana-college-of-technology-cfare-ofron-per-te-ardhmen-e-maturanteve-wake-up.mp3",
      "publishedAt": "2026-07-17T15:09:42.000Z",
      "durationSec": 1286,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25535",
-     "title": "“Heritage Is Our Brand”, projekti i 15 nismave kreative mbi trashëgiminë kulturore!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25535/heritage-is-our-brand-projekti-i-15-nismave-kreative-mbi-trashegimine-kulturore-wake-up.mp3",
-     "publishedAt": "2026-07-16T15:20:37.000Z",
-     "durationSec": 1440,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 152
+   "fails": 153
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 25
+   "fails": 26
   },
   {
    "id": "radiostar",
