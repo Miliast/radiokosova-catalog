@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T09:59:47.393Z",
+ "generatedAt": "2026-07-29T12:23:43.322Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25591",
+     "title": "House Nation 29/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25591/house-nation-29-07-2026.mp3",
+     "publishedAt": "2026-07-29T12:00:00.000Z",
+     "durationSec": 3019,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25590",
      "title": "Fëmijë në plazh pa rroba banjo? Terapistja neurozhvillimore: Nuk duhet për këto arsye!/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25590/femije-ne-plazh-pa-rroba-banjo-terapistja-neurozhvillimore-nuk-duhet-per-keto-arsye-wake-up.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2798,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25540",
-     "title": "Financim deri në 2 milion euro për sipërmarrjet e vogla! -Edicioni Kryesor Informativ 17/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25540/financim-deri-ne-2-milion-euro-per-sipermarrjet-e-vogla-edicioni-kryesor-informativ-17-07-2026.mp3",
-     "publishedAt": "2026-07-17T15:13:55.000Z",
-     "durationSec": 352,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 161
+   "fails": 162
   },
   {
    "id": "aradio",
@@ -3377,12 +3377,12 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 34
+   "fails": 35
   },
   {
    "id": "radiostar",
@@ -3457,12 +3457,12 @@
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "albradio",
