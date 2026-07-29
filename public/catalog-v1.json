@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T22:19:21.923Z",
+ "generatedAt": "2026-07-29T00:11:46.236Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 157
+   "fails": 158
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 30
+   "fails": 31
   },
   {
    "id": "radiostar",
