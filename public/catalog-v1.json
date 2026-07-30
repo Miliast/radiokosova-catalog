@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-30T09:45:01.922Z",
+ "generatedAt": "2026-07-30T12:06:21.610Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25599",
+     "title": "House Nation 30/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25599/house-nation-30-07-2026.mp3",
+     "publishedAt": "2026-07-30T12:04:14.000Z",
+     "durationSec": 2985,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25595",
      "title": "Giserd Marqeshi, pedagogu shqiptar në Universitetin e Nottingham-it në Angli rrëfen historinë e tij!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25595/giserd-marqeshi-pedagogu-shqiptar-ne-universitetin-e-nottingham-it-ne-angli-rrefen-historine-e-tij.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2712,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Hip Hop at it’s best. Top Albania Radio ka një traditë të transmetimit të Hip Hop-it që në fillimin e saj, atëhere kur kjo rrymë konsiderohej nga kritikët si denigrim i muzikës. Ky program sjell më të mirat e rrap-it të pa censuruara, dje dhe sot, duke zgjuar nostalgji dhe duke ju prezantuar hitet që do trondisin bokset e makinës tuaj, të miksuara nga Dj Keddos."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25556",
-     "title": "28 milion €, shifrat ekstreme që investojnë shqiptarët në makinat e tyre, ‘sekretet’ &#038; të pathënat!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25556/28-milion-e-shifrat-ekstreme-qe-investojne-shqiptaret-ne-makinat-e-tyre-sekretet-te-pathenat.mp3",
-     "publishedAt": "2026-07-20T16:45:57.000Z",
-     "durationSec": 2003,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 171
+   "fails": 172
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 44
+   "fails": 45
   },
   {
    "id": "radiostar",
