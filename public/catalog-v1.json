@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T23:26:57.053Z",
+ "generatedAt": "2026-07-30T03:33:40.941Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 168
+   "fails": 169
   },
   {
    "id": "aradio",
@@ -3377,12 +3377,12 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 41
+   "fails": 42
   },
   {
    "id": "radiostar",
@@ -3457,12 +3457,12 @@
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "albradio",
