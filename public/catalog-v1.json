@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T00:17:00.042Z",
+ "generatedAt": "2026-07-31T03:56:48.747Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 178
+   "fails": 179
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 51
+   "fails": 52
   },
   {
    "id": "radiostar",
@@ -3452,7 +3452,7 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "awferizaj",
