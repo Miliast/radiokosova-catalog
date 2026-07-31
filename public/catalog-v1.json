@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T12:20:47.401Z",
+ "generatedAt": "2026-07-31T15:31:06.894Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25614",
+     "title": "Filmat që nuk duhet të humbisni kurrsesi këtë verë!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25614/filmat-qe-nuk-duhet-te-humbisni-kurrsesi-kete-vere.mp3",
+     "publishedAt": "2026-07-31T13:00:15.000Z",
+     "durationSec": 1006,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25615",
+     "title": "Banorët e BBV apo politikanët/Çunat e Inking Tattoo zbulojnë sekretet: Tatuazhe në vendin intim…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25615/banoret-e-bbv-apo-politikanet-cunat-e-inking-tattoo-zbulojne-sekretet-tatuazhe-ne-vendin-intim.mp3",
+     "publishedAt": "2026-07-31T12:58:38.000Z",
+     "durationSec": 1876,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Të ftuar në &#8220;Live From Tirana&#8221; me Ronaldo Sharkën, kanë qenë Dario dhe Kenzo nga Inking Tattoo Studio. Ata kanë folur më shumë për tatuazhet që kërkohen më shumë nga klientët sot si dhe kanë treguar se çfarë tatuazhesh do i bënin personazheve të showbizit apo politikanëve&#8230;"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25612",
      "title": "House Nation 31/07/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25612/house-nation-31-07-2026.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 2991,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25570",
-     "title": "Hip Hop On Top 25/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25570/hip-hop-on-top-25-07-2026.mp3",
-     "publishedAt": "2026-07-27T10:33:08.000Z",
-     "durationSec": 2703,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Hip Hop at it’s best. Top Albania Radio ka një traditë të transmetimit të Hip Hop-it që në fillimin e saj, atëhere kur kjo rrymë konsiderohej nga kritikët si denigrim i muzikës. Ky program sjell më të mirat e rrap-it të pa censuruara, dje dhe sot, duke zgjuar nostalgji dhe duke ju prezantuar hitet që do trondisin bokset e makinës tuaj, të miksuara nga Dj Keddos."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25568",
-     "title": "“S’ke personalitet!” Ida shpërthen ndaj Kaderit pas përplasjes me Suhin: Je agresive, arrogante!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25568/ske-personalitet-ida-shperthen-ndaj-kaderit-pas-perplasjes-me-suhin-je-agresive-arrogante.mp3",
-     "publishedAt": "2026-07-27T10:29:40.000Z",
-     "durationSec": 5047,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Rikthehet “She&#8217;s On Top Club”! Këtë sezon të dytë vjen ekskluzivisht në Top Albania Radio. Programi që nxjerr çdo “sekret” të konkurrenteve të spektaklit të modës “She&#8217;s On Top”; çdo përballje, prapaskenat që nuk mund t’i shihni gjatë sfidave, seteve fotografike dhe spektaklit të së dielave do mund t’i zbuloni vetëm në “She&#8217;s On Top Club”. Programi ka në fokus emocionet, rivalitetet, marrëdhëniet dhe përjetimet e konkurrenteve, duke i afruar ato më pranë publikut përtej magjis…"
     }
    ]
   },
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 182
+   "fails": 183
   },
   {
    "id": "aradio",
@@ -3377,12 +3377,12 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 55
+   "fails": 56
   },
   {
    "id": "radiostar",
@@ -3452,17 +3452,17 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 7
+   "fails": 8
   },
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "albradio",
