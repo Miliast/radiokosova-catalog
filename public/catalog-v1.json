@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T10:01:43.608Z",
+ "generatedAt": "2026-07-31T12:20:47.401Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25612",
+     "title": "House Nation 31/07/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25612/house-nation-31-07-2026.mp3",
+     "publishedAt": "2026-07-31T12:00:00.000Z",
+     "durationSec": 2912,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25606",
      "title": "Arinda Gjoni: Po punoj për albumin tim të parë, do befasoheni në Shtator!/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25606/arinda-gjoni-po-punoj-per-albumin-tim-te-pare-do-befasoheni-ne-shtator-wake-up.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 5047,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Rikthehet “She&#8217;s On Top Club”! Këtë sezon të dytë vjen ekskluzivisht në Top Albania Radio. Programi që nxjerr çdo “sekret” të konkurrenteve të spektaklit të modës “She&#8217;s On Top”; çdo përballje, prapaskenat që nuk mund t’i shihni gjatë sfidave, seteve fotografike dhe spektaklit të së dielave do mund t’i zbuloni vetëm në “She&#8217;s On Top Club”. Programi ka në fokus emocionet, rivalitetet, marrëdhëniet dhe përjetimet e konkurrenteve, duke i afruar ato më pranë publikut përtej magjis…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25567",
-     "title": "Fituesja e “She’s on Top 7”: Do ndjek studimet dhe ëndrrën për TV! BBV qëllimi i rradhës?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25567/fituesja-e-shes-on-top-7-do-ndjek-studimet-dhe-endrren-per-tv-bbv-qellimi-i-rradhes-wake-up.mp3",
-     "publishedAt": "2026-07-27T08:53:23.000Z",
-     "durationSec": 1023,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
    ]
   },
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 181
+   "fails": 182
   },
   {
    "id": "aradio",
@@ -3377,12 +3377,12 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 54
+   "fails": 55
   },
   {
    "id": "radiostar",
@@ -3452,17 +3452,17 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 6
+   "fails": 7
   },
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "albradio",
