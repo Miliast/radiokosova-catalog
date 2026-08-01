@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T09:24:19.102Z",
+ "generatedAt": "2026-08-01T11:36:24.490Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/vdekje-vendi-punes-deshtimi-siguria/33819187.html",
+     "title": "Vdekjet në vendin e punës: Ku po dështon siguria e punëtorëve?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/31/178cde66-2ded-46c7-450d-08decacf94d0_hq.mp3",
+     "publishedAt": "2026-08-01T10:00:39.000Z",
+     "durationSec": 1307,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Rreth 20 persona humbën jetën në vendin e punës gjatë vitit 2025, ndërsa mbi dhjetë raste me fatalitet janë regjistruar deri më tani këtë vit, sipas të dhënave të Inspektoratit Qendror të Punës."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/investime-renovime-shtreter-qkuk/33812451.html",
      "title": "Nga investimet në renovime te shtretërit e prishur: Çfarë po dështon në QKUK?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/24/8ffa13ea-4f20-4ff5-43e3-08decacf94d0_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1580,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Rreziku për rritje çmimesh në Kosovë mbetet i lidhur me zhvillimet në Lindjen e Mesme, por Qeveria thotë se po ndërhyn për ta mbajtur situatën nën kontroll. Ministrja e Tregtisë, Mimoza Kusari-Lila, thotë në podkastin e Radios Evropa e Lirë “5 Pyetje” se kufizimi i marzhës së fitimit i ka frenuar abuzimet dhe paralajmëron masa të reja, sikurse çmimet tavan, për produktet bazë."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/kosova-dhe-ballkani-lindja-e-mesme/33704702.html",
-     "title": "Si rrezikohen Kosova dhe Ballkani nga lufta në Lindjen e Mesme",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/03/13/294de012-c46b-4339-fa2e-08de3c642a37_hq.mp3",
-     "publishedAt": "2026-03-14T11:00:26.000Z",
-     "durationSec": 1901,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Në një kohë tensionesh mes SHBA-së dhe Iranit, sa mund të preket siguria në Kosovë dhe në Ballkanin Perëndimor? Eksperti i sigurisë, Adrian Shtuni, flet në podkastin 5 pyetje të Radios Evropa e Lirë për rreziqet e mundshme."
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 190
+   "fails": 191
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 63
+   "fails": 64
   },
   {
    "id": "radiostar",
