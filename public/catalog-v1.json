@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T12:20:51.168Z",
+ "generatedAt": "2026-08-04T15:39:03.658Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25618",
+     "title": "Këto janë 10 albumet më të mira të të gjitha kohërave sipas Apple Music!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25618/keto-jane-10-albumet-me-te-mira-te-te-gjitha-koherave-sipas-apple-music.mp3",
+     "publishedAt": "2026-08-04T14:46:50.000Z",
+     "durationSec": 319,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25607",
      "title": "Vajzat kundër Negisës? Përballja e madhe pas finales së She‘s On Top! Lot, emocione dhe të pathëna!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25607/vajzat-kunder-negises-perballja-e-madhe-pas-finales-se-shes-on-top-lot-emocione-dhe-te-pathena.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2912,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25579",
-     "title": "Eksperti: Duhet edukim digjital nëpër shkolla për të mbrojtur fëmijët nga rrjetet sociale/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25579/eksperti-duhet-edukim-digjital-neper-shkolla-per-te-mbrojtur-femijet-nga-rrjetet-sociale-wake-up.mp3",
-     "publishedAt": "2026-07-28T09:04:44.000Z",
-     "durationSec": 1370,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
    ]
   },
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 96
+   "fails": 97
   },
   {
    "id": "radiostar",
