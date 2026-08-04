@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T15:39:03.658Z",
+ "generatedAt": "2026-08-04T18:06:34.408Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25620",
+     "title": "Korriku i nxehtë i politikës – Një lajm dy të vërteta – 02/08/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25620/korriku-i-nxehte-i-politikes-nje-lajm-dy-te-verteta-02-08-2026.mp3",
+     "publishedAt": "2026-08-04T16:52:16.000Z",
+     "durationSec": 615,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Kush mendon se ka një të vërtetë, gabon. Mund të ketë një diell, një hënë e qiell, por jo një të vërtetë. Jetojmë në një kohë kur secili ka të vërtetën e tij. Madje jetojmë në një kohë kur për një ngjarje ka dy ose më shumë të vërteta. A nuk ndodh kështu kur dëgjojmë llogjet e politikanëve nëpër foltore, sukseset e dyshimta të qeverisë, apo premtimet butaforike të opozitës? A nuk e ndjejmë këtë te formalizmi shoqëror dhe konformizmi publik?! Nuk ndodh kështu kur flasim për rrugët, shkollat, shë…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25618",
      "title": "Këto janë 10 albumet më të mira të të gjitha kohërave sipas Apple Music!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25618/keto-jane-10-albumet-me-te-mira-te-te-gjitha-koherave-sipas-apple-music.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2467,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "I ftuar në “Live From Tirana” me Ronaldo Sharkën, ka qenë deputeti i partisë “Mundësia”, Erald Kapri, për të diskutuar mbi çështjen e Agron Shehajt, i cili rrëmbeu marrëveshjen konfidenciale me SHBA-të në Kuvend dhe iku me vrap. Ndërkohë, këshilltarja që e ndoqi deputetin, u rrëzua nga shkallët dhe pësoi lëndime."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25574",
-     "title": "House Nation 28/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25574/house-nation-28-07-2026.mp3",
-     "publishedAt": "2026-07-28T12:00:00.000Z",
-     "durationSec": 2912,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
    ]
   },
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 97
+   "fails": 98
   },
   {
    "id": "radiostar",
