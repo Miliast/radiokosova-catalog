@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T03:42:29.882Z",
+ "generatedAt": "2026-08-04T06:43:28.971Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 93
+   "fails": 94
   },
   {
    "id": "radiostar",
