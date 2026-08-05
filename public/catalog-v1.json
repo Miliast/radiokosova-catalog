@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-05T19:58:08.947Z",
+ "generatedAt": "2026-08-05T21:35:58.714Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 108
+   "fails": 109
   },
   {
    "id": "radiostar",
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 1
+   "fails": 0
   }
  ]
 }
