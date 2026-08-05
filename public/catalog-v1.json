@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-05T12:19:12.318Z",
+ "generatedAt": "2026-08-05T15:30:53.699Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3316,8 +3316,8 @@
   },
   {
    "id": "radiok4",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 105
+   "fails": 106
   },
   {
    "id": "radiostar",
