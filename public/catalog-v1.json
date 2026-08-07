@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-07T17:11:09.464Z",
+ "generatedAt": "2026-08-07T18:05:30.491Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 12
+   "fails": 13
   },
   {
    "id": "aradio",
