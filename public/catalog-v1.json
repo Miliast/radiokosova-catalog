@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-08T09:56:34.680Z",
+ "generatedAt": "2026-08-08T10:53:15.981Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/perhapja-fruthit-kosove/33824722.html",
+     "title": "Përhapja e fruthit në Kosovë: Pse po shtohen rastet dhe çfarë duhet të dinë prindërit?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/08/08/da2f2d09-d345-45cb-8341-08decad17715_hq.mp3",
+     "publishedAt": "2026-08-08T09:56:12.000Z",
+     "durationSec": 1646,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Përhapja e fruthit në Kosovë është në rritje. Rreth 100 raste janë konfirmuar që nga prilli, ndërsa ekspertët thonë se mosvaksinimi i fëmijëve është faktori kryesor i përhapjes. Në podkastin 5 pyetje, epidemiologia Edita Goranci paralajmëron për rrezikun deri në vdekje nga komplikimet që shkakton sëmundja."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/vdekje-vendi-punes-deshtimi-siguria/33819187.html",
      "title": "Vdekjet në vendin e punës: Ku po dështon siguria e punëtorëve?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/31/178cde66-2ded-46c7-450d-08decacf94d0_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1642,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Dezinformatat në Kosovë kanë ndryshuar drejtim: nga lajmet politike të përditshme, te manipulimi i historisë dhe narrativit për Kosovën nga viti 1999. Studiuesi i mediave, Abit Hoxha, tregon se si lajmet e rreme dhe përmbajtjet e krijuara me inteligjencë artificiale po ngatërrojnë audiencën online dhe po shpërndahen me të madhe."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/rritje-cmimesh-kosova-qeveria-masat/33710823.html",
-     "title": "Rreziku për rritje çmimesh në Kosovë: Çka do të bëjë Qeveria?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/03/19/85b5abf0-409d-416e-5603-08de3c91433d_hq.mp3",
-     "publishedAt": "2026-03-21T10:59:06.000Z",
-     "durationSec": 1580,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Rreziku për rritje çmimesh në Kosovë mbetet i lidhur me zhvillimet në Lindjen e Mesme, por Qeveria thotë se po ndërhyn për ta mbajtur situatën nën kontroll. Ministrja e Tregtisë, Mimoza Kusari-Lila, thotë në podkastin e Radios Evropa e Lirë “5 Pyetje” se kufizimi i marzhës së fitimit i ka frenuar abuzimet dhe paralajmëron masa të reja, sikurse çmimet tavan, për produktet bazë."
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 24
+   "fails": 25
   },
   {
    "id": "aradio",
