@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-07T23:50:33.390Z",
+ "generatedAt": "2026-08-08T02:23:51.163Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 18
+   "fails": 19
   },
   {
    "id": "aradio",
@@ -3376,8 +3376,8 @@
   },
   {
    "id": "antennaprishtina",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiozemra",
@@ -3456,13 +3456,13 @@
   },
   {
    "id": "awferizaj",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awgjilan",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "albradio",
