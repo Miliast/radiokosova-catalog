@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T18:05:55.817Z",
+ "generatedAt": "2026-08-10T19:22:00.640Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
