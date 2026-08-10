@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T17:11:41.107Z",
+ "generatedAt": "2026-08-10T18:05:55.817Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:4a7656ff-9b57-4e70-8f7e-c82c5e7a9e44",
+     "title": "Versus #265: Pushimet mbaruan! Rikthehen debatet e nxehta të merkatos",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/123997514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2Fe7ba7b8c-89a3-d535-09c5-1da79c4bed4f.mp3",
+     "publishedAt": "2026-08-10T00:17:33.000Z",
+     "durationSec": 12338,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Pushimet pas Kupës së Botës mbaruan. Është koha për debatet tona të nxehta në Versus. Tema më emocionuese e verës: merkatoja me transferimet e mëdha të klubeve kryesore të Europës. Kush po guxon më shumë? Kush është ende në gjumë? Komente, vlerësime dhe analiza, gjithçka live! 0:00 Infantino 30:17 Maldini 1:02:24 Boterori 1:13:00 Real Madrid 1:41:46 Barcelona 2:02:49 Top 5 Blerjet 2:14:38 Serie A 2:35:54 Premier League 2:57:29 Shqiperia 3:10:47 Fantazi Pod 3:15:32 Pytjet nga Insta",
+     "episodeNumber": 265,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:825c1843-dedf-4902-9240-5a60ebdc9d95",
      "title": "Versus #264: Finalja e Botërorit, komentet pas ndeshjes Spanjë - Argjentinë",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/123051040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2Fb77c1a8f-339a-c3b1-ab5b-7398b4ae551d.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Pas Gjermanisë, në fushë zbresin për ndeshjet e dyta Spanja dhe Belgjika. Diskutojmë për ndeshjet e ditës, japim parashikimet tona për përballjet në vijim dhe komentojmë informacione të përgjithshme për gjithçka nga turneu. 0:00 Gjermania nuk ndalet 42:04 Turqia jashte 1:00:42 Nis samba? 1:19:58 Disiplina e Marokut 1:31:42 Holanda... 1:43:24 Parashikimet",
      "episodeNumber": 246,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:5ad93f72-183f-4ec5-880c-5dc5d370c462",
-     "title": "Versus #245: Kupa e Botës, shansi i dytë për Samba!",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121732843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F00e360de-8239-2937-f807-b4226690c0b4.mp3",
-     "publishedAt": "2026-06-19T23:19:32.000Z",
-     "durationSec": 7432,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Raundi i dytë i fazës së grupeve në Botëror sjell një shans tjetër për Brazilin. Sfida e radhës, me Haitin. Në fushë do të zbresin edhe Holanda dhe Gjermania. Diskutojmë për ndeshjet aktuale, japim parashikimet tona për përballjet në vijim dhe komentojmë informacione të përgjithshme për gjithçka nga turneu.",
-     "episodeNumber": 245,
      "seasonNumber": 3
     }
    ]
