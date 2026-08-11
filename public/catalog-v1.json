@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T06:07:17.815Z",
+ "generatedAt": "2026-08-11T07:40:41.634Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "radiokosovaelire",
@@ -3377,7 +3377,7 @@
   {
    "id": "antennaprishtina",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "radiozemra",
@@ -3457,12 +3457,12 @@
   {
    "id": "awferizaj",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "awgjilan",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "albradio",
