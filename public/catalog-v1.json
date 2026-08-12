@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-12T22:05:50.256Z",
+ "generatedAt": "2026-08-12T23:04:10.289Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 30
+   "fails": 31
   },
   {
    "id": "radiokosovaelire",
@@ -3327,7 +3327,7 @@
   {
    "id": "capitalfm",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "rockfans",
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": false,
-   "fails": 13
+   "fails": 14
   }
  ]
 }
