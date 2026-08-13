@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T10:30:31.928Z",
+ "generatedAt": "2026-08-13T12:01:51.495Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1103,6 +1103,24 @@
    "description": "Podcasti “Shëndeti në rend të parë” me autore Elfije Boletini-Bejtullahu çdo të diele sjelle biseda informuese me profesionistë të shëndetësisë, mjekë, studiues dhe specialistë të fushave të ndryshme për t’i ofruar publikut informacion të saktë mbi çështje të rëndësishme që lidhen me shëndetin. Nga këshillat për një jetë të shëndetshme, informata për sëmundje të ndryshme, simptomat, diagnostikimin e trajtimet e fundit mjekësore, me bisedat me profesionistë të fushës përmes secilit episod synojmë të rrisim ndërgjegjësimin dhe të ndihmojmë dëgjuesit tanë të dinë më shumë për shëndetin e tyre. Podcasti trajton një gamë të gjerë temash për sëmundje kronike, shëndetin mendor, stilin e jetesës, përfshirë ushqyerjen dhe aktivitetin fizik, kujdesin ndaj grave dhe fëmijëve, kujdesin për të moshuarit, rëndësinë e parandalimit të sëmundjeve dhe edukimin shëndetësor, etj. Qëllimi i podcastit “Shëndeti në rend të parë” është të afrojë informacion të besueshëm dhe të dobishëm për publikun e gjerë, …",
    "episodes": [
     {
+     "id": "1812026405:c51b59bf-6d3e-4f6b-a4cc-c4057f3fc1bc",
+     "title": "#83: Shëndeti në rend të parë – Luan Morina, neonatolog",
+     "audioUrl": "https://media.transistor.fm/307b7e07/29253083.mp3",
+     "publishedAt": "2026-08-13T12:00:45.000Z",
+     "durationSec": 3229,
+     "imageUrl": "https://img.transistorcdn.com/k6nKefXVHK-4Yd2pc_e6FPHHpCGQ87TGfhTnjuiG4-0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yM2Zk/NTUzZWNhM2QxZGU2/M2FmNmYzYjMzMjM5/OWUzNi5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, i ftuar është neonatologu Luan Morina. Ai foli për ditët dhe muajt e parë të jetës së foshnjës dhe shqetësimet më të shpeshta të prindërve të rinj.Në fokus janë e qara e parë, ushqyerja me gji, gjumi, temperatura e ambientit, verdhëza dhe kujdesi ndaj kërthizës. Morina shpjegon edhe si ta kuptojnë prindërit nëse foshnja po ushqehet mjaftueshëm dhe kur duhet të kërkojnë ndihmë mjekësore. Një pjesë e rëndësishme i kushtohet vaksinimit, vizitave pas lindjes…"
+    },
+    {
+     "id": "1812026405:5dd2e32b-e0b0-46b3-a825-43506c6736dc",
+     "title": "#82: Shëndeti në rend të parë – Ymer Durmishi, kirurg abdominal",
+     "audioUrl": "https://media.transistor.fm/e917c622/6d028dfa.mp3",
+     "publishedAt": "2026-08-13T11:41:49.000Z",
+     "durationSec": 2167,
+     "imageUrl": "https://img.transistorcdn.com/le1TTm05XF9IfMD6b3U_ISUAMAEvblnW3gaAGPm7KXg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84M2Rj/M2E1N2UxYWYxMzky/ZWIzMDU5MTA3MTgy/NGZkZC5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, kirurgu abdominal, Ymer Durmishi foli për shëndetin e organeve abdominale, simptomat që nuk duhet të neglizhohen dhe rëndësinë e diagnostikimit të hershëm. Në fokus janë dhimbjet e barkut, të vjellat, diarreja, fryrja e barkut, gurët në tëmth dhe rreziqet që lidhen me pankreasin."
+    },
+    {
      "id": "1812026405:56944700-472c-4ff1-bc8a-ed233b8e1e9a",
      "title": "#81: Shëndeti në rend të parë - Naser Salihu, oftalmolog",
      "audioUrl": "https://media.transistor.fm/1d6dfe0c/e706ce34.mp3",
@@ -1263,24 +1281,6 @@
      "durationSec": 2928,
      "imageUrl": "https://img.transistorcdn.com/fuIDKOOOToqgcoDDAqCIRtTOT4JNVpIL-lHV_5LPBrs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YmU3/NWIwNDhhYTAzODAx/ZmZiNDA1ZjA5NWUw/YmE1ZC5qcGc.jpg",
      "description": "Në episodin e 64-të të “Shëndeti në rend të parë”, i ftuar është kirurgu kardiovaskular Raif Çavolli. Ai flet për sëmundjet e zemrës si shkaku kryesor i vdekshmërisë dhe shpjegon shenjat paralajmëruese të infarktit që nuk duhen injoruar. Diskutohet edhe për faktorët e rrezikut si stresi, duhani, diabeti dhe kolesteroli i lartë, si dhe për rastet kur duhet kërkuar urgjentisht ndihmë mjekësore. Një pjesë e episodit i kushtohet aneurizmës dhe zhvillimeve moderne në kirurgjinë kardiovaskulare. Mbës…"
-    },
-    {
-     "id": "1812026405:f4edf871-68f2-4648-b126-b9b14b8ea684",
-     "title": "#63: Shëndeti në rend të parë - neuropsikiatëri Bujar Berisha dhe defektologu Safet Blakaj",
-     "audioUrl": "https://media.transistor.fm/ae2b16a8/7c41a1a5.mp3",
-     "publishedAt": "2026-02-23T10:41:37.000Z",
-     "durationSec": 3679,
-     "imageUrl": "https://img.transistorcdn.com/pSmVQgnIFv92_vqTYnfkzCbso3yerRgp2dUy8lOoSXg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NTY4/YWMwZTFmMTdjN2Ux/YzUzZDlhNjA5NmEz/NmE0Ny5qcGc.jpg",
-     "description": "Në episodin e 64-të të “Shëndeti në rend të parë”, të ftuar janë neuropsikiatri Bujar Berisha dhe defektologu Safet Blakaj, të cilët flasin hapur për përdorimin e drogave në Kosovë. Diskutohet rritja e kokainës, rreziqet tek adoleshentët dhe arsyet pse të rinjtë bien pre e varësisë. Ekspertët sqarojnë nëse varësia është sëmundje mendore apo çrregullim sjelljeje, si dhe cilat janë shenjat paralajmëruese që prindërit nuk duhet t’i injorojnë. Një bisedë profesionale dhe e drejtpërdrejtë për parand…"
-    },
-    {
-     "id": "1812026405:66dc0c1e-1577-45ac-846c-5cdeea0455db",
-     "title": "#62: Shëndeti në rend të parë - nutricionist sportiv, Agron Rexhepi",
-     "audioUrl": "https://media.transistor.fm/32c66aba/d7ebf6ee.mp3",
-     "publishedAt": "2026-02-23T10:01:45.000Z",
-     "durationSec": 4842,
-     "imageUrl": "https://img.transistorcdn.com/jGtZ2u4S6ZKBO5iD6n1YrlvKg1Lqz0jY0hGNsah0LD8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWYy/MjVjMzZkZWU3ODI4/ZDM2ZjYwYjhmYWJh/NDgwYS5qcGc.jpg",
-     "description": "Në episodin e 62-të të podcastit Shëndeti në rend të parë, i përkrahur nga United Hospital, mjeku dhe nutricionisti sportiv Agron Rexhepi ka folur për rolin e ushqimit në shëndetin e përgjithshëm, balancimin e peshës trupore dhe pasojat e kequshqyerjes. Po ashtu ai diskutoi edhe rreth dietave ekstreme, konsumit të mishit, rëndësisë së drithërave integrale dhe hidratimit të duhur. Në pjesë e dytë të emisionit Rexhepi ka folur edhe për agjërimin, dhe të mirat që i ka trupi gjatë këtij procesi. Mb…"
     }
    ]
   },
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": false,
-   "fails": 20
+   "fails": 21
   }
  ]
 }
