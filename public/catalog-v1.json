@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T13:01:29.860Z",
+ "generatedAt": "2026-08-15T13:45:21.704Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3291,8 +3291,8 @@
   },
   {
    "id": "valarinore",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiokosovaelire",
@@ -3396,8 +3396,8 @@
   },
   {
    "id": "ubtcampus",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiodeqani",
