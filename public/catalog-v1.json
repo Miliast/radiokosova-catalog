@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T09:43:37.269Z",
+ "generatedAt": "2026-08-15T10:42:07.225Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/mungesa-uji-kosove/33830497.html",
+     "title": "Pse mungesa e ujit përsëritet çdo verë në Kosovë?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/08/14/3fbb2606-06bf-45e1-47bc-08decacf94d0_hq.mp3",
+     "publishedAt": "2026-08-15T09:53:51.000Z",
+     "durationSec": 1287,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Mungesa e ujit në Kosovë përsëritet pothuajse çdo verë. Por, a është problemi mungesa e ujit, apo mënyra se si menaxhohen resurset? Eksperti i ujërave, Skender Bublaku, thotë në podkastin 5 pyetje se humbjet në rrjet, mungesa e akumulimeve dhe menaxhimi joefikas po e rëndojnë situatën."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/perhapja-fruthit-kosove/33824722.html",
      "title": "Përhapja e fruthit në Kosovë: Pse po shtohen rastet dhe çfarë duhet të dinë prindërit?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/08/08/da2f2d09-d345-45cb-8341-08decad17715_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1533,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Adoleshentët janë veçanërisht të cenueshëm nga rrjetet sociale, ku krahasimi me të tjerët, përdorimi i filtrave dhe bullizmi online mund të shkaktojnë ankth dhe depresion, vlerëson psikologia Erestinë Uka"
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/dezinformimi-kosova/33717911.html",
-     "title": "Si funksionon dezinformimi në Kosovë",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/03/27/a89a0137-60ea-4ed9-3839-08de3be37656_hq.mp3",
-     "publishedAt": "2026-03-28T10:50:44.000Z",
-     "durationSec": 1642,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Dezinformatat në Kosovë kanë ndryshuar drejtim: nga lajmet politike të përditshme, te manipulimi i historisë dhe narrativit për Kosovën nga viti 1999. Studiuesi i mediave, Abit Hoxha, tregon se si lajmet e rreme dhe përmbajtjet e krijuara me inteligjencë artificiale po ngatërrojnë audiencën online dhe po shpërndahen me të madhe."
     }
    ]
   },
