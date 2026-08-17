@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T15:43:25.943Z",
+ "generatedAt": "2026-08-17T16:48:51.228Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3342,7 +3342,7 @@
   {
    "id": "radiofontana",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "clubfm",
