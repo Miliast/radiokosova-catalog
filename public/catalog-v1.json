@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T17:48:23.606Z",
+ "generatedAt": "2026-08-20T19:03:11.578Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3347,7 +3347,7 @@
   {
    "id": "clubfm",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radioilirida",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "ubtcampus",
@@ -3422,7 +3422,7 @@
   {
    "id": "shqippopullore",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "urbanfm",
