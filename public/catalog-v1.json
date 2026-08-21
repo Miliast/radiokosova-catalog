@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-21T04:56:33.953Z",
+ "generatedAt": "2026-08-21T05:50:41.850Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:c847e42c-d688-494e-8282-d3a957418f74",
+     "title": "Versus #268: Tri ekipe, një ëndërr! Shqiptarët tentojnë Europën",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124510711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F3bdab094-c2e0-5a94-eb10-05246f99227d.mp3",
+     "publishedAt": "2026-08-20T23:38:52.000Z",
+     "durationSec": 10842,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Kryefjala e këtij episodi janë skuadrat shqiptare në Europë. Komentojmë së bashku ecurinë e Egnatias, Dinamos dhe Dritës në rrugëtimin e tyre emocionues të aventurave europiane. I ftuar, eksperti Redi Jupi. 0:00 Dinamo, Egnatia dhe Drita 1:27:50 Çështja Musiala 1:38:29 Nisja e ligave 1:53:59 Merkato 2:56:09 Parashikime",
+     "episodeNumber": 268,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:db4a18cb-eba8-4fc0-9f15-edeb069c4567",
      "title": "Versus #267: Flasim futboll me Ditmar Bicajn: Arsenal - City & merkato",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124310666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2Fb621e75f-4d2e-8f3a-be28-c933c5c8459a.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Komentojmë ndeshjet më pikante të Botërorit dhe japim përfundimet tona për skuadrat big. Analiza, batuta dhe parashikime për sfidat në vijim (Spanja dhe Anglia). Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Franca 40:56 Perralla Ekuador 1:17:32 Holanda favorite? 1:44:11 Ciftet e para te krijuara 1:48:46 Parashikime 2:03:08 Merkato",
      "episodeNumber": 249,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:0cca6749-07b6-47a6-9114-d39bac5f0c0a",
-     "title": "Versus #248: Gara e goleadorëve: Messi, Mbappe, Haaland & Kane",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/121926411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2F02c804cb-d0fc-7315-51e3-bda892ec8b7e.mp3",
-     "publishedAt": "2026-06-24T10:13:21.000Z",
-     "durationSec": 7262,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Komentojmë ndeshjet e dy ditëve të fundit, me peshat e rënda si Argjentina, Franca, Portugalia dhe Anglia. Gara e golave arrin kulmin, me sulmues që nuk shterojnë. Analiza, bilance dhe parashikime. Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Portugalia 39:53 Franca 1:02:15 Anglia 1:25:07 Këpuca e Artë 1:33:55 Parashikimet 1:36:42 Julian Alvarez",
-     "episodeNumber": 248,
      "seasonNumber": 3
     }
    ]
