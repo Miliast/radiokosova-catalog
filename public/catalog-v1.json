@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T09:45:27.520Z",
+ "generatedAt": "2026-08-22T10:43:11.281Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/besim-gollopeni-punetoret-e-huaj-kosove-/33836082.html",
+     "title": "Të huajt po e zgjedhin Kosovën për punë e të rinjtë vendës duan të ikin – pse?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/08/22/a58f58cf-b4dd-4ec1-85fe-08decad17715_hq.mp3",
+     "publishedAt": "2026-08-22T09:53:41.000Z",
+     "durationSec": 1718,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Punëtorët e huaj po shtohen në Kosovë, ndërsa gjithnjë e më shumë të rinj po mendojnë të largohen. Pse Kosova po tërheq fuqi punëtore nga jashtë, por nuk po arrin të mbajë fuqinë vendëse punëtore? Në podkastin 5 pyetje, sociologu Besim Gollopeni flet për arsyet e emigrimit, kushtet e punës dhe të ardhmen e tregut kosovar të punës."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/mungesa-uji-kosove/33830497.html",
      "title": "Pse mungesa e ujit përsëritet çdo verë në Kosovë?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/08/14/3fbb2606-06bf-45e1-47bc-08decacf94d0_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1591,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Qytetarët e Kosovës pritet të kontribuojnë rreth 7 për qind të të ardhurave mujore për sigurim shëndetësor, ndërsa kategoritë në nevojë do të mbulohen nga shteti. Në podkastin 5 pyetje të Radios Evropa e Lirë, profesori i politikave shëndetësore, Liridon Bllaca, tregon se çka do të mbulonte ky sigurim sipas ligjit të ri, që kaloi në lexim të parë në Kuvendin e Kosovës."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/rrjetet-sociale-pasojat-shendeti-mendor/33724099.html",
-     "title": "Si ndikojnë rrjetet sociale në shëndetin mendor",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/04/03/ce6ac2f8-767c-4608-596a-08de3c91433d_hq.mp3",
-     "publishedAt": "2026-04-04T10:01:31.000Z",
-     "durationSec": 1533,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Adoleshentët janë veçanërisht të cenueshëm nga rrjetet sociale, ku krahasimi me të tjerët, përdorimi i filtrave dhe bullizmi online mund të shkaktojnë ankth dhe depresion, vlerëson psikologia Erestinë Uka"
     }
    ]
   },
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:a67f0333-8376-4c23-9585-681ba84ea23c",
+     "title": "Shenjat e ndryshimit në maratonën e demokracisë - Buchi Podcast Shqip #215 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/124575849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Fc638af1e-e220-e985-5b76-bd734f4f8d43.m4a",
+     "publishedAt": "2026-08-22T10:12:59.000Z",
+     "durationSec": 1774,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1787393461464-8346ea72c6add.jpg",
+     "description": "Në këtë episod flasim për shenjat e një ndryshimi që shpesh nuk duket menjëherë . Shqipëria mund të mos jetë përballë një transformimi të menjëhershëm, por nën sipërfaqe po shfaqen disa çarje të rëndësishme: në institucione, në politikë, në ekonomi dhe, mbi të gjitha, në kulturën qytetare. Nga SPAK-u dhe dobësimi i perceptimit të pandëshkueshmërisë, te shfaqja e alternativave të reja politike, konsumimi i klientelizmit, ndryshimi i brezave dhe zbehja e fatalizmit se “asgjë nuk bëhet”, episodi a…",
+     "episodeNumber": 215
+    },
+    {
      "id": "1573751706:3b6b8a19-589e-49c2-ba79-b3bbc39d9c47",
      "title": "Shteti ka rënë - Qeveria ska legjitimitet -Edona Radi në Buchi Podcast Shqip #214 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/123825990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2F429300114-44100-2-e2fc545e18c56.mp3",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777403633348-17379d6212689.jpg",
      "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse je…",
      "episodeNumber": 197
-    },
-    {
-     "id": "1573751706:2af4c8aa-74b7-470b-bbce-613149016606",
-     "title": "Ouroboros - Buchi Podcast Shqip #196 | Testament",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119074104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-26%2F002c6a24-33df-870d-887d-93c9e80b372b.m4a",
-     "publishedAt": "2026-04-28T19:03:53.000Z",
-     "durationSec": 2784,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777224583230-30ec40e69129b.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 199
     }
    ]
   },
