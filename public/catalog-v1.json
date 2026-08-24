@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-24T19:02:52.624Z",
+ "generatedAt": "2026-08-24T19:47:27.953Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:5e085c26-cbf5-4a0d-b345-58502b663ba4",
+     "title": "Versus #269: Juve, Milan & Barcelona, nis sezoni i ligave",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124634747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-24%2Fee790f11-ac05-98e7-b5bd-0f3d09c88380.mp3",
+     "publishedAt": "2026-08-24T00:19:46.000Z",
+     "durationSec": 11528,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Real Madrid e nis sezonin me një fitore me vuajtje. Bayern, superkampion i Gjermanisë! Komentojmë sfidat e së dielës, kur në fushë zbresin Juventusi, Milani dhe Barcelona. 0:00 Serie A 1:09:24 La Liga 2:07:55 Premier League 2:49:51 Superkupa e Gjermanisë 3:03:53 FPL",
+     "episodeNumber": 269,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:c847e42c-d688-494e-8282-d3a957418f74",
      "title": "Versus #268: Tri ekipe, një ëndërr! Shqiptarët tentojnë Europën",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124510711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F3bdab094-c2e0-5a94-eb10-05246f99227d.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Botërori i vërtetë fillon sot! Çiftet e skuadrave për përballjet me eliminim direkt janë gati dhe ne mezi presim të shohim spektakël! Analizojmë dhe japim parashikimet tona për çdo sfidë deri në finalen e madhe. Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Afrike e Jugut v Canada 22:16 Parashikimi Rrugetimit 44:00 OPA MVP + Top XI 50:09 Messi vs Fontaine 58:44 Portugalia 1:42:06 Parashikime",
      "episodeNumber": 250,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:dbfd2366-1303-4bf7-9ffc-dd28d6bc7473",
-     "title": "Versus #249: Holanda, Gjermania & Franca, komentet nga ADN",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122063458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-27%2F0173e2b6-6595-8ed6-cb98-0b929d8279cd.mp3",
-     "publishedAt": "2026-06-27T13:16:31.000Z",
-     "durationSec": 8693,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Komentojmë ndeshjet më pikante të Botërorit dhe japim përfundimet tona për skuadrat big. Analiza, batuta dhe parashikime për sfidat në vijim (Spanja dhe Anglia). Një episod me informacione të përgjithshme nga turneu, pa harruar lajmet nga merkatoja. 0:00 Franca 40:56 Perralla Ekuador 1:17:32 Holanda favorite? 1:44:11 Ciftet e para te krijuara 1:48:46 Parashikime 2:03:08 Merkato",
-     "episodeNumber": 249,
      "seasonNumber": 3
     }
    ]
