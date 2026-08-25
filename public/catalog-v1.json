@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T14:08:55.838Z",
+ "generatedAt": "2026-08-25T15:08:19.476Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3302,7 +3302,7 @@
   {
    "id": "radioprishtina",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radio1",
