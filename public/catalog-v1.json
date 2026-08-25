@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T04:56:58.623Z",
+ "generatedAt": "2026-08-25T05:50:10.860Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 0
+   "fails": 1
   }
  ]
 }
