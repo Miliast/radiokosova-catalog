@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T20:07:22.137Z",
+ "generatedAt": "2026-08-26T23:41:24.448Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:59c0ccba-d3a1-4c22-ba49-46e763cb3984",
+     "title": "I mërguar, por kurrë i larguar - Rexhinald Bajrami në Buchi Podcast Shqip #216 | Agora",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/124778264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430600581-44100-2-42ddca3e99aaa.m4a",
+     "publishedAt": "2026-08-26T19:23:41.000Z",
+     "durationSec": 2567,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1787772206069-697991dc90ff6.jpg",
+     "description": "Në këtë episod bisedojmë me Rexhinald Bajramin për protestat e “Revolucionit Flamingo” në Shqipëri dhe në diasporë, rolin e emigrantëve shqiptarë në këtë lëvizje dhe problemet politike, ekonomike e shoqërore me të cilat përballet vendi. Rexhinaldi jeton prej 11 vitesh në Düsseldorf dhe studion në Gjermani për Marrëdhënie Ndërkombëtare dhe Politika Zhvillimore në nivelin master. Si koordinator i protestave në Düsseldorf, ai na rrëfen për organizimin e shqiptarëve jashtë vendit, kërkesat e protes…",
+     "episodeNumber": 216
+    },
+    {
      "id": "1573751706:a67f0333-8376-4c23-9585-681ba84ea23c",
      "title": "Shenjat e ndryshimit në maratonën e demokracisë - Buchi Podcast Shqip #215 | Hapsirë Publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/124575849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2Fc638af1e-e220-e985-5b76-bd734f4f8d43.m4a",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777404003520-6da6735a47bc.jpg",
      "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:T ë gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse j…",
      "episodeNumber": 198
-    },
-    {
-     "id": "1573751706:b4e2d982-dcf5-4268-b0d6-519232292368",
-     "title": "Rrezikshmëria e budallenjve - Buchi Podcast Shqip #197 | Testament",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119038161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F6fab9d61-6eef-8a7e-985c-ecc8f862962e.m4a",
-     "publishedAt": "2026-05-01T00:00:00.000Z",
-     "durationSec": 1243,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777403633348-17379d6212689.jpg",
-     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse je…",
-     "episodeNumber": 197
     }
    ]
   },
