@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-30T23:33:51.459Z",
+ "generatedAt": "2026-08-31T05:44:13.072Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:5cc54c37-3574-4a7e-85db-cf7d51d51faa",
+     "title": "Versus #271: Fundjava europiane & Merkatoja në orët e fundit",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124957280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F5166d3d3-78de-2229-3a93-05d6b74ed391.mp3",
+     "publishedAt": "2026-08-31T00:36:24.000Z",
+     "durationSec": 11291,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Rikthehemi live në Versus për të komentuar ndeshjet e fundjavës në ligat kryesore të kontinentit. Merkatoja është në orët e fundit. Diskutojmë dhe vlerësojmë emrat më të fundit në sitën e klubeve të mëdha. 0:00 Premier League 1:12:16 La Liga 1:49:24 Serie A 2:35:20 Bundesliga 2:48:55 Ligue 1 2:53:30 FPL",
+     "episodeNumber": 271,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:257f5cee-cb71-47cd-8108-a29f3587b92d",
      "title": "Versus #270: Egnatia, Dinamo & Drita, betejat 'all in' për Europën",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124839154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F4e695e1a-6ca0-5af2-2fe9-9bb2d2e8bc8a.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Gjermania dhe Holanda janë jashtë Botërorit! Ky turne po i befason të gjithë. Brazili vuajti shumë për kualifikimin. Radhën e kanë Franca, Anglia e Belgjika. Analizojmë dhe japim parashikimet tona për sfidat në vijim. 0:00 France v Suedi 51:12 Bregu F. v Norvegji 1:04:40 Holande v Marok 1:21:37 Parashikime",
      "episodeNumber": 252,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:72113fc0-b405-454b-b4b5-7d489867ac45",
-     "title": "Versus #251: Kupa e Botës, në fazën dramatike! Një gabim të nxjerr jashtë",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122174042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-30%2F3387ba4b-6bcc-f3c5-4e58-f315e0797914.mp3",
-     "publishedAt": "2026-06-30T01:50:48.000Z",
-     "durationSec": 6677,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Ethet e garës direkte janë gjithçka që kemi pritur nga Botërori 2026! Komentojmë Brazil - Japoni dhe Gjermani - Paraguai. Analizojmë dhe japim parashikimet tona për sfidat në vijim, veçanërisht të Holandës dhe Francës. 0:00 Gjermani Paraguaj 1:31:16 Brazili 1:42:10 Parashikime",
-     "episodeNumber": 251,
      "seasonNumber": 3
     }
    ]
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 10
+   "fails": 11
   },
   {
    "id": "radiokosovaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "aradio",
