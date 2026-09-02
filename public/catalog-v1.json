@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-02T05:53:22.641Z",
+ "generatedAt": "2026-09-02T11:26:02.736Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:a2ad5d71-9fa3-406f-bd4e-b55595880264",
+     "title": "Referendumi për shfuqizimin e ligjit 21/2024 - Gled Guri në Buchi Podcast Shqip #217 | Agora",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125053853/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431015954-44100-2-f2d334e4ef336.mp3",
+     "publishedAt": "2026-09-02T07:19:26.000Z",
+     "durationSec": 4195,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788288942663-59508ce67b47c.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeNë episodin 217 të Buchi Podcast Shqip, në rubrikën “Agora”, i ftuar është Gled Guri, biolog detar, studiues dhe aktivist mjedisor. Diskutimi përqendrohet te protesta, referendumi dhe hapat ligjorë si mjete të angazhimit qytetar dhe mbrojtjes së intere…",
+     "episodeNumber": 217
+    },
+    {
      "id": "1573751706:59c0ccba-d3a1-4c22-ba49-46e763cb3984",
      "title": "I mërguar, por kurrë i larguar - Rexhinald Bajrami në Buchi Podcast Shqip #216 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/124778264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430600581-44100-2-42ddca3e99aaa.m4a",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777897668679-6726dc09209e.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit: Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 199
-    },
-    {
-     "id": "1573751706:d264a0b4-3c1a-4e49-a8fd-5b3bcc330b33",
-     "title": "Depresioni i madh, shpjeguar thjeshtë - Buchi Podcast Shqip #198 | Testament",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/119188375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-28%2F96cd74d2-0a82-864f-5477-47fdd95661ac.m4a",
-     "publishedAt": "2026-05-04T00:00:00.000Z",
-     "durationSec": 1413,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1777404003520-6da6735a47bc.jpg",
-     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:T ë gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse j…",
-     "episodeNumber": 198
     }
    ]
   },
@@ -3366,8 +3366,8 @@
   },
   {
    "id": "radiovizioni",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "aradio",
@@ -3391,8 +3391,8 @@
   },
   {
    "id": "radio7",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "ubtcampus",
