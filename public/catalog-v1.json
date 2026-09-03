@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-03T19:54:40.413Z",
+ "generatedAt": "2026-09-03T22:45:00.268Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "radiokosovaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "aradio",
@@ -3377,7 +3377,7 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiozemra",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 10
+   "fails": 11
   },
   {
    "id": "ubtcampus",
@@ -3431,8 +3431,8 @@
   },
   {
    "id": "glamradio",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "glamcoffee",
@@ -3452,27 +3452,27 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "albradio",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 0
+   "fails": 1
   }
  ]
 }
