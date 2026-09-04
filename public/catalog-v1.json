@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-03T22:45:00.268Z",
+ "generatedAt": "2026-09-04T01:02:30.191Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:63740e0e-f53f-474b-979c-4560d006d64c",
+     "title": "Versus #272: Parashikimet e sezonit 26/27: Fituesit dhe humbësit",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125175436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F48da0415-ac86-d4ca-f8fb-87b459853b5d.mp3",
+     "publishedAt": "2026-09-03T22:09:49.000Z",
+     "durationSec": 7042,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Sezoni ka nisur, ndërsa merkatoja u mbyll në shumicën e ligave europiane. Treshja ADN jep parashikimet për fituesit dhe humbësit e sezonit të ri. Kush do të shkëlqejë? Kush do të zhgënjejë? Kush do të shpallet golashënuesi i vitit? Champions League, favoritët dhe surprizat sipas nesh. 0:00 Serie A 32:55 La Liga 51:17 Premier League 1:04:07 Bundesliga 1:20:16 UCL 1:42:34 Parashiket",
+     "episodeNumber": 272,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:5cc54c37-3574-4a7e-85db-cf7d51d51faa",
      "title": "Versus #271: Fundjava europiane & Merkatoja në orët e fundit",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124957280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F5166d3d3-78de-2229-3a93-05d6b74ed391.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Ky Botëror është spektakolar, plot gola dhe surpriza! Pas ndeshjeve të ditës, komentojmë gjithçka që ndodhi në fushë dhe jashtë saj. Më tej, analizojmë dhe japim parashikimet tona për sfidat në vijim, 0:00 Angli v Kongo 1:01:04 Meksike v Ekuador 1:14:35 Belgjik v Senegal 1:43:07 Parashikime",
      "episodeNumber": 253,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:3ee6ce3d-1751-4354-87b7-86e5190cb3c7",
-     "title": "Versus #252: Nuk ka më kombëtare big! Ky Botëror nuk fal askënd",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122222458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F90fb0ef3-e889-88f3-5821-80981973b60b.mp3",
-     "publishedAt": "2026-07-01T00:53:14.000Z",
-     "durationSec": 5319,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Gjermania dhe Holanda janë jashtë Botërorit! Ky turne po i befason të gjithë. Brazili vuajti shumë për kualifikimin. Radhën e kanë Franca, Anglia e Belgjika. Analizojmë dhe japim parashikimet tona për sfidat në vijim. 0:00 France v Suedi 51:12 Bregu F. v Norvegji 1:04:40 Holande v Marok 1:21:37 Parashikime",
-     "episodeNumber": 252,
      "seasonNumber": 3
     }
    ]
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "radiokosovaelire",
@@ -3366,8 +3366,8 @@
   },
   {
    "id": "radiovizioni",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "aradio",
@@ -3377,7 +3377,7 @@
   {
    "id": "antennaprishtina",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiozemra",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 11
+   "fails": 12
   },
   {
    "id": "ubtcampus",
@@ -3432,7 +3432,7 @@
   {
    "id": "glamradio",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "glamcoffee",
@@ -3452,27 +3452,27 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 5
+   "fails": 6
   },
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "albradio",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 1
+   "fails": 0
   }
  ]
 }
