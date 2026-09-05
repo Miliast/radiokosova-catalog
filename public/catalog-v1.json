@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-05T05:49:36.605Z",
+ "generatedAt": "2026-09-05T10:41:47.398Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/mospajtime-qeveri-komuna/33847515.html",
+     "title": "Si ndikojnë te qytetarët mosmarrëveshjet mes komunave dhe Qeverisë",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/05/c590bb91-e8bc-4f9c-88d5-08decad17715_hq.mp3",
+     "publishedAt": "2026-09-05T09:58:29.000Z",
+     "durationSec": 1622,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Përplasja mes disa komunave dhe Qeverisë së Kosovës po thellohet. Udhëheqës lokalë akuzojnë ekzekutivin për probleme me financimin dhe kompetencat. Në podkastin 5 pyetje të Radios Evropa e Lirë, analisti i politikave në GAP, Bekim Salihu, thotë se komunat po i ekspozohen falimentimit funksional. Ai tregon se si mosmarrëveshjet mund të kenë pasoja të drejtpërdrejta edhe për qytetarët."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/besim-gollopeni-punetoret-e-huaj-kosove-/33836082.html",
      "title": "Të huajt po e zgjedhin Kosovën për punë e të rinjtë vendës duan të ikin – pse?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/08/22/a58f58cf-b4dd-4ec1-85fe-08decad17715_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1862,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Konfiskimi i pasurisë së pajustifikueshme është rikthyer në fokus, me disa dilema se si do të zbatohet në praktikë si proces."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/liridon-bllaca-sigurime-shendetesore/33729945.html",
-     "title": "Shtatë për qind e pagës për shëndetin: Kur do të bëhet sigurimi?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/04/11/7e813401-4f92-412e-3b29-08de3be37656_hq.mp3",
-     "publishedAt": "2026-04-11T09:57:59.000Z",
-     "durationSec": 1591,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Qytetarët e Kosovës pritet të kontribuojnë rreth 7 për qind të të ardhurave mujore për sigurim shëndetësor, ndërsa kategoritë në nevojë do të mbulohen nga shteti. Në podkastin 5 pyetje të Radios Evropa e Lirë, profesori i politikave shëndetësore, Liridon Bllaca, tregon se çka do të mbulonte ky sigurim sipas ligjit të ri, që kaloi në lexim të parë në Kuvendin e Kosovës."
     }
    ]
   },
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 5
+   "fails": 6
   },
   {
    "id": "radiokosovaelire",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 5
+   "fails": 6
   },
   {
    "id": "aradio",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 19
+   "fails": 20
   },
   {
    "id": "ubtcampus",
@@ -3451,8 +3451,8 @@
   },
   {
    "id": "radioalbafolk",
-   "online": false,
-   "fails": 13
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awferizaj",
