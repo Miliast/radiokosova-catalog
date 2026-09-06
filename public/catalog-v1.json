@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-06T09:29:33.060Z",
+ "generatedAt": "2026-09-06T13:42:32.194Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 13
+   "fails": 14
   },
   {
    "id": "radiokosovaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 27
+   "fails": 28
   },
   {
    "id": "ubtcampus",
