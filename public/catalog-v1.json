@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-06T04:46:43.407Z",
+ "generatedAt": "2026-09-06T09:29:33.060Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:ccf125e2-3cf9-4d64-b8aa-01937c1caf50",
+     "title": "Momenti më i rëndësishëm për shqiptarët - Roland Lleshi ne Buchi Podcast Shqip #220 | Agora",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125241739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F431251822-44100-2-367b1ff801576.mp3",
+     "publishedAt": "2026-09-06T08:03:00.000Z",
+     "durationSec": 6138,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788615914546-1e577d4efa435.jpg",
+     "description": "🎙️ Buchi Podcast Shqip – Episodi 220 | Roland Lleshi I ftuar në episodin 220 është Roland Lleshi – inxhinier pyjor, ekspert i menaxhimit mjedisor, kërkues shkencor dhe aktivist për mbrojtjen e natyrës. Pas një eksperience profesionale në Shqipëri në mësimdhënie dhe mbrojtjen e jetës së egër, Rolandi u zhvendos në Gjermani, ku vazhdoi studimet dhe angazhimin e tij në fushën e mjedisit dhe energjisë. Sot është kërkues shkencor në Universitetin Teknik të Berlinit, me fokus te komunitetet e energj…",
+     "episodeNumber": 220
+    },
+    {
      "id": "1573751706:92f13cd4-e669-47fa-a459-a0cd4b355964",
      "title": "Përshkallëzimi i protestës kombëtare - Jurgen Shpërdhea në Buchi Podcast Shqip #219 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125147140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431105846-44100-2-6fdfc1a0cc0b9.mp3",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780311237669-2330aff4bd466.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 202
-    },
-    {
-     "id": "1573751706:5fde8669-6105-43c8-8c1e-4c2bc825d53f",
-     "title": "Kush fshihet pas shkatërrimit të Nartës - Buchi Podcast Shqip #201 | Hapsirë publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120766159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-30%2F425189998-44100-2-ba41d09b707ad.mp3",
-     "publishedAt": "2026-05-30T17:39:02.000Z",
-     "durationSec": 1569,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780160804548-4731716459507.jpg",
-     "description": "Materialet e lexuara në këtë episod vijnë nga një shkrim i z. Vladimir Karaj në Reporter.alhttps://www.reporter.al/2026/05/29/kush-fshihet-pas-resortit-te-familjes-trump-ne-shqiperi/ \"Ky material publikohet dhe rishpërndahet ekskluzivisht për qëllime informuese dhe në interes të informimit publik, duke iu referuar informacionit të bërë publik nga burimet përkatëse të sipërpërmendura. Përmbajtja nuk paraqet pretendim për autorësi, verifikim të pavarur apo garantim të saktësisë, plotësisë ose akt…",
-     "episodeNumber": 201
     }
    ]
   },
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 12
+   "fails": 13
   },
   {
    "id": "radiokosovaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 26
+   "fails": 27
   },
   {
    "id": "ubtcampus",
