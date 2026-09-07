@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-07T16:30:47.176Z",
+ "generatedAt": "2026-09-07T20:37:29.315Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25641",
+     "title": "Gushti ishte pushim ama jo për muzikën! Rekorde, rikthime, albume &#038; lajme të bujshme/ Ja çfarë mund të keni humbur&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25641/gushti-ishte-pushim-ama-jo-per-muziken-rekorde-rikthime-albume-lajme-te-bujshme-ja-cfare-mund-te-keni-humbur.mp3",
+     "publishedAt": "2026-09-07T19:49:19.000Z",
+     "durationSec": 153,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25640",
+     "title": "I dërguari i Trump vizitë në Tiranë: “Të dëgjohen qytetarët!”-Edicioni kryesor informativ 07/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25640/i-derguari-i-trump-vizite-ne-tirane-te-degjohen-qytetaret-edicioni-kryesor-informativ-07-09-2026.mp3",
+     "publishedAt": "2026-09-07T19:46:36.000Z",
+     "durationSec": 364,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 7 Shtator."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25638",
      "title": "House Nation 07/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25638/house-nation-07-09-2026.mp3",
@@ -2468,24 +2486,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25592/mbro-natyren-sa-je-ne-kohe-fushata-per-zonat-e-mbrojtura-wake-up.mp3",
      "publishedAt": "2026-07-30T08:25:08.000Z",
      "durationSec": 1228,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25591",
-     "title": "House Nation 29/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25591/house-nation-29-07-2026.mp3",
-     "publishedAt": "2026-07-29T12:00:00.000Z",
-     "durationSec": 3019,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25590",
-     "title": "Fëmijë në plazh pa rroba banjo? Terapistja neurozhvillimore: Nuk duhet për këto arsye!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25590/femije-ne-plazh-pa-rroba-banjo-terapistja-neurozhvillimore-nuk-duhet-per-keto-arsye-wake-up.mp3",
-     "publishedAt": "2026-07-29T09:12:16.000Z",
-     "durationSec": 1486,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo mëngjes zgjohuni me “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” e “Top Albania Radio”, në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Në “Wake Up” gjeni leximin e gazetave, analiza të ndryshme, informacione utilitare, këmbimin valuator, parashikimin e motit, biseda me të ftuarit në studio për tema të aktualitetit, nga jeta e përditshme urbane e deri tek arti dhe spektakli si dhe personazhe interesantë. Zgjimi në “Wake Up” është ritmik dhe me buzë…"
     }
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 35
+   "fails": 36
   },
   {
    "id": "ubtcampus",
