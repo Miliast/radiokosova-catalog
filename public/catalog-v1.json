@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-07T04:50:27.830Z",
+ "generatedAt": "2026-09-07T10:26:06.799Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:6a4f4e01-8093-48f7-8d4b-3217291abe72",
+     "title": "Jo referendum, ti kërkojmë llogari politikës! - Denis Bala në Buchi Podcast Shqip #221 | Agora",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125317529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431346797-44100-2-802590e2e9726.mp3",
+     "publishedAt": "2026-09-07T09:23:52.000Z",
+     "durationSec": 4430,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788765219463-581e85715afff.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeJa një version në të njëjtën linjë me episodet 219–220, duke e vendosur referendumin dhe qëndrimin e Denisit në qendër, por pa e paraqitur qëndrimin e tij si fakt të pakontestueshëm.🎙️ **Buchi Podcast Shqip – Episodi 221 | Denis Bala**I ftuar në episo…",
+     "episodeNumber": 221
+    },
+    {
      "id": "1573751706:ccf125e2-3cf9-4d64-b8aa-01937c1caf50",
      "title": "Momenti më i rëndësishëm për shqiptarët - Roland Lleshi ne Buchi Podcast Shqip #220 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125241739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F431251822-44100-2-367b1ff801576.mp3",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310773233-e547a3def9b6d.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 203
-    },
-    {
-     "id": "1573751706:c46b2b64-7e72-4799-80d6-4160da6bbf0d",
-     "title": "Bojkoto vipat, televizionet dhe oligarkët - Buchi Podcast Shqip #202 | Hapsirë publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120834539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-1%2F425279398-44100-2-9feccea931a09.mp3",
-     "publishedAt": "2026-06-01T10:54:10.000Z",
-     "durationSec": 988,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780311237669-2330aff4bd466.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 202
     }
    ]
   },
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25631",
+     "title": "Heidi Baci: Do ketë çifte të vërteta në “Për’Puthen”! Me Drinin kam pasur një “feeling”/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25631/heidi-baci-do-kete-cifte-te-verteta-ne-perputhen-me-drinin-kam-pasur-nje-feeling-wake-up.mp3",
+     "publishedAt": "2026-09-07T08:39:51.000Z",
+     "durationSec": 1250,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25628",
+     "title": "Zana Guxholli: Ja skema “semafor” që ul çmimet në tregun e shqiptar!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25628/zana-guxholli-ja-skema-semafor-qe-ul-cmimet-ne-tregun-e-shqiptar-wake-up.mp3",
+     "publishedAt": "2026-09-07T08:39:24.000Z",
+     "durationSec": 1389,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25620",
      "title": "Korriku i nxehtë i politikës – Një lajm dy të vërteta – 02/08/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25620/korriku-i-nxehte-i-politikes-nje-lajm-dy-te-verteta-02-08-2026.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 136,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25582",
-     "title": "Raporti i DASH: Krimi dhe korrupsioni mbeten sfidat e Shqipërisë!- Edicioni informativ 28/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25582/raporti-i-dash-krimi-dhe-korrupsioni-mbeten-sfidat-e-shqiperise-edicioni-informativ-28-07-2026.mp3",
-     "publishedAt": "2026-07-28T17:39:46.000Z",
-     "durationSec": 493,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lajmet kryesore të ditës me datë 28 Korrik."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25580",
-     "title": "Rrëmbeu dokumentin, a mund të shpallet “Non Grata” Agron Shehaj?",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25580/rrembeu-dokumentin-a-mund-te-shpallet-non-grata-agron-shehaj.mp3",
-     "publishedAt": "2026-07-28T12:49:29.000Z",
-     "durationSec": 2467,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "I ftuar në “Live From Tirana” me Ronaldo Sharkën, ka qenë deputeti i partisë “Mundësia”, Erald Kapri, për të diskutuar mbi çështjen e Agron Shehajt, i cili rrëmbeu marrëveshjen konfidenciale me SHBA-të në Kuvend dhe iku me vrap. Ndërkohë, këshilltarja që e ndoqi deputetin, u rrëzua nga shkallët dhe pësoi lëndime."
     }
    ]
   },
@@ -3291,8 +3291,8 @@
   },
   {
    "id": "valarinore",
-   "online": false,
-   "fails": 19
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiokosovaelire",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 33
+   "fails": 34
   },
   {
    "id": "ubtcampus",
