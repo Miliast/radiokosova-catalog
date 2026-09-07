@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-06T23:59:27.152Z",
+ "generatedAt": "2026-09-07T04:50:27.830Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:d04710b4-3fb7-49ce-88fa-e241b63d403a",
+     "title": "Versus #273: Inter - Napoli & Juventus - Milan, përballjet big në Serie A",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125305895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2Fa534c9dd-aea2-e9b9-bd90-be2c0bc71b93.mp3",
+     "publishedAt": "2026-09-07T00:25:05.000Z",
+     "durationSec": 10756,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komentojmë së bashku ndeshjet e fundjavës në ligat kryesore të Europës. Serie A sjell tri përballje të forta të pretendentëve: Inter - Napoli, Roma - Atalanta dhe Juventus - Milan. Vijojmë me La Ligën, Bundesligën dhe Premier League. 0:00 La Liga 57:34 Serie A 1:49:09 Premier League 2:24:39 Bundesliga 2:36:08 F1 2:48:27 Parashikime 2:52:18 Fantazi Futboll",
+     "episodeNumber": 273,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:63740e0e-f53f-474b-979c-4560d006d64c",
      "title": "Versus #272: Parashikimet e sezonit 26/27: Fituesit dhe humbësit",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125175436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F48da0415-ac86-d4ca-f8fb-87b459853b5d.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Sërish live në Youtube për të komentuar ndeshjet e Kupës së Botës. Radhën e ka Spanja me yllin Lamine Yamal në sfidën me Austrinë. Më tej, preview për Portugali - Kroaci dhe parashikimet tona për sfidat e ditëve në vijim. 0:00 Spanja 1:02:56 SHBA 1:12:44 Aludimi 1:15:30 Parashikime",
      "episodeNumber": 254,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:e2546b66-08fa-43a4-9709-aa8fa75224c4",
-     "title": "Versus #253: Spektakli vazhdon, sytë nga Lamine Yamal",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122270992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-2%2F0030edf9-bf02-78a6-e294-c2fa042e7712.mp3",
-     "publishedAt": "2026-07-02T00:18:11.000Z",
-     "durationSec": 6397,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Ky Botëror është spektakolar, plot gola dhe surpriza! Pas ndeshjeve të ditës, komentojmë gjithçka që ndodhi në fushë dhe jashtë saj. Më tej, analizojmë dhe japim parashikimet tona për sfidat në vijim, 0:00 Angli v Kongo 1:01:04 Meksike v Ekuador 1:14:35 Belgjik v Senegal 1:43:07 Parashikime",
-     "episodeNumber": 253,
      "seasonNumber": 3
     }
    ]
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 18
+   "fails": 19
   },
   {
    "id": "radiokosovaelire",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 32
+   "fails": 33
   },
   {
    "id": "ubtcampus",
