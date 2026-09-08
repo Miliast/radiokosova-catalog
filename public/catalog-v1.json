@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-08T14:36:54.474Z",
+ "generatedAt": "2026-09-08T18:45:17.805Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25662",
+     "title": "Kuvendi nis punën, qytetarët sërish në protestë…-Edicioni kryesor informativ 08/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25662/kuvendi-nis-punen-qytetaret-serish-ne-proteste-edicioni-kryesor-informativ-08-09-2026.mp3",
+     "publishedAt": "2026-09-08T17:27:13.000Z",
+     "durationSec": 419,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 8 Shtator."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25658",
      "title": "House Nation 08/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25658/house-nation-08-09-2026.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 4574,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Rikthehet “She’s on Top Club”! Këtë sezon të dytë vjen ekskluzivisht në “Top Albania Radio”. Programi që nxjerr çdo “sekret” të konkurrenteve të spektaklit të modës “She’s On Top”; çdo përballje, prapaskenat që nuk mund t’i shihni gjatë sfidave, seteve fotografike dhe spektaklit të së dielave do mund t’i zbuloni vetëm në “She’s On Top Club”. Programi ka në fokus emocionet, rivalitetet, marrëdhëniet dhe përjetimet e konkurrenteve, duke i afruar ato më pranë publikut përtej magjisë së skenës së “…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25616",
-     "title": "Belinda Balluku shkon në SPAK…-Edicioni kryesor informativ 31/07/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25616/belinda-balluku-shkon-ne-spak-edicioni-kryesor-informativ-31-07-2026.mp3",
-     "publishedAt": "2026-07-31T16:50:48.000Z",
-     "durationSec": 478,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lajmet kryesore të ditës me datë 31 Korrik."
     }
    ]
   },
@@ -3381,8 +3381,8 @@
   },
   {
    "id": "radiozemra",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiostar",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 40
+   "fails": 41
   },
   {
    "id": "ubtcampus",
