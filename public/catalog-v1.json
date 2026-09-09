@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-09T19:49:34.476Z",
+ "generatedAt": "2026-09-09T22:36:06.685Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 8
+   "fails": 9
   },
   {
    "id": "radiostar",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 47
+   "fails": 48
   },
   {
    "id": "ubtcampus",
