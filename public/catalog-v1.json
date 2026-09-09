@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-09T00:19:04.642Z",
+ "generatedAt": "2026-09-09T06:02:49.426Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:4a56a3d7-a680-427f-a34c-8277fa6a0f93",
+     "title": "Versus #274: Mbrëmja e parë e Champions League, Real Madrid - Inter",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125432047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F7453c5ea-6d25-48aa-2ca9-b09bac3cd9e5.mp3",
+     "publishedAt": "2026-09-09T00:21:54.000Z",
+     "durationSec": 6892,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Nis sezoni i ri i Champions League! Komentojmë së bashku sfidat e mbrëmjes së parë europiane, me fokus te ndeshja Real Madrid - Inter. Parashikojmë përballjet e nesërme dhe duelet e shumëpritura në fushën e blertë. 0:00 Champions 1:21:10 Topi i Arte",
+     "episodeNumber": 274,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:d04710b4-3fb7-49ce-88fa-e241b63d403a",
      "title": "Versus #273: Inter - Napoli & Juventus - Milan, përballjet big në Serie A",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125305895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2Fa534c9dd-aea2-e9b9-bd90-be2c0bc71b93.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Kupa e Botës po shkon drejt ndeshjeve të mëdha! Pas fitores së Portugalisë me Kroacinë, mezi presim duelin Cristiano Ronaldo - Lamine Yamal. Komente, analiza dhe parashikime për sfidat e ditëve në vijim. 0:00 Portugalia 51:38 Zvicra 1:02:08 Egjipt v Australi 1:08:00 Parashikime 1:22:14 Fantazi",
      "episodeNumber": 255,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:980c6876-5ee0-4a83-8571-b5bbd5801b93",
-     "title": "Versus #254:Komentet për Spanjë - Austri & preview për Portugali - Kroaci",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122320960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-3%2F2c58d680-7e40-d1d9-278e-5cba7b797117.mp3",
-     "publishedAt": "2026-07-03T02:03:08.000Z",
-     "durationSec": 4724,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Sërish live në Youtube për të komentuar ndeshjet e Kupës së Botës. Radhën e ka Spanja me yllin Lamine Yamal në sfidën me Austrinë. Më tej, preview për Portugali - Kroaci dhe parashikimet tona për sfidat e ditëve në vijim. 0:00 Spanja 1:02:56 SHBA 1:12:44 Aludimi 1:15:30 Parashikime",
-     "episodeNumber": 254,
      "seasonNumber": 3
     }
    ]
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3382,17 +3382,17 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radiostar",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radio7",
    "online": false,
-   "fails": 43
+   "fails": 44
   },
   {
    "id": "ubtcampus",
