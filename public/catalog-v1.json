@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-10T11:27:48.698Z",
+ "generatedAt": "2026-09-10T16:29:15.431Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,42 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25682",
+     "title": "House Nation 10/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25682/house-nation-10-09-2026.mp3",
+     "publishedAt": "2026-09-10T12:36:53.000Z",
+     "durationSec": 3135,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25680",
+     "title": "Armela pjesë e klipit?! Armiri paralajmëron këngën me Stinen: Vetëm prisni, nuk keni parë asgjë të tillë…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25680/armela-pjese-e-klipit-armiri-paralajmeron-kengen-me-stinen-vetem-prisni-nuk-keni-pare-asgje-te-tille.mp3",
+     "publishedAt": "2026-09-10T12:34:14.000Z",
+     "durationSec": 1756,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25679",
+     "title": "“Po du”, Rilind Alimani rrëfen si arriti të realizojë bashkëpunimin me Elvanën…/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25679/po-du-rilind-alimani-rrefen-si-arriti-te-realizoje-bashkepunimin-me-elvanen-wake-up.mp3",
+     "publishedAt": "2026-09-10T11:51:56.000Z",
+     "durationSec": 1229,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25676",
+     "title": "Pse fëmijët sot nuk ulen të uritur në tryezë? Psikoterapistja zbulon shkaqet/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25676/pse-femijet-sot-nuk-ulen-te-uritur-ne-tryeze-psikoterapistja-zbulon-shkaqet-wake-up.mp3",
+     "publishedAt": "2026-09-10T11:50:29.000Z",
+     "durationSec": 1264,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25674",
      "title": "Bojkot në sistemin gjyqësor, kërkohen pagat e prapambetura! &#8211; Edicioni kryesor informativ 09/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25674/bojkot-ne-sistemin-gjyqesor-kerkohen-pagat-e-prapambetura-edicioni-kryesor-informativ-09-09-2026.mp3",
@@ -2452,42 +2488,6 @@
      "durationSec": 1136,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25644",
-     "title": "“Shtatori do ju ndryshojë jetën…”/Parashikimi i këtij muaji për shenjat: Thuajini ‘jo’ ish-ave…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25644/shtatori-do-ju-ndryshoje-jeten-parashikimi-i-ketij-muaji-per-shenjat-thuajini-jo-ish-ave.mp3",
-     "publishedAt": "2026-09-08T11:20:08.000Z",
-     "durationSec": 1264,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25641",
-     "title": "Gushti ishte pushim ama jo për muzikën! Rekorde, rikthime, albume &#038; lajme të bujshme/ Ja çfarë mund të keni humbur&#8230;",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25641/gushti-ishte-pushim-ama-jo-per-muziken-rekorde-rikthime-albume-lajme-te-bujshme-ja-cfare-mund-te-keni-humbur.mp3",
-     "publishedAt": "2026-09-07T19:49:19.000Z",
-     "durationSec": 153,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25640",
-     "title": "I dërguari i Trump vizitë në Tiranë: “Të dëgjohen qytetarët!”-Edicioni kryesor informativ 07/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25640/i-derguari-i-trump-vizite-ne-tirane-te-degjohen-qytetaret-edicioni-kryesor-informativ-07-09-2026.mp3",
-     "publishedAt": "2026-09-07T19:46:36.000Z",
-     "durationSec": 364,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lajmet kryesore të ditës me datë 7 Shtator."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25638",
-     "title": "House Nation 07/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25638/house-nation-07-09-2026.mp3",
-     "publishedAt": "2026-09-07T12:00:00.000Z",
-     "durationSec": 3135,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
    ]
   },
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "aradio",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 51
+   "fails": 52
   },
   {
    "id": "ubtcampus",
