@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-09T22:36:06.685Z",
+ "generatedAt": "2026-09-10T01:08:27.886Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:5bd528ce-12aa-4a9d-8cef-4aac5a9890fa",
+     "title": "Versus #275: Liverpool - Atletico & Napoli - Arsenal, komentet pas ndeshjes",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125492408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F85bc2c85-b85b-75cf-96bd-40dc067f0654.mp3",
+     "publishedAt": "2026-09-09T23:10:03.000Z",
+     "durationSec": 5177,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Mbrëmja e dytë e sezonit të ri të Champions League servir dy ndeshje spektakolare, Liverpool - Atletico Madrid dhe Napoli - Arsenal. Parashikojmë sfidat e nesërme dhe japim mendimet tona për duelet kryesore. 0:00 Champions 1:21:51 Parashikime",
+     "episodeNumber": 275,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:4a56a3d7-a680-427f-a34c-8277fa6a0f93",
      "title": "Versus #274: Mbrëmja e parë e Champions League, Real Madrid - Inter",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125432047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F7453c5ea-6d25-48aa-2ca9-b09bac3cd9e5.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Kupa e Botës është tashmë në fazat vendimtare! Komentojmë dy ndeshjet e para të 1/8-ave dhe japim parashikimet tona për sfidat e ditëve në vijim. 0:00 France-Paraguai 31:27 Kanada-Marok 51:29 Argjentina 1:19:36 Kolumbi 1:25:04 OPA Player of the round. 1:27:00 Parashikime",
      "episodeNumber": 256,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:ced32a8b-2395-479d-8118-2f849475a60f",
-     "title": "Versus #255: Cristiano vs. Yamal, Botërori drejt ndeshjeve epike",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122365045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-4%2F3b8fb686-a85f-3756-4cf5-f76cac272e16.mp3",
-     "publishedAt": "2026-07-04T01:19:19.000Z",
-     "durationSec": 4932,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Kupa e Botës po shkon drejt ndeshjeve të mëdha! Pas fitores së Portugalisë me Kroacinë, mezi presim duelin Cristiano Ronaldo - Lamine Yamal. Komente, analiza dhe parashikime për sfidat e ditëve në vijim. 0:00 Portugalia 51:38 Zvicra 1:02:08 Egjipt v Australi 1:08:00 Parashikime 1:22:14 Fantazi",
-     "episodeNumber": 255,
      "seasonNumber": 3
     }
    ]
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "aradio",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 9
+   "fails": 10
   },
   {
    "id": "radiostar",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 48
+   "fails": 49
   },
   {
    "id": "ubtcampus",
