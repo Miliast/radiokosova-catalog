@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T11:29:29.480Z",
+ "generatedAt": "2026-09-11T16:33:56.383Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,42 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25711",
+     "title": "Cineplexx nis vjeshtën me risi/&#8221;Mutiny&#8221; dhe jo vetëm, ja çfarë ju pret në kinema&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25711/cineplexx-nis-vjeshten-me-risi-mutiny-dhe-jo-vetem-ja-cfare-ju-pret-ne-kinema.mp3",
+     "publishedAt": "2026-09-11T14:51:28.000Z",
+     "durationSec": 1205,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25709",
+     "title": "&#8220;Jam penduar që nuk i kam shijuar…&#8221;/Arjola Demiri: Nuk kam ditur si t&#8217;i përjetoj eksperiencat…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25709/jam-penduar-qe-nuk-i-kam-shijuar-arjola-demiri-nuk-kam-ditur-si-ti-perjetoj-eksperiencat.mp3",
+     "publishedAt": "2026-09-11T12:43:40.000Z",
+     "durationSec": 1808,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25707",
+     "title": "House Nation 11/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25707/house-nation-11-09-2026.mp3",
+     "publishedAt": "2026-09-11T12:00:00.000Z",
+     "durationSec": 2933,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25708",
+     "title": "Ronaldo Sharka Podcast &#8211; Çdo të hënë, ora 18:00!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25708/ronaldo-sharka-podcast-cdo-te-hene-ora-1800.wav",
+     "publishedAt": "2026-09-11T11:35:58.000Z",
+     "durationSec": 19,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "“Ronaldo Sharka Podcast” është një emision radiofonik me ritëm, humor dhe intervista pa filtra, ku personazhe të njohur nga bota e showbiz-it, medias, artit dhe jetës publike përballen me pyetje të drejtpërdrejta dhe shpesh provokuese. Me një stil gazetaresk me spec, kurioz dhe të paparashikueshëm, Ronaldo Sharka nxjerr në pah anën e panjohur të të ftuarve, duke prekur tema që të tjerët shpesh i shmangin. Nga rrëfimet personale te debatet, batutat dhe momentet e papritura, çdo episod synon të k…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25703",
      "title": "Miri e pranon: “Kisha debulesë për Selin, gjithçka mbeti pas&#8230;“/ Thumbon kolegët këngëtarë të BBV!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25703/miri-e-pranon-kisha-debulese-per-selin-gjithcka-mbeti-pas-thumbon-koleget-kengetare-te-bbv.mp3",
@@ -2450,42 +2486,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25655/dashuria-eshte-e-pashmangshme-drini-zeqo-heidi-ishte-e-martuar-por-sezoni-eshte-i-gjate.mp3",
      "publishedAt": "2026-09-08T11:28:01.000Z",
      "durationSec": 1675,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25653",
-     "title": "“Historike, të gjitha kampionatet në DigitAlb”/Glent Nallbani: Programi i dedikuar Champions League…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25653/historike-te-gjitha-kampionatet-ne-digitalb-glent-nallbani-programi-i-dedikuar-champions-league.mp3",
-     "publishedAt": "2026-09-08T11:25:52.000Z",
-     "durationSec": 423,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25652",
-     "title": "Meri Shehu zbulon çdo detaj për 12 shenjat e horoskopit! Sherr, tradhëti, pengesa ekonomike…/Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25652/meri-shehu-zbulon-cdo-detaj-per-12-shenjat-e-horoskopit-sherr-tradheti-pengesa-ekonomike-wake-up.mp3",
-     "publishedAt": "2026-09-08T11:24:38.000Z",
-     "durationSec": 1355,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25647",
-     "title": "Gëzim Tushi: Celulari ka zëvendësuar tespiet tek mosha e tretë!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25647/gezim-tushi-celulari-ka-zevendesuar-tespiet-tek-mosha-e-trete-wake-up.mp3",
-     "publishedAt": "2026-09-08T11:24:04.000Z",
-     "durationSec": 1305,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25646",
-     "title": "Banore në BBV6?! Kleoniki Delijorgji: Nuk mund të më kenë në krevat, bëj s*ks vetëm me burrin tim…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25646/banore-ne-bbv6-kleoniki-delijorgji-nuk-mund-te-me-kene-ne-krevat-bej-sks-vetem-me-burrin-tim.mp3",
-     "publishedAt": "2026-09-08T11:22:08.000Z",
-     "durationSec": 1829,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 57
+   "fails": 58
   },
   {
    "id": "ubtcampus",
