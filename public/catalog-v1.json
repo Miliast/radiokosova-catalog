@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T16:33:56.383Z",
+ "generatedAt": "2026-09-11T19:47:46.239Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,17 +872,6 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
-     "id": "1849137636:e07512ba-2adc-47d6-a505-ddecc7d4cb54",
-     "title": "Versus #276: E enjtja në Champions League, sytë tek Harry Kane!",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125564987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2Ff4fda860-9733-9a23-ec82-b96a5a84b70b.mp3",
-     "publishedAt": "2026-09-10T23:16:28.000Z",
-     "durationSec": 6754,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "E enjtja në Champions League, radhën e kanë Roma, Bayern, United dhe Como debutuese! Komente dhe analiza pas ndeshjeve me një tifoz të çmendur bavarez. Parashikojmë sfidat e fundjavës në ligat kryesore dhe japim mendimet tona për duelet që na presin. 0:00 Champions 1:38:21 Pyetje nga Produksioni 1:48:35 Parashikime",
-     "episodeNumber": 276,
-     "seasonNumber": 4
-    },
-    {
      "id": "1849137636:5bd528ce-12aa-4a9d-8cef-4aac5a9890fa",
      "title": "Versus #275: Liverpool - Atletico & Napoli - Arsenal, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125492408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F85bc2c85-b85b-75cf-96bd-40dc067f0654.mp3",
@@ -1089,6 +1078,17 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Kupa e Botës tashmë ka 8 skuadrat më të forta dhe mezi presim përballjet spektakolare të korrikut! Komentojmë dy ndeshjet e ditës japim parashikimet tona për sfidat çerekfinale. 0:00 Argjentina 55:45 Belgjika 1:18:15 Portugalia 1:41:26 Brazili 1:46:33 Cerekfinalet 1:51:43 Parashikimet 1:54:15 FWC",
      "episodeNumber": 257,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1849137636:b8da1ba9-d105-43ad-9637-f2c233f55aea",
+     "title": "Versus #256: Kupa e Botës, faza 1/8: analiza e dy ndeshjeve",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122395657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-5%2F16e2ab18-05b3-31d6-5fc9-c9fe32bc16df.mp3",
+     "publishedAt": "2026-07-05T01:13:23.000Z",
+     "durationSec": 5427,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Kupa e Botës është tashmë në fazat vendimtare! Komentojmë dy ndeshjet e para të 1/8-ave dhe japim parashikimet tona për sfidat e ditëve në vijim. 0:00 France-Paraguai 31:27 Kanada-Marok 51:29 Argjentina 1:19:36 Kolumbi 1:25:04 OPA Player of the round. 1:27:00 Parashikime",
+     "episodeNumber": 256,
      "seasonNumber": 3
     }
    ]
@@ -1766,16 +1766,6 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
-     "id": "1573751706:439126b1-9a7a-46f8-ac30-c9bc4bbe991b",
-     "title": "Rreziqet që i kanosen kombit shqiptar - Franc Ribaj në Buchi Podcast Shqip #222 | Hapsirë Publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125581696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Fd30fa70f-9b64-d093-c8ce-fa05d7653bc0.m4a",
-     "publishedAt": "2026-09-11T08:47:09.000Z",
-     "durationSec": 3407,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1789116168804-b28a7b5c9710b.jpg",
-     "description": "🎙️ Buchi Podcast Shqip – Episodi 222 | Franc Ribaj Rubrika: Hapësirë Publike Në episodin 222, i ftuar në Hapësirë Publike është Franc Ribaj , për një bisedë mbi zhvillimet gjeopolitike, interesat e fuqive ndërkombëtare dhe pozicionin e Shqipërisë në një rajon që vazhdon të përballet me tensione dhe interesa të kundërta. Flasim për mënyrën se si, sipas Francit, fuqitë dhe aktorët ndërkombëtarë ushtrojnë ndikim mbi shtetet e vogla , për raportin mes sovranitetit dhe interesave gjeopolitike, si d…",
-     "episodeNumber": 222
-    },
-    {
      "id": "1573751706:6a4f4e01-8093-48f7-8d4b-3217291abe72",
      "title": "Jo referendum, ti kërkojmë llogari politikës! - Denis Bala në Buchi Podcast Shqip #221 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125317529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431346797-44100-2-802590e2e9726.mp3",
@@ -1963,6 +1953,16 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310812651-3419477be7f86.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 204
+    },
+    {
+     "id": "1573751706:f2b49c1c-2e34-49bf-beed-021c1a5ea9df",
+     "title": "Problemi i terapisë hormonale për minorenët - Buchi Podcast Shqip #203 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120788123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425218367-44100-2-e18a403577638.m4a",
+     "publishedAt": "2026-06-02T00:00:00.000Z",
+     "durationSec": 1992,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310773233-e547a3def9b6d.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
+     "episodeNumber": 203
     }
    ]
   },
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25724",
+     "title": "Ikona e muzikës Dolly Parton, 10 fakte interesante për të (që nuk i dinim)",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25724/ikona-e-muzikes-dolly-parton-10-fakte-interesante-per-te-qe-nuk-i-dinim.mp3",
+     "publishedAt": "2026-09-11T18:41:39.000Z",
+     "durationSec": 305,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25721",
+     "title": "Ndryshime në qeveri, Lamallari i lë vendin Demos!-Edicioni kryesor informativ 11/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25721/ndryshime-ne-qeveri-lamallari-i-le-vendin-demos-edicioni-kryesor-informativ-11-09-2026.mp3",
+     "publishedAt": "2026-09-11T18:39:21.000Z",
+     "durationSec": 357,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 11 Shtator."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25711",
      "title": "Cineplexx nis vjeshtën me risi/&#8221;Mutiny&#8221; dhe jo vetëm, ja çfarë ju pret në kinema&#8230;",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25711/cineplexx-nis-vjeshten-me-risi-mutiny-dhe-jo-vetem-ja-cfare-ju-pret-ne-kinema.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 3759,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Emisioni më i kërkuar nga të gjithë fanatikët e sportit. Glent Nallbani, Edi Manushi, Redi Jupi, Lorenc Jemini dhe Gëzim Sinemati mendojnë për të gjithë ju dashamirës të futbollit duke sjellë “Pasó”, emisionin që do t’ju ndjekë çdo të premte në frekuencën e radios tuaj të preferuar, vetëm në Top Albania Radio. Një program sportiv prej 120 minutash i rikthehet informacionit dedikuar sportit çdo javë. Konceptuar si një emision info-argëtues, informohuni mbi faktet, njihuni me protagonistët dhe që…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25656",
-     "title": "Ekskluzive/ Dj Iljano zbulon të vërtetën e remix-it “Dj” të Rezarta Shkurtës: Pesha i ra Rozit, por…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25656/ekskluzive-dj-iljano-zbulon-te-verteten-e-remix-it-dj-te-rezarta-shkurtes-pesha-i-ra-rozit-por.mp3",
-     "publishedAt": "2026-09-08T12:01:34.000Z",
-     "durationSec": 2001,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë ta pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25655",
-     "title": "”Dashuria është e pashmangshme”/Drini Zeqo: Heidi ishte “e martuar” por sezoni është i gjatë&#8230;",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25655/dashuria-eshte-e-pashmangshme-drini-zeqo-heidi-ishte-e-martuar-por-sezoni-eshte-i-gjate.mp3",
-     "publishedAt": "2026-09-08T11:28:01.000Z",
-     "durationSec": 1675,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
    ]
   },
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 58
+   "fails": 59
   },
   {
    "id": "ubtcampus",
