@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T19:47:46.239Z",
+ "generatedAt": "2026-09-11T22:38:27.597Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:e07512ba-2adc-47d6-a505-ddecc7d4cb54",
+     "title": "Versus #276: E enjtja në Champions League, sytë tek Harry Kane!",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125564987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2Ff4fda860-9733-9a23-ec82-b96a5a84b70b.mp3",
+     "publishedAt": "2026-09-10T23:16:28.000Z",
+     "durationSec": 6754,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "E enjtja në Champions League, radhën e kanë Roma, Bayern, United dhe Como debutuese! Komente dhe analiza pas ndeshjeve me një tifoz të çmendur bavarez. Parashikojmë sfidat e fundjavës në ligat kryesore dhe japim mendimet tona për duelet që na presin. 0:00 Champions 1:38:21 Pyetje nga Produksioni 1:48:35 Parashikime",
+     "episodeNumber": 276,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:5bd528ce-12aa-4a9d-8cef-4aac5a9890fa",
      "title": "Versus #275: Liverpool - Atletico & Napoli - Arsenal, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125492408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F85bc2c85-b85b-75cf-96bd-40dc067f0654.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Kupa e Botës tashmë ka 8 skuadrat më të forta dhe mezi presim përballjet spektakolare të korrikut! Komentojmë dy ndeshjet e ditës japim parashikimet tona për sfidat çerekfinale. 0:00 Argjentina 55:45 Belgjika 1:18:15 Portugalia 1:41:26 Brazili 1:46:33 Cerekfinalet 1:51:43 Parashikimet 1:54:15 FWC",
      "episodeNumber": 257,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:b8da1ba9-d105-43ad-9637-f2c233f55aea",
-     "title": "Versus #256: Kupa e Botës, faza 1/8: analiza e dy ndeshjeve",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122395657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-5%2F16e2ab18-05b3-31d6-5fc9-c9fe32bc16df.mp3",
-     "publishedAt": "2026-07-05T01:13:23.000Z",
-     "durationSec": 5427,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Kupa e Botës është tashmë në fazat vendimtare! Komentojmë dy ndeshjet e para të 1/8-ave dhe japim parashikimet tona për sfidat e ditëve në vijim. 0:00 France-Paraguai 31:27 Kanada-Marok 51:29 Argjentina 1:19:36 Kolumbi 1:25:04 OPA Player of the round. 1:27:00 Parashikime",
-     "episodeNumber": 256,
      "seasonNumber": 3
     }
    ]
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:439126b1-9a7a-46f8-ac30-c9bc4bbe991b",
+     "title": "Rreziqet që i kanosen kombit shqiptar - Franc Ribaj në Buchi Podcast Shqip #222 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125581696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Fd30fa70f-9b64-d093-c8ce-fa05d7653bc0.m4a",
+     "publishedAt": "2026-09-11T08:47:09.000Z",
+     "durationSec": 3407,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1789116168804-b28a7b5c9710b.jpg",
+     "description": "🎙️ Buchi Podcast Shqip – Episodi 222 | Franc Ribaj Rubrika: Hapësirë Publike Në episodin 222, i ftuar në Hapësirë Publike është Franc Ribaj , për një bisedë mbi zhvillimet gjeopolitike, interesat e fuqive ndërkombëtare dhe pozicionin e Shqipërisë në një rajon që vazhdon të përballet me tensione dhe interesa të kundërta. Flasim për mënyrën se si, sipas Francit, fuqitë dhe aktorët ndërkombëtarë ushtrojnë ndikim mbi shtetet e vogla , për raportin mes sovranitetit dhe interesave gjeopolitike, si d…",
+     "episodeNumber": 222
+    },
+    {
      "id": "1573751706:6a4f4e01-8093-48f7-8d4b-3217291abe72",
      "title": "Jo referendum, ti kërkojmë llogari politikës! - Denis Bala në Buchi Podcast Shqip #221 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125317529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431346797-44100-2-802590e2e9726.mp3",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310812651-3419477be7f86.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 204
-    },
-    {
-     "id": "1573751706:f2b49c1c-2e34-49bf-beed-021c1a5ea9df",
-     "title": "Problemi i terapisë hormonale për minorenët - Buchi Podcast Shqip #203 | Hapsirë publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120788123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425218367-44100-2-e18a403577638.m4a",
-     "publishedAt": "2026-06-02T00:00:00.000Z",
-     "durationSec": 1992,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310773233-e547a3def9b6d.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 203
     }
    ]
   },
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 59
+   "fails": 60
   },
   {
    "id": "ubtcampus",
