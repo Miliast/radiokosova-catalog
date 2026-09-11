@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T06:04:46.329Z",
+ "generatedAt": "2026-09-11T11:29:29.480Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:439126b1-9a7a-46f8-ac30-c9bc4bbe991b",
+     "title": "Rreziqet që i kanosen kombit shqiptar - Franc Ribaj në Buchi Podcast Shqip #222 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125581696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Fd30fa70f-9b64-d093-c8ce-fa05d7653bc0.m4a",
+     "publishedAt": "2026-09-11T08:47:09.000Z",
+     "durationSec": 3407,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1789116168804-b28a7b5c9710b.jpg",
+     "description": "🎙️ Buchi Podcast Shqip – Episodi 222 | Franc Ribaj Rubrika: Hapësirë Publike Në episodin 222, i ftuar në Hapësirë Publike është Franc Ribaj , për një bisedë mbi zhvillimet gjeopolitike, interesat e fuqive ndërkombëtare dhe pozicionin e Shqipërisë në një rajon që vazhdon të përballet me tensione dhe interesa të kundërta. Flasim për mënyrën se si, sipas Francit, fuqitë dhe aktorët ndërkombëtarë ushtrojnë ndikim mbi shtetet e vogla , për raportin mes sovranitetit dhe interesave gjeopolitike, si d…",
+     "episodeNumber": 222
+    },
+    {
      "id": "1573751706:6a4f4e01-8093-48f7-8d4b-3217291abe72",
      "title": "Jo referendum, ti kërkojmë llogari politikës! - Denis Bala në Buchi Podcast Shqip #221 | Agora",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125317529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431346797-44100-2-802590e2e9726.mp3",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310812651-3419477be7f86.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 204
-    },
-    {
-     "id": "1573751706:f2b49c1c-2e34-49bf-beed-021c1a5ea9df",
-     "title": "Problemi i terapisë hormonale për minorenët - Buchi Podcast Shqip #203 | Hapsirë publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120788123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425218367-44100-2-e18a403577638.m4a",
-     "publishedAt": "2026-06-02T00:00:00.000Z",
-     "durationSec": 1992,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310773233-e547a3def9b6d.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 203
     }
    ]
   },
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25703",
+     "title": "Miri e pranon: “Kisha debulesë për Selin, gjithçka mbeti pas&#8230;“/ Thumbon kolegët këngëtarë të BBV!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25703/miri-e-pranon-kisha-debulese-per-selin-gjithcka-mbeti-pas-thumbon-koleget-kengetare-te-bbv.mp3",
+     "publishedAt": "2026-09-11T11:21:58.000Z",
+     "durationSec": 4950,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Katër vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25682",
      "title": "House Nation 10/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25682/house-nation-10-09-2026.mp3",
@@ -2477,15 +2486,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25646/banore-ne-bbv6-kleoniki-delijorgji-nuk-mund-te-me-kene-ne-krevat-bej-sks-vetem-me-burrin-tim.mp3",
      "publishedAt": "2026-09-08T11:22:08.000Z",
      "durationSec": 1829,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25645",
-     "title": "“Kur dola nga BBV nuk prisja shumë por…”/Nikol Projko: Wake Up, nisja më e mirë e vitit!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25645/kur-dola-nga-bbv-nuk-prisja-shume-por-nikol-projko-wake-up-nisja-me-e-mire-e-vitit.mp3",
-     "publishedAt": "2026-09-08T11:20:56.000Z",
-     "durationSec": 1136,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
@@ -3366,8 +3366,8 @@
   },
   {
    "id": "radiovizioni",
-   "online": false,
-   "fails": 8
+   "online": true,
+   "fails": 0
   },
   {
    "id": "aradio",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 56
+   "fails": 57
   },
   {
    "id": "ubtcampus",
