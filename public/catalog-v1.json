@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-12T05:53:19.966Z",
+ "generatedAt": "2026-09-12T10:54:05.707Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/kosova-pisa-rezultate-dobeta/33852569.html",
+     "title": "Pse Kosova po del kaq dobët në PISA?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/11/5655ced2-9fa8-4fcd-83c7-08df0f43374f_hq.mp3",
+     "publishedAt": "2026-09-12T09:51:41.000Z",
+     "durationSec": 1894,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
+     "description": "Mbi 80 për qind të nxënësve 15-vjeçarë në Kosovë, të cilët iu nënshtruan një testimi ndërkombëtar, nuk arritën as nivelin bazë në matematikë, shkencë dhe lexim."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/mospajtime-qeveri-komuna/33847515.html",
      "title": "Si ndikojnë te qytetarët mosmarrëveshjet mes komunave dhe Qeverisë",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/05/c590bb91-e8bc-4f9c-88d5-08decad17715_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1578,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
      "description": "Kosovës i duhet stabilitet politik për të tërhequr më shumë investime të huaja, vlerëson Emrush Ujkani, drejtor ekzekutiv në Këshillin e Investitorëve Evropianë."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/pasuria-zyrtaret-publike-verifikimi/33734373.html",
-     "title": "Pasuria e zyrtarëve publikë: Kush do ta verifikojë dhe a ka rrezik për ndikim politik?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/04/17/2c46f761-f137-4dc2-48b8-08de3c92853e_hq.mp3",
-     "publishedAt": "2026-04-18T09:56:03.000Z",
-     "durationSec": 1862,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80.png",
-     "description": "Konfiskimi i pasurisë së pajustifikueshme është rikthyer në fokus, me disa dilema se si do të zbatohet në praktikë si proces."
     }
    ]
   },
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 62
+   "fails": 63
   },
   {
    "id": "ubtcampus",
