@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-13T22:27:30.356Z",
+ "generatedAt": "2026-09-14T01:11:25.184Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:1377ab5f-2576-4173-8861-95a129b6fd81",
+     "title": "Versus #277: Komentet e fundjavës, kush shkëlqeu në ligat europiane?",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125691455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F4c48c853-021e-f8a0-ca2c-10f690fd5988.mp3",
+     "publishedAt": "2026-09-14T00:12:41.000Z",
+     "durationSec": 10099,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Arsenali bën detyrën, Tottenham nuk di të shënojë dhe ka humbur busullën. United - City, kryendeshja e fundjavës! Në Lazio - Milan s'ka fitues, por katër golat ndezin emocionet në Serie A. Real Madrid fiton me shkëlqimin e \"Diktatorit\". Barcelona si katalizator, këtë vit mund të fitojë gjithçka. 0:00 Rrahmani 49:04 Serie A 1:33:12 Derbi i Mançesterit 1:46:12 La Liga 2:31:12 Bayern 2:37:12 Parashikime 2:40:12 Fantazi",
+     "episodeNumber": 277,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:e07512ba-2adc-47d6-a505-ddecc7d4cb54",
      "title": "Versus #276: E enjtja në Champions League, sytë tek Harry Kane!",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125564987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2Ff4fda860-9733-9a23-ec82-b96a5a84b70b.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Emocionet e Kupës së Botës, tashmë në fazën më delikate, me përshtypjet dhe analizat e legjendës Altin Lala. Ish-futbollisti i kombëtares shqiptare dhe treshja ADN komentojnë dy ndeshjet e para çerekfinale dhe japin parashikimet për sfidat në vijim. 0:00 Spanja 27:40 Franca 30:35 Mbappe 36:43 Gjermania 1:19:46 Brazili 1:37:35 Shqiperia",
      "episodeNumber": 258,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:f53161a2-9da6-4d38-b2be-c4595b7e9fee",
-     "title": "Versus #257: Kupa e Botës, po vijnë çerekfinalet",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122545568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2Fcaede4b4-1123-0004-b20b-f0d204be626e.mp3",
-     "publishedAt": "2026-07-08T09:15:59.000Z",
-     "durationSec": 7162,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Kupa e Botës tashmë ka 8 skuadrat më të forta dhe mezi presim përballjet spektakolare të korrikut! Komentojmë dy ndeshjet e ditës japim parashikimet tona për sfidat çerekfinale. 0:00 Argjentina 55:45 Belgjika 1:18:15 Portugalia 1:41:26 Brazili 1:46:33 Cerekfinalet 1:51:43 Parashikimet 1:54:15 FWC",
-     "episodeNumber": 257,
      "seasonNumber": 3
     }
    ]
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 73
+   "fails": 74
   },
   {
    "id": "ubtcampus",
