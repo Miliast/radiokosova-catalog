@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-15T18:15:45.073Z",
+ "generatedAt": "2026-09-15T21:30:10.062Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3317,7 +3317,7 @@
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 82
+   "fails": 83
   },
   {
    "id": "ubtcampus",
