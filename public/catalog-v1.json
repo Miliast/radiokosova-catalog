@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-16T20:12:49.250Z",
+ "generatedAt": "2026-09-16T23:00:38.037Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3367,7 +3367,7 @@
   {
    "id": "radiovizioni",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "aradio",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 88
+   "fails": 89
   },
   {
    "id": "ubtcampus",
