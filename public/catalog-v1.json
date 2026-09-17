@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-17T18:18:28.935Z",
+ "generatedAt": "2026-09-17T22:14:26.972Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 93
+   "fails": 94
   },
   {
    "id": "ubtcampus",
@@ -3457,7 +3457,7 @@
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "awgjilan",
@@ -3467,12 +3467,12 @@
   {
    "id": "albradio",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 0
+   "fails": 1
   }
  ]
 }
