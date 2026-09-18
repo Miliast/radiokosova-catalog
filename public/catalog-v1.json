@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-17T22:14:26.972Z",
+ "generatedAt": "2026-09-18T00:27:23.397Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:60fbdc0a-a1f3-4ddf-a5b9-4985375b60e7",
+     "title": "Versus #278: Dështon Milani, radhën e ka Juve! Barcelona, mrekullia e shtatorit!",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125908755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F6e0518e4-6463-8a79-ce41-1aa64b3caa21.mp3",
+     "publishedAt": "2026-09-17T23:47:08.000Z",
+     "durationSec": 7887,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Rikthehemi live në Versus për një episod gjithëpërfshirës: kampionatet, Europa League dhe pragndeshjet e kombëtareve. Komente, analiza dhe parashikime të detajuara për sfidat kryesore. 0:00 La Liga 59:18 Seria A 1:30:21 Premier League 1:43:01 Kombëtarja 2:07:22 Parashikime",
+     "episodeNumber": 278,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:1377ab5f-2576-4173-8861-95a129b6fd81",
      "title": "Versus #277: Komentet e fundjavës, kush shkëlqeu në ligat europiane?",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125691455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F4c48c853-021e-f8a0-ca2c-10f690fd5988.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Dramë, adrenalinë dhe spektakël, ky Botëror i ka të gjitha. Pas çerekfinaleve të luftuara deri në frymën e fundit, vijnë ditët e gjysmëfinaleve! Komente, analiza dhe parashikime për dy sfidat spektakolare. 0:00 Çerekfinalet 40:26 Vlerësimet 49:18 Xhaka 1:21:02 Anglia 1:35:04 Norvegjia 1:58:51 Fantasy",
      "episodeNumber": 259,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:d5089b3b-84ed-4a04-a0c0-c091d497632f",
-     "title": "Versus #258: Kupa e Botës, komentojmë çerekfinalet me legjendën Altin Lala",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122676268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Feaa29cf1-127c-b708-0cdb-7b1873d995da.mp3",
-     "publishedAt": "2026-07-11T00:36:34.000Z",
-     "durationSec": 8710,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Emocionet e Kupës së Botës, tashmë në fazën më delikate, me përshtypjet dhe analizat e legjendës Altin Lala. Ish-futbollisti i kombëtares shqiptare dhe treshja ADN komentojnë dy ndeshjet e para çerekfinale dhe japin parashikimet për sfidat në vijim. 0:00 Spanja 27:40 Franca 30:35 Mbappe 36:43 Gjermania 1:19:46 Brazili 1:37:35 Shqiperia",
-     "episodeNumber": 258,
      "seasonNumber": 3
     }
    ]
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 94
+   "fails": 95
   },
   {
    "id": "ubtcampus",
@@ -3457,7 +3457,7 @@
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awgjilan",
@@ -3467,12 +3467,12 @@
   {
    "id": "albradio",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 1
+   "fails": 0
   }
  ]
 }
