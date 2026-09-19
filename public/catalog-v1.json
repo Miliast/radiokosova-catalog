@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-19T06:00:09.321Z",
+ "generatedAt": "2026-09-19T11:07:54.305Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/mund-shkaterroje-njerezimin-ia/33859340.html",
+     "title": "A mund ta shkatërrojë njerëzimin inteligjenca artificiale?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/19/468c4f38-6bec-479c-e266-08df13afe2a0_hq.mp3",
+     "publishedAt": "2026-09-19T09:58:42.000Z",
+     "durationSec": 1159,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "A mund ta humbë njerëzimi kontrollin mbi inteligjencën artificiale? Darsej Rizaj nga Shkolla Digjitale flet në podkastin 5 pyetje për rreziqet e teknologjisë - nga keqpërdorimi i të dhënave, deri te skenarët ku sistemet autonome mund të veprojnë në mënyra të paparashikuara."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/kosova-pisa-rezultate-dobeta/33852569.html",
      "title": "Pse Kosova po del kaq dobët në PISA?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/11/5655ced2-9fa8-4fcd-83c7-08df0f43374f_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1359,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Ngritja e Kosovës në Indeksin Botëror të Lirisë së Shtypit është një sinjal pozitiv, por duhet të bëhet më shumë që vendi të renditet edhe më lart, vlerëson ligjëruesi i politikave mediale, Jeton Mehmeti."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/cka-pengon-investitoret-huaj-kosove/33742258.html",
-     "title": "Çka po i pengon investitorët e huaj të vijnë në Kosovë?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/04/25/0d67cff0-b283-4cce-4a9d-08de3c92853e_hq.mp3",
-     "publishedAt": "2026-04-25T09:55:51.000Z",
-     "durationSec": 1578,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Kosovës i duhet stabilitet politik për të tërhequr më shumë investime të huaja, vlerëson Emrush Ujkani, drejtor ekzekutiv në Këshillin e Investitorëve Evropianë."
     }
    ]
   },
@@ -3361,8 +3361,8 @@
   },
   {
    "id": "radioalba",
-   "online": false,
-   "fails": 3
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiovizioni",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 102
+   "fails": 103
   },
   {
    "id": "ubtcampus",
