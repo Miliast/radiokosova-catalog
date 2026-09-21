@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-21T14:16:44.952Z",
+ "generatedAt": "2026-09-21T19:35:12.455Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25833",
+     "title": "Rama i ftoi për dialog “Drejtësia” çon ligjin në Kushtetuese!- Edicioni Kryesor Informativ 21/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25833/rama-i-ftoi-per-dialog-drejtesia-con-ligjin-ne-kushtetuese-edicioni-kryesor-informativ-21-09-2026.mp3",
+     "publishedAt": "2026-09-21T17:33:46.000Z",
+     "durationSec": 362,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25827",
      "title": "Cigarja apo alkooli?! Ja se kush është faktori kryesor i infarkteve në zemër…",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25827/cigarja-apo-alkooli-ja-se-kush-eshte-faktori-kryesor-i-infarkteve-ne-zemer.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 6058,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25798",
-     "title": "Rrëfehet Kristi Lamaj. Projekti në ekran, muzika dhe “ngërçi” me banorët e BBV5!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25798/rrefehet-kristi-lamaj-projekti-ne-ekran-muzika-dhe-ngerci-me-banoret-e-bbv5-wake-up.mp3",
-     "publishedAt": "2026-09-18T11:37:54.000Z",
-     "durationSec": 1416,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
     }
    ]
   },
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiokosovaelire",
@@ -3311,8 +3311,8 @@
   },
   {
    "id": "radionostalgjia",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 116
+   "fails": 117
   },
   {
    "id": "ubtcampus",
