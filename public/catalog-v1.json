@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-21T01:11:11.768Z",
+ "generatedAt": "2026-09-21T06:27:37.934Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 114
+   "fails": 115
   },
   {
    "id": "ubtcampus",
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 0
+   "fails": 1
   }
  ]
 }
