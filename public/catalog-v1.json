@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-20T22:30:44.134Z",
+ "generatedAt": "2026-09-21T01:11:11.768Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:30a9731d-2aa3-4a72-9e62-813ced3070c4",
+     "title": "Versus #279: Atletico Madrid - Real Madrid, prova e parë e vërtetë!",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126056208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fe29c58f8-c1b7-3159-691e-bb9a4db21376.mp3",
+     "publishedAt": "2026-09-20T23:55:38.000Z",
+     "durationSec": 12231,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Live në Versus për fundjavën në ligat europiane. Derbi i Madridit, Roma - Inter, humbja turpëruese e Arsenalit, shkëlqimi i Barcelonës dhe spektakli nga Bayern. Komente, analiza dhe parashikime të detajuara për sfidat kryesore. 0:00 La Liga 1:16:25 Premier League 1:47:40 Serie A 2:09:47 Bayern 2:19:17 Kombetarja 3:08:21 Parashikime 3:12:27 Fantazi",
+     "episodeNumber": 279,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:60fbdc0a-a1f3-4ddf-a5b9-4985375b60e7",
      "title": "Versus #278: Dështon Milani, radhën e ka Juve! Barcelona, mrekullia e shtatorit!",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125908755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F6e0518e4-6463-8a79-ce41-1aa64b3caa21.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Francë - Spanjë dhe Angli - Argjentinë. 24 orë para gjysmëfinales së parë të Botërorit, diskutojmë së bashku çdo detaj të ngjarjes më të madhe sportive. Komente, analiza dhe parashikime për dy sfidat spektakolare që na presin. 0:00 Gjysmefinalet 1:38:08 Deklarata 1:50:03 Parashikime 2:02:14 Guardiola",
      "episodeNumber": 260,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:18888553-4060-48c4-ac1f-72b52213d88a",
-     "title": "Versus #259: Mbani frymën! Tani luhen gjysmëfinalet",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122743919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2Fec45f0b4-d2bb-9caf-bbb7-9be16e7e537f.mp3",
-     "publishedAt": "2026-07-12T22:43:26.000Z",
-     "durationSec": 7652,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Dramë, adrenalinë dhe spektakël, ky Botëror i ka të gjitha. Pas çerekfinaleve të luftuara deri në frymën e fundit, vijnë ditët e gjysmëfinaleve! Komente, analiza dhe parashikime për dy sfidat spektakolare. 0:00 Çerekfinalet 40:26 Vlerësimet 49:18 Xhaka 1:21:02 Anglia 1:35:04 Norvegjia 1:58:51 Fantasy",
-     "episodeNumber": 259,
      "seasonNumber": 3
     }
    ]
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 113
+   "fails": 114
   },
   {
    "id": "ubtcampus",
