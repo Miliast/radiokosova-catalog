@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-23T06:03:18.514Z",
+ "generatedAt": "2026-09-23T11:46:32.512Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25856",
+     "title": "A ka një moshë ideale se kur duhet të largohesh nga shtëpia e prindërve?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25856/a-ka-nje-moshe-ideale-se-kur-duhet-te-largohesh-nga-shtepia-e-prinderve-wake-up.mp3",
+     "publishedAt": "2026-09-23T10:24:44.000Z",
+     "durationSec": 1504,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25853",
+     "title": "Çfarë e lidh Vlora Hysenin me Ergys Agasin, gazetarja zbardh detajet!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25853/cfare-e-lidh-vlora-hysenin-me-ergys-agasin-gazetarja-zbardh-detajet-wake-up.mp3",
+     "publishedAt": "2026-09-23T10:24:07.000Z",
+     "durationSec": 1354,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25851",
      "title": "SPAK dha urdhër arresti, Rama shkarkon me urgjencë kreun e SHISH-it! Edicioni informativ 22/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25851/spak-dha-urdher-arresti-rama-shkarkon-me-urgjence-kreun-e-shish-it-edicioni-informativ-22-09-2026.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 1731,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25810",
-     "title": "Rasti tronditës i abuzimit të 12-vjeçares, psikologia Jonida Haxhiu: Nëna të paafta…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25810/rasti-trondites-i-abuzimit-te-12-vjecares-psikologia-jonida-haxhiu-nena-te-paafta.mp3",
-     "publishedAt": "2026-09-21T12:00:07.000Z",
-     "durationSec": 913,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25807",
-     "title": "Marin Mema: Shtatorja e Teutës ilire u vendos në Lezhë për këtë arsye/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25807/marin-mema-shtatorja-e-teutes-ilire-u-vendos-ne-lezhe-per-kete-arsye-wake-up.mp3",
-     "publishedAt": "2026-09-21T11:59:05.000Z",
-     "durationSec": 1426,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00 . Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj d…"
     }
    ]
   },
@@ -3291,8 +3291,8 @@
   },
   {
    "id": "valarinore",
-   "online": false,
-   "fails": 9
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiokosovaelire",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 10
+   "fails": 11
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 125
+   "fails": 126
   },
   {
    "id": "ubtcampus",
