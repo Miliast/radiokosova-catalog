@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-23T11:46:32.512Z",
+ "generatedAt": "2026-09-23T17:10:07.031Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,33 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25861",
+     "title": "SHISH me drejtor provizor Berisha kërkon dorëheqjen e Ramës!-Edicioni kryesor informativ 23/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25861/shish-me-drejtor-provizor-berisha-kerkon-doreheqjen-e-rames-edicioni-kryesor-informativ-23-09-2026.mp3",
+     "publishedAt": "2026-09-23T16:25:48.000Z",
+     "durationSec": 347,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 23 Shtator."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25860",
+     "title": "“Një vajzë si Chardonnay…”/Somelieri Fation Tila krahason vajzat me verën: Pin territorin jo vetëm…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25860/nje-vajze-si-chardonnay-somelieri-fation-tila-krahason-vajzat-me-veren-pin-territorin-jo-vetem.mp3",
+     "publishedAt": "2026-09-23T13:43:40.000Z",
+     "durationSec": 1699,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25857",
+     "title": "“Jam shumë e brishtë por do kaloja në nivel super sajan…”/Gazetarja Trevisa Tufa në BBV?!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25857/jam-shume-e-brishte-por-do-kaloja-ne-nivel-super-sajan-gazetarja-trevisa-tufa-ne-bbv.mp3",
+     "publishedAt": "2026-09-23T12:59:29.000Z",
+     "durationSec": 1342,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25856",
      "title": "A ka një moshë ideale se kur duhet të largohesh nga shtëpia e prindërve?/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25856/a-ka-nje-moshe-ideale-se-kur-duhet-te-largohesh-nga-shtepia-e-prinderve-wake-up.mp3",
@@ -2461,33 +2488,6 @@
      "durationSec": 2953,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Kaloni 60 minuta me klasiket e muzikës House, nga SAIX. Në një kohë kur muzika elektronike është bërë mainstream, house i viteve 80 – 90 – 00 tingëllon si Evergreen."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25817",
-     "title": "House Nation 21/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25817/house-nation-21-09-2026.mp3",
-     "publishedAt": "2026-09-21T12:34:39.000Z",
-     "durationSec": 3135,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25815",
-     "title": "Hip Hop On Top 19/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25815/hip-hop-on-top-19-09-2026.mp3",
-     "publishedAt": "2026-09-21T12:33:43.000Z",
-     "durationSec": 2797,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Hip Hop at it’s best. Top Albania Radio ka një traditë të transmetimit të Hip Hop-it që në fillimin e saj, atëhere kur kjo rrymë konsiderohej nga kritikët si denigrim i muzikës. Ky program sjell më të mirat e rrap-it të pa censuruara, dje dhe sot, duke zgjuar nostalgji dhe duke ju prezantuar hitet që do trondisin bokset e makinës tuaj, të miksuara nga Dj Keddos."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25808",
-     "title": "“Hotel me 5 yje, nga palestra te festat e çmendura”, burgjet në Shqipëri, flet Adriatik Doçi",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25808/hotel-me-5-yje-nga-palestra-te-festat-e-cmendura-burgjet-ne-shqiperi-flet-adriatik-doci.mp3",
-     "publishedAt": "2026-09-21T12:00:34.000Z",
-     "durationSec": 1731,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 11
+   "fails": 12
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 126
+   "fails": 127
   },
   {
    "id": "ubtcampus",
