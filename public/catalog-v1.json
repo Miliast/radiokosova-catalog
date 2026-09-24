@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-24T10:07:41.867Z",
+ "generatedAt": "2026-09-24T15:12:23.233Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25873",
+     "title": "Kampioni në peshëngritje Briken Calja mes karrierës dhe jetës familjare: Pengu im…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25873/kampioni-ne-peshengritje-briken-calja-mes-karrieres-dhe-jetes-familjare-pengu-im.mp3",
+     "publishedAt": "2026-09-24T12:36:00.000Z",
+     "durationSec": 1175,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25869",
+     "title": "House Nation 24/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25869/house-nation-24-09-2026.mp3",
+     "publishedAt": "2026-09-24T12:00:00.000Z",
+     "durationSec": 3135,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25872",
      "title": "Ekspertja e ekonomisë: Çiftet e reja po e shohin shtëpinë si një ëndërr/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25872/ekspertja-e-ekonomise-ciftet-e-reja-po-e-shohin-shtepine-si-nje-enderr-wake-up.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 362,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25827",
-     "title": "Cigarja apo alkooli?! Ja se kush është faktori kryesor i infarkteve në zemër…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25827/cigarja-apo-alkooli-ja-se-kush-eshte-faktori-kryesor-i-infarkteve-ne-zemer.mp3",
-     "publishedAt": "2026-09-21T12:43:45.000Z",
-     "durationSec": 2086,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25826",
-     "title": "“Deri ditën që të mbyll sytë dua të udhëtoj”/Efi, Arjola &#038; Arjon na ‘transportojnë’ në Bali…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25826/deri-diten-qe-te-mbyll-syte-dua-te-udhetoj-efi-arjola-arjon-na-transportojne-ne-bali.mp3",
-     "publishedAt": "2026-09-21T12:41:57.000Z",
-     "durationSec": 3540,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 16
+   "fails": 17
   },
   {
    "id": "radiok4",
@@ -3362,7 +3362,7 @@
   {
    "id": "radioalba",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiovizioni",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 131
+   "fails": 132
   },
   {
    "id": "ubtcampus",
@@ -3402,7 +3402,7 @@
   {
    "id": "radiodeqani",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiokoha",
@@ -3452,17 +3452,17 @@
   {
    "id": "radioalbafolk",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awferizaj",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "albradio",
