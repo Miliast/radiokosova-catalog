@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-25T13:54:05.953Z",
+ "generatedAt": "2026-09-25T18:41:41.352Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25897",
+     "title": "Debate në parlament për Vlora Hysenin! &#8211; Edicioni kryesor informativ 25/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25897/debate-ne-parlament-per-vlora-hysenin-edicioni-kryesor-informativ-25-09-2026.mp3",
+     "publishedAt": "2026-09-25T16:06:10.000Z",
+     "durationSec": 358,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 25 Shtator."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25890",
+     "title": "Dylan Reka: &#8220;Mendoj që ka humbur shpirti në krijimet muzikore…&#8221;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25890/dylan-rekamendoj-qe-ka-humbur-shpirti-ne-krijimet-muzikore.mp3",
+     "publishedAt": "2026-09-25T16:02:53.000Z",
+     "durationSec": 2571,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Kozeta Kurti, një nga “pioneret” e para të radiove private në Shqipëri, që në fund të viteve ‘90-të, kthehet në Top Albania Radio pas 17 vjetësh me “Back to the Beginning”. Ky format e nisi rrugëtimin edhe në 2020-ën, fiks në të njëjtën periudhë me pandeminë globale “Covid 19”-të, por me sa duket kjo është koha e duhur."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25895",
      "title": "Ka një rënie të shijes së publikut, kush është përgjegjës? Erion Bashi: Filma komercial shqiptarë që…",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25895/ka-nje-renie-te-shijes-se-publikut-kush-eshte-pergjegjes-erion-bashi-filma-komercial-shqiptare-qe.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 1342,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25856",
-     "title": "A ka një moshë ideale se kur duhet të largohesh nga shtëpia e prindërve?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25856/a-ka-nje-moshe-ideale-se-kur-duhet-te-largohesh-nga-shtepia-e-prinderve-wake-up.mp3",
-     "publishedAt": "2026-09-23T10:24:44.000Z",
-     "durationSec": 1504,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25853",
-     "title": "Çfarë e lidh Vlora Hysenin me Ergys Agasin, gazetarja zbardh detajet!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25853/cfare-e-lidh-vlora-hysenin-me-ergys-agasin-gazetarja-zbardh-detajet-wake-up.mp3",
-     "publishedAt": "2026-09-23T10:24:07.000Z",
-     "durationSec": 1354,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 22
+   "fails": 23
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 137
+   "fails": 138
   },
   {
    "id": "ubtcampus",
