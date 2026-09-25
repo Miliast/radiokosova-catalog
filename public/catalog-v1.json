@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-25T18:41:41.352Z",
+ "generatedAt": "2026-09-25T22:27:01.135Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25899",
+     "title": "Miley Cyrus rikthehet fuqishëm, por jo të gjithë binden! Albumi i ri mes lavdërimeve dhe kritikave&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25899/miley-cyrus-rikthehet-fuqishem-por-jo-te-gjithe-binden-albumi-i-ri-mes-lavderimeve-dhe-kritikave.mp3",
+     "publishedAt": "2026-09-25T20:25:50.000Z",
+     "durationSec": 106,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25897",
      "title": "Debate në parlament për Vlora Hysenin! &#8211; Edicioni kryesor informativ 25/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25897/debate-ne-parlament-per-vlora-hysenin-edicioni-kryesor-informativ-25-09-2026.mp3",
@@ -2477,15 +2486,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25860/nje-vajze-si-chardonnay-somelieri-fation-tila-krahason-vajzat-me-veren-pin-territorin-jo-vetem.mp3",
      "publishedAt": "2026-09-23T13:43:40.000Z",
      "durationSec": 1699,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25857",
-     "title": "“Jam shumë e brishtë por do kaloja në nivel super sajan…”/Gazetarja Trevisa Tufa në BBV?!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25857/jam-shume-e-brishte-por-do-kaloja-ne-nivel-super-sajan-gazetarja-trevisa-tufa-ne-bbv.mp3",
-     "publishedAt": "2026-09-23T12:59:29.000Z",
-     "durationSec": 1342,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
@@ -3312,12 +3312,12 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 23
+   "fails": 24
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 138
+   "fails": 139
   },
   {
    "id": "ubtcampus",
@@ -3472,7 +3472,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 0
+   "fails": 1
   }
  ]
 }
