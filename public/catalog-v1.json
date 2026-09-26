@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-26T17:14:43.640Z",
+ "generatedAt": "2026-09-26T19:56:23.834Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 28
+   "fails": 29
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 143
+   "fails": 144
   },
   {
    "id": "ubtcampus",
