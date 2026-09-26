@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-26T07:48:30.239Z",
+ "generatedAt": "2026-09-26T13:10:44.194Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/virusi-nili-perendimor-simptomat-perhapja-mbrojtja/33864776.html",
+     "title": "Virusi i Nilit Perëndimor në Kosovë: Si përhapet, cilat janë simptomat dhe si të mbrohemi?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/26/545c64d5-c905-418a-e3dc-08df13afe2a0_hq.mp3",
+     "publishedAt": "2026-09-26T09:56:23.000Z",
+     "durationSec": 1198,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Shtatë raste me virusin e Nilit Perëndimor janë regjistruar në Kosovë që nga fillimi i gushtit, ndërsa dy persona kanë humbur jetën. Sipas Institutit Kombëtar të Shëndetësisë Publike të Kosovës, shumica e rasteve këtë vit besohet të jenë infektuar brenda shtetit. Por, si përhapet virusi, cilat janë simptomat dhe kush rrezikohet më shumë? Faik Hoti, specialist i shëndetit publik, përgjigjet në podkastin 5 pyetje."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/mund-shkaterroje-njerezimin-ia/33859340.html",
      "title": "A mund ta shkatërrojë njerëzimin inteligjenca artificiale?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/19/468c4f38-6bec-479c-e266-08df13afe2a0_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1500,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Në shumë shtete Dita e Evropës trajtohet si ditë simbolike që shënon fillimin e bashkëpunimit evropian, ndërsa Kosova këtë datë e ka ende në kalendarin e festave zyrtare, duke mbetur i vetmi vend në Ballkanin Perëndimor që ruan këtë praktikë."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/cenimi-gazetareve-puna-politika/33747094.html",
-     "title": "Si e cenon politika punën e gazetarëve në Kosovë",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/05/01/8b8555db-da5a-4444-da66-08de3c914337_hq.mp3",
-     "publishedAt": "2026-05-02T09:57:53.000Z",
-     "durationSec": 1359,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Ngritja e Kosovës në Indeksin Botëror të Lirisë së Shtypit është një sinjal pozitiv, por duhet të bëhet më shumë që vendi të renditet edhe më lart, vlerëson ligjëruesi i politikave mediale, Jeton Mehmeti."
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 26
+   "fails": 27
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 141
+   "fails": 142
   },
   {
    "id": "ubtcampus",
