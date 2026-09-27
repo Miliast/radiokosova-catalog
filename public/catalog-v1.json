@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-27T14:43:43.416Z",
+ "generatedAt": "2026-09-27T19:00:49.232Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:62a8f03a-bd42-4e08-bd14-554db6daeb22",
+     "title": "Versus #280: Nations League, komentet për Shqipëri - Bjellorusi",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126353573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2Fe5178bf9-6ea5-ce68-4b01-d789765625a3.mp3",
+     "publishedAt": "2026-09-27T00:30:33.000Z",
+     "durationSec": 9822,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Shqipëria luan ndeshjen e parë në Nations League me Bjellorusinë. Komente, analiza dhe debat për performancën e kuqezinjve si dhe për përballjen Angli - Spanjë, hiti i kësaj mbrëmjeje. 0:00 Shqipëri - Bjellorusi 1:31:18 Austri - Kosovë 2:08:18 Te Tjera 2:19:55 Manchester City 2:41:43 Parashikime",
+     "episodeNumber": 280,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:30a9731d-2aa3-4a72-9e62-813ced3070c4",
      "title": "Versus #279: Atletico Madrid - Real Madrid, prova e parë e vërtetë!",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126056208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fe29c58f8-c1b7-3159-691e-bb9a4db21376.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Francë - Spanjë, diskutojmë së bashku gjithçka që ndodhi në gjysmëfinalen e parë të Botërorit. Në vijim, komente, analiza dhe parashikime për sfidën e nesërme. 0:00 France v Spanje 1:15:49 Preview",
      "episodeNumber": 261,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:b880a544-7e93-46dd-930c-74577804a3d6",
-     "title": "Versus #260: Kupa e Botës, analiza dhe parashikime për katërshen",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122796874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-13%2Ffdd1815d-ced9-9770-001f-19a13a23408d.mp3",
-     "publishedAt": "2026-07-13T23:56:15.000Z",
-     "durationSec": 8017,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Francë - Spanjë dhe Angli - Argjentinë. 24 orë para gjysmëfinales së parë të Botërorit, diskutojmë së bashku çdo detaj të ngjarjes më të madhe sportive. Komente, analiza dhe parashikime për dy sfidat spektakolare që na presin. 0:00 Gjysmefinalet 1:38:08 Deklarata 1:50:03 Parashikime 2:02:14 Guardiola",
-     "episodeNumber": 260,
      "seasonNumber": 3
     }
    ]
@@ -3291,8 +3291,8 @@
   },
   {
    "id": "valarinore",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiokosovaelire",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 33
+   "fails": 34
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 148
+   "fails": 149
   },
   {
    "id": "ubtcampus",
