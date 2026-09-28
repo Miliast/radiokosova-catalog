@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-28T15:35:14.127Z",
+ "generatedAt": "2026-09-28T22:06:52.098Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1761,10 +1761,20 @@
    "title": "Buchi Podcast Shqip",
    "author": "Bleon Hasani",
    "feedUrl": "https://anchor.fm/s/5fe49454/podcast/rss",
-   "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/de/d4/cbded421-8f81-16cd-238a-d540055d9aae/mza_11936552856242279900.jpg/600x600bb.jpg",
+   "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/a0/c7/45a0c7e2-0c09-5ad9-90fb-a5f984a290d0/mza_7926498306797478857.jpg/600x600bb.jpg",
    "genre": "Society & Culture",
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
+    {
+     "id": "1573751706:31125371-7987-4d58-80d7-49fdcf69b27c",
+     "title": "Aromë ndryshimi - Buchi Podcast Shqip #223 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126418722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432815605-44100-2-e7ffa2cdb5621.m4a",
+     "publishedAt": "2026-09-28T13:46:02.000Z",
+     "durationSec": 657,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 223
+    },
     {
      "id": "1573751706:439126b1-9a7a-46f8-ac30-c9bc4bbe991b",
      "title": "Rreziqet që i kanosen kombit shqiptar - Franc Ribaj në Buchi Podcast Shqip #222 | Hapsirë Publike",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310859377-b09d3c3a4f1f5.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 205
-    },
-    {
-     "id": "1573751706:d9506e22-b9c1-4364-b0a4-8050dd81945f",
-     "title": "Armiqtë e jashtëm të Shqiptarisë - Buchi Podcast Shqip #204 | Testament",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120788363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425218670-44100-2-ff2e8d295c941.m4a",
-     "publishedAt": "2026-06-04T10:27:00.000Z",
-     "durationSec": 1691,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310812651-3419477be7f86.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 204
     }
    ]
   },
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25932",
+     "title": "Mblidhet Këshilli i Sigurisë, Presidenca: Hetimet të pavarura!-Edicioni kryesor informativ 28/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25932/mblidhet-keshilli-i-sigurise-presidenca-hetimet-te-pavarura-edicioni-kryesor-informativ28-09-2026.mp3",
+     "publishedAt": "2026-09-28T15:56:51.000Z",
+     "durationSec": 388,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25930",
      "title": "Selected By Dj XXL 27/09/2026 &#8211; Part 2",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25930/selected-by-dj-xxl-27-09-2026-part-2.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2933,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25888",
-     "title": "Ku njihet sot partneri i jetës? Ish-banorja e BBV4 dhe aktori zbulojnë ç’ndodh/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25888/ku-njihet-sot-partneri-i-jetes-ish-banorja-e-bbv4-dhe-aktori-zbulojne-cndodh-wake-up.mp3",
-     "publishedAt": "2026-09-25T10:34:10.000Z",
-     "durationSec": 1411,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 38
+   "fails": 39
   },
   {
    "id": "radiok4",
@@ -3382,7 +3382,7 @@
   {
    "id": "radiozemra",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radiostar",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 153
+   "fails": 154
   },
   {
    "id": "ubtcampus",
