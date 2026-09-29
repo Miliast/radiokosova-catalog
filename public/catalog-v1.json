@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-29T15:57:35.548Z",
+ "generatedAt": "2026-09-29T20:52:31.840Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:1d43bacf-b1c0-4370-9b43-900aa3bb7906",
+     "title": "Marigoja si gardiane e Zvërnecit - Buchi Podcast Shqip #225 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126418740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432815658-44100-2-43a77abce932c.m4a",
+     "publishedAt": "2026-09-29T18:45:00.000Z",
+     "durationSec": 973,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 225
+    },
+    {
      "id": "1573751706:eb2ed050-1489-4642-8164-5900a372eb06",
      "title": "Për kë zhvillohen malet? - Buchi Podcast Shqip #224 | Hapsirë Publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126418728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432815657-44100-2-2bd48ea55b4f8.m4a",
@@ -1953,16 +1963,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780901909927-a101308b1350f.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
      "episodeNumber": 207
-    },
-    {
-     "id": "1573751706:246413eb-68e6-4a09-9b78-bbc22c030436",
-     "title": "Ndihmat shtetërore nuk funksionojnë - Buchi Podcast Shqip #206 | Testament",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120792285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F43c1a4d7-d4fe-7c52-0b43-d06859c9c337.m4a",
-     "publishedAt": "2026-06-08T00:59:00.000Z",
-     "durationSec": 2320,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780310909797-64cd40ce12bd6.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 206
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 42
+   "fails": 43
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 157
+   "fails": 158
   },
   {
    "id": "ubtcampus",
