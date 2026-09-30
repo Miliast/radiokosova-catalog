@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T00:32:30.457Z",
+ "generatedAt": "2026-09-30T06:48:32.169Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:32a9934c-359a-483b-b8ba-fede773469bb",
+     "title": "Versus #281: Nations League, komentet për San Marino - Shqipëri",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126521432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F64f57342-c5f8-7566-62e0-9d527e7a97f3.m4a",
+     "publishedAt": "2026-09-30T00:29:25.000Z",
+     "durationSec": 8203,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Shqipëria luan ndeshjen e radhës në Nations League me San Marinon. Ju ftojmë të ndiqni komentet dhe debatin tonë për performancën e kuqezinjve në një periudhë kërkimi të emrave të rinj. 0:00 Shqiperia 1:18:01 Kosova 1:46:15 Te Tjera 2:14:11 Parashikime",
+     "episodeNumber": 281,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:62a8f03a-bd42-4e08-bd14-554db6daeb22",
      "title": "Versus #280: Nations League, komentet për Shqipëri - Bjellorusi",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126353573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2Fe5178bf9-6ea5-ce68-4b01-d789765625a3.mp3",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Angli - Argjentinë, diskutojmë së bashku gjithçka që ndodhi në gjysmëfinalen e dytë të Botërorit. Në vijim, komente, analiza dhe parashikime për dy sfidat e fundit të turneut, përballja për vendin e tretë dhe finalja e madhe.",
      "episodeNumber": 262,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:56b8c8d8-4d99-4154-8a99-c95079ea2b8f",
-     "title": "Versus #261: Gjysmëfinalja Francë - Spanjë, komentet pas ndeshjes",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122846483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-14%2F46ac5c2e-9e99-f689-cfb1-0df1026f5350.mp3",
-     "publishedAt": "2026-07-14T23:17:48.000Z",
-     "durationSec": 5804,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Francë - Spanjë, diskutojmë së bashku gjithçka që ndodhi në gjysmëfinalen e parë të Botërorit. Në vijim, komente, analiza dhe parashikime për sfidën e nesërme. 0:00 France v Spanje 1:15:49 Preview",
-     "episodeNumber": 261,
      "seasonNumber": 3
     }
    ]
@@ -3312,12 +3312,12 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 44
+   "fails": 45
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 159
+   "fails": 160
   },
   {
    "id": "ubtcampus",
