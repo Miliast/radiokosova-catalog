@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T19:26:36.462Z",
+ "generatedAt": "2026-09-30T23:55:21.863Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -367,7 +367,7 @@
    "author": "Radio Evropa e Lirë",
    "feedUrl": "https://www.evropaelire.org/podcast/?zoneId=24017",
    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/1c/66/071c666b-d059-7c9f-308d-9935c3b80187/mza_14526327302093008581.png/600x600bb.jpg",
-   "genre": "MZGenre.Podcasts.News",
+   "genre": "News",
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
@@ -1290,7 +1290,7 @@
    "author": "Muhamet Hajrullahu",
    "feedUrl": "https://feeds.transistor.fm/perballje-podcast-telegrafi",
    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/dc/8c/71dc8ca6-661a-e936-917b-a2176f3b46e8/mza_17546489112782228961.jpg/600x600bb.jpg",
-   "genre": "MZGenre.Podcasts.Politics",
+   "genre": "Politics",
    "description": "\"Përballje\" me autor kryeredaktorin e Telegrafi.com, Muhamet Hajrullahu, është një platformë edukative dhe informuese që ka për qëllim të ndriçojë çështjet kryesore që preokupojnë shoqërinë kosovare dhe më gjerë. Duke ofruar hapësira për diskutime të thella mbi temat shoqërore, politike, ekonomike, ndërmarrësi, sociale e veçanërisht angazhimin e të rinjve, grave dhe diasporës, si brenda ashtu edhe jashtë Kosovës.",
    "episodes": [
     {
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25960",
+     "title": "MTV VMAs 2026/ Kush triumfoi dhe kush surprizoi? Gjithçka nga nata e madhe e muzikës",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25960/mtv-vmas-2026-kush-triumfoi-dhe-kush-surprizoi-gjithcka-nga-nata-e-madhe-e-muzikes.mp3",
+     "publishedAt": "2026-09-30T20:05:17.000Z",
+     "durationSec": 140,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25958",
      "title": "Ndryshime në kodin e procedurës penale, Rama deklaron…-Edicioni kryesor informativ 30/09/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25958/ndryshime-ne-kodin-e-procedures-penale-rama-deklaron-edicioni-kryesor-informativ-30-09-2026.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2012,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25915",
-     "title": "“Prindërit duhet të kenë kujdes…”/ Dr. Blerina Saraçi: Kanceri pediatrik dhe grafitë te fëmijët&#8230;",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25915/prinderit-duhet-te-kene-kujdes-dr-blerina-saraci-kanceri-pediatrik-dhe-grafite-te-femijet.mp3",
-     "publishedAt": "2026-09-28T13:34:33.000Z",
-     "durationSec": 2207,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
     }
    ]
   },
@@ -2625,7 +2625,7 @@
    "author": "Radio Evropa e Lirë",
    "feedUrl": "https://www.evropaelire.org/podcast/?zoneId=22753",
    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/bd/40/9f/bd409f9b-e16f-ce6e-d537-e87e9591f586/mza_11093576199957392533.png/600x600bb.jpg",
-   "genre": "MZGenre.Podcasts.News",
+   "genre": "News",
    "description": "Podkasti Libertas jep hapësirë ku mund të flitet lirshëm. Nga diskutimet për tema me ndikim në shoqëri, deri te rrëfimet frymëzuese nga personalitetet e ndryshme dhe bisedat për shëndetin mendor.",
    "episodes": [
     {
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 47
+   "fails": 48
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 162
+   "fails": 163
   },
   {
    "id": "ubtcampus",
