@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T13:50:28.329Z",
+ "generatedAt": "2026-09-30T19:26:36.462Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -367,7 +367,7 @@
    "author": "Radio Evropa e Lirë",
    "feedUrl": "https://www.evropaelire.org/podcast/?zoneId=24017",
    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/1c/66/071c666b-d059-7c9f-308d-9935c3b80187/mza_14526327302093008581.png/600x600bb.jpg",
-   "genre": "News",
+   "genre": "MZGenre.Podcasts.News",
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
@@ -1290,7 +1290,7 @@
    "author": "Muhamet Hajrullahu",
    "feedUrl": "https://feeds.transistor.fm/perballje-podcast-telegrafi",
    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/dc/8c/71dc8ca6-661a-e936-917b-a2176f3b46e8/mza_17546489112782228961.jpg/600x600bb.jpg",
-   "genre": "Politics",
+   "genre": "MZGenre.Podcasts.Politics",
    "description": "\"Përballje\" me autor kryeredaktorin e Telegrafi.com, Muhamet Hajrullahu, është një platformë edukative dhe informuese që ka për qëllim të ndriçojë çështjet kryesore që preokupojnë shoqërinë kosovare dhe më gjerë. Duke ofruar hapësira për diskutime të thella mbi temat shoqërore, politike, ekonomike, ndërmarrësi, sociale e veçanërisht angazhimin e të rinjve, grave dhe diasporës, si brenda ashtu edhe jashtë Kosovës.",
    "episodes": [
     {
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:88d16200-737a-4974-bdfe-048f47fd992c",
+     "title": "Kundër-protesta, dëshpërim i pushtetit në rënie - Buchi Podcast Shqip #226 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126420098/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432817398-44100-2-f0daf36a667c8.m4a",
+     "publishedAt": "2026-09-30T18:00:00.000Z",
+     "durationSec": 948,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 226
+    },
+    {
      "id": "1573751706:1d43bacf-b1c0-4370-9b43-900aa3bb7906",
      "title": "Marigoja si gardiane e Zvërnecit - Buchi Podcast Shqip #225 | Hapsirë Publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126418740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432815658-44100-2-43a77abce932c.m4a",
@@ -1953,16 +1963,6 @@
      "durationSec": 270,
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1781353725340-366d3a2b9adeb.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …"
-    },
-    {
-     "id": "1573751706:0a9a18de-ab09-4c5e-b50d-b231c75e57d1",
-     "title": "Revoltë kundër sfungjerit - Buchi Podcast Shqip #207 | Testament",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/120794977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-31%2F425227445-44100-2-da02e48c50b3b.m4a",
-     "publishedAt": "2026-06-10T23:00:00.000Z",
-     "durationSec": 1537,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1780901909927-a101308b1350f.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 207
     }
    ]
   },
@@ -2310,6 +2310,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25958",
+     "title": "Ndryshime në kodin e procedurës penale, Rama deklaron…-Edicioni kryesor informativ 30/09/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25958/ndryshime-ne-kodin-e-procedures-penale-rama-deklaron-edicioni-kryesor-informativ-30-09-2026.mp3",
+     "publishedAt": "2026-09-30T15:28:15.000Z",
+     "durationSec": 404,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 30 Shtator."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25957",
      "title": "&#8220;Uroj që të bekohemi me një vajzë&#8221;/Plane për një fëmijë tjetër? Enki: Historia e dashurisë me Andin…",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25957/uroj-qe-te-bekohemi-me-nje-vajze-plane-per-nje-femije-tjeter-enki-historia-e-dashurise-me-andin.mp3",
@@ -2479,15 +2488,6 @@
      "durationSec": 2207,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25914",
-     "title": "Apple surprizon me risitë, AI bën gabimin e frikshëm dhe Tesla rikthen makinën që “fluturon”!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25914/apple-surprizon-me-risite-ai-ben-gabimin-e-frikshem-dhe-tesla-rikthen-makinen-qe-fluturon.mp3",
-     "publishedAt": "2026-09-28T13:33:44.000Z",
-     "durationSec": 509,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Mateo Kadriu sjell “Top Tech,” një emision dedikuar risive dhe trendeve më të fundit në botën e teknologjisë, që do të transmetohet ekskluzivisht në Top Albania Radio, YouTube dhe në social media. Me një qasje informuese dhe argëtuese, ky emision shërben si një dritare drejt të ardhmes dixhitale."
     }
    ]
   },
@@ -2625,7 +2625,7 @@
    "author": "Radio Evropa e Lirë",
    "feedUrl": "https://www.evropaelire.org/podcast/?zoneId=22753",
    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/bd/40/9f/bd409f9b-e16f-ce6e-d537-e87e9591f586/mza_11093576199957392533.png/600x600bb.jpg",
-   "genre": "News",
+   "genre": "MZGenre.Podcasts.News",
    "description": "Podkasti Libertas jep hapësirë ku mund të flitet lirshëm. Nga diskutimet për tema me ndikim në shoqëri, deri te rrëfimet frymëzuese nga personalitetet e ndryshme dhe bisedat për shëndetin mendor.",
    "episodes": [
     {
@@ -3312,12 +3312,12 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 46
+   "fails": 47
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 161
+   "fails": 162
   },
   {
    "id": "ubtcampus",
