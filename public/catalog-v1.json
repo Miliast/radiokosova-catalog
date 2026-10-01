@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-01T06:05:23.414Z",
+ "generatedAt": "2026-10-01T13:27:32.167Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2310,6 +2310,51 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25970",
+     "title": "House Nation 01/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25970/house-nation-01-10-2026.mp3",
+     "publishedAt": "2026-10-01T11:47:20.000Z",
+     "durationSec": 2894,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25969",
+     "title": "Plexer, trend apo zgjidhje? Dr. Xhina Nazëraj tregon benefitet dhe paralajmëron: Bëni kujdes me&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25969/plexer-trend-apo-zgjidhje-dr-xhina-nazeraj-tregon-benefitet-dhe-paralajmeron-beni-kujdes-me.mp3",
+     "publishedAt": "2026-10-01T11:47:08.000Z",
+     "durationSec": 3481,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Një emision ku, si asnjëherë më parë, mendimet dhe fjalët vijnë si në jetë, të pacensuruara… Mirë, ndoshta pak të censuruara. “Pardon My French” nga Jonida Aliçkolli, Niko Komani dhe Aulona Musta, ku e vetmja gjë që nuk dinë të bëjnë është të flasin frëngjisht!"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25968",
+     "title": "“AI më ka ndryshuar jetën”/ Nga historia e rrallë e Kelvin Çobanajt te Heidi Baci siç nuk e keni njohur",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25968/ai-me-ka-ndryshuar-jeten-nga-historia-e-rralle-e-kelvin-cobanajt-te-heidi-baci-sic-nuk-e-keni-njohur.mp3",
+     "publishedAt": "2026-10-01T11:46:58.000Z",
+     "durationSec": 2278,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25967",
+     "title": "Mbi 1000 mjete në koleksionin retro, çfarë preferojnë më shumë shqiptarët?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25967/mbi-1000-mjete-ne-koleksionin-retro-cfare-preferojne-me-shume-shqiptaret-wake-up.mp3",
+     "publishedAt": "2026-10-01T10:35:23.000Z",
+     "durationSec": 1071,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25964",
+     "title": "Zhaku: Karma po godet njerëzit e gabuar! Avokatja: Ka lidhje me fikjen e radarëve!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25964/artistja-ju-te-showbizit-keni-hapur-kembet-kjo-eshte-akuza-qe-na-behet-shpesh-wake-up.mp3",
+     "publishedAt": "2026-10-01T10:18:26.000Z",
+     "durationSec": 1487,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25960",
      "title": "MTV VMAs 2026/ Kush triumfoi dhe kush surprizoi? Gjithçka nga nata e madhe e muzikës",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25960/mtv-vmas-2026-kush-triumfoi-dhe-kush-surprizoi-gjithcka-nga-nata-e-madhe-e-muzikes.mp3",
@@ -2443,51 +2488,6 @@
      "durationSec": 388,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25930",
-     "title": "Selected By Dj XXL 27/09/2026 &#8211; Part 2",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25930/selected-by-dj-xxl-27-09-2026-part-2.mp3",
-     "publishedAt": "2026-09-28T14:05:10.000Z",
-     "durationSec": 3031,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Përzgjedhur nga Dee Jay-it e Top Albania Radios, mbrëmja e të dielës është e gjitha për t’u shijiuar. Java mbyllet me muzikë të mirë dhe përzgjidhet nga DJ resident të Top Albania Radio."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25921",
-     "title": "Selected By Dj XXL 27/09/2026 &#8211; Part 1",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25921/selected-by-dj-xxl-27-09-2026-part-1.mp3",
-     "publishedAt": "2026-09-28T14:03:45.000Z",
-     "durationSec": 2768,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Përzgjedhur nga Dee Jay-it e Top Albania Radios, mbrëmja e të dielës është e gjitha për t’u shijiuar. Java mbyllet me muzikë të mirë dhe përzgjidhet nga DJ resident të Top Albania Radio."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25922",
-     "title": "House Nation 28/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25922/house-nation-28-09-2026.mp3",
-     "publishedAt": "2026-09-28T13:42:55.000Z",
-     "durationSec": 3135,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25918",
-     "title": "Nga ishujt me pamjen përrallore tek jetesa me kosto të ulët, Ervin Kapaj na njeh me Filipinet!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25918/nga-ishujt-me-pamjen-perrallore-tek-jetesa-me-kosto-te-ulet-ervin-kapaj-na-njeh-me-filipinet.mp3",
-     "publishedAt": "2026-09-28T13:42:08.000Z",
-     "durationSec": 3810,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25916",
-     "title": "Helena Halili rrëfen “Shtëpia e Kombit”, dokumentari për historinë e shqiptarëve të Kosovës në Kukës",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25916/helena-halili-rrefen-shtepia-e-kombit-dokumentari-per-historine-e-shqiptareve-te-kosoves-ne-kukes.mp3",
-     "publishedAt": "2026-09-28T13:35:47.000Z",
-     "durationSec": 2012,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 49
+   "fails": 50
   },
   {
    "id": "radiok4",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 164
+   "fails": 165
   },
   {
    "id": "ubtcampus",
