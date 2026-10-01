@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-01T19:35:54.534Z",
+ "generatedAt": "2026-10-01T23:56:09.662Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:4fc2bc0c-d4c0-4da6-80cf-138c741d9ff7",
+     "title": "Flamingo sebepxhiu - Buchi Podcast Shqip #227 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126560791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432996557-44100-2-a209bfadbb27c.m4a",
+     "publishedAt": "2026-10-01T15:00:00.000Z",
+     "durationSec": 978,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 227
+    },
+    {
      "id": "1573751706:88d16200-737a-4974-bdfe-048f47fd992c",
      "title": "Kundër-protesta, dëshpërim i pushtetit në rënie - Buchi Podcast Shqip #226 | Hapsirë Publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126420098/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432817398-44100-2-f0daf36a667c8.m4a",
@@ -1954,15 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1782508916635-30ea6e291e5d6.jpg",
      "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit: Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse …",
      "episodeNumber": 208
-    },
-    {
-     "id": "1573751706:eaa12ac4-130a-470b-94c2-3b866ceac59d",
-     "title": "Rrëfimi i një mërgimtari - shkrim nga Kevin Gjoka",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/121424126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-13%2F426068002-44100-2-5ad6a5ca1448a.mp3",
-     "publishedAt": "2026-06-13T12:28:56.000Z",
-     "durationSec": 270,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1781353725340-366d3a2b9adeb.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …"
     }
    ]
   },
@@ -3312,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 51
+   "fails": 52
   },
   {
    "id": "radiok4",
@@ -3392,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 166
+   "fails": 167
   },
   {
    "id": "ubtcampus",
