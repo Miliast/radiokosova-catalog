@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T12:46:14.103Z",
+ "generatedAt": "2026-10-02T18:29:21.989Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:cbdb6e3a-d7d4-4a84-991d-62e04216ce6f",
+     "title": "Pjesmarrje, JO Përvetësim - Buchi Podcast Shqip #228 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126561553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432997620-44100-2-874ca05668c6e.m4a",
+     "publishedAt": "2026-10-02T14:16:00.000Z",
+     "durationSec": 1018,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 228
+    },
+    {
      "id": "1573751706:4fc2bc0c-d4c0-4da6-80cf-138c741d9ff7",
      "title": "Flamingo sebepxhiu - Buchi Podcast Shqip #227 | Hapsirë Publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126560791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432996557-44100-2-a209bfadbb27c.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783519318806-74d3ca72208a2.jpg",
      "description": "🎙️ EPISODI 209 – Ligji për Investimet Strategjike: Zhvillim ekonomik apo privilegj mbi ligjin? A mundet një investim privat të marrë trajtim të veçantë nga shteti? Ku mbaron interesi publik dhe ku fillojnë privilegjet? Dhe a është e drejtë që, në emër të zhvillimit ekonomik, procedurat normale ligjore të anashkalohen? Në episodin e parë të këtij seriali analizojmë në detaje Ligjin nr. 55/2015 \"Për Investimet Strategjike në Republikën e Shqipërisë\" , një nga ligjet më të debatuara të dekadës së…",
      "episodeNumber": 209
-    },
-    {
-     "id": "1573751706:0b84e67e-e6e3-4b57-9559-e1d933073320",
-     "title": "Këtu ka dorë Zoti! Një histori mërgimi nga Denis Risto në Buchi Podcast Shqip #208 | Agora",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122043215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2F426900753-44100-2-9741feefb6454.mp3",
-     "publishedAt": "2026-06-27T10:03:23.000Z",
-     "durationSec": 5852,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1782508916635-30ea6e291e5d6.jpg",
-     "description": "Mbështesni podkastin: - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast - Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit: Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse …",
-     "episodeNumber": 208
     }
    ]
   },
@@ -2311,6 +2311,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25993",
+     "title": "Premiera për të mos u humbur në Cineplexx dhe një dokumentar cilësor? Fundjava perfekte!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25993/premiera-per-te-mos-u-humbur-ne-cineplexx-dhe-nje-dokumentar-cilesor-fundjava-perfekte.mp3",
+     "publishedAt": "2026-10-02T13:56:51.000Z",
+     "durationSec": 828,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25992",
+     "title": "&#8220;Xha Braho më dha dritë&#8221;/Mehdi Malkaj &#8216;udhëton&#8217; në nostalgji: Deri sa të kem frymë…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25992/xha-braho-me-dha-drite-mehdi-malkaj-udheton-ne-nostalgji-deri-sa-te-kem-fryme.mp3",
+     "publishedAt": "2026-10-02T12:56:53.000Z",
+     "durationSec": 1186,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25991",
      "title": "House Nation 02/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25991/house-nation-02-10-2026.mp3",
@@ -2471,24 +2489,6 @@
      "durationSec": 1336,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25946",
-     "title": "Zgjerimi i Bllokut BE me strategji të re për Shqipërinë!-Edicioni kryesor informativ 29/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25946/zgjerimi-i-bllokut-be-me-strategji-te-re-per-shqiperine-edicioni-kryesor-informativ-29-09-2026.mp3",
-     "publishedAt": "2026-09-29T15:28:02.000Z",
-     "durationSec": 399,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25934",
-     "title": "House Nation 29/09/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25934/house-nation-29-09-2026.mp3",
-     "publishedAt": "2026-09-29T12:00:00.000Z",
-     "durationSec": 2933,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
    ]
   },
@@ -3293,7 +3293,7 @@
   {
    "id": "valarinore",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiokosovaelire",
@@ -3313,12 +3313,12 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 54
+   "fails": 55
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 169
+   "fails": 170
   },
   {
    "id": "ubtcampus",
