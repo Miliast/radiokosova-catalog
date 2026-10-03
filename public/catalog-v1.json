@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-03T08:13:59.517Z",
+ "generatedAt": "2026-10-03T13:29:39.102Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/cka-ben-protesta-levizje-shoqesore/33869300.html",
+     "title": "Çfarë e bën një protestë lëvizje shoqërore?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/02/8538b06d-8491-4d76-42e3-08df13a884cb_hq.mp3",
+     "publishedAt": "2026-10-03T09:52:13.000Z",
+     "durationSec": 1349,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Dënimi me 81 vjet burgim për krime lufte i Hashim Thaçit, Jakup Krasniqit, Kadri Veselit dhe Rexhep Selimit nga Gjykata Speciale e Kosovës, në Hagë, u bë shkas i protestave të përnatshme në Prishtinë që nga 16 shtatori."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/virusi-nili-perendimor-simptomat-perhapja-mbrojtja/33864776.html",
      "title": "Virusi i Nilit Perëndimor në Kosovë: Si përhapet, cilat janë simptomat dhe si të mbrohemi?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/09/26/545c64d5-c905-418a-e3dc-08df13afe2a0_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1286,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Nga përbërja, kontrolli i cilësisë deri tek etiketat dhe data e skadimit - sa kontrollohen ushqimet që konsumojmë çdo ditë?"
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/refrorma-politike-kosova-evrope/33752807.html",
-     "title": "Mes reformave dhe politikës: A po afrohet Kosova me Evropën?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/05/08/e7724fcc-0d02-4bfc-4156-08de3be37656_hq.mp3",
-     "publishedAt": "2026-05-09T09:53:36.000Z",
-     "durationSec": 1500,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Në shumë shtete Dita e Evropës trajtohet si ditë simbolike që shënon fillimin e bashkëpunimit evropian, ndërsa Kosova këtë datë e ka ende në kalendarin e festave zyrtare, duke mbetur i vetmi vend në Ballkanin Perëndimor që ruan këtë praktikë."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 58
+   "fails": 59
   },
   {
    "id": "radiok4",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 173
+   "fails": 174
   },
   {
    "id": "ubtcampus",
