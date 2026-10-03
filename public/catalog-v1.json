@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-03T13:29:39.102Z",
+ "generatedAt": "2026-10-03T18:00:10.973Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:9dd2b1df-0830-4208-8731-5d7f81a3d026",
+     "title": "Rezorti portativ - Buchi Podcast Shqip #229 | Hapsirë publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126562412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432998780-44100-2-899baa37776ef.m4a",
+     "publishedAt": "2026-10-03T14:32:00.000Z",
+     "durationSec": 869,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 229
+    },
+    {
      "id": "1573751706:cbdb6e3a-d7d4-4a84-991d-62e04216ce6f",
      "title": "Pjesmarrje, JO Përvetësim - Buchi Podcast Shqip #228 | Hapsirë publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126561553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432997620-44100-2-874ca05668c6e.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783534037208-0fa16bee14803.jpg",
      "description": "Episodi 210 – Paketa e Maleve A është \"Paketa e Maleve\" një mundësi historike për zhvillimin e zonave malore, apo një ligj që ngre pikëpyetje serioze mbi pronën publike, transparencën dhe të drejtat e komuniteteve lokale? Në këtë episod analizojmë në mënyrë të detajuar Ligjin nr. 20/2025, duke shpjeguar mekanizmat e tij kryesorë: figurën e \"poseduesit jopronar\", mundësinë për marrjen e lejeve të zhvillimit, transferimin e tokës shtetërore me çmimin simbolik prej 1 euro, përjashtimet fiskale dhe…",
      "episodeNumber": 210
-    },
-    {
-     "id": "1573751706:47369c26-0a4b-417a-b50a-834087a8ac38",
-     "title": "Ligji 55/2015 Investimet Strategjike shpjeguar thjeshtë - Buchi Podcast Shqip #209 | Hapsirë Publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122555981/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F427584440-44100-2-e7a43ff4c4c63.m4a",
-     "publishedAt": "2026-07-08T14:02:16.000Z",
-     "durationSec": 2414,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783519318806-74d3ca72208a2.jpg",
-     "description": "🎙️ EPISODI 209 – Ligji për Investimet Strategjike: Zhvillim ekonomik apo privilegj mbi ligjin? A mundet një investim privat të marrë trajtim të veçantë nga shteti? Ku mbaron interesi publik dhe ku fillojnë privilegjet? Dhe a është e drejtë që, në emër të zhvillimit ekonomik, procedurat normale ligjore të anashkalohen? Në episodin e parë të këtij seriali analizojmë në detaje Ligjin nr. 55/2015 \"Për Investimet Strategjike në Republikën e Shqipërisë\" , një nga ligjet më të debatuara të dekadës së…",
-     "episodeNumber": 209
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 59
+   "fails": 60
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 174
+   "fails": 175
   },
   {
    "id": "ubtcampus",
