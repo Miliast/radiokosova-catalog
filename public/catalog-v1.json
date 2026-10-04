@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-04T07:00:45.529Z",
+ "generatedAt": "2026-10-04T13:16:16.315Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:f00292eb-c8ce-4967-8fea-658d26889edb",
+     "title": "Versus #282: Nations League, komentet për Finlandë - Shqipëri",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126791546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F3cc24652-ff3b-5b33-798e-f1101e066739.m4a",
+     "publishedAt": "2026-10-04T11:44:21.000Z",
+     "durationSec": 11536,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Shqipëria luan ndeshjen e radhës në Finlandë. Trajneri Maran vijon me plotësimin e \"puzzle\" për rindërtimin e skuadrës kuqezi, me ndryshim skemash dhe titullarësh. Në këtë episod gjeni komente, analiza dhe debate jo vetëm për kombëtaren, por edhe ngjarjet më pikante të javës. 0:00 Kombëtarja 1:14:30 Kosova 1:54:34 Cristiano 2:42:26 Man. City 3:00:19 Spanjë 3:10:32 Parashikime",
+     "episodeNumber": 282,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:32a9934c-359a-483b-b8ba-fede773469bb",
      "title": "Versus #281: Nations League, komentet për San Marino - Shqipëri",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126521432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F64f57342-c5f8-7566-62e0-9d527e7a97f3.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Një episod kushtuar betejës për vendin e tretë, Francë - Angli. Asnjëra skuadër nuk dëshiron të luajë, por motivimi është numri i golave të yjeve Kylian Mbappe dhe Harry Kane. Komente, analiza dhe parashikime për dy sfidat e fundit në Botëror. 0:00 POK 13:47 Francë-Angli 52:53 OPA Lojtari Raundit 1:00:45 Finalja 1:36:28 Topi i Artë 2:04:52 Merkato 2:20:43 Kampionati Shqiptar 2:23:27 Parashikimi",
      "episodeNumber": 263,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:08d31f48-168f-44b8-9947-4858c0a35201",
-     "title": "Versus #262: Gjysmëfinalja Angli - Argjentinë, komentet pas ndeshjes",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122895616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F2aae695f-5533-7758-bede-41bf08eaf140.mp3",
-     "publishedAt": "2026-07-16T00:19:05.000Z",
-     "durationSec": 7847,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Angli - Argjentinë, diskutojmë së bashku gjithçka që ndodhi në gjysmëfinalen e dytë të Botërorit. Në vijim, komente, analiza dhe parashikime për dy sfidat e fundit të turneut, përballja për vendin e tretë dhe finalja e madhe.",
-     "episodeNumber": 262,
      "seasonNumber": 3
     }
    ]
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:bc122925-8d38-4786-ad59-c9e08e26435d",
+     "title": "Fitore flamingosh - Hapsirë publike | BPS #230",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126621871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433076078-44100-2-22ff4dfc03dd.m4a",
+     "publishedAt": "2026-10-04T10:28:00.000Z",
+     "durationSec": 1001,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 230
+    },
+    {
      "id": "1573751706:9dd2b1df-0830-4208-8731-5d7f81a3d026",
      "title": "Rezorti portativ - Buchi Podcast Shqip #229 | Hapsirë publike",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126562412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432998780-44100-2-899baa37776ef.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783686700127-347420b6bdf68.jpg",
      "description": "Në këtë episod analizojmë një nga ligjet më të debatuara të viteve të fundit: Ligjin nr. 21/2024 , i cili ndryshon mënyrën se si menaxhohen zonat e mbrojtura në Shqipëri. Çfarë ndryshoi realisht? A hap ligji më shumë hapësirë për zhvillime turistike në parqet kombëtare dhe zonat e mbrojtura? Çfarë nënkuptojnë termat \"turizëm i ekselencës\", \"infrastrukturë mbështetëse\" dhe \"fleksibilitet i menaxhimit\"? Kush mund të propozojë ndryshimin e zonimit të një zone të mbrojtur dhe çfarë do të thotë kjo …",
      "episodeNumber": 211
-    },
-    {
-     "id": "1573751706:05f8030a-e87f-4d85-b52f-ef550091ea94",
-     "title": "Ligji 20/2025 Paketa e maleve shpjeguar thjeshtë - Buchi Podcast Shqip #210 | Hapsirë Publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/122568346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2Fb6ce9a69-5f64-a605-da0f-1370d6290e9c.m4a",
-     "publishedAt": "2026-07-09T12:27:05.000Z",
-     "durationSec": 3814,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1783534037208-0fa16bee14803.jpg",
-     "description": "Episodi 210 – Paketa e Maleve A është \"Paketa e Maleve\" një mundësi historike për zhvillimin e zonave malore, apo një ligj që ngre pikëpyetje serioze mbi pronën publike, transparencën dhe të drejtat e komuniteteve lokale? Në këtë episod analizojmë në mënyrë të detajuar Ligjin nr. 20/2025, duke shpjeguar mekanizmat e tij kryesorë: figurën e \"poseduesit jopronar\", mundësinë për marrjen e lejeve të zhvillimit, transferimin e tokës shtetërore me çmimin simbolik prej 1 euro, përjashtimet fiskale dhe…",
-     "episodeNumber": 210
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 63
+   "fails": 64
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "capitalfm",
@@ -3363,7 +3363,7 @@
   {
    "id": "radioalba",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "radiovizioni",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 178
+   "fails": 179
   },
   {
    "id": "ubtcampus",
@@ -3453,7 +3453,7 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "awferizaj",
