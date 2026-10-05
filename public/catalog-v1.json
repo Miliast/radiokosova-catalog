@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-05T16:07:58.744Z",
+ "generatedAt": "2026-10-05T22:43:07.408Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26021",
+     "title": "Reforma Territoriale presin miratimin?-Edicioni kryesor informativ 10/05/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26021/reforma-territoriale-presin-miratimin-edicioni-kryesor-informativ-10-05-2026.mp3",
+     "publishedAt": "2026-10-05T17:51:04.000Z",
+     "durationSec": 493,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26010",
      "title": "&#8220;Jo të gjithë artistët ia vlejnë, kur nuk janë më on top…&#8221;/Xhani Demika: Paguhen aq sa meritojnë…",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26010/jo-te-gjithe-artistet-ia-vlejne-kur-nuk-jane-me-on-top-xhani-demika-paguhen-aq-sa-meritojne.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 331,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25970",
-     "title": "House Nation 01/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25970/house-nation-01-10-2026.mp3",
-     "publishedAt": "2026-10-01T11:47:20.000Z",
-     "durationSec": 2894,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 69
+   "fails": 70
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 10
+   "fails": 11
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 184
+   "fails": 185
   },
   {
    "id": "ubtcampus",
