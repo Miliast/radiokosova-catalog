@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-06T21:43:26.528Z",
+ "generatedAt": "2026-10-07T01:37:19.071Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:dd4adb91-78e9-4689-88cd-35766258e967",
+     "title": "Versus #283: Nations League, komentet për Shqipëri - San Marino",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126978615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F96b80341-d929-d672-aa9b-2796aa48ec2a.m4a",
+     "publishedAt": "2026-10-06T23:38:17.000Z",
+     "durationSec": 8078,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Shqipëria luan ndeshjen e katërt në Nations League, kësaj here në \"Air Albania\" kundër San Marinos. Vijojmë me komente, analiza dhe debate jo vetëm për kombëtaren, por edhe ngjarjet më pikante të javës nga arena ndërkombëtare. 0:00 Kombëtarja 1:04:52 Kosova 1:26:12 Nations League 2:00:30 Messi",
+     "episodeNumber": 283,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:f00292eb-c8ce-4967-8fea-658d26889edb",
      "title": "Versus #282: Nations League, komentet për Finlandë - Shqipëri",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126791546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-4%2F3cc24652-ff3b-5b33-798e-f1101e066739.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Pas OPA Watchalong, sërish live për të komentuar çdo detaj të finales së Botërorit, Spanjë - Argjentinë. Kush shkëlqeu? Kush dështoi? Çfarë do të ndodhë tani me Topin e Artë? Komente, analiza dhe parashikime për këtë ndeshje të madhe. 0:00 KAMPIONI 1:05:00 Boterori 2026",
      "episodeNumber": 264,
-     "seasonNumber": 3
-    },
-    {
-     "id": "1849137636:806c0786-1126-42ff-acee-3c1c83ffdea5",
-     "title": "Versus #263: Francë - Angli, finalja e vogël e të mëdhenjve",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/122982391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F9314d830-8656-99b6-2e27-4cc57fbe200c.mp3",
-     "publishedAt": "2026-07-17T22:56:02.000Z",
-     "durationSec": 8849,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Një episod kushtuar betejës për vendin e tretë, Francë - Angli. Asnjëra skuadër nuk dëshiron të luajë, por motivimi është numri i golave të yjeve Kylian Mbappe dhe Harry Kane. Komente, analiza dhe parashikime për dy sfidat e fundit në Botëror. 0:00 POK 13:47 Francë-Angli 52:53 OPA Lojtari Raundit 1:00:45 Finalja 1:36:28 Topi i Artë 2:04:52 Merkato 2:20:43 Kampionati Shqiptar 2:23:27 Parashikimi",
-     "episodeNumber": 263,
      "seasonNumber": 3
     }
    ]
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 74
+   "fails": 75
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 15
+   "fails": 16
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 189
+   "fails": 190
   },
   {
    "id": "ubtcampus",
