@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-08T02:01:20.998Z",
+ "generatedAt": "2026-10-08T09:05:48.394Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26044",
+     "title": "Kush Po Na Shikon? Hakeri, Kamerat, Rrjetet Sociale dhe Sekretet e Botës Digjitale &#124; Tech Talk",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26044/kush-po-na-shikon-hakeri-kamerat-rrjetet-sociale-dhe-sekretet-e-botes-digjitale-tech-talk.mp3",
+     "publishedAt": "2026-10-08T08:00:00.000Z",
+     "durationSec": 2263,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26049",
      "title": "Kosova bëhet me presidente, BE kundër ligjit për dhomat e specializuara!- 07/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26049/kosova-behet-me-presidente-be-kunder-ligjit-per-dhomat-e-specializuara-07-10-2026.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 3170,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=25999",
-     "title": "“Në moshën 23-vjeçare u arrestova”, rrëfimi i Demir Limajt/Nora Malaj për luftën, lirinë dhe Kosovën",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/25999/ne-moshen-23-vjecare-u-arrestova-rrefimi-i-demir-limajt-nora-malaj-per-luften-lirine-dhe-kosoven.mp3",
-     "publishedAt": "2026-10-05T12:47:17.000Z",
-     "durationSec": 2930,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
     }
    ]
   },
@@ -3292,8 +3292,8 @@
   },
   {
    "id": "valarinore",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 79
+   "fails": 80
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 20
+   "fails": 21
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 194
+   "fails": 195
   },
   {
    "id": "ubtcampus",
