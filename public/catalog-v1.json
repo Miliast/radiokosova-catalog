@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-07T22:03:06.093Z",
+ "generatedAt": "2026-10-08T02:01:20.998Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -681,6 +681,33 @@
    "description": "Një podcast autentik nga Telegrafi, ku çdo episod sjell në qendër të vëmendjes historitë, sfidat dhe sukseset e figurave më të ndritura nga bota e sportit. Me një atmosferë të ngrohtë dhe biseda të thella, Lavdimi, Romaku dhe Shkumbini i ftojnë mysafirët të ndajnë përvojat e tyre, historitë e rrëfimet interesante, të zbulojnë anën e panjohur të famës dhe të inspirojnë dëgjuesit me rrëfime autentike dhe emocionale. 🎧 Çdo javë – një histori e re, një yll i ri në arenë",
    "episodes": [
     {
+     "id": "1812021835:8a103a9d-b8a7-4795-a237-dea9ef73d83f",
+     "title": "#100- Arena e Yjeve - Flamur Neziri - Nga karriera me trofe si portier te puna me gjeneratat e reja",
+     "audioUrl": "https://media.transistor.fm/d88641f4/78150444.mp3",
+     "publishedAt": "2026-10-02T23:00:00.000Z",
+     "durationSec": 3639,
+     "imageUrl": "https://img.transistorcdn.com/5NBKET9sps0RBNAwPDo-DhaZT0Sr2P6PooG2m-fFk5w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MjVj/NzUxYzIzMDk5ZTQy/MjgxZmY0OGYxZjQy/ZjU3My5qcGc.jpg",
+     "description": "Në episodin më të ri të podcastit “Arena e Yjeve”, mysafir ishte ish-portieri i njohur kosovar, Flamur Neziri, i cili rrëfeu për rrugëtimin e tij në futboll, nga fillimet e karrierës deri te përvojat me disa prej klubeve të njohura në Kosovë dhe kalimi në rolin e trajnerit të portierëve. Biseda nisi me fillimet e Nezirit në futboll dhe momentin kur vendosi të bëhej portier, ndërsa ai kujtoi përvojat e para te Hysi dhe rëndësinë që pati për karrierën e tij kalimi te Prishtina. Një pjesë e veçant…"
+    },
+    {
+     "id": "1812021835:de1c3be4-7787-43e5-84e3-3fd90446115f",
+     "title": "#99 - Arena e Yjeve - Gani Sejdiu - Nga titujt me Trepçën e Feronikelin te sfidat e Kosovës",
+     "audioUrl": "https://media.transistor.fm/0f9c3304/c29c5f08.mp3",
+     "publishedAt": "2026-09-29T23:00:00.000Z",
+     "durationSec": 5846,
+     "imageUrl": "https://img.transistorcdn.com/3p5yr4z59kNi8KnjmLSVf9OqaOTjaD3VRtkMUzNsbe4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83MTcx/NGEyMzRiYTgyOGEz/MDFlZjIwMDE4ZDgz/YzA0OS5qcGc.jpg",
+     "description": "Në episodin më të ri të podcastit “Arena e Yjeve”, mysafir ishte trajneri i njohur kosovar, Gani Sejdiu, i cili rrëfeu për rrugëtimin e tij në futboll, nga fillimet si futbollist e deri te sukseset e shumta të arritura në karrierën si trajner. Biseda nisi me fillimet e karrierës së Sejdiut si futbollist dhe titullin e kampionit të Kosovës të fituar me Trepçën në sezonin 1992/93, përpara se rrugëtimi i tij të vazhdonte në zejen e trajnerit, ku do të ndërtonte një karrierë të suksesshme. Një pjes…"
+    },
+    {
+     "id": "1812021835:54e8cd2b-4963-4c18-9519-e2b48a12d3a0",
+     "title": "#98 - Arena e Yjeve - Kombëtarja e Kosovës – pensionimet, prurjet e reja dhe sfidat e “Dardanëve” në Ligën e Kombeve",
+     "audioUrl": "https://media.transistor.fm/05b8c3c7/613514df.mp3",
+     "publishedAt": "2026-09-22T22:00:00.000Z",
+     "durationSec": 3174,
+     "imageUrl": "https://img.transistorcdn.com/OCvcTBk1eWTA78O4RohIyxRFunY1uh_qaJN3YjBIHgo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNTFi/NTNmNGY1MmQxMmMy/NWQ4ODNmODljOWE3/NmQ2OC5qcGc.jpg",
+     "description": "Në episodin më të ri të podcastit “Arena e Yjeve”, gazetarët e Telegrafit, Lavdim Pireva, Shkumbin Pireva dhe Bardh Maxhuni, diskutuan për zhvillimet e fundit rreth Kombëtares së Kosovës, duke u ndalur te pensionimet, prurjet e reja dhe sfidat që e presin përfaqësuesen në Ligën e Kombeve. Biseda nisi me pensionimet e Valon Berishës dhe Fidan Alitit nga Kombëtarja e Kosovës, duke analizuar largimin e dy futbollistëve që për vite me radhë ishin pjesë e rëndësishme e përfaqësueses. Një pjesë e veç…"
+    },
+    {
      "id": "1812021835:7c7d1703-22f7-4e07-922b-fa644636c15a",
      "title": "#97 - Arena e Yjeve - Ismet Krasniqi, president i KOK-ut flet për sukseset në Lojërat Mesdhetare",
      "audioUrl": "https://media.transistor.fm/d77d69fe/02c0c2f7.mp3",
@@ -832,33 +859,6 @@
      "durationSec": 4573,
      "imageUrl": "https://img.transistorcdn.com/UiHtRJpHiuTa0FMp_6HRJaF5Ynz-ppWy6D9xEWU_ByM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Mzdh/NTc5NGJjYTFjNDRk/NTI4YTgxZTA4Yzkw/NTY4ZC5qcGc.jpg",
      "description": "Në episodin e 82-të të podcastit “Arena e Yjeve”, mysafir ishte futbollisti i njohur kosovar Leart Emini. Gjatë bisedës, Emini ndau momentet më të rëndësishme të karrierës së tij, duke filluar nga hapat e parë në futboll dhe rruga drejt afirmimit në skenën vendore. Ai u ndal te fillimet e tij te Trepça, ku tregoi për trajnerin që i dha mundësinë e madhe duke e promovuar në ekipin e parë në një moshë shumë të re. Sipas tij, ky ishte momenti që ndryshoi gjithçka, duke i dhënë besim dhe motivim pë…"
-    },
-    {
-     "id": "1812021835:7e9d147d-bbad-448f-9d02-7b1bc4cb008a",
-     "title": "#80: Arena e Yjeve - Tahir Lushtaku: Futbolli në kohën e sakrificës, goli në ditën e dasmës dhe dashuria për FC Drenicën",
-     "audioUrl": "https://media.transistor.fm/8a5df0d9/931e1893.mp3",
-     "publishedAt": "2026-03-15T14:56:30.000Z",
-     "durationSec": 4535,
-     "imageUrl": "https://img.transistorcdn.com/Ew-RXb8vh9PUZKVGi5vQpnRvnGT3ZXrmCHnhJYM_AZA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZDU3/MDViMTRlZjQyOTY0/Y2Q2NmVjMTRhOGRi/NjE4NS5qcGc.jpg",
-     "description": "Në episodin e 80-të të podcastit “Arena e Yjeve”, mysafir ishte trajneri i njohur kosovar Tahir Lushtaku. Gjatë bisedës, Lushtaku rikujtoi një nga periudhat më të vështira të futbollit kosovar, duke folur për gjeneratën e sakrificës dhe përballjet e sportistëve shqiptarë me regjimin serb. Ai rrëfeu për momentet kur lojtarët dhe sportistët përballeshin me dhunë dhe rrahje nga forcat policore serbe, por pavarësisht presionit dhe vështirësive, ata vazhdonin të mbanin gjallë futbollin dhe sportin n…"
-    },
-    {
-     "id": "1812021835:66cbd6ba-e83d-46ee-87e8-5c6bfb076237",
-     "title": "#79: Arena e Yjeve - Analiza e futbollit kosovar dhe Ligës së kampionëve nga gazetarët e Telegrafit",
-     "audioUrl": "https://media.transistor.fm/a057c211/520aadf2.mp3",
-     "publishedAt": "2026-03-09T20:06:27.000Z",
-     "durationSec": 3918,
-     "imageUrl": "https://img.transistorcdn.com/C0na8uX5k5qBjqO94_liYIxmOa_IAkcffitQTi-zE_U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMjRh/NmExZTFkMjE0YjRh/NTk0MmE4N2Y0Y2Nm/MTc4NS5qcGc.jpg",
-     "description": "Në episodin e 79-të të podcastit “Arena e Yjeve”, gazetarët e Telegrafit, ofrojnë një analizë të thelluar mbi ngjarjet më të fundit në futbollin vendor dhe atë evropian. Gjatë bisedës, Lavdim Pireva ndau analizën për dy përballjet më të forta të Ligës së Kampionëve, duke theksuar rëndësinë strategjike të këtyre dueleve dhe ndikimin që ato mund të kenë në fatin e ekipeve në fazat vendimtare. Shkumbin Pireva u ndal te Real Madridi, duke vlerësuar mundësinë që ky sezon të përfundojë pa trofe për “…"
-    },
-    {
-     "id": "1812021835:57af315e-4749-4ef4-ab0d-455ab8b68ac0",
-     "title": "#78: Arena e Yjeve - Kushtrim Krasniqi - Nga miqësoret historike te pranimi në UEFA dhe medaljet olimpike",
-     "audioUrl": "https://media.transistor.fm/50c68cc8/e1ce4a8d.mp3",
-     "publishedAt": "2026-03-02T19:23:44.000Z",
-     "durationSec": 4063,
-     "imageUrl": "https://img.transistorcdn.com/nhyFnoHlf4yOPt0cFZmOXxc1ihDnsIXNk_TYRTc2PlU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzE1/NTM2ZDg3YTllMDQy/OWYyOGFlMDFlYWMx/ZTg0ZC5qcGc.jpg",
-     "description": "Në episodin e 78-të të podcastit “Arena e Yjeve”, mysafir ishte zëdhënësi i Komitetit Olimpik të Kosovës (KOK), ish-gazetari sportiv, Kushtrim Krasniqi. Gjatë një bisede të hapur dhe të pasur me detaje, Krasniqi rrëfeu një lajm ekskluziv nga periudha kur Kosova ishte gati të zhvillonte një ndeshje miqësore me Dinamo Zagreb. Ai tregoi entuziazmin që kishte përfshirë opinionin sportiv, por gjithashtu ndikimin e ndërhyrjeve nga Serbia që çuan në anulimin e takimit, duke e lënë Kosovën pa një përba…"
     }
    ]
   },
@@ -3292,8 +3292,8 @@
   },
   {
    "id": "valarinore",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 78
+   "fails": 79
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 19
+   "fails": 20
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 193
+   "fails": 194
   },
   {
    "id": "ubtcampus",
