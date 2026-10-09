@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-08T22:09:15.200Z",
+ "generatedAt": "2026-10-09T02:15:14.054Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:e1ab5bca-7564-4a2c-8393-1803699a0e92",
+     "title": "Versus #284: Rrahmani, Foda & Zhegrova, Bajram Shala zbulon sekretet e Kosovës",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/127143565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2Feb11e1e0-fb17-a320-1d98-984c3f8aef4c.m4a",
+     "publishedAt": "2026-10-08T22:02:00.000Z",
+     "durationSec": 6889,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Përfaqësuesja e Kosovës është krenaria jonë dhe ka vëmendje maksimale për rrugëtimin e saj spektakolar. Bisedojmë me Bajram Shalën, menaxher i ekipit të \"Dardanëve\", për të zbuluar sekretet e vëllezërve. Në vijim, komentojmë edhe ngjarjet më pikante të javës nga arena ndërkombëtare. 0:00 Kosova 1:50:32 Parashikimet",
+     "episodeNumber": 284,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:dd4adb91-78e9-4689-88cd-35766258e967",
      "title": "Versus #283: Nations League, komentet për Shqipëri - San Marino",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126978615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F96b80341-d929-d672-aa9b-2796aa48ec2a.m4a",
@@ -1079,17 +1090,6 @@
      "description": "Pushimet pas Kupës së Botës mbaruan. Është koha për debatet tona të nxehta në Versus. Tema më emocionuese e verës: merkatoja me transferimet e mëdha të klubeve kryesore të Europës. Kush po guxon më shumë? Kush është ende në gjumë? Komente, vlerësime dhe analiza, gjithçka live! 0:00 Infantino 30:17 Maldini 1:02:24 Boterori 1:13:00 Real Madrid 1:41:46 Barcelona 2:02:49 Top 5 Blerjet 2:14:38 Serie A 2:35:54 Premier League 2:57:29 Shqiperia 3:10:47 Fantazi Pod 3:15:32 Pytjet nga Insta",
      "episodeNumber": 265,
      "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:825c1843-dedf-4902-9240-5a60ebdc9d95",
-     "title": "Versus #264: Finalja e Botërorit, komentet pas ndeshjes Spanjë - Argjentinë",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/123051040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2Fb77c1a8f-339a-c3b1-ab5b-7398b4ae551d.mp3",
-     "publishedAt": "2026-07-20T01:04:20.000Z",
-     "durationSec": 7988,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Pas OPA Watchalong, sërish live për të komentuar çdo detaj të finales së Botërorit, Spanjë - Argjentinë. Kush shkëlqeu? Kush dështoi? Çfarë do të ndodhë tani me Topin e Artë? Komente, analiza dhe parashikime për këtë ndeshje të madhe. 0:00 KAMPIONI 1:05:00 Boterori 2026",
-     "episodeNumber": 264,
-     "seasonNumber": 3
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 82
+   "fails": 83
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 23
+   "fails": 24
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 197
+   "fails": 198
   },
   {
    "id": "ubtcampus",
