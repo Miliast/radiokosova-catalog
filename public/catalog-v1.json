@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-10T08:36:01.710Z",
+ "generatedAt": "2026-10-10T15:25:57.629Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/shtepi-ngrohta-fatura-uleta/33874108.html",
+     "title": "Si të jetojmë në shtëpi më të ngrohta me fatura më të ulëta?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/10/2965c3c9-773f-43e3-742a-08df13a869ed_hq.mp3",
+     "publishedAt": "2026-10-10T09:56:29.000Z",
+     "durationSec": 1476,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Në një mbledhje të mbajtur më 6 tetor, Qeveria e Kosovës miratoi ndarjen e 15 milionë eurove për subvencionimin e faturave të energjisë elektrike për konsumatorët e cenueshëm, për periudhën 2026–2027."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/cka-ben-protesta-levizje-shoqesore/33869300.html",
      "title": "Çfarë e bën një protestë lëvizje shoqërore?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/02/8538b06d-8491-4d76-42e3-08df13a884cb_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1756,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Kosova shpesh del në krye të listave si një nga vendet më të varfra në Evropë – por, çfarë fshihet pas këtyre vlerësimeve? Në podkastin 5 pyetje të Radios Evropa e Lirë, Blendi Hasaj nga Instituti GAP flet për një ekonomi me paga të ulëta, varësi nga diaspora dhe pabarazi të theksuara, duke theksuar se zhvillimi nuk po përkthehet mjaftueshëm në standard më të mirë jetese."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/siguria-ushqimi-kosove/33758254.html",
-     "title": "Sa të sigurta janë ushqimet në tregun e Kosovës?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/05/16/0311fe18-88b3-402f-210b-08de3bed1b27_hq.mp3",
-     "publishedAt": "2026-05-16T10:02:21.000Z",
-     "durationSec": 1286,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Nga përbërja, kontrolli i cilësisë deri tek etiketat dhe data e skadimit - sa kontrollohen ushqimet që konsumojmë çdo ditë?"
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 88
+   "fails": 89
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 29
+   "fails": 30
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 203
+   "fails": 204
   },
   {
    "id": "ubtcampus",
