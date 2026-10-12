@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-11T22:04:16.299Z",
+ "generatedAt": "2026-10-12T01:23:17.333Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:ce347e8c-e4bb-4e88-a928-13d71f8e6482",
+     "title": "Versus #285: Skuqet Vinicius, Barça vijon perfeksionin! Ç'pati Bayern?",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/127312856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F7a265cab-cb6e-afba-2fb4-0fbcf0d44e69.m4a",
+     "publishedAt": "2026-10-11T23:58:10.000Z",
+     "durationSec": 10350,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Rikthehemi live në Versus për komentet dhe analizat tona të fundjavës. Diskutojmë për ligat kryesore të Europës dhe japim parashikimet tona për sfidat në vijim. 0:00 Derbi 17:47 La Liga 1:14:22 Serie A 1:56:00 Premier League 2:25:49 Bayern 2:41:06 Parashikime 2:42:29 Fantazi",
+     "episodeNumber": 285,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:e1ab5bca-7564-4a2c-8393-1803699a0e92",
      "title": "Versus #284: Rrahmani, Foda & Zhegrova, Bajram Shala zbulon sekretet e Kosovës",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/127143565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2Feb11e1e0-fb17-a320-1d98-984c3f8aef4c.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "PSG bëhet superkampione absolute e Europës pas finales me Aston Villa-n. Interi përgatit dy goditje nga Premier League, kurse Barcelona pret Rodrin. Befasi në Holandë, timonin e kombëtares e merr Xavi Hernandez. Në mbrëmje, ekipet shqiptare në betejat për kupat europiane. Këto dhe tema të tjera trajtojmë sot në Versus. 0:00 Dhuratat 16:38 Superkupa 42:55 Arsenal-City 57:06 Kthehet Xavi 1:10:51 Merkato 2:16:52 Mourinho 2:21:36 Europa",
      "episodeNumber": 266,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:4a7656ff-9b57-4e70-8f7e-c82c5e7a9e44",
-     "title": "Versus #265: Pushimet mbaruan! Rikthehen debatet e nxehta të merkatos",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/123997514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2Fe7ba7b8c-89a3-d535-09c5-1da79c4bed4f.mp3",
-     "publishedAt": "2026-08-10T00:17:33.000Z",
-     "durationSec": 12338,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Pushimet pas Kupës së Botës mbaruan. Është koha për debatet tona të nxehta në Versus. Tema më emocionuese e verës: merkatoja me transferimet e mëdha të klubeve kryesore të Europës. Kush po guxon më shumë? Kush është ende në gjumë? Komente, vlerësime dhe analiza, gjithçka live! 0:00 Infantino 30:17 Maldini 1:02:24 Boterori 1:13:00 Real Madrid 1:41:46 Barcelona 2:02:49 Top 5 Blerjet 2:14:38 Serie A 2:35:54 Premier League 2:57:29 Shqiperia 3:10:47 Fantazi Pod 3:15:32 Pytjet nga Insta",
-     "episodeNumber": 265,
      "seasonNumber": 4
     }
    ]
@@ -3313,17 +3313,17 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 95
+   "fails": 96
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 36
+   "fails": 37
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 210
+   "fails": 211
   },
   {
    "id": "ubtcampus",
