@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-12T09:21:14.276Z",
+ "generatedAt": "2026-10-12T19:51:02.865Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:7105b748-c524-4cab-b819-33634666e32e",
+     "title": "Shqipëria e Re Fillon me Qytetarin, Jo me Liderin - Hapsirë publike | BPS #238",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126942217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433484402-44100-2-8537be1fa1b0d.m4a",
+     "publishedAt": "2026-10-12T15:19:00.000Z",
+     "durationSec": 885,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 238
+    },
+    {
      "id": "1573751706:d63ed787-da01-49aa-afca-dc9ddd4330e4",
      "title": "Pse Ikim nga një Vend me Gjithçka? - Hapsirë publike | BPS #237",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126942142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433484320-44100-2-3604ca68230e4.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788436905935-f21ce76a1d4f.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe🎙️ **Buchi Podcast Shqip – Episodi 219 | Jurgen Shpërdhea**I ftuar në episodin 219 është **Jurgen Shpërdhea** – student, i vetëpunësuar dhe protestues që prej ditës së parë.Në këtë episod flasim hapur për protestat, arsyet që e shtynë Jurgenin të bëhe…",
      "episodeNumber": 219
-    },
-    {
-     "id": "1573751706:a4924701-6289-4b37-95e3-3c4061032c15",
-     "title": "Islamizimi i Dardanisë sipas rastit Sheholli - Franc Ribaj në Buchi Podcast Shqip #218 | Agora",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125080413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431022673-44100-2-53e8df3433e8b.mp3",
-     "publishedAt": "2026-09-03T07:00:00.000Z",
-     "durationSec": 5268,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788339970619-0e7d54c59af26.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeDisclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni …",
-     "episodeNumber": 218
     }
    ]
   },
@@ -2311,6 +2311,105 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26113",
+     "title": "Prezantohet &#8220;PASQYRA E ÇMIMEVE&#8221;, Rama paralajmëron gjobë për…-Edicioni kryesor informativ 12/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26113/prezantohet-pasqyra-e-cmimeve-rama-paralajmeron-gjobe-per-edicioni-kryesor-informativ-12-10-2026.mp3",
+     "publishedAt": "2026-10-12T16:11:13.000Z",
+     "durationSec": 444,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26112",
+     "title": "House Nation 12/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26112/house-nation-12-10-2026.mp3",
+     "publishedAt": "2026-10-12T13:03:12.000Z",
+     "durationSec": 2894,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26111",
+     "title": "Nga pasioni për muzikën tek performancat live në studio, një artiste e talentuar si Troja Bicurri…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26111/nga-pasioni-per-muziken-tek-performancat-live-ne-studio-nje-artiste-e-talentuar-si-troja-bicurri.mp3",
+     "publishedAt": "2026-10-12T13:00:10.000Z",
+     "durationSec": 2275,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26110",
+     "title": "Pastori: Telefoni “vrau” flirtin, lejon 10-15 marrëdhënie njëkohësisht!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26110/pastori-telefoni-vrau-flirtin-lejon-10-15-marredhenie-njekohesisht-wake-up.mp3",
+     "publishedAt": "2026-10-12T12:56:22.000Z",
+     "durationSec": 1447,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26109",
+     "title": "Ermal Hasimja: Kryeministri kontrollon gjithçka, duhet sistem i ri!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26109/ermal-hasimja-kryeministri-kontrollon-gjithcka-duhet-sistem-i-ri-wake-up.mp3",
+     "publishedAt": "2026-10-12T12:55:39.000Z",
+     "durationSec": 1584,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26108",
+     "title": "Kujdes! Shenjat që mund të sinjalizojnë kancerin e gjirit janë këto…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26108/kujdes-shenjat-qe-mund-te-sinjalizojne-kancerin-e-gjirit-jane-keto.mp3",
+     "publishedAt": "2026-10-12T12:53:57.000Z",
+     "durationSec": 2000,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26107",
+     "title": "Ervin Kurti rrëfen prapaskenat e tij në Amerikë…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26107/ervin-kurti-rrefen-prapaskenat-e-tij-ne-amerike.mp3",
+     "publishedAt": "2026-10-12T12:52:59.000Z",
+     "durationSec": 3258,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26106",
+     "title": "Trump pyeti AI për Maduron?! Apple hyn në shtëpitë tona, Meta nën akuza dhe BMW sfidohet nga…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26106/trump-pyeti-ai-per-maduron-apple-hyn-ne-shtepite-tona-meta-nen-akuza-dhe-bmw-sfidohet-nga.mp3",
+     "publishedAt": "2026-10-12T12:52:05.000Z",
+     "durationSec": 439,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Mateo Kadriu sjell “Top Tech,” një emision dedikuar risive dhe trendeve më të fundit në botën e teknologjisë, që do të transmetohet ekskluzivisht në Top Albania Radio, YouTube dhe në social media. Me një qasje informuese dhe argëtuese, ky emision shërben si një dritare drejt të ardhmes dixhitale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26105",
+     "title": "Bujaka rrëfen dhimbjen e luftës në Kosovë, familjen! Paolina Pajollari sfidat e artistëve të rinj.",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26105/bujaka-rrefen-dhimbjen-e-luftes-ne-kosove-familjen-paolina-pajollari-sfidat-e-artisteve-te-rinj.mp3",
+     "publishedAt": "2026-10-12T12:51:07.000Z",
+     "durationSec": 2427,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26104",
+     "title": "Albën s’e kam ish, videot intime…/ Zbërthehet “doktor” Lim Hoti: Djali &#038; ish-partnerja…-Përtej Topit",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26104/alben-se-kam-ish-videot-intime-zberthehet-doktor-lim-hoti-djali-ish-partnerja-pertej-topit.mp3",
+     "publishedAt": "2026-10-12T12:50:04.000Z",
+     "durationSec": 1728,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "“Përtej Topit” me Françeska Rustem është një podkast që shkon përtej asaj që shohim nga një personalitet në ekran. Përmes bisedave “pa doreza” me personazhe nga sporti, arti, media dhe biznesi, do të zbulojmë çfarë fshihet pas suksesit, famës dhe imazhit të tyre publik."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26093",
+     "title": "Hip Hop On Top 10/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26093/hip-hop-on-top-10-10-2026.mp3",
+     "publishedAt": "2026-10-12T12:49:03.000Z",
+     "durationSec": 2806,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Hip Hop at it’s best. Top Albania Radio ka një traditë të transmetimit të Hip Hop-it që në fillimin e saj, atëhere kur kjo rrymë konsiderohej nga kritikët si denigrim i muzikës. Ky program sjell më të mirat e rrap-it të pa censuruara, dje dhe sot, duke zgjuar nostalgji dhe duke ju prezantuar hitet që do trondisin bokset e makinës tuaj, të miksuara nga Dj Keddos."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26088",
      "title": "House Nation 10/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26088/house-nation-10-10-2026.mp3",
@@ -2390,105 +2489,6 @@
      "durationSec": 2541,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Kozeta Kurti, një nga “pioneret” e para të radiove private në Shqipëri, që në fund të viteve ‘90-të, kthehet në Top Albania Radio pas 17 vjetësh me “Back to the Beginning”. Ky format e nisi rrugëtimin edhe në 2020-ën, fiks në të njëjtën periudhë me pandeminë globale “Covid 19”-të, por me sa duket kjo është koha e duhur."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26065",
-     "title": "Përplasja me protestuesit &#038; Edi Ramën, rrëfehet Erion Braçe: “Përjetova ankth!”- Studio në lot!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26065/perplasja-me-protestuesit-edi-ramen-rrefehet-erion-brace-perjetova-ankth-studio-ne-lot.mp3",
-     "publishedAt": "2026-10-09T11:24:31.000Z",
-     "durationSec": 5488,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26070",
-     "title": "Keni gjetur magji në shtëpi? Studiuesja: Mos e bëni këtë veprim!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26070/keni-gjetur-magji-ne-shtepi-studiuesja-mos-e-beni-kete-veprim-wake-up.mp3",
-     "publishedAt": "2026-10-09T09:46:47.000Z",
-     "durationSec": 1235,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26067",
-     "title": "Nga gripi, salmonela deri tek viruset që kërcënojnë pandemi!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26067/nga-gripi-salmonela-deri-tek-viruset-qe-kercenojne-pandemi-wake-up.mp3",
-     "publishedAt": "2026-10-09T09:45:36.000Z",
-     "durationSec": 1221,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26063",
-     "title": "Territorialja, Seancë Plenare dhe protestë &#8211; Ngjarjet kryesore të ditës 08/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26063/territoriarja-seance-plenare-dhe-proteste-ngjarjet-kryesore-te-dites-08-10-2026.mp3",
-     "publishedAt": "2026-10-08T14:23:47.000Z",
-     "durationSec": 427,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26061",
-     "title": "Loré tregon gjithçka për planet e saj të reja muzikore…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26061/lore-tregon-gjithcka-per-planet-e-saj-te-reja-muzikore.mp3",
-     "publishedAt": "2026-10-08T14:07:48.000Z",
-     "durationSec": 1568,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë ta pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26060",
-     "title": "&#8220;Miri u keqkuptua&#8221;/Balina Bodinaku: Brikena duhet të kuptonte se bukuria shkon përtej fizikut…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26060/miri-u-keqkuptua-balina-bodinaku-brikena-duhet-te-kuptonte-se-bukuria-shkon-pertej-fizikut.mp3",
-     "publishedAt": "2026-10-08T13:11:27.000Z",
-     "durationSec": 2073,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26059",
-     "title": "House Nation 08/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26059/house-nation-08-10-2026.mp3",
-     "publishedAt": "2026-10-08T12:00:00.000Z",
-     "durationSec": 2894,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26055",
-     "title": "“Një keqkuptim…”/Vis Saliasi flet për eksperiencën në “Portokalli”, sjell në kitarë skeçet e tij!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26055/nje-keqkuptim-vis-saliasi-flet-per-eksperiencen-ne-portokalli-sjell-ne-kitare-skecet-e-tij.mp3",
-     "publishedAt": "2026-10-08T11:19:52.000Z",
-     "durationSec": 2824,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Një emision ku, si asnjëherë më parë, mendimet dhe fjalët vijnë si në jetë, të pacensuruara… Mirë, ndoshta pak të censuruara. “Pardon My French” nga Jonida Aliçkolli, Niko Komani dhe Aulona Musta, ku e vetmja gjë që nuk dinë të bëjnë është të flasin frëngjisht!"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26054",
-     "title": "Çfarë është “healthmaxing” dhe pse po bëhet kaq popullor?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26054/cfare-eshte-healthmaxing-dhe-pse-po-behet-kaq-popullor-wake-up.mp3",
-     "publishedAt": "2026-10-08T09:31:27.000Z",
-     "durationSec": 1261,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26051",
-     "title": "815 euro në muaj jetesa si student, të rinjtë rrëfejnë shpenzimet me detaje!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26051/815-euro-ne-muaj-jetesa-si-student-te-rinjte-rrefejne-shpenzimet-me-detaje-wake-up.mp3",
-     "publishedAt": "2026-10-08T09:30:33.000Z",
-     "durationSec": 1613,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26044",
-     "title": "Kush Po Na Shikon? Hakeri, Kamerat, Rrjetet Sociale dhe Sekretet e Botës Digjitale &#124; Tech Talk",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26044/kush-po-na-shikon-hakeri-kamerat-rrjetet-sociale-dhe-sekretet-e-botes-digjitale-tech-talk.mp3",
-     "publishedAt": "2026-10-08T08:00:00.000Z",
-     "durationSec": 2263,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 97
+   "fails": 98
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 38
+   "fails": 39
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 212
+   "fails": 213
   },
   {
    "id": "ubtcampus",
@@ -3473,7 +3473,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 1
+   "fails": 0
   }
  ]
 }
