@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-14T07:44:24.776Z",
+ "generatedAt": "2026-10-14T13:47:53.027Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1103,6 +1103,78 @@
    "description": "Podcasti “Shëndeti në rend të parë” me autore Elfije Boletini-Bejtullahu çdo të diele sjelle biseda informuese me profesionistë të shëndetësisë, mjekë, studiues dhe specialistë të fushave të ndryshme për t’i ofruar publikut informacion të saktë mbi çështje të rëndësishme që lidhen me shëndetin. Nga këshillat për një jetë të shëndetshme, informata për sëmundje të ndryshme, simptomat, diagnostikimin e trajtimet e fundit mjekësore, me bisedat me profesionistë të fushës përmes secilit episod synojmë të rrisim ndërgjegjësimin dhe të ndihmojmë dëgjuesit tanë të dinë më shumë për shëndetin e tyre. Podcasti trajton një gamë të gjerë temash për sëmundje kronike, shëndetin mendor, stilin e jetesës, përfshirë ushqyerjen dhe aktivitetin fizik, kujdesin ndaj grave dhe fëmijëve, kujdesin për të moshuarit, rëndësinë e parandalimit të sëmundjeve dhe edukimin shëndetësor, etj. Qëllimi i podcastit “Shëndeti në rend të parë” është të afrojë informacion të besueshëm dhe të dobishëm për publikun e gjerë, …",
    "episodes": [
     {
+     "id": "1812026405:b46caf0b-6846-427c-b603-1b853dbadef3",
+     "title": "#91: Shëndeti në rend të parë – Arben Bislimi, onkolog",
+     "audioUrl": "https://media.transistor.fm/1af4df54/190a8d96.mp3",
+     "publishedAt": "2026-10-14T13:46:10.000Z",
+     "durationSec": 3019,
+     "imageUrl": "https://img.transistorcdn.com/bDC3DoAvdPGyXkVNAwK9N1L3uIK2AVw2wRQoF8FbzTc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZDUz/YWM0NjRkOTA5MjY4/MmRkYzgyNGQwMzdm/Mjc0YS5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, onkologu Arben Bislimi ka folur për kancerin, parandalimin, diagnostikimin e hershëm dhe rëndësinë e kontrolleve të rregullta. Në fokus është edhe kanceri i gjirit, simptomat që nuk duhet neglizhuar dhe roli i vetëkontrollit. Bislimi shpjegon mitet rreth ushqimit, sheqerit, trashëgimisë, si dhe trajtimet moderne si imunoterapia dhe terapitë e personalizuara. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern d…"
+    },
+    {
+     "id": "1812026405:bab96729-d00c-4446-b098-d208fefa22c3",
+     "title": "#90: Shëndeti në rend të parë – Berat Lenjani, stomatolog-kirurg oral",
+     "audioUrl": "https://media.transistor.fm/c644b176/45515a40.mp3",
+     "publishedAt": "2026-10-14T13:41:16.000Z",
+     "durationSec": 2739,
+     "imageUrl": "https://img.transistorcdn.com/r2QNRbvhb7z0Oat2vwmfxf0_Ffe3--xNEv--mSkkN6Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MzVi/Yzk0MjVmZDRhZDRl/YmE3ZjA5OTc4MjRh/NDFhYy5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, stomatologu dhe kirurgu oral Berat Lenjani flet për kujdesin dhe problemet më të shpeshta të shëndetit oral. Pse moskujdesi është armiku kryesor i dhëmbëve dhe sa rëndësi ka edukimi që nga fëmijëria? Lenjani tregon kur duhet të hiqen dhëmbët e pjekurisë dhe çfarë mund të shkaktojë neglizhimi i infeksioneve dentare. Ai paralajmëron gjithashtu për përdorimin e pakontrolluar të antibiotikëve dhe rezistencën ndaj tyre. Mbështetur nga: - United Hospital Prish…"
+    },
+    {
+     "id": "1812026405:4127ce1e-e3c7-443e-88f5-b67b195bd83b",
+     "title": "#89: Shëndeti në rend të parë - Mirlinda Kubati, oftalmologe - strabologe",
+     "audioUrl": "https://media.transistor.fm/e107dcc4/607ff447.mp3",
+     "publishedAt": "2026-10-14T13:31:30.000Z",
+     "durationSec": 2319,
+     "imageUrl": "https://img.transistorcdn.com/eMiSuhEIeG3vXIZkpbdSt7W1okNn0R0ZbcN-vHPw4d0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YjY1/OTljYmJiNmQwNmNj/NGUzNThiZjNiZTYz/MGM0NS5qcGc.jpg",
+     "description": "Në episodin e 89-të të podcastit “Shëndeti në rend të parë”, Mirlinda Kubati, strabologe ka folur për shikimin te fëmijët, strabizmin, dioptrinë dhe rëndësinë e kontrollit të hershëm te oftalmologu. Në fokus janë edhe rastet kur fëmija afrohet shumë te televizori, ka nevojë për syze apo rrezikon zhvillimin e “syrit dembel”. Kubati shpjegon pse trajtimi nuk duhet të shtyhet dhe pse mbyllja e syrit bëhet për zhvillimin e shikimit, jo për ta drejtuar syrin. Mbështetur nga: - United Hospital Prisht…"
+    },
+    {
+     "id": "1812026405:98d250f6-9363-416e-93db-74a813eedbfd",
+     "title": "#88: Shëndeti në rend të parë – Feride Deliu, specialiste e pediatrisë",
+     "audioUrl": "https://media.transistor.fm/750ea5b2/a9e55c3c.mp3",
+     "publishedAt": "2026-10-14T10:31:43.000Z",
+     "durationSec": 1791,
+     "imageUrl": "https://img.transistorcdn.com/k70SzNabeS4rSZPKUiT4vABMQalJK2SxZ6Ya3uBwZzw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZDc3/MTJmMDU3MmZjODE3/YjFmMTc3NWE5NWRl/OWQxZi5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, e ftuar është Feride Deliu, specialiste e pediatrisë. Ajo ka folur për virozat e sezonit, temperaturën, vjelljet, barkqitjen dhe shenjat kur fëmija duhet të dërgohet te mjeku. Në fokus është edhe fruthi, simptomat, komplikimet dhe rëndësia e vaksinimit të plotë. Deliu shpjegon pse vaksina mbetet mbrojtja më e mirë kundër fruthit dhe çfarë duhet të dinë prindërit. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital mod…"
+    },
+    {
+     "id": "1812026405:3b068c30-dfbb-4c2d-8e0b-28bcdd27fdfe",
+     "title": "#87: Shëndeti në rend të parë – Skifter Ymeri, fizioterapeut",
+     "audioUrl": "https://media.transistor.fm/441200a5/8328c782.mp3",
+     "publishedAt": "2026-10-14T10:29:56.000Z",
+     "durationSec": 3117,
+     "imageUrl": "https://img.transistorcdn.com/Ui2HZVrR18KZkwTYBV3f3zFEN3JrXjxRcrLPtN7n0Kg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNGUz/ZjIwY2JhNDlhY2U1/Zjk0YTEwZDAxODQ5/NzAyMy5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, i ftuar është fizioterapeuti Skifter Imeri, i cili ka folur për rëndësinë e fizioterapisë, kujdesin ndaj trupit dhe rikuperimin pas lëndimeve. Në fokus është edhe puna me sportistët, veçanërisht me futbollistët dhe Kombëtaren e Kosovës. Ai flet për lëndimet në futboll, ndikimin e fushave sintetike dhe rëndësinë e protokolleve të rikthimit në lojë. Një pjesë e rëndësishme i kushtohet fëmijëve, posturës, përdorimit të telefonit dhe aktivitetit fizik. Mbësh…"
+    },
+    {
+     "id": "1812026405:ccdf025c-bf2f-4231-a078-c973dd804b40",
+     "title": "#86: Shëndeti në rend të parë – Muhamet Zekolli, kirurg vitreoretinal",
+     "audioUrl": "https://media.transistor.fm/5a2f6d55/a87a9788.mp3",
+     "publishedAt": "2026-10-14T10:23:02.000Z",
+     "durationSec": 2049,
+     "imageUrl": "https://img.transistorcdn.com/82S7wXBc11KDCtbYH2xnUAXGEuC8JxrqN26gme6bU9k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NGRh/MzRkYWJmODc0ZDY1/MGI5ZTdiODE3NWI3/YjY1ZS5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, Muhamet Zekolli, kirurg vitreoretinal ka folur për shëndetin e syve, rëndësinë e retinës dhe sëmundjet që mund të ndikojnë në humbjen e shikimit. Në fokus janë pikat e zeza, shkëndijat, hijet në fushën e shikimit dhe shenjat që nuk duhet të neglizhohen. Zekolli shpjegon edhe lidhjen e diabetit dhe tensionit të lartë me dëmtimet e retinës. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern dhe i specializuar që…"
+    },
+    {
+     "id": "1812026405:ae70fc80-3e79-480b-97cb-b44475d36cb4",
+     "title": "#85: Shëndeti në rend të parë - Muharrem Hajdari, ortoped",
+     "audioUrl": "https://media.transistor.fm/3087fe68/ed83a5d0.mp3",
+     "publishedAt": "2026-10-14T10:20:20.000Z",
+     "durationSec": 2023,
+     "imageUrl": "https://img.transistorcdn.com/0bcQqYS2H9EDxm6G9JQAPyfnPA199EBzo-8qzpMzFFg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NjQy/NGM5MjYyYjI3MjI2/NjBhMjYxZjc0NjFh/OGI2NC5qcGc.jpg",
+     "description": "Në podcastin “Shëndeti në rend të parë”, Muharrem Hajdari, specialist i ortopedisë ka folur për problemet më të shpeshta ortopedike, artrozën, dhimbjet e nyjeve, shputës dhe shtyllës kurrizore. Hajdari shpjegon pse jo çdo artrozë duhet operuar dhe pse operacioni duhet të mbetet zgjidhja e fundit. Në fokus janë edhe protezat e gjurit dhe kërdhokullës, teknikat moderne minimale invazive dhe rikthimi i shpejtë i pacientëve në lëvizje. Ai jep këshilla praktike për prindërit, sidomos për këpucët e p…"
+    },
+    {
+     "id": "1812026405:318c0033-06ce-4c17-b19f-9a8afc26fad8",
+     "title": "#84: Shëndeti në rend të parë – Liridona Guci, kirurge plastike",
+     "audioUrl": "https://media.transistor.fm/79d25547/8e875f7b.mp3",
+     "publishedAt": "2026-10-14T10:16:35.000Z",
+     "durationSec": 2838,
+     "imageUrl": "https://img.transistorcdn.com/yOBFG3lIOHok21m0OVsMd2Xr6ZG5nw60G35ldDim6K4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZTQx/NzEzNGU4ZmFiYWY1/YWM2NjgzOWIzZGNh/YTNmZS5qcGc.jpg",
+     "description": "Kirurgja plastike, Liridona Guci ka folur për kirurgjinë plastike si fushë që përfshin jo vetëm estetikën, por edhe rikonstruksionin, funksionin dhe mirëqenien e pacientit. Në fokus janë rinoplastika, liposuksioni, abdominoplastika, ndërhyrjet në gjoks, implantet dhe blefaroplastika. Guci shpjegon rëndësinë e konsultës profesionale, rreziqet e ndërhyrjeve nga persona jo të specializuar dhe rastet kur pacientit duhet t’i thuhet “jo”. Një bisedë e hapur për bukurinë, vetëbesimin dhe vendimet e ku…"
+    },
+    {
      "id": "1812026405:c51b59bf-6d3e-4f6b-a4cc-c4057f3fc1bc",
      "title": "#83: Shëndeti në rend të parë – Luan Morina, neonatolog",
      "audioUrl": "https://media.transistor.fm/307b7e07/29253083.mp3",
@@ -1209,78 +1281,6 @@
      "durationSec": 2240,
      "imageUrl": "https://img.transistorcdn.com/xvX1EZO113XDSwqgVr7dpeU5-aucBDyFKo1JRrdGRXg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTY0/NzdjZDI1YWZjNDY5/YTRlZGQ4ZmI0ZDgw/NmRmNy5qcGc.jpg",
      "description": "Në episodin e 72-të të podcastit “Shëndeti në rend të parë”, gjinekologu Sebajdin Gjini ka folur për zhvillimet moderne në gjinekologji dhe obstetrikë, shtatzënitë me rrezik të lartë dhe rëndësinë e kontrolleve rutinore. Diskutohet edhe për rolin e burrit gjatë shtatzënisë dhe pjesëmarrjen në lindje. Ai po ashtu foli edhe për Pap testin, diagnostikimin e hershëm dhe parandalimin e kancerit të qafës së mitrës. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spit…"
-    },
-    {
-     "id": "1812026405:dd51f3e3-4f00-4d78-8101-eca5b9083bc1",
-     "title": "#71: Shëndeti në rend të parë - Kirurg abdominal, Arbër Morina",
-     "audioUrl": "https://media.transistor.fm/12d2504b/ed57c35f.mp3",
-     "publishedAt": "2026-05-06T09:11:11.000Z",
-     "durationSec": 4501,
-     "imageUrl": "https://img.transistorcdn.com/muIW4e5gQI6Lo1QOZgUfMFn9eVx2L2PQ2mE1s8ronNE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jY2Ez/MTg0MWZiMGM5ZTBl/YjFmMDhhNjAxNmUz/MzZmZS5qcGc.jpg",
-     "description": "Në episodin e 71-të të podcastit “Shëndeti në rend të parë”, kirurgu abdominal Arbër Morina ka diskutuar për organet vitale si mëlçia dhe pankreasi, si dhe për një problem shumë të përhapur në Kosovë – gurët në idhëz. Morina shpjegon pse këto probleme shpesh kalojnë pa u vënë re deri në faza të avancuara dhe cilat janë shenjat që nuk duhet të injorohen. Morina flet edhe për rëndësinë e ekzaminimeve bazë si ultrazëri dhe paralajmëron për abuzimin me analiza të panevojshme. Në fund, Morina ndan n…"
-    },
-    {
-     "id": "1812026405:1fce3a51-554e-4b9c-ae60-ffb1411f1f14",
-     "title": "#70: Shëndeti në rend të parë - Fizioterapisti, Valon Maloku",
-     "audioUrl": "https://media.transistor.fm/5b341436/0a0cd9a0.mp3",
-     "publishedAt": "2026-05-06T08:25:01.000Z",
-     "durationSec": 2281,
-     "imageUrl": "https://img.transistorcdn.com/m_nre4Lu9HmdZdxiYPYsw9gyRSibMoFxqnBzZM0K7b4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xY2Jk/M2QwZTY1ZTIyNjAx/YmU0YTU4YjAzZTM1/MGQ1MC5qcGc.jpg",
-     "description": "Në episodin e 70-të të podcastit “Shëndeti në rend të parë”, i ftuar është fizioterapisti Valon Maloku. Diskutimi fokusohet te efekti nocebo dhe mënyra si pritjet negative mund të ndikojnë në përkeqësimin e gjendjes së pacientit. Maloku shpjegon dallimin mes trajtimeve që japin vetëm ndjesi të përkohshme dhe atyre që kanë bazë reale shkencore. Ai flet edhe për rolin kyç të edukimit të pacientit dhe rëndësinë e ushtrimeve fizike në shërim afatgjatë. Mbështetur nga: - United Hospital Prishtinë - …"
-    },
-    {
-     "id": "1812026405:740080d1-6665-4e83-9d6e-1278a58b634a",
-     "title": "#69: Shëndeti në rend të parë - Seksolog, Hajrullah Fejza",
-     "audioUrl": "https://media.transistor.fm/36180c85/a72ed4da.mp3",
-     "publishedAt": "2026-05-06T08:14:07.000Z",
-     "durationSec": 3601,
-     "imageUrl": "https://img.transistorcdn.com/9yTszn4EqPboghrjIqO3SpVYJdqxgCuYbpgJPFxKxhA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xOTIw/NWY4NGQ0ZDY5NmNk/OTUwYjhkYjFjNzI4/ZGVhNy5qcGc.jpg",
-     "description": "Në episodin e 69-të të podcastit “Shëndeti në rend të parë”, seksologu Hajrullah Fejza flet hapur për shëndetin seksual dhe tabutë në shoqëri. Diskutohet roli i edukimit seksual, ndikimi i stresit dhe rëndësia e komunikimit në marrëdhënie. Ai rrëzon mite të përhapura dhe shpjegon problemet më të shpeshta që prekin çiftet. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern dhe i specializuar që ofron shërbime të avancuara mjekësore me teknologji të fu…"
-    },
-    {
-     "id": "1812026405:6ac3d306-5505-4768-a784-52ffc6e676b7",
-     "title": "#68: Shëndeti në rend të parë - ortoped, Qerim Kida",
-     "audioUrl": "https://media.transistor.fm/1211222b/da521818.mp3",
-     "publishedAt": "2026-04-02T10:54:26.000Z",
-     "durationSec": 3490,
-     "imageUrl": "https://img.transistorcdn.com/XZmxLf_7doC0GM3zjtcO-nS-VaHodjSeVDsvuA6ou_g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNmM3/YWFmYjJjZTMzMDY0/MTBjOWRkOTIzNzNh/YzY2Yi5qcGc.jpg",
-     "description": "Në episodin 68 të podcastit “Shëndeti në rend të parë”, ortopedi Qerim Kida flet për rëndësinë e kujdesit ndaj kockave dhe nyjeve. Ai shpjegon problemet më të shpeshta ortopedike dhe si lidhen ato me stilin modern të jetesës. Diskutohet ndikimi i përdorimit të telefonit, mungesa e aktivitetit fizik dhe postura e gabuar. Po ashtu, trajtohen temat si sporti tek fëmijët, rikuperimi nga lëndimet dhe roli i fizioterapisë. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është …"
-    },
-    {
-     "id": "1812026405:8deeacdf-3744-4e3d-9222-79797ff7dae4",
-     "title": "#67: Shëndeti në rend të parë - gastroenterolog, Valon Hamza",
-     "audioUrl": "https://media.transistor.fm/7bc660ac/94882d79.mp3",
-     "publishedAt": "2026-04-02T10:45:02.000Z",
-     "durationSec": 2605,
-     "imageUrl": "https://img.transistorcdn.com/h8PXNBahJd5qDG3bVGLrSByTPR6f_XRrjcspklE0x2k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yMGVk/YWU3NDQ0OTc0OTE5/ZDIzZTExODUzOTg4/NzUzZi5qcGc.jpg",
-     "description": "Në episodin e 67-të të podcastit “Shëndeti në rend të parë”, i ftuar është gastroenterologu Valon Hamza, me të cilin diskutojmë për rëndësinë e diagnostikimit të hershëm të kancerit kolorektal. Flasim për simptomat që shpesh neglizhohen, faktorët e rrezikut dhe rolin kyç të kolonoskopisë në parandalim. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern dhe i specializuar që ofron shërbime të avancuara mjekësore me teknologji të fundit dhe staf profes…"
-    },
-    {
-     "id": "1812026405:e5ebda7b-ef83-4e4d-a005-c0b6238a39a0",
-     "title": "#66: Shëndeti në rend të parë - gjinekologe, Flora Belegu-Spahija",
-     "audioUrl": "https://media.transistor.fm/ec311c57/91280089.mp3",
-     "publishedAt": "2026-03-18T09:20:35.000Z",
-     "durationSec": 2865,
-     "imageUrl": "https://img.transistorcdn.com/dLyPHWIo52G9Mguv8mBcHo_8Y9XmWz1kj1rq_n8tVyc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NGEz/ODBkMGRlODI1NGM0/NmYxY2UwYzk5Yzdj/NmVjZi5qcGc.jpg",
-     "description": "Në episodin e 66-të të podcastit “Shëndeti në rend të parë”, e ftuar është gjinekologia me mbi 40 vite përvojë, Flora Belegu-Spahija. Diskutojmë për rëndësinë e kontrolleve të rregullta gjinekologjike, Pap testin dhe pse ai është jetik për zbulimin e hershëm të kancerit. Flasim për simptomat që gratë nuk duhet t’i injorojnë, si dhe për frikën dhe turpin që shpesh i pengojnë të kërkojnë ndihmë mjekësore. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital mod…"
-    },
-    {
-     "id": "1812026405:fc85ee0f-adcd-4f66-bdc2-581dd1782abb",
-     "title": "#65: Shëndeti në rend të parë -  dermatologia, Rejhane Bislimi-Berisha",
-     "audioUrl": "https://media.transistor.fm/b5daf031/21ea7d6b.mp3",
-     "publishedAt": "2026-03-18T09:12:30.000Z",
-     "durationSec": 2393,
-     "imageUrl": "https://img.transistorcdn.com/cKFVT6P50adLOelVJho3-FUfeMnzvkTN-Spcd2yFAOI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85YTNm/ZTAwOTkzMzdhYjI4/MGM0ZjI1MjMyODYz/Y2YwNC5qcGc.jpg",
-     "description": "Në episodin e 65-të të “Shëndeti në rend të parë”, i përkrahur nga United Hospital, e ftuar është dermatologia Rejhane Bislimi-Berisha. Në këtë bisedë flitet për problemet më të shpeshta të lëkurës, duke përfshirë aknet, faktorët që ndikojnë në shfaqjen e tyre dhe gabimet që bëjnë shpesh pacientët gjatë trajtimit. Diskutohet edhe për rutinën e duhur të kujdesit për lëkurën, ndikimin e ushqimit dhe rëndësinë e mbrojtjes nga rrezet e diellit. Një pjesë e episodit i kushtohet edhe nishaneve dhe ku…"
-    },
-    {
-     "id": "1812026405:fcd48cc1-8325-4044-a5d3-2e091a30c182",
-     "title": "#64: Shëndeti në rend të parë - Kirurg kardiovaskular, Raif Çavolli",
-     "audioUrl": "https://media.transistor.fm/57d444ce/339c9719.mp3",
-     "publishedAt": "2026-03-18T09:09:02.000Z",
-     "durationSec": 2928,
-     "imageUrl": "https://img.transistorcdn.com/fuIDKOOOToqgcoDDAqCIRtTOT4JNVpIL-lHV_5LPBrs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YmU3/NWIwNDhhYTAzODAx/ZmZiNDA1ZjA5NWUw/YmE1ZC5qcGc.jpg",
-     "description": "Në episodin e 64-të të “Shëndeti në rend të parë”, i ftuar është kirurgu kardiovaskular Raif Çavolli. Ai flet për sëmundjet e zemrës si shkaku kryesor i vdekshmërisë dhe shpjegon shenjat paralajmëruese të infarktit që nuk duhen injoruar. Diskutohet edhe për faktorët e rrezikut si stresi, duhani, diabeti dhe kolesteroli i lartë, si dhe për rastet kur duhet kërkuar urgjentisht ndihmë mjekësore. Një pjesë e episodit i kushtohet aneurizmës dhe zhvillimeve moderne në kirurgjinë kardiovaskulare. Mbës…"
     }
    ]
   },
@@ -1293,6 +1293,26 @@
    "genre": "Politics",
    "description": "\"Përballje\" me autor kryeredaktorin e Telegrafi.com, Muhamet Hajrullahu, është një platformë edukative dhe informuese që ka për qëllim të ndriçojë çështjet kryesore që preokupojnë shoqërinë kosovare dhe më gjerë. Duke ofruar hapësira për diskutime të thella mbi temat shoqërore, politike, ekonomike, ndërmarrësi, sociale e veçanërisht angazhimin e të rinjve, grave dhe diasporës, si brenda ashtu edhe jashtë Kosovës.",
    "episodes": [
+    {
+     "id": "1845345706:7874cae5-0647-4d91-a028-fe99c62ce7aa",
+     "title": "#43: Përballje: Zef Shala – Roli i “Nënës Terezë” pas luftës, rindërtimi dhe ndihma për Kosovën",
+     "audioUrl": "https://media.transistor.fm/ab98be85/567bf056.mp3",
+     "publishedAt": "2026-10-14T11:51:26.000Z",
+     "durationSec": 2781,
+     "imageUrl": "https://img.transistorcdn.com/ZgV1qy9SW6pes3LjdYjqem-uJiSi7BtmvrqL70xeGYQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YjFk/MzFhZTk3MjEzYjcz/MTFjNTkzYTZmMDRj/NjVlOS5qcGc.jpg",
+     "description": "Nga emergjenca pas luftës te rindërtimi i Kosovës – historia e “Nënës Terezë” vazhdon Në pjesën e dytë të rrëfimit në “Përballje Podcast”, Zef Shala tregon se si Shoqata “Nëna Terezë” u përball me një Kosovë të shkatërruar pas vitit 1999, si ndihmoi mbi 1.2 milion qytetarë, rindërtoi qindra shtëpi dhe krijoi një rrjet ndihme në gjithë vendin. Ai rrëfen edhe për familjen që strehoi 147 njerëz, për rreth 65 mijë refugjatë nga lufta në Maqedoni që gjetën strehë në Kosovë, për milionat e markave të…",
+     "episodeNumber": 43
+    },
+    {
+     "id": "1845345706:d6017435-8337-4951-853d-f17ee69a05a9",
+     "title": "#42: Përballje: Arxhend Blakçori - Kush po dominon botën? SHBA, Kina, Rusia dhe pozita e Kosovës",
+     "audioUrl": "https://media.transistor.fm/5f322ff6/4c521350.mp3",
+     "publishedAt": "2026-10-14T11:46:54.000Z",
+     "durationSec": 2254,
+     "imageUrl": "https://img.transistorcdn.com/k_D-ac2ho8oY-tDXBnHTC338h-Iw8O1x-9j9qym4nkk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yM2Uw/OWEzZjcyM2QzMjky/ZTMxMDRhM2IyYzFh/OWJiZS5qcGc.jpg",
+     "description": "SHBA-ja, Evropa, Kina dhe Rusia në një përballje gjithnjë e më të madhe për ndikim global, politik dhe, veçanërisht, ekonomik. Në episodin e ri të “Përballje Podcast”, Arxhend Blakçori, ekspert i sigurisë ndërkombëtare dhe ekonomike, analizon ndryshimet e mëdha gjeopolitike dhe çfarë mund të nënkuptojnë ato për Kosovën dhe Ballkanin Perëndimor. Pse SHBA-ja e sheh Kinën si sfidën kryesore afatgjatë? Ku qëndron Evropa në mbrojtje dhe ekonomi përballë fuqive të tjera? Cilat janë synimet dhe përpje…",
+     "episodeNumber": 42
+    },
     {
      "id": "1845345706:46110897-a921-4f93-9591-04b666b869e5",
      "title": "#41: Përballje: Gino Mulliqi i “Albanians for America” - A është Kosova ende prioritet në Washington?",
@@ -1471,26 +1491,6 @@
      "imageUrl": "https://img.transistorcdn.com/NJylp3IdWn2R9db8wCs2CzVg5m-_RxDsFl3JzrOkjW4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Y2M5/YjEwYjBlYjRhNjQ4/NjBiNTY3YWQyNjRj/NTUxMC5wbmc.jpg",
      "description": "Kosova po hyn në një fazë të re të transformimit digjital, ku synimi është që deri në vitin 2027 gjysma e shërbimeve publike të jenë të qasshme online, duke reduktuar burokracinë dhe duke e afruar shtetin më shumë me qytetarin.",
      "episodeNumber": 24
-    },
-    {
-     "id": "1845345706:2cd15333-e890-4f6c-9a5e-1e07438ce032",
-     "title": "#23: Përballje: A po shkon Kosova në zgjedhje? Tregon Kadri Kryeziu",
-     "audioUrl": "https://media.transistor.fm/ae0541b9/3a00278b.mp3",
-     "publishedAt": "2026-04-02T10:58:14.000Z",
-     "durationSec": 1918,
-     "imageUrl": "https://img.transistorcdn.com/rkW0-jV61O_1ehkXrnDhk1PPW2zDsdGbP78Ribr2pDE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMjU0/N2EzMWFiNzU3NmFh/MmI3MGQzOTBlZWQx/ZjRmYS5qcGc.jpg",
-     "description": "Kosova ndodhet në një moment të ndjeshëm kushtetues dhe politik, ndërsa Gjykata Kushtetuese po shqyrton kërkesën për procedurën e zgjedhjes së Presidentit.Në këtë situatë, ish-gjyqtari i Gjykatës Kushtetuese, Kadri Kryeziu, vlerëson se vendi duhet të shkojë drejt zgjedhjeve të jashtëzakonshme. Këtë e ka deklaruar ai në “Përballje Podcast” me kryeredaktorin e Telegrafit, Muhamet Hajrullahu.",
-     "episodeNumber": 23
-    },
-    {
-     "id": "1845345706:51b68f80-d3bc-4c43-81b9-d3677e653cf4",
-     "title": "#22: Përballje: Tatimet, bizneset dhe ekonomia joformale në Kosovë: Diskutim me Mentor Hysenin nga ATK",
-     "audioUrl": "https://media.transistor.fm/ad84b0f0/5b60284f.mp3",
-     "publishedAt": "2026-03-18T10:48:13.000Z",
-     "durationSec": 2270,
-     "imageUrl": "https://img.transistorcdn.com/8jZzR81tfFCxbvuzGh-yXqbjIAJPle67rETY--8eYMw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lY2Ni/NWQxOWZlN2I0OGZk/YzcyMWU5ODQ4MjI0/YzZjNy5qcGc.jpg",
-     "description": "Drejtori i Përgjithshëm i Administratës Tatimore të Kosovës (ATK), Mentor Hyseni, ka deklaruar se ky institucion ka shënuar rritje të vazhdueshme të të hyrave tatimore në vitet e fundit, ndërsa theksoi se një nga faktorët kryesorë është zvogëlimi i ekonomisë joformale dhe rritja e transparencës në proceset e punës. Në një diskutim në “Përballje Podcast”, me kryeredaktorin e Telegrafit, Muhamet Hajrullahu, Hyseni tha se ATK ka arritur të mbajë një trend të rritjes së të hyrave tatimore rreth 13 …",
-     "episodeNumber": 22
     }
    ]
   },
@@ -2311,6 +2311,69 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26147",
+     "title": "House Nation 14/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26147/house-nation-14-10-2026.mp3",
+     "publishedAt": "2026-10-14T12:00:00.000Z",
+     "durationSec": 2924,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26143",
+     "title": "Kur do ta përfaqësojë Shqipërinë në Eurovision? Ja si përgjigjet Gjon’s Tears…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26143/kur-do-ta-perfaqesoje-shqiperine-ne-eurovision-ja-si-pergjigjet-gjons-tears.mp3",
+     "publishedAt": "2026-10-14T11:16:03.000Z",
+     "durationSec": 1840,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë ta pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26142",
+     "title": "Nga ndryshimet në sezonin e ri të &#8220;Fiks Fare&#8221; te komenti i skandaleve se*suale &#8211; Ndryshe 13/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26142/nga-ndryshimet-ne-sezonin-e-ri-te-fiks-fare-te-komenti-i-skandaleve-sesuale-ndryshe-13-10-2026.mp3",
+     "publishedAt": "2026-10-14T11:02:26.000Z",
+     "durationSec": 4383,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Politika dhe aktualiteti, të para ndryshe. Shkundja sarkastike e realitetit politik dhe social që jetojmë me një prej figurave më të pëlqyera të humorit shqiptar si edhe një prej personazheve më të dashura të televizionit. Pse Shqipëria është kjo që është, pse shqiptarët janë siç janë, një vështrim plot humor mbi jetën që bëjmë që do t’ju sjellë gjendje të mirë shpirtërore përpara se të mbyllni ditën tuaj."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26141",
+     "title": "U dhunua nga policia, Xhoi Malësia: &#8220;Nuk u kursyen gazetarët, na futën në rrugica…&#8221;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26141/u-dhunua-nga-policia-xhoi-malesia-nuk-u-kursyen-gazetaret-na-futen-ne-rrugica.mp3",
+     "publishedAt": "2026-10-14T10:49:10.000Z",
+     "durationSec": 532,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26137",
+     "title": "Ka humbje jete?/&#8221;Bojkotohet mësimi në solidaritet të protestës”/Kristi Gongo: Nuk ka…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26137/ka-humbje-jete-bojkotohet-mesimi-ne-solidaritet-te-protestes-kristi-gongo-nuk-ka.mp3",
+     "publishedAt": "2026-10-14T10:43:53.000Z",
+     "durationSec": 591,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26136",
+     "title": "A e kanë shqiptarët sportin e boksit në gjak? Ish-boksieri: Karakteristikë e hershme!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26136/a-e-kane-shqiptaret-sportin-e-boksit-ne-gjak-ish-boksieri-karakteristike-e-hershme-wake-up.mp3",
+     "publishedAt": "2026-10-14T09:40:22.000Z",
+     "durationSec": 1487,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26133",
+     "title": "Në mes të trajtimit të kimioterapisë, përkthyesja ka një mesazh të fortë!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26133/ne-mes-te-trajtimit-te-kimioterapise-perkthyesja-ka-nje-mesazh-te-forte-wake-up.mp3",
+     "publishedAt": "2026-10-14T09:39:03.000Z",
+     "durationSec": 1352,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26131",
      "title": "Tirana në kaos, studentët &#8220;djegin&#8221; kryeqytetin&#8230;-Edicioni kryesor informativ 13/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26131/tirana-ne-kaos-studentet-djegin-kryeqytetin-edicioni-kryesor-informativ-13-10-2026.mp3",
@@ -2426,69 +2489,6 @@
      "durationSec": 1447,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26109",
-     "title": "Ermal Hasimja: Kryeministri kontrollon gjithçka, duhet sistem i ri!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26109/ermal-hasimja-kryeministri-kontrollon-gjithcka-duhet-sistem-i-ri-wake-up.mp3",
-     "publishedAt": "2026-10-12T12:55:39.000Z",
-     "durationSec": 1584,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26108",
-     "title": "Kujdes! Shenjat që mund të sinjalizojnë kancerin e gjirit janë këto…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26108/kujdes-shenjat-qe-mund-te-sinjalizojne-kancerin-e-gjirit-jane-keto.mp3",
-     "publishedAt": "2026-10-12T12:53:57.000Z",
-     "durationSec": 2000,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26107",
-     "title": "Ervin Kurti rrëfen prapaskenat e tij në Amerikë…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26107/ervin-kurti-rrefen-prapaskenat-e-tij-ne-amerike.mp3",
-     "publishedAt": "2026-10-12T12:52:59.000Z",
-     "durationSec": 3258,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26106",
-     "title": "Trump pyeti AI për Maduron?! Apple hyn në shtëpitë tona, Meta nën akuza dhe BMW sfidohet nga…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26106/trump-pyeti-ai-per-maduron-apple-hyn-ne-shtepite-tona-meta-nen-akuza-dhe-bmw-sfidohet-nga.mp3",
-     "publishedAt": "2026-10-12T12:52:05.000Z",
-     "durationSec": 439,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Mateo Kadriu sjell “Top Tech,” një emision dedikuar risive dhe trendeve më të fundit në botën e teknologjisë, që do të transmetohet ekskluzivisht në Top Albania Radio, YouTube dhe në social media. Me një qasje informuese dhe argëtuese, ky emision shërben si një dritare drejt të ardhmes dixhitale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26105",
-     "title": "Bujaka rrëfen dhimbjen e luftës në Kosovë, familjen! Paolina Pajollari sfidat e artistëve të rinj.",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26105/bujaka-rrefen-dhimbjen-e-luftes-ne-kosove-familjen-paolina-pajollari-sfidat-e-artisteve-te-rinj.mp3",
-     "publishedAt": "2026-10-12T12:51:07.000Z",
-     "durationSec": 2427,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26104",
-     "title": "Albën s’e kam ish, videot intime…/ Zbërthehet “doktor” Lim Hoti: Djali &#038; ish-partnerja…-Përtej Topit",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26104/alben-se-kam-ish-videot-intime-zberthehet-doktor-lim-hoti-djali-ish-partnerja-pertej-topit.mp3",
-     "publishedAt": "2026-10-12T12:50:04.000Z",
-     "durationSec": 1728,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Përtej Topit” me Françeska Rustem është një podkast që shkon përtej asaj që shohim nga një personalitet në ekran. Përmes bisedave “pa doreza” me personazhe nga sporti, arti, media dhe biznesi, do të zbulojmë çfarë fshihet pas suksesit, famës dhe imazhit të tyre publik."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26093",
-     "title": "Hip Hop On Top 10/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26093/hip-hop-on-top-10-10-2026.mp3",
-     "publishedAt": "2026-10-12T12:49:03.000Z",
-     "durationSec": 2806,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Hip Hop at it’s best. Top Albania Radio ka një traditë të transmetimit të Hip Hop-it që në fillimin e saj, atëhere kur kjo rrymë konsiderohej nga kritikët si denigrim i muzikës. Ky program sjell më të mirat e rrap-it të pa censuruara, dje dhe sot, duke zgjuar nostalgji dhe duke ju prezantuar hitet që do trondisin bokset e makinës tuaj, të miksuara nga Dj Keddos."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 104
+   "fails": 105
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 45
+   "fails": 46
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 219
+   "fails": 220
   },
   {
    "id": "ubtcampus",
@@ -3453,7 +3453,7 @@
   {
    "id": "radioalbafolk",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "awferizaj",
