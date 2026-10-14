@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-14T13:47:53.027Z",
+ "generatedAt": "2026-10-14T18:41:33.682Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1103,6 +1103,15 @@
    "description": "Podcasti “Shëndeti në rend të parë” me autore Elfije Boletini-Bejtullahu çdo të diele sjelle biseda informuese me profesionistë të shëndetësisë, mjekë, studiues dhe specialistë të fushave të ndryshme për t’i ofruar publikut informacion të saktë mbi çështje të rëndësishme që lidhen me shëndetin. Nga këshillat për një jetë të shëndetshme, informata për sëmundje të ndryshme, simptomat, diagnostikimin e trajtimet e fundit mjekësore, me bisedat me profesionistë të fushës përmes secilit episod synojmë të rrisim ndërgjegjësimin dhe të ndihmojmë dëgjuesit tanë të dinë më shumë për shëndetin e tyre. Podcasti trajton një gamë të gjerë temash për sëmundje kronike, shëndetin mendor, stilin e jetesës, përfshirë ushqyerjen dhe aktivitetin fizik, kujdesin ndaj grave dhe fëmijëve, kujdesin për të moshuarit, rëndësinë e parandalimit të sëmundjeve dhe edukimin shëndetësor, etj. Qëllimi i podcastit “Shëndeti në rend të parë” është të afrojë informacion të besueshëm dhe të dobishëm për publikun e gjerë, …",
    "episodes": [
     {
+     "id": "1812026405:bf70413e-b830-4692-b9cc-966fd422d9b1",
+     "title": "#92: Shëndeti në rend të parë – Rajmonda Halili, specialiste e protetikës stomatologjike",
+     "audioUrl": "https://media.transistor.fm/7645538f/703f472a.mp3",
+     "publishedAt": "2026-10-14T13:54:04.000Z",
+     "durationSec": 2407,
+     "imageUrl": "https://img.transistorcdn.com/2QOpnjUbZuB8PxA5-jq23hp0sGrakNcdzSjvMrvsp5Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MThk/Y2E1ZmRkZTI5MTI4/NDVmNzQ1MTZjODhl/ZjA2MC5qcGc.jpg",
+     "description": "Rajmonda Halili, specialiste e protetikës stomatologjike gjatë podcastit ka folur për shëndetin dhe estetikën e buzëqeshjes, me fokus te urat dentare, kurorat dhe vinerët. Në këtë episod shpjegohet kur është e nevojshme një urë dentare, si dallon nga kurora dhe pse gryerja minimale është shumë e rëndësishme. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern dhe i specializuar që ofron shërbime të avancuara mjekësore me teknologji të fundit dhe staf …"
+    },
+    {
      "id": "1812026405:b46caf0b-6846-427c-b603-1b853dbadef3",
      "title": "#91: Shëndeti në rend të parë – Arben Bislimi, onkolog",
      "audioUrl": "https://media.transistor.fm/1af4df54/190a8d96.mp3",
@@ -1272,15 +1281,6 @@
      "durationSec": 1828,
      "imageUrl": "https://img.transistorcdn.com/38LU2TbTvFn8ZLFqz6XM4PIcSJuGqDGVoFGyn1LleCo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNDRh/N2NiMGZhNmE2M2E3/NDQ3OWZjMGE1ZDkz/NmNlMS5qcGc.jpg",
      "description": "Në episodin e 73-të të podcastit “Shëndeti në rend të parë”, e ftuar është logopedia Mirgena Preniqi. Diskutuam për zhvillimin e të folurit tek fëmijët dhe të rriturit, shenjat e hershme të vonesave gjuhësore dhe rëndësinë e ndërhyrjes në kohë. Sa ndikojnë telefonat, tabletët dhe rrjetet sociale në zhvillimin e trurit dhe komunikimit tek fëmijët? Pse prindërit nuk duhet të presin që “fëmija të flasë vetë”? Folëm edhe për stresin, ankthin, belbëzimin dhe gabimet më të shpeshta që bëjnë prindërit…"
-    },
-    {
-     "id": "1812026405:eb841270-3ac6-4855-8d87-b17ae6e53e31",
-     "title": "#72: Shëndeti në rend të parë - Gjinekolog, Sebajdin Gjini",
-     "audioUrl": "https://media.transistor.fm/d8a90a97/8f52f2b8.mp3",
-     "publishedAt": "2026-06-23T10:04:42.000Z",
-     "durationSec": 2240,
-     "imageUrl": "https://img.transistorcdn.com/xvX1EZO113XDSwqgVr7dpeU5-aucBDyFKo1JRrdGRXg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTY0/NzdjZDI1YWZjNDY5/YTRlZGQ4ZmI0ZDgw/NmRmNy5qcGc.jpg",
-     "description": "Në episodin e 72-të të podcastit “Shëndeti në rend të parë”, gjinekologu Sebajdin Gjini ka folur për zhvillimet moderne në gjinekologji dhe obstetrikë, shtatzënitë me rrezik të lartë dhe rëndësinë e kontrolleve rutinore. Diskutohet edhe për rolin e burrit gjatë shtatzënisë dhe pjesëmarrjen në lindje. Ai po ashtu foli edhe për Pap testin, diagnostikimin e hershëm dhe parandalimin e kancerit të qafës së mitrës. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spit…"
     }
    ]
   },
@@ -1293,6 +1293,26 @@
    "genre": "Politics",
    "description": "\"Përballje\" me autor kryeredaktorin e Telegrafi.com, Muhamet Hajrullahu, është një platformë edukative dhe informuese që ka për qëllim të ndriçojë çështjet kryesore që preokupojnë shoqërinë kosovare dhe më gjerë. Duke ofruar hapësira për diskutime të thella mbi temat shoqërore, politike, ekonomike, ndërmarrësi, sociale e veçanërisht angazhimin e të rinjve, grave dhe diasporës, si brenda ashtu edhe jashtë Kosovës.",
    "episodes": [
+    {
+     "id": "1845345706:2d19169e-3e93-4948-a4fa-13d8a6dfd841",
+     "title": "#46: Përballje: Ekonomia e Kosovës: Bizneset, projektet dhe AI – Shpend Ahmeti",
+     "audioUrl": "https://media.transistor.fm/434a5d83/fc9f3ac6.mp3",
+     "publishedAt": "2026-10-14T14:40:36.000Z",
+     "durationSec": 2500,
+     "imageUrl": "https://img.transistorcdn.com/D-OofxwhFhflwExWEdTkoo4DaDRXUSnQeTYJigNRFr0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOTNk/ZGQ3NjVmNzYzMWU1/ZGM4OWM5YTI3Mzdi/ZGUxOC5qcGc.jpg",
+     "description": "Shpend Ahmeti, bashkëthemelues i Data4X, është i ftuari i radhës në “Përballje Podcast” në Telegrafi.com Në këtë episod, ekonomia e Kosovës trajtohet përmes statistikave dhe të dhënave, me fokus te gjendja e bizneseve, qasja në financim, menaxhimi, produktiviteti, pagat dhe sfidat e tregut të punës. Pjesë e bisedës janë edhe mundësitë për zëvendësimin e një pjese të importeve me prodhim vendor dhe krijimin e kushteve më të favorshme për investime e zhvillim ekonomik. Diskutimi ndalet edhe te rë…",
+     "episodeNumber": 46
+    },
+    {
+     "id": "1845345706:dc62127e-8ad8-4d21-af8d-a56fc14f8ffb",
+     "title": "#44: Përballje: Nga diaspora te investimet – çfarë mundësish po hapen mes Kosovës dhe Zvicrës? flet Butrint Ajredini",
+     "audioUrl": "https://media.transistor.fm/15ec10fc/58bdad54.mp3",
+     "publishedAt": "2026-10-14T14:29:30.000Z",
+     "durationSec": 2346,
+     "imageUrl": "https://img.transistorcdn.com/WkoCDBr29ck2fd2Ojioe7F3IU72GkVfpJVEy7CUxiaU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNDA0/Y2ZiMDEyNzBlYWRj/OTIyMzI2MzIyZmQx/MGU5Yy5qcGc.jpg",
+     "description": "Kosova dhe Zvicra kanë lidhje të fuqishme, por sa po shndërrohen ato në bashkëpunim ekonomik? Në episodin e ri të “Përballje Podcast”, Butrint Ajredini, zëvendëspresident i Odës Ekonomike Zvicër–Kosovë, flet për marrëveshjen me EFTA-n, interesimin e investitorëve zviceranë dhe mundësitë e reja për bizneset kosovare. Si shihet Kosova nga investitorët në Zvicër, në cilët sektorë po investon diaspora dhe a po kalon ajo nga remitencat te krijimi i bizneseve dhe vendeve të punës?",
+     "episodeNumber": 44
+    },
     {
      "id": "1845345706:7874cae5-0647-4d91-a028-fe99c62ce7aa",
      "title": "#43: Përballje: Zef Shala – Roli i “Nënës Terezë” pas luftës, rindërtimi dhe ndihma për Kosovën",
@@ -1312,6 +1332,16 @@
      "imageUrl": "https://img.transistorcdn.com/k_D-ac2ho8oY-tDXBnHTC338h-Iw8O1x-9j9qym4nkk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yM2Uw/OWEzZjcyM2QzMjky/ZTMxMDRhM2IyYzFh/OWJiZS5qcGc.jpg",
      "description": "SHBA-ja, Evropa, Kina dhe Rusia në një përballje gjithnjë e më të madhe për ndikim global, politik dhe, veçanërisht, ekonomik. Në episodin e ri të “Përballje Podcast”, Arxhend Blakçori, ekspert i sigurisë ndërkombëtare dhe ekonomike, analizon ndryshimet e mëdha gjeopolitike dhe çfarë mund të nënkuptojnë ato për Kosovën dhe Ballkanin Perëndimor. Pse SHBA-ja e sheh Kinën si sfidën kryesore afatgjatë? Ku qëndron Evropa në mbrojtje dhe ekonomi përballë fuqive të tjera? Cilat janë synimet dhe përpje…",
      "episodeNumber": 42
+    },
+    {
+     "id": "1845345706:3eb05cc4-4c59-44c0-8443-c7ffb07cf776",
+     "title": "#45: Përballje: Arben Mustafa nga PDK: Specialja, Presidenti dhe 6 tetori vendimtar",
+     "audioUrl": "https://media.transistor.fm/571c79e7/fa7e341f.mp3",
+     "publishedAt": "2026-09-25T14:32:00.000Z",
+     "durationSec": 2600,
+     "imageUrl": "https://img.transistorcdn.com/tOThh_2xDVJvG89PSioo4JTo7ZgeDBag8bqXiYBT954/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NDY2/OGE2NDVmNzc2YzRi/ZjkwMzg2ZmE0YTk2/NmM2YS5qcGc.jpg",
+     "description": "Në këtë episod të Përballje Podcast, Muhamet Hajrullahu bisedon me deputetin e PDK-së, Arben Mustafa, për hapat që duhen ndërmarrë pas vendimit të Gjykatës Kushtetuese. A duhet Kuvendi të mblidhet menjëherë për ta votuar projektligjin për Dhomat e Specializuara? Si mund të arrihet marrëveshja për Presidentin deri më 6 tetor? Dhe çfarë kompromisi është e gatshme të bëjë PDK-ja për t’i shmangur zgjedhjet e reja?",
+     "episodeNumber": 45
     },
     {
      "id": "1845345706:46110897-a921-4f93-9591-04b666b869e5",
@@ -1461,36 +1491,6 @@
      "durationSec": 2731,
      "imageUrl": "https://img.transistorcdn.com/_ImOQB5_hgrh5OmPh0iO49pbwbuKPhlf1nVBu6Xw2NY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MDZm/YjA4ZjNhNWMzZTg3/MTVhYzkzOTU4NjE4/ZjAzMy5qcGc.jpg",
      "episodeNumber": 27
-    },
-    {
-     "id": "1845345706:b2ef6a0d-405a-46bf-8700-6e3448d9a6ef",
-     "title": "#26: Përballje: AI – Rrezik apo mundësi? Diskutim me Darsej Rizaj",
-     "audioUrl": "https://media.transistor.fm/b2421492/a14cb820.mp3",
-     "publishedAt": "2026-05-06T11:10:23.000Z",
-     "durationSec": 4501,
-     "imageUrl": "https://img.transistorcdn.com/-LH12mLC0-T95TK0nvHNaQvZ5wipKHMN-DkNdWlyEg4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MmE1/NGRkZjBmMzg1ZmVk/Zjk3NDg4YTcxNzk4/M2M0YS5qcGc.jpg",
-     "description": "Në episodin 26 të “Përballje Podcast”, flasim me Darsej Rizaj - bashkëthemelues i Shkollës Digjitale dhe StarLabs, për ndikimin e AI në tregun e punës, në shoqëri dhe sidomos te të rinjtë në Kosovë. Nga mënyra si punojmë, deri te vendimet që marrim çdo ditë – gjithçka po transformohet.",
-     "episodeNumber": 26
-    },
-    {
-     "id": "1845345706:0b802316-3d26-47d5-b35a-f82eab6d5575",
-     "title": "#25: Përballje: Skandali i njehsorëve, shpjegimi nga Visar Azemi",
-     "audioUrl": "https://media.transistor.fm/43679ce8/845fc6be.mp3",
-     "publishedAt": "2026-04-02T11:15:49.000Z",
-     "durationSec": 1707,
-     "imageUrl": "https://img.transistorcdn.com/l0aV3MZjib9gDCNPcJ5axxp2gxXjiSc5xfhI_KBjR8o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZmU1/YWQ0ZjlhZWRiZDVj/M2RjYjk1MGE1ZDQ0/NTlmNS5qcGc.jpg",
-     "description": "Në një kohë kur çmimi i energjisë elektrike vazhdon të rëndojë buxhetin e qytetarëve dhe bizneseve në Kosovë, dyshimet për saktësinë e njehsorëve elektrikë kanë ngritur shqetësime serioze në opinionin publik. Në një diskutim në “Përballje Podcast”, Visar Azemi nga LDK ka ngritur akuza të forta lidhur me funksionimin e njehsorëve dhe ndikimin në faturimin e energjisë.",
-     "episodeNumber": 25
-    },
-    {
-     "id": "1845345706:e4880768-e9ea-4f81-a63e-a0f8643b48c1",
-     "title": "#24: Përballje: Kosova po hyn në një fazë të re të transformimit digjital? Ministri Lulëzon Jagxhiun jep detaje kyçe",
-     "audioUrl": "https://media.transistor.fm/3995a338/62b2a235.mp3",
-     "publishedAt": "2026-04-02T11:08:44.000Z",
-     "durationSec": 2369,
-     "imageUrl": "https://img.transistorcdn.com/NJylp3IdWn2R9db8wCs2CzVg5m-_RxDsFl3JzrOkjW4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Y2M5/YjEwYjBlYjRhNjQ4/NjBiNTY3YWQyNjRj/NTUxMC5wbmc.jpg",
-     "description": "Kosova po hyn në një fazë të re të transformimit digjital, ku synimi është që deri në vitin 2027 gjysma e shërbimeve publike të jenë të qasshme online, duke reduktuar burokracinë dhe duke e afruar shtetin më shumë me qytetarin.",
-     "episodeNumber": 24
     }
    ]
   },
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:e298a811-6dae-4ea1-a0d9-bcf135a6c406",
+     "title": "Iluzioni i Shumicës së Heshtur - Hapsirë publike | BPS #240",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127031817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433593226-44100-2-0e4959738796e.m4a",
+     "publishedAt": "2026-10-14T14:01:00.000Z",
+     "durationSec": 862,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 240
+    },
+    {
      "id": "1573751706:269d4849-e60b-41d5-8079-081bde14b983",
      "title": "Kauza Është më e Madhe se Partia - Hapsirë publike | BPS #239",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127030832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433591903-44100-2-82c7a8b15fb34.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788765219463-581e85715afff.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribeJa një version në të njëjtën linjë me episodet 219–220, duke e vendosur referendumin dhe qëndrimin e Denisit në qendër, por pa e paraqitur qëndrimin e tij si fakt të pakontestueshëm.🎙️ **Buchi Podcast Shqip – Episodi 221 | Denis Bala**I ftuar në episo…",
      "episodeNumber": 221
-    },
-    {
-     "id": "1573751706:ccf125e2-3cf9-4d64-b8aa-01937c1caf50",
-     "title": "Momenti më i rëndësishëm për shqiptarët - Roland Lleshi ne Buchi Podcast Shqip #220 | Agora",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125241739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-5%2F431251822-44100-2-367b1ff801576.mp3",
-     "publishedAt": "2026-09-06T08:03:00.000Z",
-     "durationSec": 6138,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1788615914546-1e577d4efa435.jpg",
-     "description": "🎙️ Buchi Podcast Shqip – Episodi 220 | Roland Lleshi I ftuar në episodin 220 është Roland Lleshi – inxhinier pyjor, ekspert i menaxhimit mjedisor, kërkues shkencor dhe aktivist për mbrojtjen e natyrës. Pas një eksperience profesionale në Shqipëri në mësimdhënie dhe mbrojtjen e jetës së egër, Rolandi u zhvendos në Gjermani, ku vazhdoi studimet dhe angazhimin e tij në fushën e mjedisit dhe energjisë. Sot është kërkues shkencor në Universitetin Teknik të Berlinit, me fokus te komunitetet e energj…",
-     "episodeNumber": 220
     }
    ]
   },
@@ -2311,6 +2311,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26151",
+     "title": "Tym dhe flake në Tiranë! Përshkallëzohet dhuna në protestë! Edicioni kryesor informativ 14/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26151/tym-dhe-flake-ne-tirane-pershkallezohet-dhuna-ne-proteste-edicioni-kryesor-informativ-14-10-2026.mp3",
+     "publishedAt": "2026-10-14T16:42:24.000Z",
+     "durationSec": 318,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës në datë 14 Tetor."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26149",
+     "title": "Parashikimet dhe pritshmëritë e para për Grammys 2027!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26149/parashikimet-dhe-pritshmerite-e-para-per-grammys-2027.mp3",
+     "publishedAt": "2026-10-14T14:49:43.000Z",
+     "durationSec": 105,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26147",
      "title": "House Nation 14/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26147/house-nation-14-10-2026.mp3",
@@ -2471,24 +2489,6 @@
      "durationSec": 2894,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26111",
-     "title": "Nga pasioni për muzikën tek performancat live në studio, një artiste e talentuar si Troja Bicurri…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26111/nga-pasioni-per-muziken-tek-performancat-live-ne-studio-nje-artiste-e-talentuar-si-troja-bicurri.mp3",
-     "publishedAt": "2026-10-12T13:00:10.000Z",
-     "durationSec": 2275,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26110",
-     "title": "Pastori: Telefoni “vrau” flirtin, lejon 10-15 marrëdhënie njëkohësisht!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26110/pastori-telefoni-vrau-flirtin-lejon-10-15-marredhenie-njekohesisht-wake-up.mp3",
-     "publishedAt": "2026-10-12T12:56:22.000Z",
-     "durationSec": 1447,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 105
+   "fails": 106
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 46
+   "fails": 47
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 220
+   "fails": 221
   },
   {
    "id": "ubtcampus",
@@ -3452,8 +3452,8 @@
   },
   {
    "id": "radioalbafolk",
-   "online": false,
-   "fails": 4
+   "online": true,
+   "fails": 0
   },
   {
    "id": "awferizaj",
