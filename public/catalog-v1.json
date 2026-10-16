@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-16T17:29:54.667Z",
+ "generatedAt": "2026-10-16T21:18:29.113Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 116
+   "fails": 117
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 57
+   "fails": 58
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 231
+   "fails": 232
   },
   {
    "id": "ubtcampus",
@@ -3463,7 +3463,7 @@
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "albradio",
