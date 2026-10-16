@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-16T12:33:21.169Z",
+ "generatedAt": "2026-10-16T17:29:54.667Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:1241b196-ead2-41f2-bb6d-e1d61da8c10f",
+     "title": "Europa Nuk Fillon në Bruksel - Hapsirë publike | BPS #242",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127032817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433594494-44100-2-9c01e44356549.m4a",
+     "publishedAt": "2026-10-16T14:18:00.000Z",
+     "durationSec": 824,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 242
+    },
+    {
      "id": "1573751706:4f4d0599-b954-44dc-a580-d3dcc38b02ad",
      "title": "Dorëheqja Nuk Është Fundi i Demokracisë - Hapsirë publike | BPS #241",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127032490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433594081-44100-2-39cb9c11b368f.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 223
-    },
-    {
-     "id": "1573751706:439126b1-9a7a-46f8-ac30-c9bc4bbe991b",
-     "title": "Rreziqet që i kanosen kombit shqiptar - Franc Ribaj në Buchi Podcast Shqip #222 | Hapsirë Publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/125581696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2Fd30fa70f-9b64-d093-c8ce-fa05d7653bc0.m4a",
-     "publishedAt": "2026-09-11T08:47:09.000Z",
-     "durationSec": 3407,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/15988157/15988157-1789116168804-b28a7b5c9710b.jpg",
-     "description": "🎙️ Buchi Podcast Shqip – Episodi 222 | Franc Ribaj Rubrika: Hapësirë Publike Në episodin 222, i ftuar në Hapësirë Publike është Franc Ribaj , për një bisedë mbi zhvillimet gjeopolitike, interesat e fuqive ndërkombëtare dhe pozicionin e Shqipërisë në një rajon që vazhdon të përballet me tensione dhe interesa të kundërta. Flasim për mënyrën se si, sipas Francit, fuqitë dhe aktorët ndërkombëtarë ushtrojnë ndikim mbi shtetet e vogla , për raportin mes sovranitetit dhe interesave gjeopolitike, si d…",
-     "episodeNumber": 222
     }
    ]
   },
@@ -2311,6 +2311,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26176",
+     "title": "“BESA” mes më të mirëve në festivalin global të filmit/Krijuesit: Kriteri kryesor, sa emocion jep…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26176/filmat-e-rinj-qe-ia-vlen-ti-shifni-kete-fundjave.mp3",
+     "publishedAt": "2026-10-16T13:31:11.000Z",
+     "durationSec": 1146,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26175",
+     "title": "Fation Kuqari: &#8220;Kam bërë shumë sakrifica të mbaj fytyrën e pastër, që fëmijët e mi nesër…&#8221;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26175/fation-kuqari-kam-bere-shume-sakrifica-te-mbaj-fytyren-e-paster-qe-femijet-e-mi-neser.mp3",
+     "publishedAt": "2026-10-16T12:53:20.000Z",
+     "durationSec": 1600,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26171",
      "title": "House Nation 16/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26171/house-nation-16-10-2026.mp3",
@@ -2471,24 +2489,6 @@
      "durationSec": 1487,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26133",
-     "title": "Në mes të trajtimit të kimioterapisë, përkthyesja ka një mesazh të fortë!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26133/ne-mes-te-trajtimit-te-kimioterapise-perkthyesja-ka-nje-mesazh-te-forte-wake-up.mp3",
-     "publishedAt": "2026-10-14T09:39:03.000Z",
-     "durationSec": 1352,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26131",
-     "title": "Tirana në kaos, studentët &#8220;djegin&#8221; kryeqytetin&#8230;-Edicioni kryesor informativ 13/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26131/tirana-ne-kaos-studentet-djegin-kryeqytetin-edicioni-kryesor-informativ-13-10-2026.mp3",
-     "publishedAt": "2026-10-13T17:38:17.000Z",
-     "durationSec": 358,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 115
+   "fails": 116
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 56
+   "fails": 57
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 230
+   "fails": 231
   },
   {
    "id": "ubtcampus",
@@ -3463,7 +3463,7 @@
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "albradio",
