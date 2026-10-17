@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-17T05:38:48.071Z",
+ "generatedAt": "2026-10-17T10:52:39.245Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/ngecja-investime-kapitale/33877970.html",
+     "title": "Çfarë u kushton qytetarëve ngecja e investimeve kapitale?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/16/3d316554-312f-404e-45d0-08df13a884cb_hq.mp3",
+     "publishedAt": "2026-10-17T09:58:37.000Z",
+     "durationSec": 1418,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Çfarë u kushton qytetarëve ngecja e investimeve kapitale në Kosovë? Nga mungesa e çerdheve publike te shpenzimet shtesë për familjet, Albulena Nrecaj nga INPO shpjegon pasojat e projekteve të parealizuara dhe arsyet e vonesave."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/shtepi-ngrohta-fatura-uleta/33874108.html",
      "title": "Si të jetojmë në shtëpi më të ngrohta me fatura më të ulëta?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/10/2965c3c9-773f-43e3-742a-08df13a869ed_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1419,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Inteligjenca artificiale gjithnjë e më shumë po bëhet pjesë e shkollave të Kosovës, por a është gati sistemi arsimor për këtë ndryshim? Në podkastin 5 pyetje, Rinor Qehaja nga instituti për studime të arsimit EdGuard flet për përfitimet dhe sfidat që IA sjell në mësimdhënie dhe mësimnxënie."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/kosova-varferia-blendi-hasaj/33763129.html",
-     "title": "A është Kosova vërtet aq e varfër sa thuhet?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/05/23/c49d2341-cbcc-4634-2255-08de3bed1b27_hq.mp3",
-     "publishedAt": "2026-05-23T09:57:27.000Z",
-     "durationSec": 1756,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Kosova shpesh del në krye të listave si një nga vendet më të varfra në Evropë – por, çfarë fshihet pas këtyre vlerësimeve? Në podkastin 5 pyetje të Radios Evropa e Lirë, Blendi Hasaj nga Instituti GAP flet për një ekonomi me paga të ulëta, varësi nga diaspora dhe pabarazi të theksuara, duke theksuar se zhvillimi nuk po përkthehet mjaftueshëm në standard më të mirë jetese."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 119
+   "fails": 120
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 60
+   "fails": 61
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 234
+   "fails": 235
   },
   {
    "id": "ubtcampus",
