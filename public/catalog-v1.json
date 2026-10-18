@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-18T11:17:53.371Z",
+ "generatedAt": "2026-10-18T15:56:21.059Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:0fa85231-f2e4-4237-bb5b-60e83467c531",
+     "title": "Turistët Vijnë, Talenti Ikën - Hapsirë publike | BPS #244",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127033473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433595372-44100-2-f40e313b868e.m4a",
+     "publishedAt": "2026-10-18T14:30:00.000Z",
+     "durationSec": 862,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 244
+    },
+    {
      "id": "1573751706:e1f56df1-1af3-405b-9c8b-7909477f9e4e",
      "title": "Tavani i Turizmit - Hapsirë publike | BPS #243",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127033195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433594960-44100-2-fea7e8f579b52.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 225
-    },
-    {
-     "id": "1573751706:eb2ed050-1489-4642-8164-5900a372eb06",
-     "title": "Për kë zhvillohen malet? - Buchi Podcast Shqip #224 | Hapsirë Publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126418728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432815657-44100-2-2bd48ea55b4f8.m4a",
-     "publishedAt": "2026-09-29T06:45:00.000Z",
-     "durationSec": 561,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 224
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 127
+   "fails": 128
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 68
+   "fails": 69
   },
   {
    "id": "capitalfm",
@@ -3338,7 +3338,7 @@
   {
    "id": "zerishtimes",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radiofontana",
@@ -3388,12 +3388,12 @@
   {
    "id": "radiostar",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radio7",
    "online": false,
-   "fails": 242
+   "fails": 243
   },
   {
    "id": "ubtcampus",
