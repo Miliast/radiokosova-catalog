@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T18:42:57.533Z",
+ "generatedAt": "2026-10-21T22:25:17.680Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26233",
+     "title": "Kur muzika sdifon pushtetin:Këngët që kanë bërë revolucion në politikë ndër vite!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26233/kur-muzika-sdifon-pushtetinkenget-qe-kane-bere-revolucion-ne-politike-nder-vite.mp3",
+     "publishedAt": "2026-10-21T19:39:56.000Z",
+     "durationSec": 335,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë ta pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26231",
      "title": "Protesta vijon paqësisht, refuzohet dialogu me Ramën…-Edicioni kryesor informativ 21/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26231/protesta-vijon-paqesisht-refuzohet-dialogu-me-ramen-edicioni-kryesor-informativ-21-10-2026.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 2068,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26194",
-     "title": "Nga aventura në Brazil te dasma e ëndrrave në Itali, Livia Brunga rrëfen gjithçka: Dua që jeta ime…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26194/nga-aventura-ne-brazil-te-dasma-e-endrrave-ne-itali-livia-brunga-rrefen-gjithcka-dua-qe-jeta-ime.mp3",
-     "publishedAt": "2026-10-19T11:57:06.000Z",
-     "durationSec": 4059,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 144
+   "fails": 145
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 85
+   "fails": 86
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 259
+   "fails": 260
   },
   {
    "id": "ubtcampus",
