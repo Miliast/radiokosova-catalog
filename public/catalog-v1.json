@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T13:53:26.976Z",
+ "generatedAt": "2026-10-21T18:42:57.533Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:e1461c66-35a8-464f-93c3-1f2f9bb387c9",
+     "title": "Turizmi që Pasuron Shqiptarët - Hapsirë Publike | BPS #247",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127722883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434502203-44100-2-e89c5cf1f7aae.m4a",
+     "publishedAt": "2026-10-21T14:28:00.000Z",
+     "durationSec": 1064,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 247
+    },
+    {
      "id": "1573751706:b31739d1-0318-4a9c-97bc-b3cd3988d30f",
      "title": "Brukseli Mbyll Kapitujt, Shqipëria Mbetet Pas - Hapsirë publike | BPS #246",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127389544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434055901-44100-2-cc82b376cecdf.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 228
-    },
-    {
-     "id": "1573751706:4fc2bc0c-d4c0-4da6-80cf-138c741d9ff7",
-     "title": "Flamingo sebepxhiu - Buchi Podcast Shqip #227 | Hapsirë Publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126560791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432996557-44100-2-a209bfadbb27c.m4a",
-     "publishedAt": "2026-10-01T15:00:00.000Z",
-     "durationSec": 978,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 227
     }
    ]
   },
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26231",
+     "title": "Protesta vijon paqësisht, refuzohet dialogu me Ramën…-Edicioni kryesor informativ 21/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26231/protesta-vijon-paqesisht-refuzohet-dialogu-me-ramen-edicioni-kryesor-informativ-21-10-2026.mp3",
+     "publishedAt": "2026-10-21T16:08:36.000Z",
+     "durationSec": 450,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 21 Tetor."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26230",
      "title": "&#8220;Marrëzi&#8221;/Rama i heq të rinjve të drejtën për të udhëtuar? Avokati: Protestat e shërojnë çdo vend!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26230/marrezi-rama-i-heq-te-rinjve-te-drejten-per-te-udhetuar-avokati-protestat-e-sherojne-cdo-vend.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 4059,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26193",
-     "title": "Apple po pushton shtëpitë, Meta sfidon ChatGPT dhe robotët nuk durojnë më ofendimet…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26193/apple-po-pushton-shtepite-meta-sfidon-chatgpt-dhe-robotet-nuk-durojne-me-ofendimet.mp3",
-     "publishedAt": "2026-10-19T11:56:16.000Z",
-     "durationSec": 494,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Mateo Kadriu sjell “Top Tech,” një emision dedikuar risive dhe trendeve më të fundit në botën e teknologjisë, që do të transmetohet ekskluzivisht në Top Albania Radio, YouTube dhe në social media. Me një qasje informuese dhe argëtuese, ky emision shërben si një dritare drejt të ardhmes dixhitale."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 143
+   "fails": 144
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 84
+   "fails": 85
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 258
+   "fails": 259
   },
   {
    "id": "ubtcampus",
