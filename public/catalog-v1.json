@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T01:39:58.753Z",
+ "generatedAt": "2026-10-21T07:45:42.395Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,16 +1766,6 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
-     "id": "1573751706:b31739d1-0318-4a9c-97bc-b3cd3988d30f",
-     "title": "Brukseli Mbyll Kapitujt, Shqipëria Mbetet Pas - Hapsirë publike | BPS #246",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127389544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434055901-44100-2-cc82b376cecdf.m4a",
-     "publishedAt": "2026-10-20T10:29:00.000Z",
-     "durationSec": 865,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 246
-    },
-    {
      "id": "1573751706:0eca7b37-4d2d-479c-9cec-ebcbc1150625",
      "title": "Balli Kombëtar vs. Partia Komuniste dhe gabimi historik i Shqipërisë - Testament | BPS #245",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127386767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434052116-44100-2-dca2f07fb40b7.m4a",
@@ -1964,6 +1954,16 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 227
+    },
+    {
+     "id": "1573751706:88d16200-737a-4974-bdfe-048f47fd992c",
+     "title": "Kundër-protesta, dëshpërim i pushtetit në rënie - Buchi Podcast Shqip #226 | Hapsirë Publike",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126420098/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2F432817398-44100-2-f0daf36a667c8.m4a",
+     "publishedAt": "2026-09-30T18:00:00.000Z",
+     "durationSec": 948,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 226
     }
    ]
   },
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26148",
+     "title": "&#8220;Vetëm alo, alo&#8221;, A do përdorje telefonin e vjetër si Tupja? Këto SMS ju vjedhin lekët nga banka!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26148/vetem-alo-alo-a-do-perdorje-telefonin-e-vjeter-si-tupja-keto-sms-ju-vjedhin-leket-nga-banka.mp3",
+     "publishedAt": "2026-10-21T07:02:46.000Z",
+     "durationSec": 1990,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26211",
      "title": "House Nation 20/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26211/house-nation-20-10-2026.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 3751,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Emisioni më i kërkuar nga të gjithë fanatikët e sportit. Glent Nallbani, Edi Manushi, Redi Jupi, Lorenc Jemini dhe Gëzim Sinemati mendojnë për të gjithë ju dashamirës të futbollit duke sjellë “Pasó”, emisionin që do t’ju ndjekë çdo të premte në frekuencën e radios tuaj të preferuar, vetëm në Top Albania Radio. Një program sportiv prej 120 minutash i rikthehet informacionit dedikuar sportit çdo javë. Konceptuar si një emision info-argëtues, informohuni mbi faktet, njihuni me protagonistët dhe që…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26176",
-     "title": "“BESA” mes më të mirëve në festivalin global të filmit/Krijuesit: Kriteri kryesor, sa emocion jep…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26176/filmat-e-rinj-qe-ia-vlen-ti-shifni-kete-fundjave.mp3",
-     "publishedAt": "2026-10-16T13:31:11.000Z",
-     "durationSec": 1146,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
     }
    ]
   },
@@ -3293,7 +3293,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 3
+   "fails": 4
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 141
+   "fails": 142
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 82
+   "fails": 83
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 256
+   "fails": 257
   },
   {
    "id": "ubtcampus",
