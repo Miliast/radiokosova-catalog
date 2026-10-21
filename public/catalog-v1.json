@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-20T22:21:48.630Z",
+ "generatedAt": "2026-10-21T01:39:58.753Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3293,7 +3293,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 140
+   "fails": 141
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 81
+   "fails": 82
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 255
+   "fails": 256
   },
   {
    "id": "ubtcampus",
