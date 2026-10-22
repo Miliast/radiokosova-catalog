@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-22T18:35:54.808Z",
+ "generatedAt": "2026-10-22T22:24:33.357Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:b35d1672-2390-4cc0-8924-cbe9451db4b8",
+     "title": "Versus #286: Champions League, dy netët e sfidave të nxehta",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/127864008/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F68c6c084-8db4-99c2-6562-ee46ad11f0fa.m4a",
+     "publishedAt": "2026-10-22T00:05:52.000Z",
+     "durationSec": 9543,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Pas pushimit 1-javor në respekt të protestës studentore në Shqipëri, rikthehemi live në Versus për ndeshjet e Champions League. Komentojmë ndeshjet e së martës dhe së mërkurës, për të vijuar me parashikimet tona për fundjavën. 0:00 Champions League 2:29:26 Parashikimet",
+     "episodeNumber": 286,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:ce347e8c-e4bb-4e88-a928-13d71f8e6482",
      "title": "Versus #285: Skuqet Vinicius, Barça vijon perfeksionin! Ç'pati Bayern?",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/127312856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F7a265cab-cb6e-afba-2fb4-0fbcf0d44e69.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Episodi veror i radhës në Versus: Arsenal - City, lajmet e fundit nga merkatoja dhe rrugëtimi i ekipeve shqiptare në Europë. I ftuar, miku ynë Ditmar Bicaj. 0:00 Arsenal-City 33:27 La Liga 1:00:38 Interi per Champions? 1:22:26 Bayern 1:41:26 Merkato 1:57:24 Shqiptaret ne Europe",
      "episodeNumber": 267,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:07b09d71-009b-4aba-84f5-24c908e80243",
-     "title": "Versus #266: Xavi merr timonin e Holandës, Interi godet në Premier League",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124195510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-13%2F6420d009-2c5c-c521-f2fa-bab8d2cc8a2a.mp3",
-     "publishedAt": "2026-08-13T22:56:37.000Z",
-     "durationSec": 10159,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "PSG bëhet superkampione absolute e Europës pas finales me Aston Villa-n. Interi përgatit dy goditje nga Premier League, kurse Barcelona pret Rodrin. Befasi në Holandë, timonin e kombëtares e merr Xavi Hernandez. Në mbrëmje, ekipet shqiptare në betejat për kupat europiane. Këto dhe tema të tjera trajtojmë sot në Versus. 0:00 Dhuratat 16:38 Superkupa 42:55 Arsenal-City 57:06 Kthehet Xavi 1:10:51 Merkato 2:16:52 Mourinho 2:21:36 Europa",
-     "episodeNumber": 266,
      "seasonNumber": 4
     }
    ]
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:ce62e33e-e715-47c8-aa4b-5687e2ec4ec6",
+     "title": "Kur i Nënshtruari Mbron Zinxhirët - Hapsirë publike | BPS #248",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127723293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434502757-44100-2-04a620d409661.m4a",
+     "publishedAt": "2026-10-22T14:36:00.000Z",
+     "durationSec": 864,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 248
+    },
+    {
      "id": "1573751706:e1461c66-35a8-464f-93c3-1f2f9bb387c9",
      "title": "Turizmi që Pasuron Shqiptarët - Hapsirë Publike | BPS #247",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127722883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434502203-44100-2-e89c5cf1f7aae.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 229
-    },
-    {
-     "id": "1573751706:cbdb6e3a-d7d4-4a84-991d-62e04216ce6f",
-     "title": "Pjesmarrje, JO Përvetësim - Buchi Podcast Shqip #228 | Hapsirë publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126561553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F432997620-44100-2-874ca05668c6e.m4a",
-     "publishedAt": "2026-10-02T14:16:00.000Z",
-     "durationSec": 1018,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 228
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 149
+   "fails": 150
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 90
+   "fails": 91
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 264
+   "fails": 265
   },
   {
    "id": "ubtcampus",
