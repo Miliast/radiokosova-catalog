@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-23T07:38:35.795Z",
+ "generatedAt": "2026-10-23T13:32:16.070Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3313,17 +3313,17 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 152
+   "fails": 153
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 93
+   "fails": 94
   },
   {
    "id": "capitalfm",
@@ -3348,7 +3348,7 @@
   {
    "id": "clubfm",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radioilirida",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 267
+   "fails": 268
   },
   {
    "id": "ubtcampus",
@@ -3423,7 +3423,7 @@
   {
    "id": "shqippopullore",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "urbanfm",
