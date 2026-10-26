@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-25T22:37:14.014Z",
+ "generatedAt": "2026-10-26T01:16:23.564Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:655c1742-233c-4c4d-b41a-fbb0ab4000b6",
+     "title": "Versus #287: Barcelona - Real Madrid, komentet pas ndeshjes",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128077035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Ffc056f82-0241-23bf-dba1-c8c44f3a658e.m4a",
+     "publishedAt": "2026-10-26T00:47:29.000Z",
+     "durationSec": 9559,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Përmbledhja e fundjavës, në episodin e së dielës. Komentojmë ndeshjen më spektakolare të vitit, El Clasico, për të vijuar edhe me sfidat kryesore nga ligat europiane. \"Topi i Artë\", japim votat tona. 0:00 El Classico 1:02:41 Serie A 1:47:05 Premier League 2:23:32 Top i Arte",
+     "episodeNumber": 287,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:b35d1672-2390-4cc0-8924-cbe9451db4b8",
      "title": "Versus #286: Champions League, dy netët e sfidave të nxehta",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/127864008/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F68c6c084-8db4-99c2-6562-ee46ad11f0fa.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Kryefjala e këtij episodi janë skuadrat shqiptare në Europë. Komentojmë së bashku ecurinë e Egnatias, Dinamos dhe Dritës në rrugëtimin e tyre emocionues të aventurave europiane. I ftuar, eksperti Redi Jupi. 0:00 Dinamo, Egnatia dhe Drita 1:27:50 Çështja Musiala 1:38:29 Nisja e ligave 1:53:59 Merkato 2:56:09 Parashikime",
      "episodeNumber": 268,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:db4a18cb-eba8-4fc0-9f15-edeb069c4567",
-     "title": "Versus #267: Flasim futboll me Ditmar Bicajn: Arsenal - City & merkato",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124310666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2Fb621e75f-4d2e-8f3a-be28-c933c5c8459a.mp3",
-     "publishedAt": "2026-08-16T22:41:30.000Z",
-     "durationSec": 8261,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Episodi veror i radhës në Versus: Arsenal - City, lajmet e fundit nga merkatoja dhe rrugëtimi i ekipeve shqiptare në Europë. I ftuar, miku ynë Ditmar Bicaj. 0:00 Arsenal-City 33:27 La Liga 1:00:38 Interi per Champions? 1:22:26 Bayern 1:41:26 Merkato 1:57:24 Shqiptaret ne Europe",
-     "episodeNumber": 267,
      "seasonNumber": 4
     }
    ]
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 167
+   "fails": 168
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 108
+   "fails": 109
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 282
+   "fails": 283
   },
   {
    "id": "ubtcampus",
