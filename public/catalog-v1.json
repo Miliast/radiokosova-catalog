@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-26T20:34:09.348Z",
+ "generatedAt": "2026-10-27T00:32:00.573Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:0bf6819f-6067-4881-9c2a-9a55213d1c6a",
+     "title": "Versus #288: \"Topi i Artë\", reagimet live nga ADN",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128143088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fe2dca589-a3d3-7af0-d693-dc71a6263e9e.m4a",
+     "publishedAt": "2026-10-26T23:11:20.000Z",
+     "durationSec": 7372,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komentojmë live ceremoninë e \"Topit të Artë\". Batuta, statistika dhe gjithçka që ndodh në Londër, aty ku do të kurorëzohet më i miri i vitit.",
+     "episodeNumber": 288,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:655c1742-233c-4c4d-b41a-fbb0ab4000b6",
      "title": "Versus #287: Barcelona - Real Madrid, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128077035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Ffc056f82-0241-23bf-dba1-c8c44f3a658e.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Real Madrid e nis sezonin me një fitore me vuajtje. Bayern, superkampion i Gjermanisë! Komentojmë sfidat e së dielës, kur në fushë zbresin Juventusi, Milani dhe Barcelona. 0:00 Serie A 1:09:24 La Liga 2:07:55 Premier League 2:49:51 Superkupa e Gjermanisë 3:03:53 FPL",
      "episodeNumber": 269,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:c847e42c-d688-494e-8282-d3a957418f74",
-     "title": "Versus #268: Tri ekipe, një ëndërr! Shqiptarët tentojnë Europën",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124510711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F3bdab094-c2e0-5a94-eb10-05246f99227d.mp3",
-     "publishedAt": "2026-08-20T23:38:52.000Z",
-     "durationSec": 10842,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Kryefjala e këtij episodi janë skuadrat shqiptare në Europë. Komentojmë së bashku ecurinë e Egnatias, Dinamos dhe Dritës në rrugëtimin e tyre emocionues të aventurave europiane. I ftuar, eksperti Redi Jupi. 0:00 Dinamo, Egnatia dhe Drita 1:27:50 Çështja Musiala 1:38:29 Nisja e ligave 1:53:59 Merkato 2:56:09 Parashikime",
-     "episodeNumber": 268,
      "seasonNumber": 4
     }
    ]
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 171
+   "fails": 172
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 112
+   "fails": 113
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 286
+   "fails": 287
   },
   {
    "id": "ubtcampus",
