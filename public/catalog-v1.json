@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-27T13:18:55.783Z",
+ "generatedAt": "2026-10-27T19:27:44.021Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:0bf6819f-6067-4881-9c2a-9a55213d1c6a",
+     "title": "Versus #288: \"Topi i Artë\", reagimet live nga ADN",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128143088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fe2dca589-a3d3-7af0-d693-dc71a6263e9e.m4a",
+     "publishedAt": "2026-10-26T23:11:20.000Z",
+     "durationSec": 7372,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komentojmë live ceremoninë e \"Topit të Artë\". Batuta, statistika dhe gjithçka që ndodh në Londër, aty ku do të kurorëzohet më i miri i vitit.",
+     "episodeNumber": 288,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:655c1742-233c-4c4d-b41a-fbb0ab4000b6",
      "title": "Versus #287: Barcelona - Real Madrid, komentet pas ndeshjes",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128077035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Ffc056f82-0241-23bf-dba1-c8c44f3a658e.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Real Madrid e nis sezonin me një fitore me vuajtje. Bayern, superkampion i Gjermanisë! Komentojmë sfidat e së dielës, kur në fushë zbresin Juventusi, Milani dhe Barcelona. 0:00 Serie A 1:09:24 La Liga 2:07:55 Premier League 2:49:51 Superkupa e Gjermanisë 3:03:53 FPL",
      "episodeNumber": 269,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:c847e42c-d688-494e-8282-d3a957418f74",
-     "title": "Versus #268: Tri ekipe, një ëndërr! Shqiptarët tentojnë Europën",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124510711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-20%2F3bdab094-c2e0-5a94-eb10-05246f99227d.mp3",
-     "publishedAt": "2026-08-20T23:38:52.000Z",
-     "durationSec": 10842,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Kryefjala e këtij episodi janë skuadrat shqiptare në Europë. Komentojmë së bashku ecurinë e Egnatias, Dinamos dhe Dritës në rrugëtimin e tyre emocionues të aventurave europiane. I ftuar, eksperti Redi Jupi. 0:00 Dinamo, Egnatia dhe Drita 1:27:50 Çështja Musiala 1:38:29 Nisja e ligave 1:53:59 Merkato 2:56:09 Parashikime",
-     "episodeNumber": 268,
      "seasonNumber": 4
     }
    ]
@@ -1766,6 +1766,36 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:23b5d0e2-b5ec-42fa-8dd1-3d0fad06a9d7",
+     "title": "Shteti që Fryhet: Kush do ta Paguajë Faturën e Klientelizmit? - Hapsirë publike | BPS #256",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127887744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434730653-44100-2-3f8a1a910a4cf.m4a",
+     "publishedAt": "2026-10-27T18:26:00.000Z",
+     "durationSec": 985,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 256
+    },
+    {
+     "id": "1573751706:523b567c-ee4a-4725-8f78-183380258e87",
+     "title": "Res Privata: Kur Milioneri Merr Privilegjin dhe Qytetari Paguan Faturën - Hapsirë publike | BPS #255",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127887493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434730320-44100-2-0581edffbd5f2.m4a",
+     "publishedAt": "2026-10-27T06:20:00.000Z",
+     "durationSec": 1145,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 255
+    },
+    {
+     "id": "1573751706:d0e283e1-b588-459c-9844-bd5919422c6b",
+     "title": "Pse Nuk Mjafton të Dukemi Europianë për t'u Bërë Europianë - Hapsirë publike | BPS #254",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127887233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434729894-44100-2-a3ebfc3109a8b.m4a",
+     "publishedAt": "2026-10-26T18:13:00.000Z",
+     "durationSec": 980,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 254
+    },
+    {
      "id": "1573751706:e88a6999-948d-4de6-b1b6-2983a66c3f6a",
      "title": "Pse Shqipëria Mund të Jetë Duke Ndryshuar Pa e Kuptuar Ende - Hapsirë publike | BPS #253",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127887010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434729629-44100-2-ad73c12bade41.m4a",
@@ -1934,36 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 237
-    },
-    {
-     "id": "1573751706:06102ca2-5cf4-4058-8115-e1bb1d541bde",
-     "title": "Kur Protesta Ndryshon Qytetarin Para se të Ndryshojë Pushtetin - Hapsirë publike | BPS #236",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126942004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433484170-44100-2-bf7a940cfe1ab.m4a",
-     "publishedAt": "2026-10-10T15:16:00.000Z",
-     "durationSec": 853,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 236
-    },
-    {
-     "id": "1573751706:5b59a85d-f31c-437c-a8d2-abf4a73d0c9a",
-     "title": "Jo Klientë të Rinj, por Fundi i Sistemit të Privilegjeve - Hapsirë publike | BPS #235",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126941809/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433483932-44100-2-938e9bd8536b2.m4a",
-     "publishedAt": "2026-10-09T15:14:00.000Z",
-     "durationSec": 1064,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 235
-    },
-    {
-     "id": "1573751706:ee8eeb78-aaef-48a9-9ba9-2b3157704954",
-     "title": "Zhvillimi Nuk Ka të Njëjtën Kosto Kudo - Hapsirë publike | BPS #234",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126941456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433483498-44100-2-90f70dbc4bb2e.m4a",
-     "publishedAt": "2026-10-08T15:09:00.000Z",
-     "durationSec": 794,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 234
     }
    ]
   },
@@ -2311,6 +2311,33 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26241",
+     "title": "Ulet TVSH në 6% për ushqimet bazë &#8211; Edicioni kryesor informativ 27/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26241/ulet-tvsh-ne-6-per-ushqimet-baze-edicioni-kryesor-informativ-27-10-2026.mp3",
+     "publishedAt": "2026-10-27T17:08:09.000Z",
+     "durationSec": 424,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26239",
+     "title": "&#8220;Studentët janë shumë të rrezikshëm&#8221;, avokat Ngjela komenton situatën politike në vend",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26239/studentet-jane-shume-te-rrezikshem-avokat-ngjela-komenton-situaten-politike-ne-vend.mp3",
+     "publishedAt": "2026-10-27T13:49:07.000Z",
+     "durationSec": 787,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale. #lft është shoqëruesi ideal kur jeni në lëvizje, për të dëgjuar muzikë të mirë si edhe për të dëgjuar intervistat me protagonistët e ditës si dhe temat që zgjojnë debat."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26237",
+     "title": "Gazetari Klevin Muka rrëfen gjithçka rreth lëndimit gjatë raportimit live të protestave studentore",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26237/gazetari-klevin-muka-rrefen-gjithcka-rreth-lendimit-gjate-raportimit-live-te-protestave-studentore.mp3",
+     "publishedAt": "2026-10-27T13:47:15.000Z",
+     "durationSec": 1689,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale. #lft është shoqëruesi ideal kur jeni në lëvizje, për të dëgjuar muzikë të mirë si edhe për të dëgjuar intervistat me protagonistët e ditës si dhe temat që zgjojnë debat."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26235",
      "title": "Boshatisen marketet në Itali, avokatja; Përsëritet historia e pandemisë/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26235/boshatisen-marketet-ne-itali-avokatja-perseritet-historia-e-pandemise-wake-up.mp3",
@@ -2462,33 +2489,6 @@
      "durationSec": 1601,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26198",
-     "title": "Shkencëtarja shqiptare në frontin e parë të luftës kundër kancerit të gjirit!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26198/shkencetarja-shqiptare-ne-frontin-e-pare-te-luftes-kunder-kancerit-te-gjirit-wake-up.mp3",
-     "publishedAt": "2026-10-19T12:21:28.000Z",
-     "durationSec": 1143,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26196",
-     "title": "Përballja me Selin në Top Channel, Miri i bën rreng Monika Kryemadhit: Ne të dy opinionistë në BBV…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26196/perballja-me-selin-ne-top-channel-miri-i-ben-rreng-monika-kryemadhit-ne-te-dy-opinioniste-ne-bbv.mp3",
-     "publishedAt": "2026-10-19T12:00:21.000Z",
-     "durationSec": 2926,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Përtej Topit” me Françeska Rustem është një podkast që shkon përtej asaj që shohim nga një personalitet në ekran. Përmes bisedave “pa doreza” me personazhe nga sporti, arti, media dhe biznesi, do të zbulojmë çfarë fshihet pas suksesit, famës dhe imazhit të tyre publik."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26182",
-     "title": "House Nation 19/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26182/house-nation-19-10-2026.mp3",
-     "publishedAt": "2026-10-19T12:00:00.000Z",
-     "durationSec": 2894,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 174
+   "fails": 175
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 115
+   "fails": 116
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 289
+   "fails": 290
   },
   {
    "id": "ubtcampus",
