@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-28T13:07:04.618Z",
+ "generatedAt": "2026-10-28T18:54:11.518Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -681,6 +681,15 @@
    "description": "Një podcast autentik nga Telegrafi, ku çdo episod sjell në qendër të vëmendjes historitë, sfidat dhe sukseset e figurave më të ndritura nga bota e sportit. Me një atmosferë të ngrohtë dhe biseda të thella, Lavdimi, Romaku dhe Shkumbini i ftojnë mysafirët të ndajnë përvojat e tyre, historitë e rrëfimet interesante, të zbulojnë anën e panjohur të famës dhe të inspirojnë dëgjuesit me rrëfime autentike dhe emocionale. 🎧 Çdo javë – një histori e re, një yll i ri në arenë",
    "episodes": [
     {
+     "id": "1812021835:4440b1ad-0eb6-47cf-ab97-0678ec3182fe",
+     "title": "#101 – Arena e Yjeve – Shaban Baholli – Mbi pesë dekada me 2 Korrikun, nga futbollist te drejtues i klubit",
+     "audioUrl": "https://media.transistor.fm/08e3e4a3/e5e81bac.mp3",
+     "publishedAt": "2026-10-10T17:00:00.000Z",
+     "durationSec": 3083,
+     "imageUrl": "https://img.transistorcdn.com/hfQOoKy7bF5EC6dD0iH2BTjrjhHQnRPtwuWqkil8s8U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zOWNk/MjM3NWExNzFiNzYy/ODVjZjA5NzU5NDZj/M2IzNC5qcGc.jpg",
+     "description": "Në episodin e 101-të të podcastit “Arena e Yjeve”, mysafir ishte Shaban Baholli, drejtor i përgjithshëm i 2 Korrikut, i cili rrëfeu për rrugëtimin e tij mbi pesëdekadësh me klubin, nga fillimet si futbollist në vitin 1971 deri te përgjegjësitë drejtuese që mban sot. Biseda nisi me kujtimet nga koha kur klubi njihej si Proleteri dhe vazhdoi me ndryshimin e emrit në 2 Korriku në vitin 1990, si dhe sfidat e futbollit kosovar gjatë viteve të vështira të asaj periudhe. Baholli rikujtoi disa nga mome…"
+    },
+    {
      "id": "1812021835:8a103a9d-b8a7-4795-a237-dea9ef73d83f",
      "title": "#100- Arena e Yjeve - Flamur Neziri - Nga karriera me trofe si portier te puna me gjeneratat e reja",
      "audioUrl": "https://media.transistor.fm/d88641f4/78150444.mp3",
@@ -850,15 +859,6 @@
      "durationSec": 3644,
      "imageUrl": "https://img.transistorcdn.com/lQy_rET__qkx_DoaXz2n8QN_RBWaLJ_rmUBImYRDUZM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZTA3/OGQ1NGJkZTRmMDRk/NzcxNTk2OGMyNzFj/NDY4Ny5qcGc.jpg",
      "description": "Në episodin e 82-të të podcastit “Arena e Yjeve”, mysafir ishte ish-futbollisti i njohur kosovar, tani trajneri Suad Keqi. Gjatë bisedës, Keqi ndau disa nga momentet më të rëndësishme të jetës dhe karrierës së tij, duke zbuluar një fillim të pazakontë në sport, pasi fillimisht ishte marrë me pingpong, përpara se tradita familjare ta orientonte drejt futbollit. Ish-mesfushori u ndal te periudha e tij te Prishtina, ku kujtoi trofetë dhe një gjeneratë që, sipas tij, u ndërtua mbi sakrificë, disipl…"
-    },
-    {
-     "id": "1812021835:6bc74b4b-c9da-4ccf-b6f0-357a01fd96a4",
-     "title": "#81 – Arena e Yjeve - Leart Emini, debutimi i hershëm, besimi i trajnerëve dhe ëndrra e realizuar me Kosovën",
-     "audioUrl": "https://media.transistor.fm/df265447/35d36e02.mp3",
-     "publishedAt": "2026-03-24T19:05:16.000Z",
-     "durationSec": 4573,
-     "imageUrl": "https://img.transistorcdn.com/UiHtRJpHiuTa0FMp_6HRJaF5Ynz-ppWy6D9xEWU_ByM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Mzdh/NTc5NGJjYTFjNDRk/NTI4YTgxZTA4Yzkw/NTY4ZC5qcGc.jpg",
-     "description": "Në episodin e 82-të të podcastit “Arena e Yjeve”, mysafir ishte futbollisti i njohur kosovar Leart Emini. Gjatë bisedës, Emini ndau momentet më të rëndësishme të karrierës së tij, duke filluar nga hapat e parë në futboll dhe rruga drejt afirmimit në skenën vendore. Ai u ndal te fillimet e tij te Trepça, ku tregoi për trajnerin që i dha mundësinë e madhe duke e promovuar në ekipin e parë në një moshë shumë të re. Sipas tij, ky ishte momenti që ndryshoi gjithçka, duke i dhënë besim dhe motivim pë…"
     }
    ]
   },
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:b9b274f5-fde9-40e1-bb22-849d3755d119",
+     "title": "Fundi i Mitit të Pathyeshmërisë: Si Mund të Rrëzohet një Sistem me Votë - Hapsirë publike | BPS #258",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127888316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434731442-44100-2-8f537daaaa724.m4a",
+     "publishedAt": "2026-10-28T18:10:49.000Z",
+     "durationSec": 1082,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 258
+    },
+    {
      "id": "1573751706:972137b2-bcbd-4703-9a3f-2fe1e659375b",
      "title": "Skandalokracia - Hapsirë publike | BPS #257",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127887984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434730997-44100-2-9c3cbc0f80ca2.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 239
-    },
-    {
-     "id": "1573751706:7105b748-c524-4cab-b819-33634666e32e",
-     "title": "Shqipëria e Re Fillon me Qytetarin, Jo me Liderin - Hapsirë publike | BPS #238",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/126942217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433484402-44100-2-8537be1fa1b0d.m4a",
-     "publishedAt": "2026-10-12T15:19:00.000Z",
-     "durationSec": 885,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 238
     }
    ]
   },
@@ -2311,6 +2311,33 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26259",
+     "title": "Edicioni kryesor informativ 28/10/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26259/edicioni-kryesor-informativ-28-10-2026.mp3",
+     "publishedAt": "2026-10-28T15:52:02.000Z",
+     "durationSec": 380,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 28 Tetor."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26254",
+     "title": "“Shqiptari që sulmon muzeun e vet…”/Elenita Roshi: Moment i bukur për këdo që nuk na do…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26254/shqiptari-qe-sulmon-muzeun-e-vet-elenita-roshi-moment-i-bukur-per-kedo-qe-nuk-na-do.mp3",
+     "publishedAt": "2026-10-28T15:49:02.000Z",
+     "durationSec": 832,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26253",
+     "title": "“Lufta kundër sistemit, si Davidi me Goliath”/Edlira Çepani: Nuk i kemi marrë seriozisht të rinjtë…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26253/lufta-kunder-sistemit-si-davidi-me-goliath-edlira-cepani-nuk-i-kemi-marre-seriozisht-te-rinjte.mp3",
+     "publishedAt": "2026-10-28T15:44:37.000Z",
+     "durationSec": 1290,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26247",
      "title": "House Nation 28/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26247/house-nation-28-10-2026.mp3",
@@ -2462,33 +2489,6 @@
      "durationSec": 4711,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Politika dhe aktualiteti, të para ndryshe. Shkundja sarkastike e realitetit politik dhe social që jetojmë me një prej figurave më të pëlqyera të humorit shqiptar si edhe një prej personazheve më të dashura të televizionit. Pse Shqipëria është kjo që është, pse shqiptarët janë siç janë, një vështrim plot humor mbi jetën që bëjmë që do t’ju sjellë gjendje të mirë shpirtërore përpara se të mbyllni ditën tuaj."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26148",
-     "title": "&#8220;Vetëm alo, alo&#8221;, A do përdorje telefonin e vjetër si Tupja? Këto SMS ju vjedhin lekët nga banka!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26148/vetem-alo-alo-a-do-perdorje-telefonin-e-vjeter-si-tupja-keto-sms-ju-vjedhin-leket-nga-banka.mp3",
-     "publishedAt": "2026-10-21T07:02:46.000Z",
-     "durationSec": 1990,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26211",
-     "title": "House Nation 20/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26211/house-nation-20-10-2026.mp3",
-     "publishedAt": "2026-10-20T12:00:00.000Z",
-     "durationSec": 2930,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26214",
-     "title": "&#8220;Rama shpërblim policëve për të rrahur qytetarët&#8221;/Mentor Kikia: Mësuesi është i pari, burgu i fundit",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26214/rama-shperblim-policeve-per-te-rrahur-qytetaret-mentor-kikia-mesuesi-eshte-i-pari-burgu-i-fundit.mp3",
-     "publishedAt": "2026-10-20T11:52:56.000Z",
-     "durationSec": 841,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 178
+   "fails": 179
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 119
+   "fails": 120
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 293
+   "fails": 294
   },
   {
    "id": "ubtcampus",
@@ -3463,17 +3463,17 @@
   {
    "id": "awgjilan",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "albradio",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 0
+   "fails": 1
   }
  ]
 }
