@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-29T02:32:16.829Z",
+ "generatedAt": "2026-10-29T10:07:58.537Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,6 +1766,16 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
+     "id": "1573751706:2fd46ffd-8635-4f7b-a72d-7136754fa691",
+     "title": "Armiqtë e shumtë të Ramës - Hapsirë publike | BPS #259",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127888595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434731830-44100-2-9074deac5f88.m4a",
+     "publishedAt": "2026-10-29T06:48:00.000Z",
+     "durationSec": 1171,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 259
+    },
+    {
      "id": "1573751706:b9b274f5-fde9-40e1-bb22-849d3755d119",
      "title": "Fundi i Mitit të Pathyeshmërisë: Si Mund të Rrëzohet një Sistem me Votë - Hapsirë publike | BPS #258",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127888316/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434731442-44100-2-8f537daaaa724.m4a",
@@ -1954,16 +1964,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 240
-    },
-    {
-     "id": "1573751706:269d4849-e60b-41d5-8079-081bde14b983",
-     "title": "Kauza Është më e Madhe se Partia - Hapsirë publike | BPS #239",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127030832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433591903-44100-2-82c7a8b15fb34.m4a",
-     "publishedAt": "2026-10-13T13:41:00.000Z",
-     "durationSec": 935,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 239
     }
    ]
   },
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26261",
+     "title": "Enkel Demi: “Unë kam qenë në protestë përpara disa viteve dhe shumë nga këta sot…”",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26261/enkel-demi-une-kam-qene-ne-proteste-perpara-disa-viteve-dhe-shume-nga-keta-sot.mp3",
+     "publishedAt": "2026-10-29T08:36:23.000Z",
+     "durationSec": 2405,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Kozeta Kurti, një nga “pioneret” e para të radiove private në Shqipëri, që në fund të viteve ‘90-të, kthehet në Top Albania Radio pas 17 vjetësh me “Back to the Beginning”. Ky format e nisi rrugëtimin edhe në 2020-ën, fiks në të njëjtën periudhë me pandeminë globale “Covid 19”-të, por me sa duket kjo është koha e duhur."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26259",
      "title": "Edicioni kryesor informativ 28/10/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26259/edicioni-kryesor-informativ-28-10-2026.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 1614,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26217",
-     "title": "Nga zhvillimet e protestës te maratona e “Shqipëria Live” me Sidorela Gjonin &#8211; Ndryshe 20/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26217/nga-zhvillimet-e-protestes-te-maratona-e-shqiperia-live-me-sidorela-gjonin-ndryshe-20-10-2026.mp3",
-     "publishedAt": "2026-10-21T09:57:00.000Z",
-     "durationSec": 4711,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Politika dhe aktualiteti, të para ndryshe. Shkundja sarkastike e realitetit politik dhe social që jetojmë me një prej figurave më të pëlqyera të humorit shqiptar si edhe një prej personazheve më të dashura të televizionit. Pse Shqipëria është kjo që është, pse shqiptarët janë siç janë, një vështrim plot humor mbi jetën që bëjmë që do t’ju sjellë gjendje të mirë shpirtërore përpara se të mbyllni ditën tuaj."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 181
+   "fails": 182
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 122
+   "fails": 123
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 296
+   "fails": 297
   },
   {
    "id": "ubtcampus",
@@ -3473,7 +3473,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 1
+   "fails": 0
   }
  ]
 }
