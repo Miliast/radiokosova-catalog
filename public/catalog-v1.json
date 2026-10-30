@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T15:59:27.468Z",
+ "generatedAt": "2026-10-30T20:51:49.430Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1766,16 +1766,6 @@
    "description": "\"A podcast in Albanian for Albanians worldwide, focused on addressing the negative habits within Albanian culture. We discuss current events in politics, society, and finance with the aim of driving change. Through engaging and thought-provoking content, we challenge mindsets while entertaining our listeners.\" - Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE - Donacione në BuyMeaCoffee: https://www.buymeacoffee.com/buchipodcast",
    "episodes": [
     {
-     "id": "1573751706:eeaee616-442a-4d1c-b91f-78f424db736b",
-     "title": "BPS #261 -Shqipëria si ideal dhe si përgjegjësi - Hapsirë publike",
-     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/128188250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435124008-44100-2-b958c0d6671b1.m4a",
-     "publishedAt": "2026-10-30T14:32:00.000Z",
-     "durationSec": 1188,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
-     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
-     "episodeNumber": 261
-    },
-    {
      "id": "1573751706:e6fc3b56-3f5c-4ada-9bb3-a5a0fef692cf",
      "title": "Treni imagjinar - Hapsirë publike | BPS #260",
      "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127888711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434731970-44100-2-367cc01746888.m4a",
@@ -1964,6 +1954,16 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
      "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
      "episodeNumber": 242
+    },
+    {
+     "id": "1573751706:4f4d0599-b954-44dc-a580-d3dcc38b02ad",
+     "title": "Dorëheqja Nuk Është Fundi i Demokracisë - Hapsirë publike | BPS #241",
+     "audioUrl": "https://anchor.fm/s/5fe49454/podcast/play/127032490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433594081-44100-2-39cb9c11b368f.m4a",
+     "publishedAt": "2026-10-15T14:13:00.000Z",
+     "durationSec": 828,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/15988157/15988157-1790603065336-2a1913afc1168.jpg",
+     "description": "Mbështesni podkastin:- Donacione në PayPal: https://paypal.me/BHasani13?country.x=DE&locale.x=de_DE- Donacione në BuyMeaCoffee: https://buymeacoffee.com/buchipodcast- Abonime Spotify: https://creators.spotify.com/pod/profile/buchipodcast/subscribe Disclaimer / Deklarim i të Drejtave të Autorit:Të gjitha materialet e përdorura në këtë episod janë për qëllime argëtuese dhe diskutimi kritik, duke u mbështetur në përdorimin e drejtë (fair use). Nuk synohet shkelje e të drejtave të autorit.Nëse jeni…",
+     "episodeNumber": 241
     }
    ]
   },
@@ -3288,7 +3288,7 @@
   {
    "id": "radioplus",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "valarinore",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 187
+   "fails": 188
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 128
+   "fails": 129
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 302
+   "fails": 303
   },
   {
    "id": "ubtcampus",
