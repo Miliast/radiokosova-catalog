@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-31T07:03:24.259Z",
+ "generatedAt": "2026-10-31T13:42:22.583Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/mangesi-rreziku-mbrojtja-grave-dhuna/33887445.html",
+     "title": "Mangësitë që rrezikojnë mbrojtjen e grave që janë viktima të dhunës",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/30/1ca3160a-59cb-4eee-6bce-08df13a87200_hq.mp3",
+     "publishedAt": "2026-10-31T11:11:48.000Z",
+     "durationSec": 1649,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Rasti i Arlinda Zekajt, e cila u vra më 25 tetor në Vitomiricë të Pejës, pak minuta pasi policia e shoqëroi deri në shtëpi pas raportimit të dhunës në familje, ka rikthyer në vëmendje përgjegjësinë e institucioneve për mbrojtjen e viktimave të dhunës në familje."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/pakenaqesite-protesta-dhune/33883086.html",
      "title": "Kur kthehen pakënaqësitë në një protestë të dhunshme?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/23/a5738e4b-99a3-41a3-69f3-08df13a87200_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1385,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Dekodimi i disa mesazheve në aplikacionin Sky ECC shërbeu si pikënisje për një hetim të autoriteteve të Kosovës dhe të Europolit, që rezultoi me arrestimin e pesë personave më 9 qershor në Kosovë, si të dyshuar për pjesëmarrje në një rrjet të trafikimit të drogës."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/pergatitja-sulmet-kibernetike-kosova/33773986.html",
-     "title": "Sa e përgatitur është Kosova përballë sulmeve kibernetike?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/06/06/51758c0d-be5d-4dd4-160e-08debadc4af7_hq.mp3",
-     "publishedAt": "2026-06-06T09:59:20.000Z",
-     "durationSec": 1538,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Në një kohë kur gjithnjë e më shumë shërbime, të dhëna personale dhe transaksione financiare kalojnë nëpër hapësirën digjitale, siguria kibernetike po bëhet një prej çështjeve më të rëndësishme për shtetet moderne."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 190
+   "fails": 191
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 131
+   "fails": 132
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 305
+   "fails": 306
   },
   {
    "id": "ubtcampus",
