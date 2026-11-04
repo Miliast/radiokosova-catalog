@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-04T15:30:13.059Z",
+ "generatedAt": "2026-11-04T21:56:39.628Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:a0001ca4-0a80-4312-bbfb-ecc63a1ac3a4",
+     "title": "Versus #291: Bayern, Barcelona & Inter, e marta e yjeve në Champions",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128724940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F6c9dff3b-06b2-923b-878c-104e5f8b2afd.m4a",
+     "publishedAt": "2026-11-03T23:34:02.000Z",
+     "durationSec": 4490,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komente dhe analiza për ndeshjet e së martës në Champions League, veçanërisht Atletico Madrid - Bayern, Barcelona - Aston Villa dhe Feyenoord - Inter. 0:00 Atletico - Bayern 27:47 Man Utd - Roma 41:07 Të tjerat 1:11:57 Parashikime",
+     "episodeNumber": 291,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:851d826e-a262-4367-b5af-f47b2b14f662",
      "title": "Versus #290: Milan - Inter, Yamal & Mbappe, fundjava në lupën ADN",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128588012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F3d224868-c920-8b87-e9d9-3c01f1c18319.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Sezoni ka nisur, ndërsa merkatoja u mbyll në shumicën e ligave europiane. Treshja ADN jep parashikimet për fituesit dhe humbësit e sezonit të ri. Kush do të shkëlqejë? Kush do të zhgënjejë? Kush do të shpallet golashënuesi i vitit? Champions League, favoritët dhe surprizat sipas nesh. 0:00 Serie A 32:55 La Liga 51:17 Premier League 1:04:07 Bundesliga 1:20:16 UCL 1:42:34 Parashiket",
      "episodeNumber": 272,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:5cc54c37-3574-4a7e-85db-cf7d51d51faa",
-     "title": "Versus #271: Fundjava europiane & Merkatoja në orët e fundit",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124957280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F5166d3d3-78de-2229-3a93-05d6b74ed391.mp3",
-     "publishedAt": "2026-08-31T00:36:24.000Z",
-     "durationSec": 11291,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Rikthehemi live në Versus për të komentuar ndeshjet e fundjavës në ligat kryesore të kontinentit. Merkatoja është në orët e fundit. Diskutojmë dhe vlerësojmë emrat më të fundit në sitën e klubeve të mëdha. 0:00 Premier League 1:12:16 La Liga 1:49:24 Serie A 2:35:20 Bundesliga 2:48:55 Ligue 1 2:53:30 FPL",
-     "episodeNumber": 271,
      "seasonNumber": 4
     }
    ]
@@ -2310,6 +2310,33 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26316",
+     "title": "Nga festivalet te “Na ishte njëherë”, Elsa Lila në një intervistë ekskluzive &#8211; Ndryshe 03/11/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26316/nga-festivalet-te-na-ishte-njehere-elsa-lila-ne-nje-interviste-ekskluzive-ndryshe-03-11-2026.mp3",
+     "publishedAt": "2026-11-04T15:37:46.000Z",
+     "durationSec": 3119,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Politika dhe aktualiteti, të para ndryshe. Shkundja sarkastike e realitetit politik dhe social që jetojmë me një prej figurave më të pëlqyera të humorit shqiptar si edhe një prej personazheve më të dashura të televizionit. Pse Shqipëria është kjo që është, pse shqiptarët janë siç janë, një vështrim plot humor mbi jetën që bëjmë që do t’ju sjellë gjendje të mirë shpirtërore përpara se të mbyllni ditën tuaj."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26317",
+     "title": "House Nation 04/11/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26317/house-nation-04-11-2026.mp3",
+     "publishedAt": "2026-11-04T15:37:15.000Z",
+     "durationSec": 2918,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26318",
+     "title": "Havari rrëfen arrestimin në protestë: Ku gaboi policia sot?/ Ja ç’kërkohet për Ramën në Google!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26318/havari-rrefen-arrestimin-ne-proteste-ku-gaboi-policia-sot-ja-ckerkohet-per-ramen-ne-google.mp3",
+     "publishedAt": "2026-11-04T15:36:50.000Z",
+     "durationSec": 2040,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26324",
      "title": "10 këngë ikonike që artistët ua dedikuan njerëzve të famshëm&#8230;",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26324/10-kenge-ikonike-qe-artistet-ua-dedikuan-njerezve-te-famshem.mp3",
@@ -2461,33 +2488,6 @@
      "durationSec": 1404,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26282",
-     "title": "House Nation 30/10/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26282/house-nation-30-10-2026.mp3",
-     "publishedAt": "2026-10-30T13:04:10.000Z",
-     "durationSec": 2926,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26280",
-     "title": "“Talentit duhet t’i jepet hapësirë”/ Luna Çausholli flet për nepotizmin në art &#038; sfidat e artistëve!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26280/talentit-duhet-ti-jepet-hapesire-luna-causholli-flet-per-nepotizmin-ne-art-sfidat-e-artisteve.mp3",
-     "publishedAt": "2026-10-30T13:01:21.000Z",
-     "durationSec": 1257,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë ta pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26281",
-     "title": "Kunata konfirmon romancën mes Rizarta Hoxha &#038; Arbër Çepani? Dash Shehi i ashpër: “Rama ka lajthitur”",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26281/kunata-konfirmon-romancen-mes-rizarta-hoxha-arber-cepani-dash-shehi-i-ashper-rama-ka-lajthitur.mp3",
-     "publishedAt": "2026-10-30T12:59:30.000Z",
-     "durationSec": 5886,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
     }
    ]
   },
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radiokosovaelire",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 206
+   "fails": 207
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 147
+   "fails": 148
   },
   {
    "id": "capitalfm",
@@ -3387,12 +3387,12 @@
   {
    "id": "radiostar",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radio7",
    "online": false,
-   "fails": 321
+   "fails": 322
   },
   {
    "id": "ubtcampus",
