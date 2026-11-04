@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-03T23:28:48.754Z",
+ "generatedAt": "2026-11-04T06:37:23.345Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:a0001ca4-0a80-4312-bbfb-ecc63a1ac3a4",
+     "title": "Versus #291: Bayern, Barcelona & Inter, e marta e yjeve në Champions",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128724940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F6c9dff3b-06b2-923b-878c-104e5f8b2afd.m4a",
+     "publishedAt": "2026-11-03T23:34:02.000Z",
+     "durationSec": 4490,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komente dhe analiza për ndeshjet e së martës në Champions League, veçanërisht Atletico Madrid - Bayern, Barcelona - Aston Villa dhe Feyenoord - Inter. 0:00 Atletico - Bayern 27:47 Man Utd - Roma 41:07 Të tjerat 1:11:57 Parashikime",
+     "episodeNumber": 291,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:851d826e-a262-4367-b5af-f47b2b14f662",
      "title": "Versus #290: Milan - Inter, Yamal & Mbappe, fundjava në lupën ADN",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128588012/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F3d224868-c920-8b87-e9d9-3c01f1c18319.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Sezoni ka nisur, ndërsa merkatoja u mbyll në shumicën e ligave europiane. Treshja ADN jep parashikimet për fituesit dhe humbësit e sezonit të ri. Kush do të shkëlqejë? Kush do të zhgënjejë? Kush do të shpallet golashënuesi i vitit? Champions League, favoritët dhe surprizat sipas nesh. 0:00 Serie A 32:55 La Liga 51:17 Premier League 1:04:07 Bundesliga 1:20:16 UCL 1:42:34 Parashiket",
      "episodeNumber": 272,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:5cc54c37-3574-4a7e-85db-cf7d51d51faa",
-     "title": "Versus #271: Fundjava europiane & Merkatoja në orët e fundit",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/124957280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F5166d3d3-78de-2229-3a93-05d6b74ed391.mp3",
-     "publishedAt": "2026-08-31T00:36:24.000Z",
-     "durationSec": 11291,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Rikthehemi live në Versus për të komentuar ndeshjet e fundjavës në ligat kryesore të kontinentit. Merkatoja është në orët e fundit. Diskutojmë dhe vlerësojmë emrat më të fundit në sitën e klubeve të mëdha. 0:00 Premier League 1:12:16 La Liga 1:49:24 Serie A 2:35:20 Bundesliga 2:48:55 Ligue 1 2:53:30 FPL",
-     "episodeNumber": 271,
      "seasonNumber": 4
     }
    ]
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 2
+   "fails": 3
   },
   {
    "id": "radiokosovaelire",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 204
+   "fails": 205
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 145
+   "fails": 146
   },
   {
    "id": "capitalfm",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 319
+   "fails": 320
   },
   {
    "id": "ubtcampus",
