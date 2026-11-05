@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-04T21:56:39.628Z",
+ "generatedAt": "2026-11-05T02:32:52.336Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:34a3b67a-a49c-4730-9cbe-ff0e8fae4e60",
+     "title": "Versus #292: Real Madrid, Liverpool & Arsenal, e mërkura në Champions",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128808201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F4226b2dd-5351-1ea6-8a76-28ba4c3f9099.m4a",
+     "publishedAt": "2026-11-05T00:30:29.000Z",
+     "durationSec": 8701,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komente dhe analiza për ndeshjet e së mërkurës në Champions League, me sytë nga Real Madrid, Liverpool, Arsenal dhe Manchester City. 0:00 Real Madrid 48:24 Liverpool 1:02:12 Te Tjera 1:39:18 Inter - Como (preview) 1:53:41 Atletico - Barcelona (preview) 2:07:04 Kombetarja 2:20:01 Parashikime",
+     "episodeNumber": 292,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:a0001ca4-0a80-4312-bbfb-ecc63a1ac3a4",
      "title": "Versus #291: Bayern, Barcelona & Inter, e marta e yjeve në Champions",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/128724940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F6c9dff3b-06b2-923b-878c-104e5f8b2afd.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Komentojmë së bashku ndeshjet e fundjavës në ligat kryesore të Europës. Serie A sjell tri përballje të forta të pretendentëve: Inter - Napoli, Roma - Atalanta dhe Juventus - Milan. Vijojmë me La Ligën, Bundesligën dhe Premier League. 0:00 La Liga 57:34 Serie A 1:49:09 Premier League 2:24:39 Bundesliga 2:36:08 F1 2:48:27 Parashikime 2:52:18 Fantazi Futboll",
      "episodeNumber": 273,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:63740e0e-f53f-474b-979c-4560d006d64c",
-     "title": "Versus #272: Parashikimet e sezonit 26/27: Fituesit dhe humbësit",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125175436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F48da0415-ac86-d4ca-f8fb-87b459853b5d.mp3",
-     "publishedAt": "2026-09-03T22:09:49.000Z",
-     "durationSec": 7042,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Sezoni ka nisur, ndërsa merkatoja u mbyll në shumicën e ligave europiane. Treshja ADN jep parashikimet për fituesit dhe humbësit e sezonit të ri. Kush do të shkëlqejë? Kush do të zhgënjejë? Kush do të shpallet golashënuesi i vitit? Champions League, favoritët dhe surprizat sipas nesh. 0:00 Serie A 32:55 La Liga 51:17 Premier League 1:04:07 Bundesliga 1:20:16 UCL 1:42:34 Parashiket",
-     "episodeNumber": 272,
      "seasonNumber": 4
     }
    ]
@@ -3292,7 +3292,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 5
+   "fails": 6
   },
   {
    "id": "radiokosovaelire",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 207
+   "fails": 208
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 148
+   "fails": 149
   },
   {
    "id": "capitalfm",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 322
+   "fails": 323
   },
   {
    "id": "ubtcampus",
