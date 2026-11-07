@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-07T08:53:09.808Z",
+ "generatedAt": "2026-11-07T15:43:37.894Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/ia-rrezik-sulme-kibernetike/33891690.html",
+     "title": "A po e rrit inteligjenca artificiale rrezikun nga sulmet kibernetike?",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/11/05/5957fab9-645c-42fd-6d10-08df13a87200_hq.mp3",
+     "publishedAt": "2026-11-07T10:52:19.000Z",
+     "durationSec": 1044,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Nga frigoriferët e lidhur me internetin që mund të hakohen nga distanca te mesazhet e rreme bankare që synojnë vjedhjen e të dhënave personale, kërcënimet në hapësirën digjitale po bëhen gjithnjë më të sofistikuara. Blerim Rexha, profesor i inxhinierisë kompjuterike, shpjegon këto rreziqe dhe si inteligjenca artificiale po ua mundëson kryerjen e sulmeve kibernetike edhe personave me më pak njohuri teknike."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/mangesi-rreziku-mbrojtja-grave-dhuna/33887445.html",
      "title": "Mangësitë që rrezikojnë mbrojtjen e grave që janë viktima të dhunës",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/10/30/1ca3160a-59cb-4eee-6bce-08df13a87200_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1036,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Ozempic-u, ilaç i shpikur për trajtimin e diabetit, po përdoret gjithnjë e më shumë për humbje peshe, duke ngritur debat për efektet e tij. Endokrinologu Genc Shala thotë në podkastin 5 pyetje të Radios Evropa e Lirë se semaglutidi është efektiv vetëm kur përdoret sipas kritereve mjekësore, ndërsa përdorimi pa recetë mund të sjellë rreziqe serioze."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/streha-krimi-armet-hetuesit-sky-ecc/33779311.html",
-     "title": "Sky ECC - nga strehë e krimit në armë të hetuesve",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/06/12/1ad016c6-c65c-4c3d-9071-08debadc418c_hq.mp3",
-     "publishedAt": "2026-06-13T09:56:42.000Z",
-     "durationSec": 1385,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Dekodimi i disa mesazheve në aplikacionin Sky ECC shërbeu si pikënisje për një hetim të autoriteteve të Kosovës dhe të Europolit, që rezultoi me arrestimin e pesë personave më 9 qershor në Kosovë, si të dyshuar për pjesëmarrje në një rrjet të trafikimit të drogës."
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 216
+   "fails": 217
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 157
+   "fails": 158
   },
   {
    "id": "capitalfm",
@@ -3337,7 +3337,7 @@
   {
    "id": "zerishtimes",
    "online": false,
-   "fails": 6
+   "fails": 7
   },
   {
    "id": "radiofontana",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 331
+   "fails": 332
   },
   {
    "id": "ubtcampus",
