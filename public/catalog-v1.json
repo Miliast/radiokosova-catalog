@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T22:28:04.296Z",
+ "generatedAt": "2026-11-10T04:39:36.088Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3287,8 +3287,8 @@
   },
   {
    "id": "radioplus",
-   "online": true,
-   "fails": 1
+   "online": false,
+   "fails": 2
   },
   {
    "id": "valarinore",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 226
+   "fails": 227
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 167
+   "fails": 168
   },
   {
    "id": "capitalfm",
@@ -3338,7 +3338,7 @@
   {
    "id": "zerishtimes",
    "online": false,
-   "fails": 16
+   "fails": 17
   },
   {
    "id": "radiofontana",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 341
+   "fails": 342
   },
   {
    "id": "ubtcampus",
@@ -3448,7 +3448,7 @@
   {
    "id": "oxygen",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radioalbafolk",
