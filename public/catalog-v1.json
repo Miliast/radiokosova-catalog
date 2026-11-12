@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-12T12:51:32.415Z",
+ "generatedAt": "2026-11-12T20:53:29.766Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,33 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26419",
+     "title": "Rama nga Dublini: Nuk ka dorëheqje!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26419/rama-nga-dublini-nuk-ka-doreheqje.mp3",
+     "publishedAt": "2026-11-12T16:09:43.000Z",
+     "durationSec": 343,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26414",
+     "title": "Viral në rrjete sociale duke kënduar shqip, historia emocinuese e Kim Anpas dhe rrugëtimi në muzikë!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26414/viral-ne-rrjete-sociale-duke-kenduar-shqip-historia-emocinuese-e-kim-anpas-dhe-rrugetimi-ne-muzike.mp3",
+     "publishedAt": "2026-11-12T16:03:31.000Z",
+     "durationSec": 1906,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26412",
+     "title": "&#8220;Opinioni im në studio…&#8221;/Nga &#8220;Goca dhe Gra&#8221;, mëmësia &#038; projekti i ri, Orinda Huta rrëfehet: Dua që…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26412/opinioni-im-ne-studio-nga-goca-dhe-gra-memesia-projekti-i-ri-orinda-huta-rrefehet-dua-qe.mp3",
+     "publishedAt": "2026-11-12T14:53:55.000Z",
+     "durationSec": 3809,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Një emision ku, si asnjëherë më parë, mendimet dhe fjalët vijnë si në jetë, të pacensuruara… Mirë, ndoshta pak të censuruara. “Pardon My French” nga Jonida Aliçkolli, Niko Komani dhe Aulona Musta, ku e vetmja gjë që nuk dinë të bëjnë është të flasin frëngjisht!"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26411",
      "title": "Përse duhet ta vendosim pemën e Krishtlindjeve që në nëntor? Çfarë zbuloi psikologia/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26411/perse-duhet-ta-vendosim-pemen-e-krishtlindjeve-qe-ne-nentor-cfare-zbuloi-psikologia-wake-up.mp3",
@@ -2336,6 +2363,15 @@
      "durationSec": 2045,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26417",
+     "title": "Sara Mila në SPAK, po hetohen zgjedhjet në Elbasan!-Edicioni kryesor informativ 11/11/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26417/sara-mila-ne-spak-po-hetohen-zgjedhjet-ne-elbasan-edicioni-kryesor-informativ-11-11-2026.mp3",
+     "publishedAt": "2026-11-11T18:57:00.000Z",
+     "durationSec": 426,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lajmet kryesore të ditës me datë 11 Nëntor."
     },
     {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26393",
@@ -2453,42 +2489,6 @@
      "durationSec": 2894,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26360",
-     "title": "“Humba shikimin në Indi dhe guri i mallkuar i…”/ Bruno Shemsho flet për udhëtimet dhe ndalet te BBV!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26360/humba-shikimin-ne-indi-dhe-guri-i-mallkuar-i-bruno-shemsho-flet-per-udhetimet-dhe-ndalet-te-bbv.mp3",
-     "publishedAt": "2026-11-09T13:16:01.000Z",
-     "durationSec": 2653,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26359",
-     "title": "Shqipëria në udhëkryq: Studentët, politika, arsimi dhe e ardhmja e vendit. /Labirint në Tru",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26359/shqiperia-ne-udhekryq-studentet-politika-arsimi-dhe-e-ardhmja-e-vendit-labirint-ne-tru.mp3",
-     "publishedAt": "2026-11-09T13:15:39.000Z",
-     "durationSec": 2795,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26358",
-     "title": "Surpriza rrëqethëse që përloti Greta Kazazin: Si rashë në dashuri me Dj Onno, Selin si kunatë…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26358/surpriza-rreqethese-qe-perloti-greta-kazazin-si-rashe-ne-dashuri-me-dj-onno-selin-si-kunate.mp3",
-     "publishedAt": "2026-11-09T13:15:14.000Z",
-     "durationSec": 2630,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Përtej Topit” me Françeska Rustem është një podkast që shkon përtej asaj që shohim nga një personalitet në ekran. Përmes bisedave “pa doreza” me personazhe nga sporti, arti, media dhe biznesi, do të zbulojmë çfarë fshihet pas suksesit, famës dhe imazhit të tyre publik."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26357",
-     "title": "Mjeku i Kombëtares Armene ndan problemet që ndodhin më shpesh me futbollistët…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26357/mjeku-i-kombetares-armene-ndan-problemet-qe-ndodhin-me-shpesh-me-futbollistet.mp3",
-     "publishedAt": "2026-11-09T13:14:45.000Z",
-     "durationSec": 2159,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
     }
    ]
   },
@@ -3052,6 +3052,116 @@
    "description": "Garage Lock Podcast is part of the Garage Lock Label project, created by Eugent Bushpepa and Renis Gjoka",
    "episodes": [
     {
+     "id": "1720218634:c348a019-60bf-489a-b769-a86e621af288",
+     "title": "Rei Sulejmani në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129324325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2Fb7974038-4f6a-d220-5385-1a9c0f195471.mp3",
+     "publishedAt": "2026-11-12T14:28:52.000Z",
+     "durationSec": 4207,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794493700962-61d9e5aaf38ab.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 1,
+     "seasonNumber": 4
+    },
+    {
+     "id": "1720218634:16c0dc7f-2066-4ac4-ab2a-0f551c5c22f8",
+     "title": "Gjergj Kaçinari në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129324042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F5d66da1f-cd44-cd44-055a-2944a5c5cab0.mp3",
+     "publishedAt": "2026-11-12T14:24:30.000Z",
+     "durationSec": 4024,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794493414080-50fcb070ccbbc.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 19,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:588384b1-65fd-407d-9cbf-1a301985949a",
+     "title": "Arian Çuliqi në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129323296/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2Fb8395ddb-2ab3-299f-70e2-58145ae465d1.mp3",
+     "publishedAt": "2026-11-12T14:09:13.000Z",
+     "durationSec": 4282,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794492528171-883910ce0e539.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 18,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:ef08a1d2-d38a-4b5b-bba3-fdd10e87690c",
+     "title": "Marin Orhanasi në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129322391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F7fcb42bd-1efc-6986-1faf-8ec473386982.mp3",
+     "publishedAt": "2026-11-12T13:52:44.000Z",
+     "durationSec": 5732,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794491403343-ff292f6064d5b.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 17,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:8bb041f8-b678-480e-8cb9-370129511417",
+     "title": "G Bani në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129322175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F8537e32f-3a44-03e9-d29e-39c012269176.mp3",
+     "publishedAt": "2026-11-12T13:47:36.000Z",
+     "durationSec": 6982,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794491122253-ce4532135cbfb.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 16,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:fc0735e7-07c4-48cb-86ad-e45d252850e3",
+     "title": "Arlind Qori në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129321923/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F4a93dd40-9174-44f1-3e82-19e40aab5a34.mp3",
+     "publishedAt": "2026-11-12T13:42:17.000Z",
+     "durationSec": 7031,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794490832450-07a04f8608c97.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 15,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:8a0e487a-6446-4b5a-b0c3-b0a4e388baf4",
+     "title": "Ergys Zhabjaku në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129321444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F1149bb8e-6c0d-d1a1-7bba-119758daa542.mp3",
+     "publishedAt": "2026-11-12T13:31:33.000Z",
+     "durationSec": 5380,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794490280542-9c629193fda16.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 1,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:d9e4987e-51e6-4908-9797-667b228cd9c9",
+     "title": "Mr. Elvis në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129321276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F77e118a4-308e-3765-4fb9-38c5e5dabc13.mp3",
+     "publishedAt": "2026-11-12T13:28:07.000Z",
+     "durationSec": 4663,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794490056635-11c8536aacb88.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 13,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:96636519-0d18-4c3b-90fc-6aaad3f1cfe4",
+     "title": "Dritan Shakohoxha në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129321055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F1a963d87-74fb-109d-bc72-95ae66c19d2c.mp3",
+     "publishedAt": "2026-11-12T13:22:34.000Z",
+     "durationSec": 5293,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794489682272-79ee25ed4ff37.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 12,
+     "seasonNumber": 3
+    },
+    {
+     "id": "1720218634:72a8ebb8-52e8-4303-bb40-322c83ad1d48",
+     "title": "Urban Band në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129320663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F1299f1d8-0f4f-2839-8ec2-131f3b01b17a.mp3",
+     "publishedAt": "2026-11-12T13:14:36.000Z",
+     "durationSec": 5267,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1794489194972-ef70597453a22.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 11,
+     "seasonNumber": 3
+    },
+    {
      "id": "1720218634:1d0e302d-c294-4b68-a79e-e68c762801a7",
      "title": "Gëzuar 2026 me Albanon, Kastron, Renisin dhe Gentin",
      "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/113378032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-1%2F1c816180-7827-43ee-c67e-cb8006b59add.mp3",
@@ -3160,116 +3270,6 @@
      "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
      "episodeNumber": 1,
      "seasonNumber": 3
-    },
-    {
-     "id": "1720218634:0472b576-4f45-447b-b562-f682edd49a41",
-     "title": "Garage Lock S2 - Best OF 2/2",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110018123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F7fede35e-591c-4d7a-3166-83ddd0637cbe.mp3",
-     "publishedAt": "2025-10-21T20:12:03.000Z",
-     "durationSec": 7961,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761077641774-130880d5d7d3e.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 31,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:11ffe497-c442-449c-8c8f-b6282030137d",
-     "title": "Garage Lock S2 - Best Of 1/2",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110018041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2Fde9feecd-102c-ae9e-0f24-50677c6fa3ee.mp3",
-     "publishedAt": "2025-10-21T20:10:28.000Z",
-     "durationSec": 8187,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761077594953-9e453631bed22.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 30,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:af5b1c66-64b9-447c-8159-9c151db8d822",
-     "title": "Ben Blushi në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110017911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F3a777ae8-1cb5-f54f-43e2-dc41500ca9d1.mp3",
-     "publishedAt": "2025-10-21T20:09:00.000Z",
-     "durationSec": 3899,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761077168538-cbae915c4f679.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 29,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:a86a8c24-5da6-412e-9280-ec11470fa26a",
-     "title": "Drilon Hoxha në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110017782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F8e91437c-5899-60ad-f37e-a3c45f75dad9.mp3",
-     "publishedAt": "2025-10-21T20:05:39.000Z",
-     "durationSec": 3758,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761076986760-a6947ab966808.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 28,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:c998612c-9205-400b-bad1-1d3f24c79748",
-     "title": "Grigels Muçollari në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110017676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F572315be-9121-e249-daf6-3404e206e5f1.mp3",
-     "publishedAt": "2025-10-21T20:02:25.000Z",
-     "durationSec": 4256,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761076841066-3ed8c02747477.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 27,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:b2bba845-53a3-4ace-8927-247fba7474d6",
-     "title": "Sali Berisha në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110017517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F49619b08-e989-fb21-611c-35932f567bb2.mp3",
-     "publishedAt": "2025-10-21T19:58:46.000Z",
-     "durationSec": 3936,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761076622971-298c438c1c137.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 26,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:b065f000-3ba9-4e8d-adc1-8641b89b8397",
-     "title": "Enkel Demi në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110017406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F6151feec-1ebf-699d-bd24-2fcd35836071.mp3",
-     "publishedAt": "2025-10-21T19:57:35.000Z",
-     "durationSec": 4989,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761076459140-9605ac32db363.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 25,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:cf7a0510-bac7-4574-a548-e45bb93cc290",
-     "title": "Jorida Tabaku në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110017283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F40e37c1a-7853-db11-ed15-e6b5fc5b7eaa.mp3",
-     "publishedAt": "2025-10-21T19:52:50.000Z",
-     "durationSec": 2978,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761076276674-967be842bbc18.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 24,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:ceffee73-88c4-470f-a087-d0387d94baad",
-     "title": "Kiço Londo në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110016953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2Fed040907-970f-a309-6ef7-19bd7cde1ae9.mp3",
-     "publishedAt": "2025-10-21T19:51:47.000Z",
-     "durationSec": 6277,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761075948329-2fe7fd6f5384a.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 23,
-     "seasonNumber": 2
-    },
-    {
-     "id": "1720218634:5dd4c6be-021b-4fbf-b247-0a86b195dd7b",
-     "title": "Marin Meksi në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110016841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F0da02383-39e7-35d0-cbbd-b6a174ce3306.mp3",
-     "publishedAt": "2025-10-21T19:46:12.000Z",
-     "durationSec": 5534,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761075751354-d7d39ad0ca836.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 22,
-     "seasonNumber": 2
     }
    ]
   }
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 235
+   "fails": 236
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 176
+   "fails": 177
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 350
+   "fails": 351
   },
   {
    "id": "ubtcampus",
