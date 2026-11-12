@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-12T03:52:32.772Z",
+ "generatedAt": "2026-11-12T12:51:32.415Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,33 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26411",
+     "title": "Përse duhet ta vendosim pemën e Krishtlindjeve që në nëntor? Çfarë zbuloi psikologia/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26411/perse-duhet-ta-vendosim-pemen-e-krishtlindjeve-qe-ne-nentor-cfare-zbuloi-psikologia-wake-up.mp3",
+     "publishedAt": "2026-11-12T12:00:56.000Z",
+     "durationSec": 1207,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26408",
+     "title": "TIA, revolucioni që do të sjellë në tregun e punës gjatë 2027!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26408/tia-revolucioni-qe-do-te-sjelle-ne-tregun-e-punes-gjate-2027-wake-up.mp3",
+     "publishedAt": "2026-11-12T12:00:18.000Z",
+     "durationSec": 941,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26401",
+     "title": "260 MIJË EURO për një app! Iva Tiço zbulon partnerin IT dhe flet për prapaskenat e dasmës së fshehtë",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26401/260-mije-euro-per-nje-app-iva-tico-zbulon-partnerin-it-dhe-flet-per-prapaskenat-e-dasmes-se-fshehte.mp3",
+     "publishedAt": "2026-11-12T08:00:00.000Z",
+     "durationSec": 2045,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26393",
      "title": "&#8220;Kundërshtar më i dobët se ne&#8230;&#8221;/Redi Jupi parashikon rezultatin e ndeshjes Shqipëri-Finlandë!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26393/kundershtar-me-i-dobet-se-ne-redi-jupi-parashikon-rezultatin-e-ndeshjes-shqiperi-finlande.mp3",
@@ -2462,33 +2489,6 @@
      "durationSec": 2159,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Ky është një emision që ka për qëllim informacionin mjekësor për dëgjuesit në lidhje me simptomat e para të disa sëmundjeve dhe kurimin e tyre. Mënyra e rrëfimit të pacientëve sesi nisin simptomat e para në formën e rrëfimeve, vizitat tek mjeku, rrëfimet e mjekëve për dyshimet e tyre në lidhje me diagnozën e saktë, vendosja e saktë e diagnozës dhe fillimi i kurimit. Bashkëpunim me mjekë të njohur dhe personazhe të njohur të cilët kanë pasur eksperienca sëmundjesh. Ky emision ka si synim informi…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26356",
-     "title": "Miliarderët në luftë me taksat, Apple në telashe dhe robotët që po çmendin botën!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26356/miliarderet-ne-lufte-me-taksat-apple-ne-telashe-dhe-robotet-qe-po-cmendin-boten.mp3",
-     "publishedAt": "2026-11-09T13:13:57.000Z",
-     "durationSec": 532,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Mateo Kadriu sjell “Top Tech,” një emision dedikuar risive dhe trendeve më të fundit në botën e teknologjisë, që do të transmetohet ekskluzivisht në Top Albania Radio, YouTube dhe në social media. Me një qasje informuese dhe argëtuese, ky emision shërben si një dritare drejt të ardhmes dixhitale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26355",
-     "title": "PASO’ 6 Nëntor/ Lamtumira e Ronaldos, surpriza Como në Europë!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26355/paso-6-nentor-lamtumira-e-ronaldos-surpriza-como-ne-europe.mp3",
-     "publishedAt": "2026-11-09T13:13:39.000Z",
-     "durationSec": 3791,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Emisioni më i kërkuar nga të gjithë fanatikët e sportit. Glent Nallbani, Edi Manushi, Redi Jupi, Lorenc Jemini dhe Gëzim Sinemati mendojnë për të gjithë ju dashamirës të futbollit duke sjellë “Pasó”, emisionin që do t’ju ndjekë çdo të premte në frekuencën e radios tuaj të preferuar, vetëm në Top Albania Radio. Një program sportiv prej 120 minutash i rikthehet informacionit dedikuar sportit çdo javë. Konceptuar si një emision info-argëtues, informohuni mbi faktet, njihuni me protagonistët dhe që…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26353",
-     "title": "“S‘e kam ish Mateon!” Eda Likaj ironizon çiftin BriTeo, prezanton të dashurin e ri: Nënë së shpejti?",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26353/se-kam-ish-mateon-eda-likaj-ironizon-ciftin-briteo-prezanton-te-dashurin-e-ri-nene-se-shpejti.mp3",
-     "publishedAt": "2026-11-09T13:12:07.000Z",
-     "durationSec": 4140,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 234
+   "fails": 235
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 175
+   "fails": 176
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 349
+   "fails": 350
   },
   {
    "id": "ubtcampus",
