@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-12T20:53:29.766Z",
+ "generatedAt": "2026-11-13T01:54:05.565Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:27de124f-826c-4f87-83c3-842a16eb1535",
+     "title": "Versus #294: Shqipëri - Finlandë, komentet për Nations League",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129352623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Fb4d84961-c6fe-6f2e-ffb7-713d253792a5.m4a",
+     "publishedAt": "2026-11-13T00:28:19.000Z",
+     "durationSec": 7603,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komente dhe analiza për ndeshjen e kombëtares shqiptare me Finlandën. Të ftuar të veçantë dhe diskutime të vërteta futbolli, pa filtra. Mirëpresim komentet tuaja në chat dhe çdo pyetje për ngjarjet më të fundit nga sporti. Facebook: https://www.facebook.com/telesport Instagram: https://www.instagram.com/telesport TikTok: https://www.tiktok.com/@telesportal Telegram TFZ: https://t.me/telesportal #telesport #versus #podcast #live #futboll #football #komentshqip 0:00 Shqipëri - Finlandë 1:17:34 Ko…",
+     "episodeNumber": 294,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:ee695b44-cf74-45f6-9b28-15ba6c9edd91",
      "title": "Versus #293: Atletico Madrid - Barcelona & Inter - Como, komentet e fundjavës",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129078453/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2Fe7baa3b0-0a7d-081a-0e3e-fad4a6c5a105.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Mbrëmja e dytë e sezonit të ri të Champions League servir dy ndeshje spektakolare, Liverpool - Atletico Madrid dhe Napoli - Arsenal. Parashikojmë sfidat e nesërme dhe japim mendimet tona për duelet kryesore. 0:00 Champions 1:21:51 Parashikime",
      "episodeNumber": 275,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:4a56a3d7-a680-427f-a34c-8277fa6a0f93",
-     "title": "Versus #274: Mbrëmja e parë e Champions League, Real Madrid - Inter",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125432047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F7453c5ea-6d25-48aa-2ca9-b09bac3cd9e5.mp3",
-     "publishedAt": "2026-09-09T00:21:54.000Z",
-     "durationSec": 6892,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Nis sezoni i ri i Champions League! Komentojmë së bashku sfidat e mbrëmjes së parë europiane, me fokus te ndeshja Real Madrid - Inter. Parashikojmë përballjet e nesërme dhe duelet e shumëpritura në fushën e blertë. 0:00 Champions 1:21:10 Topi i Arte",
-     "episodeNumber": 274,
      "seasonNumber": 4
     }
    ]
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 236
+   "fails": 237
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 177
+   "fails": 178
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 351
+   "fails": 352
   },
   {
    "id": "ubtcampus",
