@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-13T09:39:42.633Z",
+ "generatedAt": "2026-11-13T17:49:34.752Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,60 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26432",
+     "title": "Diçka për çdo moshë, nga premierat e Cineplexx deri tek seriali më &#8216;In&#8217; i momentit/Ja si ta kaloni këtë fundjavë&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26432/dicka-per-cdo-moshe-nga-premierat-e-cineplexx-deri-tek-seriali-me-in-i-momentit-ja-si-ta-kaloni-kete-fundjave.mp3",
+     "publishedAt": "2026-11-13T14:43:43.000Z",
+     "durationSec": 901,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrëqethëse."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26413",
+     "title": "House Nation 13/11/2026",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26413/house-nation-13-11-2026.mp3",
+     "publishedAt": "2026-11-13T13:45:59.000Z",
+     "durationSec": 2930,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26428",
+     "title": "Denisa ‘fut në kurth’ Kozakun me lajmin BOMBASTIK, ai i shpreh dashurinë LIVE! Çifti drejt BBV6?",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26428/denisa-fut-ne-kurth-kozakun-me-lajmin-bombastik-ai-i-shpreh-dashurine-live-cifti-drejt-bbv6.mp3",
+     "publishedAt": "2026-11-13T13:45:22.000Z",
+     "durationSec": 4710,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26429",
+     "title": "Flora Nikolla rrëfen se si lindi pasioni i saj për gazetarinë…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26429/flora-nikolla-rrefen-se-si-lindi-pasioni-i-saj-per-gazetarine.mp3",
+     "publishedAt": "2026-11-13T13:44:31.000Z",
+     "durationSec": 2370,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Kozeta Kurti, një nga “pioneret” e para të radiove private në Shqipëri, që në fund të viteve ‘90-të, kthehet në Top Albania Radio pas 17 vjetësh me “Back to the Beginning”. Ky format e nisi rrugëtimin edhe në 2020-ën, fiks në të njëjtën periudhë me pandeminë globale “Covid 19”-të, por me sa duket kjo është koha e duhur."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26427",
+     "title": "Lajda Porja: Reshje dhe stuhi ere, oraret që duhet të keni kujdes!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26427/lajda-porja-reshje-dhe-stuhi-ere-oraret-qe-duhet-te-keni-kujdes-wake-up.mp3",
+     "publishedAt": "2026-11-13T13:06:58.000Z",
+     "durationSec": 1245,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00 . Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj d…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26426",
+     "title": "Pesë botime të zhanreve të ndryshme letrare nga Shtëpia Botuese ‘Pegi’!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26426/pese-botime-te-zhanreve-te-ndryshme-letrare-nga-shtepia-botuese-pegi-wake-up.mp3",
+     "publishedAt": "2026-11-13T13:05:59.000Z",
+     "durationSec": 1377,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00 . Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj d…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26419",
      "title": "Rama nga Dublini: Nuk ka dorëheqje!",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26419/rama-nga-dublini-nuk-ka-doreheqje.mp3",
@@ -2433,60 +2487,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26382/house-nation-10-11-2026.mp3",
      "publishedAt": "2026-11-10T13:00:00.000Z",
      "durationSec": 2930,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26381",
-     "title": "Nga intervista me agjentët imobiliarë te performanca LIVE me Andi Shkozën &#8211; Top Fare 09/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26381/nga-intervista-me-agjentet-imobiliare-te-performanca-live-me-andi-shkozen-top-fare-09-11-2026.mp3",
-     "publishedAt": "2026-11-10T11:22:06.000Z",
-     "durationSec": 3533,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Të informohesh dhe të argëtohesh… duket si mision i pamundur! Por jo për Julian Hurdha dhe Anxhelo Shkreli! Dyshja sjellin për publikun “Top Fare”, një emision humoristik ku nuk do të mungojnë të qeshurat, por as aktualiteti. Java nis me programin më provokues dhe që nuk kursen askënd. Më pak sarkazëm, ironi e pak ‘spec djegës’, pasditet tuaja në Top Albania Radio nuk do jenë kurrë të mërzitshme!"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26387",
-     "title": "“Ky vend do të shpëtojë”. Aurela Gaçe: Ka ardhur momenti, nuk është hera e parë që…/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26387/ky-vend-do-te-shpetoje-aurela-gace-ka-ardhur-momenti-nuk-eshte-hera-e-pare-qe-wake-up.mp3",
-     "publishedAt": "2026-11-10T10:32:44.000Z",
-     "durationSec": 1359,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26386",
-     "title": "Gert Metani: Ka tabu ende sport, pse gratë dhe vajzat shihen me çudi?/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26386/gert-metani-ka-tabu-ende-sport-pse-grate-dhe-vajzat-shihen-me-cudi-wake-up.mp3",
-     "publishedAt": "2026-11-10T10:31:22.000Z",
-     "durationSec": 1290,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26351",
-     "title": "“Nuk e marrim seriozisht dhunën deri kur…”/Tea Dupi: Burrat që nuk e durojnë dot kur ish-partneret…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26351/nuk-e-marrim-seriozisht-dhunen-deri-kur-tea-dupi-burrat-qe-nuk-e-durojne-dot-kur-ish-partneret.mp3",
-     "publishedAt": "2026-11-10T08:47:51.000Z",
-     "durationSec": 1765,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26379",
-     "title": "Reforma Zgjedhore, opozita braktis mbledhjen!-Edicioni kryesor informativ 09/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26379/reforma-zgjedhore-opozita-braktis-mbledhjen-edicioni-kryesor-informativ-09-11-2026.mp3",
-     "publishedAt": "2026-11-09T15:50:20.000Z",
-     "durationSec": 435,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26364",
-     "title": "House Nation 09/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26364/house-nation-09-11-2026.mp3",
-     "publishedAt": "2026-11-09T13:30:00.000Z",
-     "durationSec": 2894,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 238
+   "fails": 239
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 179
+   "fails": 180
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 353
+   "fails": 354
   },
   {
    "id": "ubtcampus",
