@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T02:48:47.532Z",
+ "generatedAt": "2026-11-16T11:36:50.455Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -1103,6 +1103,15 @@
    "description": "Podcasti “Shëndeti në rend të parë” me autore Elfije Boletini-Bejtullahu çdo të diele sjelle biseda informuese me profesionistë të shëndetësisë, mjekë, studiues dhe specialistë të fushave të ndryshme për t’i ofruar publikut informacion të saktë mbi çështje të rëndësishme që lidhen me shëndetin. Nga këshillat për një jetë të shëndetshme, informata për sëmundje të ndryshme, simptomat, diagnostikimin e trajtimet e fundit mjekësore, me bisedat me profesionistë të fushës përmes secilit episod synojmë të rrisim ndërgjegjësimin dhe të ndihmojmë dëgjuesit tanë të dinë më shumë për shëndetin e tyre. Podcasti trajton një gamë të gjerë temash për sëmundje kronike, shëndetin mendor, stilin e jetesës, përfshirë ushqyerjen dhe aktivitetin fizik, kujdesin ndaj grave dhe fëmijëve, kujdesin për të moshuarit, rëndësinë e parandalimit të sëmundjeve dhe edukimin shëndetësor, etj. Qëllimi i podcastit “Shëndeti në rend të parë” është të afrojë informacion të besueshëm dhe të dobishëm për publikun e gjerë, …",
    "episodes": [
     {
+     "id": "1812026405:fd881fcb-b4a8-4b5d-acbe-ccfce1ba29f1",
+     "title": "#96: Shëndeti në rend të parë – Ariana Shaqiri, endokrinologe",
+     "audioUrl": "https://media.transistor.fm/fb4f88a6/fb630583.mp3",
+     "publishedAt": "2026-11-16T10:05:30.000Z",
+     "durationSec": 2653,
+     "imageUrl": "https://img.transistorcdn.com/iElhGMY4ZNamflcDECqdHz6B8O-Zgxz_nK2rH7gyuJo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDkz/ZTZjZTMxNDNhOWQ1/NTY1Y2U0ZmE4NDRi/NjZiNS5qcGc.jpg",
+     "description": "Në episodin e 96-të të podcastit “Shëndeti në rend të parë”, endokrinologia, Ariana Shaqiri ka folur për diabetin dhe ndikimin e tij në shëndetin e përgjithshëm. Gjatë bisedës trajtohen shenjat e hershme të diabetit, faktorët e rrezikut dhe rastet kur sëmundja zhvillohet pa simptoma të dukshme. Vëmendje e veçantë i kushtohet diabetit te fëmijët, trashëgimisë, prediabetit dhe rëndësisë së diagnostikimit të hershëm. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një…"
+    },
+    {
      "id": "1812026405:14eaea13-11f6-4388-bf47-62dd96ba7b25",
      "title": "#95: Shëndeti në rend të parë – Shqiptar Demaçi, Kirurg torakal",
      "audioUrl": "https://media.transistor.fm/33aa7a60/abb6bdb1.mp3",
@@ -1272,15 +1281,6 @@
      "durationSec": 2416,
      "imageUrl": "https://img.transistorcdn.com/NZaRyMEkUGYCKPp7fGY_9qFh0XyjgdJ3sSKJB8Yrkiw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYmFl/MDg4Y2ZmYzk0OWRj/Mzk3Zjk4ZmFhZjZk/ZTc5ZS5qcGc.jpg",
      "description": "Në podcastin “Shëndeti në rend të parë”, onkologu Ilir Kurtishi ka folur për një ilaç të ri eksperimental që po sjell shpresë për pacientët me kancer të pankreasit. Ai shpjegon rezultatet e studimeve të fundit, mundësinë e ardhjes së këtij trajtimi në Kosovë dhe sfidat që vazhdon të paraqesë një nga kancerët më agresivë. Në këtë episod diskutohet edhe rëndësia e diagnostikimit të hershëm, terapitë moderne dhe e ardhmja e trajtimit të sëmundjeve malinje. Mbështetur nga: - United Hospital Prishti…"
-    },
-    {
-     "id": "1812026405:f06b06fe-cfa6-42f3-be0a-c683ecd122f6",
-     "title": "#76: Shëndeti në rend të parë - Otorinolaringolog, Kujtim Kastrati",
-     "audioUrl": "https://media.transistor.fm/6d562a3e/77887475.mp3",
-     "publishedAt": "2026-06-23T14:48:21.000Z",
-     "durationSec": 2256,
-     "imageUrl": "https://img.transistorcdn.com/H7qM20a6c1Ixr8sjpLR6bA61wtlIgJNv0gDAarHlcNE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jN2Nk/ZDM1N2UxMDZjZjQ3/NTBkZmRhMzc5MjQz/OTg2My5qcGc.jpg",
-     "description": "Në podcastin “Shëndeti në rend të parë”, i ftuari Kujtim Kastrati, otorinolaringolog i specializuar në rinoplastikë ka folur për problemet e hundës, sinusëve, alergjitë, gërhitjen dhe apnenë e gjumit. Kastrati shpjegon kur hunda e bllokuar nuk është thjesht sinus, por mund të lidhet me rinit alergjik apo probleme funksionale. Mbështetur nga: - United Hospital Prishtinë - United Hospital Prishtinë është një spital modern dhe i specializuar që ofron shërbime të avancuara mjekësore me teknologji t…"
     }
    ]
   },
@@ -1293,6 +1293,15 @@
    "genre": "Politics",
    "description": "\"Përballje\" me autor kryeredaktorin e Telegrafi.com, Muhamet Hajrullahu, është një platformë edukative dhe informuese që ka për qëllim të ndriçojë çështjet kryesore që preokupojnë shoqërinë kosovare dhe më gjerë. Duke ofruar hapësira për diskutime të thella mbi temat shoqërore, politike, ekonomike, ndërmarrësi, sociale e veçanërisht angazhimin e të rinjve, grave dhe diasporës, si brenda ashtu edhe jashtë Kosovës.",
    "episodes": [
+    {
+     "id": "1845345706:152eda6e-7321-4031-89c9-86115297fa84",
+     "title": "#52: Përballje: Prishtina në mbeturina, Musmurati sfidon Muratin - Besiana Musmurati",
+     "audioUrl": "https://media.transistor.fm/4481508a/c3815b8f.mp3",
+     "publishedAt": "2026-11-16T07:41:14.000Z",
+     "durationSec": 2682,
+     "imageUrl": "https://img.transistorcdn.com/tPH4aUsFZx9AoYWL_4hsTNacKb-1a4njkVK-cgkkcPU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZWFh/ODJiMDkzNDkwMmRl/OWRmMDgxMDZjYWE0/MjQxOS5qcGc.jpg",
+     "episodeNumber": 52
+    },
     {
      "id": "1845345706:1a019415-be45-422d-a092-347354a8c98a",
      "title": "#51: Përballje: Arlinda Zekaj kërkoi mbrojtje, kush mban përgjegjësi? - Liridona Sijarina",
@@ -1482,16 +1491,6 @@
      "imageUrl": "https://img.transistorcdn.com/6zxrloX743-DbhnQ9FxKwjeHJ3eyPSx8LEd9l7vJVTU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNDdj/ZDJhY2YyMjVmZDMx/ZjgxYTExMTkxZTMw/ZjdmZi5qcGc.jpg",
      "description": "Kosova do të votojë të dielën, më 7 qershor. Akuzat dhe kundërakuzat mes partive politike shqiptare kanë lënë disi në hije vëmendjen ndaj komunitetit serb në vend. Në qendër të kësaj teme është roli i Listës Serbe, ndikimi i Beogradit në politikën e serbëve të Kosovës, presioni mbi votuesit dhe hapësira për alternativa të tjera politike brenda komunitetit serb. Për këto çështje në “Përballje Podcast” në Telegrafi ka folur Nenad Rashiq, politikan serb, ministër në detyrë për Komunitete dhe Kthim…",
      "episodeNumber": 33
-    },
-    {
-     "id": "1845345706:c4f0aa95-be88-4973-b2d1-955776913cc6",
-     "title": "#32: Përballje: Arber Fetoshi nga OCTOPUS: Zgjedhjet, fake news, ndikimet e jashtme në Kosovë",
-     "audioUrl": "https://media.transistor.fm/187c756e/b978c251.mp3",
-     "publishedAt": "2026-07-21T13:23:04.000Z",
-     "durationSec": 2394,
-     "imageUrl": "https://img.transistorcdn.com/dQ7epKTweHKbErRUttDEIm-i1WvELs5yVavJ3qh2Pv8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMmQz/MGJkZTAwZTU4NTYx/YTQ3ZWU4NmNmZWJk/MzZlYy5qcGc.jpg",
-     "description": "Në këtë episod të Përballje Podcast, i ftuar është Arben Fetoshi nga OCTOPUS, me të cilin diskutohet për zgjedhjet parlamentare, integritetin zgjedhor, fake news dhe ndikimet e jashtme në Kosovë. Fetoshi flet për sfidat që mund të cenojnë procesin demokratik, për rrezikun nga kërcënimet hibride, për rolin e mediave dhe rrjeteve sociale, si dhe për nevojën që institucionet dhe qytetarët të jenë më të përgatitur përballë dezinformimit. Një diskutim për zgjedhjet, sigurinë kombëtare dhe demokracin…",
-     "episodeNumber": 32
     }
    ]
   },
@@ -2347,6 +2346,24 @@
      "description": "Kozeta Kurti, një nga “pioneret” e para të radiove private në Shqipëri, që në fund të viteve ‘90-të, kthehet në Top Albania Radio pas 17 vjetësh me “Back to the Beginning”. Ky format e nisi rrugëtimin edhe në 2020-ën, fiks në të njëjtën periudhë me pandeminë globale “Covid 19”-të, por me sa duket kjo është koha e duhur."
     },
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26431",
+     "title": "“Partneri në krah duhet të të japë qetësi”/Ndarja me Roza Latin, Xhonatan Islami: Ishte e destinuar…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26431/partneri-ne-krah-duhet-te-te-jape-qetesi-ndarja-me-roza-latin-xhonatan-islami-ishte-e-destinuar.mp3",
+     "publishedAt": "2026-11-13T13:15:00.000Z",
+     "durationSec": 1145,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26430",
+     "title": "“Ka njerëz që po bëjnë lekë në protestë”/Kejd Preza: Dorëzohen prej problemeve financiare…",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26430/ka-njerez-qe-po-bejne-leke-ne-proteste-kejd-preza-dorezohen-prej-problemeve-financiare.mp3",
+     "publishedAt": "2026-11-13T13:15:00.000Z",
+     "durationSec": 1616,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26427",
      "title": "Lajda Porja: Reshje dhe stuhi ere, oraret që duhet të keni kujdes!/ Wake Up",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26427/lajda-porja-reshje-dhe-stuhi-ere-oraret-qe-duhet-te-keni-kujdes-wake-up.mp3",
@@ -2471,24 +2488,6 @@
      "durationSec": 3951,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Politika dhe aktualiteti, të para ndryshe. Shkundja sarkastike e realitetit politik dhe social që jetojmë me një prej figurave më të pëlqyera të humorit shqiptar si edhe një prej personazheve më të dashura të televizionit. Pse Shqipëria është kjo që është, pse shqiptarët janë siç janë, një vështrim plot humor mbi jetën që bëjmë që do t’ju sjellë gjendje të mirë shpirtërore përpara se të mbyllni ditën tuaj."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26391",
-     "title": "Asambleja e PS në Lalëz, Erion Veliaj kërkon pjesëmarrjen!-Edicioni kryesor informativ 10/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26391/ky-vend-do-te-shpetoje-aurela-gace-ka-ardhur-momenti-nuk-eshte-hera-e-pare-qe-wake-up-2.mp3",
-     "publishedAt": "2026-11-10T17:49:29.000Z",
-     "durationSec": 436,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Zhvillimet kryesore të ditës nga vendi, rajoni dhe bota i gjeni të pasqyruara në edicionet informative të lajmeve në Top Albania Radio. Në këtë hapësirë pasqyrohen lajme dhe ngjarje në kohë reale të përpiluara e përcjella pa anshmëri dhe me objektivitet. Informimi real e profesional është misioni i Top Albania Radios."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26382",
-     "title": "House Nation 10/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26382/house-nation-10-11-2026.mp3",
-     "publishedAt": "2026-11-10T13:00:00.000Z",
-     "durationSec": 2930,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Programi legjendë i muzikës elektronike vjen në Top Albania Radio me Dj që bëri historinë 20 vjeçare, Dori Dj. Bëhuni pjesë e Party-t më shpërthyese ku nuk keni nevojë për biletë, vjen aty ku jeni."
     }
    ]
   },
@@ -3313,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 249
+   "fails": 250
   },
   {
    "id": "radiok4",
@@ -3323,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 190
+   "fails": 191
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 364
+   "fails": 365
   },
   {
    "id": "ubtcampus",
