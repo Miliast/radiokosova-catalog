@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-15T22:55:46.730Z",
+ "generatedAt": "2026-11-16T02:48:47.532Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:8fafb57d-e187-4345-b172-f9fe98293d5e",
+     "title": "Versus #295: Bjellorusi - Shqipëri, komentet pas ndeshjeve të Nations League",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129509243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2Fa7dedccc-8417-6d3b-212d-75b9422dee4b.m4a",
+     "publishedAt": "2026-11-16T00:29:28.000Z",
+     "durationSec": 8715,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komente dhe analiza për ndeshjen e kombëtares shqiptare me Bjellorusinë, atë të Kosovës me Izraelin dhe përballjet kryesore të Nations League. E ftuar e veçantë, Vilma Masha. 0:00 Bjellorusi - Shqiperi 58:34 Shpresat 1:25:34 Kosova 1:51:15 Te Tjera 2:20:41 Parashikime",
+     "episodeNumber": 295,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:27de124f-826c-4f87-83c3-842a16eb1535",
      "title": "Versus #294: Shqipëri - Finlandë, komentet për Nations League",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129352623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2Fb4d84961-c6fe-6f2e-ffb7-713d253792a5.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "E enjtja në Champions League, radhën e kanë Roma, Bayern, United dhe Como debutuese! Komente dhe analiza pas ndeshjeve me një tifoz të çmendur bavarez. Parashikojmë sfidat e fundjavës në ligat kryesore dhe japim mendimet tona për duelet që na presin. 0:00 Champions 1:38:21 Pyetje nga Produksioni 1:48:35 Parashikime",
      "episodeNumber": 276,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:5bd528ce-12aa-4a9d-8cef-4aac5a9890fa",
-     "title": "Versus #275: Liverpool - Atletico & Napoli - Arsenal, komentet pas ndeshjes",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125492408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F85bc2c85-b85b-75cf-96bd-40dc067f0654.mp3",
-     "publishedAt": "2026-09-09T23:10:03.000Z",
-     "durationSec": 5177,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Mbrëmja e dytë e sezonit të ri të Champions League servir dy ndeshje spektakolare, Liverpool - Atletico Madrid dhe Napoli - Arsenal. Parashikojmë sfidat e nesërme dhe japim mendimet tona për duelet kryesore. 0:00 Champions 1:21:51 Parashikime",
-     "episodeNumber": 275,
      "seasonNumber": 4
     }
    ]
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 248
+   "fails": 249
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 189
+   "fails": 190
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 363
+   "fails": 364
   },
   {
    "id": "ubtcampus",
