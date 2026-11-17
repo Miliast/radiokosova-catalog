@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-17T04:36:35.003Z",
+ "generatedAt": "2026-11-17T14:34:47.865Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26469",
+     "title": "A duhet ta shmangim mëngjesin apo jo? Nutricionisti jep përgjigjen befasuese/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26469/a-duhet-ta-shmangim-mengjesin-apo-jo-nutricionisti-jep-pergjigjen-befasuese-wake-up.mp3",
+     "publishedAt": "2026-11-17T10:42:21.000Z",
+     "durationSec": 1188,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26466",
+     "title": "Fantazmat e shitjeve online, si do të kontrollohen?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26466/fantazmat-e-shitjeve-online-si-do-te-kontrollohen-wake-up.mp3",
+     "publishedAt": "2026-11-17T10:41:38.000Z",
+     "durationSec": 1278,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26465",
      "title": "“Imitimi i Brikenës ishte i vështirë por e dija që…”/Anxhi Muça zbulon “sekretet” e Portokalli…",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26465/imitimi-i-brikenes-ishte-i-veshtire-por-e-dija-qe-anxhi-muca-zbulon-sekretet-e-portokalli.mp3",
@@ -2471,24 +2489,6 @@
      "durationSec": 1145,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26430",
-     "title": "“Ka njerëz që po bëjnë lekë në protestë”/Kejd Preza: Dorëzohen prej problemeve financiare…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26430/ka-njerez-qe-po-bejne-leke-ne-proteste-kejd-preza-dorezohen-prej-problemeve-financiare.mp3",
-     "publishedAt": "2026-11-13T13:15:00.000Z",
-     "durationSec": 1616,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26427",
-     "title": "Lajda Porja: Reshje dhe stuhi ere, oraret që duhet të keni kujdes!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26427/lajda-porja-reshje-dhe-stuhi-ere-oraret-qe-duhet-te-keni-kujdes-wake-up.mp3",
-     "publishedAt": "2026-11-13T13:06:58.000Z",
-     "durationSec": 1245,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00 . Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj d…"
     }
    ]
   },
@@ -3303,7 +3303,7 @@
   {
    "id": "radioprishtina",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radio1",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 252
+   "fails": 253
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 193
+   "fails": 194
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 367
+   "fails": 368
   },
   {
    "id": "ubtcampus",
