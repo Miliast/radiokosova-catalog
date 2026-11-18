@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-18T14:11:31.854Z",
+ "generatedAt": "2026-11-18T22:03:31.315Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,15 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26479",
+     "title": "Arbër Çepani thyen heshtjen! Lajmet rozë dhe fama pas BB… Kush ja ka marrë “zemrën”",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26479/arber-cepani-thyen-heshtjen-lajmet-roze-dhe-fama-pas-bb-kush-ja-ka-marre-zemren.mp3",
+     "publishedAt": "2026-11-18T14:53:39.000Z",
+     "durationSec": 2335,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Tech Talk, një format televiziv, radiofonik dhe digjital që e sjell teknologjinë pranë njerëzve: nga inteligjenca artificiale dhe startup-et, te siguria online, puna, familja, argëtimi dhe mënyra se si do të jetojmë nesër."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26480",
      "title": "House Nation 18/11/2026",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26480/house-nation-18-11-2026.mp3",
@@ -2480,15 +2489,6 @@
      "durationSec": 3185,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Përzgjedhur nga Dee Jay-it e Top Albania Radios, mbrëmja e të dielës është e gjitha për t’u shijiuar. Java mbyllet me muzikë të mirë dhe përzgjidhet nga DJ resident të Top Albania Radio."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26441",
-     "title": "Talentet e reja, bullizmi dhe protestat qytetare: Sevim Arbana për një Shqipëri tjetër!",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26441/talentet-e-reja-bullizmi-dhe-protestat-qytetare-sevim-arbana-per-nje-shqiperi-tjeter.mp3",
-     "publishedAt": "2026-11-16T11:53:00.000Z",
-     "durationSec": 2657,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "“Labirint në tru” është urë lidhëse mes prindit dhe fëmijës, mes mësuesit dhe nxënësit, nënës dhe vajzës, babait e djalit. Mes prindërve të divorcuar, për të lënë hatërmbetjet menjëanë, e për të treguar pozicionin e tij/të asaj ndaj fëmijëve të pafajshëm. “Labirint në tru” është shumësi arsyetimesh objektive që na mundësojnë të kuptojmë qasje praktike të botës që na rrethon."
     }
    ]
   },
@@ -3313,17 +3313,17 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 256
+   "fails": 257
   },
   {
    "id": "radiok4",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 197
+   "fails": 198
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 371
+   "fails": 372
   },
   {
    "id": "ubtcampus",
