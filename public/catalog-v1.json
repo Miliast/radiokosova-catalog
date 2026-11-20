@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-19T22:13:42.577Z",
+ "generatedAt": "2026-11-20T03:29:01.153Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:980e5d72-81df-43d8-9779-35ca4d4ddb8c",
+     "title": "Versus #296: Shqipëria & Kosova",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129783584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F49744443-46fd-66c3-df1a-ce5bc7abe9cf.m4a",
+     "publishedAt": "2026-11-20T01:17:55.000Z",
+     "durationSec": 11427,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Me Redi Jupin dhe Taulant Dajakun, komentojmë së bashku ecurinë e Shqipërisë dhe Kosovës në ndeshjet e vjeshtës dhe diskutojmë për sfidat e skuadrave ndërkombëtare në fundjavë. 0:00 Shqiperia 1:40:13 Kosova 2:43:07 Kombetaret e tjera 3:04:37 Fundjava e klubeve 3:06:41 Parashikime",
+     "episodeNumber": 296,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:8fafb57d-e187-4345-b172-f9fe98293d5e",
      "title": "Versus #295: Bjellorusi - Shqipëri, komentet pas ndeshjeve të Nations League",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129509243/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2Fa7dedccc-8417-6d3b-212d-75b9422dee4b.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Arsenali bën detyrën, Tottenham nuk di të shënojë dhe ka humbur busullën. United - City, kryendeshja e fundjavës! Në Lazio - Milan s'ka fitues, por katër golat ndezin emocionet në Serie A. Real Madrid fiton me shkëlqimin e \"Diktatorit\". Barcelona si katalizator, këtë vit mund të fitojë gjithçka. 0:00 Rrahmani 49:04 Serie A 1:33:12 Derbi i Mançesterit 1:46:12 La Liga 2:31:12 Bayern 2:37:12 Parashikime 2:40:12 Fantazi",
      "episodeNumber": 277,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:e07512ba-2adc-47d6-a505-ddecc7d4cb54",
-     "title": "Versus #276: E enjtja në Champions League, sytë tek Harry Kane!",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125564987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2Ff4fda860-9733-9a23-ec82-b96a5a84b70b.mp3",
-     "publishedAt": "2026-09-10T23:16:28.000Z",
-     "durationSec": 6754,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "E enjtja në Champions League, radhën e kanë Roma, Bayern, United dhe Como debutuese! Komente dhe analiza pas ndeshjeve me një tifoz të çmendur bavarez. Parashikojmë sfidat e fundjavës në ligat kryesore dhe japim mendimet tona për duelet që na presin. 0:00 Champions 1:38:21 Pyetje nga Produksioni 1:48:35 Parashikime",
-     "episodeNumber": 276,
      "seasonNumber": 4
     }
    ]
@@ -3303,7 +3303,7 @@
   {
    "id": "radioprishtina",
    "online": true,
-   "fails": 1
+   "fails": 0
   },
   {
    "id": "radio1",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 260
+   "fails": 261
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 201
+   "fails": 202
   },
   {
    "id": "capitalfm",
@@ -3383,7 +3383,7 @@
   {
    "id": "radiozemra",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiostar",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 375
+   "fails": 376
   },
   {
    "id": "ubtcampus",
