@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-21T02:29:31.161Z",
+ "generatedAt": "2026-11-21T11:18:05.851Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/kosova-rryma-dimri-pasiguri-energjetike/33901969.html",
+     "title": "Kosova përballë një dimri tjetër me pasiguri energjetike",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/11/19/7e93cabe-d9f3-4054-85b1-08df3ee82709_hq.mp3",
+     "publishedAt": "2026-11-21T10:58:56.000Z",
+     "durationSec": 1754,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "A e pret Kosovën një dimër tjetër me ndërprerje të energjisë elektrike? Prodhimi vendor nuk mjafton për ta mbuluar kërkesën dhe importi kushton shtrenjtë. Qeveria ka shpallur masa emergjente për 60 ditë, por ish-ministri i Energjisë, Ethem Çeku, dyshon se ato do ta përmirësojnë furnizimin. Në podkastin 5 pyetje të Radios Evropa e Lirë, ai flet për kostot që ndërprerjet mund t’u sjellin bizneseve dhe çfarë mund të bëjë Kosova për ta ulur varësinë nga importi."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/barna-projekte-buxheti/33897994.html",
      "title": "Pse mungojnë barnat dhe ngecin projektet edhe kur buxheti është ndarë?",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/11/13/38d9503f-2c6d-4f9e-283e-08df3ee80755_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1562,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "A janë të sigurta ndërtesat ku jetojmë? Në episodin e ri të podkastit 5 pyetje të Radios Evropa e Lirë, dekani i Fakultetit të Inxhinierisë së Ndërtimit në Universitetin e Prishtinës, Florim Grajçevci, flet për mangësitë në kontrollin e ndërtimeve dhe standardet e sigurisë të objekteve të banimit në Kosovë."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/rreziqet-inteligjenca-artificiale/33789443.html",
-     "title": "Si na rrezikon privatësinë inteligjenca artificiale",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/06/26/8f60e254-0008-4bb2-1534-08decd1d5d42_hq.mp3",
-     "publishedAt": "2026-06-27T09:58:39.000Z",
-     "durationSec": 1080,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "Inteligjenca artificiale po e bën jetën më të lehtë, por njëkohësisht po e rrit edhe rrezikun për privatësinë e qytetarëve."
     }
    ]
   },
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 264
+   "fails": 265
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 205
+   "fails": 206
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 379
+   "fails": 380
   },
   {
    "id": "ubtcampus",
