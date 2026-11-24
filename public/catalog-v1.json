@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-23T14:50:07.630Z",
+ "generatedAt": "2026-11-24T02:16:32.694Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -681,6 +681,24 @@
    "description": "Një podcast autentik nga Telegrafi, ku çdo episod sjell në qendër të vëmendjes historitë, sfidat dhe sukseset e figurave më të ndritura nga bota e sportit. Me një atmosferë të ngrohtë dhe biseda të thella, Lavdimi, Romaku dhe Shkumbini i ftojnë mysafirët të ndajnë përvojat e tyre, historitë e rrëfimet interesante, të zbulojnë anën e panjohur të famës dhe të inspirojnë dëgjuesit me rrëfime autentike dhe emocionale. 🎧 Çdo javë – një histori e re, një yll i ri në arenë",
    "episodes": [
     {
+     "id": "1812021835:6f4354c9-73df-4d33-8212-f4f5df526289",
+     "title": "#107 – Arena e Yjeve – Kosova në Ligën e Kombeve, çfarë shkoi mirë e ku dështuan Dardan",
+     "audioUrl": "https://media.transistor.fm/04953c09/239ab2c7.mp3",
+     "publishedAt": "2026-11-20T16:00:00.000Z",
+     "durationSec": 3354,
+     "imageUrl": "https://img.transistorcdn.com/eCDWE8u1L2iy4mgDNvV0R5wtxACXbUe0zDSO2GIglx8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZWFj/N2ZjMTE1ZTdhYTYw/Mjc0NmQ2NTg5ZDA0/ZDUwYy5qcGc.jpg",
+     "description": "Lavdim Pireva, Shkumbin Pireva dhe Bardh Maxhuni analizojnë rrugëtimin e Kosovës në Ligën e Kombeve, arsyet e mosrealizimit të objektivave dhe paraqitjet individuale të futbollistëve. Në episodin e 107-të të podcastit “Arena e Yjeve”, pjesë e diskutimit janë gazetarët e Telegrafit, Lavdim Pireva, Shkumbin Pireva dhe Bardh Maxhuni, të cilët analizojnë paraqitjet e Kombëtares së Kosovës në edicionin e fundit të Ligës së Kombeve. Në fokus të kësaj bisede janë rezultatet e arritura nga Dardanët, pa…"
+    },
+    {
+     "id": "1812021835:deaba00d-f218-4099-8729-4bde99d76178",
+     "title": "#106 – Arena e Yjeve – Kosova drejt Dublinit, dueli vendimtar për Ligën A – flasin gazetarët e Telegrafit",
+     "audioUrl": "https://media.transistor.fm/81a7408e/4bb6be19.mp3",
+     "publishedAt": "2026-11-14T14:00:00.000Z",
+     "durationSec": 3218,
+     "imageUrl": "https://img.transistorcdn.com/rbcpAZRJtczqQLyQPk4gkGCxCze2RRvObYuGlA0MQKY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNGM0/OTI5ZDljZGJjYTk4/NjQzYWU2YzczMWQ3/ZDRlOS5qcGc.jpg",
+     "description": "Lavdim Pireva, Shkumbin Pireva dhe Bardh Maxhuni analizojnë situatën e Kosovës pas ndeshjes me Izraelin, sfidën vendimtare ndaj Irlandës dhe mundësinë e Dardanëve për të siguruar plejofin për promovim në Ligën A. Në episodin e 106-të të podcastit “Arena e Yjeve”, pjesë e diskutimit janë gazetarët e Telegrafit, Lavdim Pireva, Shkumbin Pireva dhe Bardh Maxhuni, të cilët sjellin analizat e tyre për zhvillimet e fundit te Kombëtarja e Kosovës. Në fokus të kësaj bisede është ndeshja e fundit e Darda…"
+    },
+    {
      "id": "1812021835:9d7f7fda-0ae5-481d-a299-59390c7234b4",
      "title": "#105 – Arena e Yjeve – Samir Ujkani – Misioni për ta dërguar Kombëtaren e Kosovës në Euro 2028",
      "audioUrl": "https://media.transistor.fm/7ea8d2b9/9109f2ae.mp3",
@@ -841,24 +859,6 @@
      "durationSec": 3285,
      "imageUrl": "https://img.transistorcdn.com/ZWGqKfnVyaIAFGWXzypfKNOJGeaKbGi9GgwBcUJPWaI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODc2/OWFhOTdkNTlkMWI1/MDdhZjk3NzI3MzBl/ZjcxOC5qcGc.jpg",
      "description": "Në episodin më të ri të podcastit “Arena e Yjeve”, i ftuar ishte ish-trajneri i basketbollit dhe ushtruesi i detyrës së drejtorit ekzekutiv të Agjencisë për Sport, Fidan Shatri, i cili foli për rrugëtimin e tij në basketboll, sfidat e sportit kosovar dhe projektet që pritet të ndikojnë në zhvillimin e sportit në vend. Gjatë bisedës, Shatri zbuloi se një nga sukseset më të mëdha në karrierën e tij ishte puna me ekipin e femrave të KB Prishtina, duke vlerësuar përkushtimin dhe frymën fituese që i…"
-    },
-    {
-     "id": "1812021835:81609a4d-7b19-4734-82f8-82ab35fd93bf",
-     "title": "#87 - Arena e Yjeve – Analizat për ndeshjet e gjysmëfinales së Ligës së Kampionëve",
-     "audioUrl": "https://media.transistor.fm/5f4065b5/2b6594a4.mp3",
-     "publishedAt": "2026-05-03T21:50:00.000Z",
-     "durationSec": 3034,
-     "imageUrl": "https://img.transistorcdn.com/sEQm_0u--F1jKwX2X6Vahu7LbxpEeJYsD_eSoYpTxtU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YzRh/ZTgzMzJiZjE5ZmIy/MDYwNjE3YzU1NTg5/MzRmOC5qcGc.jpg",
-     "description": "Në episodin më të ri të podcastit “Arena e Yjeve”, gazetarët e Telegrafit sollën një analizë të detajuar të ndeshjeve të para gjysmëfinale të UEFA Champions League, duke u ndalur te momentet kyçe, duelët taktike dhe lojtarët që po e përcaktojnë rrugën drejt finales. Diskutimi u fokusua te forma e jashtëzakonshme e Paris Saint-Germain dhe Bayern Munich, me gazetarin Bardh Maxhuni që u dha merita të mëdha të dy skuadrave për mënyrën se si kanë ndërtuar identitetin e tyre dhe si po i menaxhojnë nd…"
-    },
-    {
-     "id": "1812021835:5e1fb968-f815-4d3a-939d-eb8e47079b42",
-     "title": "#86 - Arena e Yjeve – Sheremet Isufi rrëfen karrierën, sukseset me Prishtinën dhe emocionet me fanellën e Kosovës",
-     "audioUrl": "https://media.transistor.fm/7a5c6650/4aa010d6.mp3",
-     "publishedAt": "2026-04-27T20:21:22.000Z",
-     "durationSec": 2849,
-     "imageUrl": "https://img.transistorcdn.com/741Xl2WnBseR697FvEbuyKJRCLJpS0GrFBwkmCUotFM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNDI3/YmRiZTBmYWFjNzg3/MjBlYzE3M2ZhYjY2/OWRkMy5qcGc.jpg",
-     "description": "Në episodin e radhës të podcastit “Arena e Yjeve”, mysafir ishte ish-sulmuesi i njohur kosovar, Sheremet Isufi. Gjatë bisedës, Isufi ndau me publikun disa nga rrëfimet më interesante të karrierës së tij, duke u kthyer te fillimet dhe hapat e parë në futbollin e organizuar. Ai kujtoi se si një turne me KF Trepça '89 u bë pikënisje e rëndësishme për të, kur si 17-vjeçar u gjend papritur në një ekip me yje dhe e kuptoi se ishte gati për një nivel më të lartë. Një nga temat kryesore të episodit ish…"
     }
    ]
   },
@@ -3293,7 +3293,7 @@
   {
    "id": "valarinore",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 272
+   "fails": 273
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 213
+   "fails": 214
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 387
+   "fails": 388
   },
   {
    "id": "ubtcampus",
