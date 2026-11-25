@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-25T05:28:33.574Z",
+ "generatedAt": "2026-11-25T17:21:25.433Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:2d5e4103-5d88-4105-8887-deccf6efeec3",
+     "title": "Versus #298: Champions League, komentet për Real Madrid, Arsenal dhe Manchester City",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/130053627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F3157b146-3959-2f1e-0ea6-fdfb40d5ecd4.m4a",
+     "publishedAt": "2026-11-24T23:27:52.000Z",
+     "durationSec": 5049,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Komentojmë ndeshjet kryesore të së martës në Champions League. Luajnë Real Madrid, Arsenal, Manchester City dhe skuadra të tjera që premtojnë gola dhe spektakël. 0:00 Champions 1:19:01 Parashikime",
+     "episodeNumber": 298,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:b7650e43-c196-4487-859d-8eabfd099ac5",
      "title": "Versus #297: Fundjavë dëmtimesh! Çfarë po ndodh në ligat europiane?... dhe pak GTA VI",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/129928250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F2c3ffac9-8d07-da59-e14a-7d86d3743570.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Live në Versus për fundjavën në ligat europiane. Derbi i Madridit, Roma - Inter, humbja turpëruese e Arsenalit, shkëlqimi i Barcelonës dhe spektakli nga Bayern. Komente, analiza dhe parashikime të detajuara për sfidat kryesore. 0:00 La Liga 1:16:25 Premier League 1:47:40 Serie A 2:09:47 Bayern 2:19:17 Kombetarja 3:08:21 Parashikime 3:12:27 Fantazi",
      "episodeNumber": 279,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:60fbdc0a-a1f3-4ddf-a5b9-4985375b60e7",
-     "title": "Versus #278: Dështon Milani, radhën e ka Juve! Barcelona, mrekullia e shtatorit!",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/125908755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F6e0518e4-6463-8a79-ce41-1aa64b3caa21.mp3",
-     "publishedAt": "2026-09-17T23:47:08.000Z",
-     "durationSec": 7887,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Rikthehemi live në Versus për një episod gjithëpërfshirës: kampionatet, Europa League dhe pragndeshjet e kombëtareve. Komente, analiza dhe parashikime të detajuara për sfidat kryesore. 0:00 La Liga 59:18 Seria A 1:30:21 Premier League 1:43:01 Kombëtarja 2:07:22 Parashikime",
-     "episodeNumber": 278,
      "seasonNumber": 4
     }
    ]
@@ -2311,6 +2311,69 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26523",
+     "title": "Konsulenti dhe eksperti i hoteleri turizmit: Pikat kyçe se si mund të rrisim një biznes/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26523/konsulenti-dhe-eksperti-i-hoteleri-turizmit-pikat-kyce-se-si-mund-te-rrisim-nje-biznes-wake-up.mp3",
+     "publishedAt": "2026-11-25T11:00:15.000Z",
+     "durationSec": 1179,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26522",
+     "title": "E ndaluan në Rinas, pedagogu Ermal Hasimja rrëfen çfarë i ndodhi!/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26522/e-ndaluan-ne-rinas-pedagogu-ermal-hasimja-rrefen-cfare-i-ndodhi-wake-up.mp3",
+     "publishedAt": "2026-11-25T10:58:20.000Z",
+     "durationSec": 477,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26518",
+     "title": "Si të asgjesojmë armiqtë kimikë brenda shtëpisë, çfarë zbuloi studiuesja?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26518/si-te-asgjesojme-armiqte-kimike-brenda-shtepise-cfare-zbuloi-studiuesja-wake-up.mp3",
+     "publishedAt": "2026-11-25T10:57:54.000Z",
+     "durationSec": 1446,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26502",
+     "title": "“Romanca dhe emocionet vijnë shumë ndryshe”/Filmat dhe serialet që ia vlen të ndiqni këtë fundjavë!",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26502/romanca-dhe-emocionet-vijne-shume-ndryshe-filmat-dhe-serialet-qe-ia-vlen-te-ndiqni-kete-fundjave.mp3",
+     "publishedAt": "2026-11-25T10:56:21.000Z",
+     "durationSec": 1440,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Për kinema-dashësit vjen një program i cili sjell kinemanë në 360 gradë. Filmat e rinj, ngjarjet e fundit nga protagonistët tuaj të preferuar, recensionet e filmave, shoqëruar nga kolonat zanore të paharrueshme që zgjojnë kujtime rrënqethëse."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26503",
+     "title": "Ardit Roshi: “Problemet më të mëdha që kemi sot janë sepse ne dikur…”",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26503/ardit-roshi-problemet-me-te-medha-qe-kemi-sot-jane-sepse-ne-dikur.mp3",
+     "publishedAt": "2026-11-25T10:55:57.000Z",
+     "durationSec": 2762,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Kozeta Kurti, një nga “pioneret” e para të radiove private në Shqipëri, që në fund të viteve ‘90-të, kthehet në Top Albania Radio pas 17 vjetësh me “Back to the Beginning”. Ky format e nisi rrugëtimin edhe në 2020-ën, fiks në të njëjtën periudhë me pandeminë globale “Covid 19”-të, por me sa duket kjo është koha e duhur."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26515",
+     "title": "Hailey-Justin-Selena/ Historia e &#8216;fshehtë&#8217; dhe tronditëse që ka filluar të qarkullojë&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26515/hailey-justin-selena-historia-e-fshehte-dhe-tronditese-qe-ka-filluar-te-qarkulloje.mp3",
+     "publishedAt": "2026-11-25T09:10:06.000Z",
+     "durationSec": 162,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26512",
+     "title": "Grammy 2027/ Publikohet lista e të nominuarve, ja kush kryeson&#8230;",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26512/grammy-2027-publikohet-lista-e-te-nominuarve-ja-kush-kryeson.mp3",
+     "publishedAt": "2026-11-25T09:00:30.000Z",
+     "durationSec": 132,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë të pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26511",
      "title": "Ribashkim me ish-gruan? Aldo Marku: Të dy kemi ecur përpara por jam i hapur…",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26511/ribashkim-me-ish-gruan-aldo-marku-te-dy-kemi-ecur-perpara-por-jam-i-hapur.mp3",
@@ -2424,69 +2487,6 @@
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26478/specialisti-imobiliar-zbulon-zonat-ideale-per-te-blere-shtepi-ne-tirane-wake-up.mp3",
      "publishedAt": "2026-11-18T13:01:41.000Z",
      "durationSec": 1093,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26477",
-     "title": "1 në 4 shqiptarë mbajnë antibiotik në shtëpi, eksperti: Shqetësuese!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26477/1-ne-4-shqiptare-mbajne-antibiotik-ne-shtepi-eksperti-shqetesuese-wake-up.mp3",
-     "publishedAt": "2026-11-18T13:01:17.000Z",
-     "durationSec": 1500,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26476",
-     "title": "Frank Ibrahimi në BBV6?! Artisti zbulon më shumë për muzikën e tij: Kam 12 këngë gati por vetëm 5…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26476/frank-ibrahimi-ne-bbv6-artisti-zbulon-me-shume-per-muziken-e-tij-kam-12-kenge-gati-por-vetem-5.mp3",
-     "publishedAt": "2026-11-18T13:00:59.000Z",
-     "durationSec": 1750,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Lancio është një tjetër emision që ka nisur të transmetohet që në fillimet e Top Albania Radio. Qëllimi i këtij show radiofonik është promovimi i muzikës ndërkombëtare dhe asaj shqiptare. Njëkohësisht në thelb të këtij emisioni qëndron edhe pasurimi artistiko-kulturor i dëgjuesve. Informacionet mbi karrierën apo zhvillimet e aktiviteteve ndërkombëtare të artistëve janë ta pamunguara. Lancio është rrjeta e informacioneve të fundit të muzikës më të mirë të momentit."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26475",
-     "title": "“Hitet duhen…”, Sinan Hoxha si kurrë më parë/ Luiza Gega rrëfen arritjet por dhe sfidat: Rekordi im…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26475/hitet-duhen-sinan-hoxha-si-kurre-me-pare-luiza-gega-rrefen-arritjet-por-dhe-sfidat-rekordi-im.mp3",
-     "publishedAt": "2026-11-18T13:00:28.000Z",
-     "durationSec": 4231,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Politika dhe aktualiteti, të para ndryshe. Shkundja sarkastike e realitetit politik dhe social që jetojmë me një prej figurave më të pëlqyera të humorit shqiptar si edhe një prej personazheve më të dashura të televizionit. Pse Shqipëria është kjo që është, pse shqiptarët janë siç janë, një vështrim plot humor mbi jetën që bëjmë që do t’ju sjellë gjendje të mirë shpirtërore përpara se të mbyllni ditën tuaj."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26474",
-     "title": "Nga aventurat në Kubë te magjia e Cappadocia-s/Ed Manushi zbulon sekretet e udhëtimeve: Kur isha në…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26474/nga-aventurat-ne-kube-te-magjia-e-cappadocia-s-ed-manushi-zbulon-sekretet-e-udhetimeve-kur-isha-ne.mp3",
-     "publishedAt": "2026-11-18T12:59:26.000Z",
-     "durationSec": 2420,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Trip Top është një udhëtim radiofonik përtej hartave turistike. Çdo episod sjell destinacione, histori dhe kultura nga e gjithë bota. I ndërtuar si një eksperiencë audio 360°, me storytelling nga vendi në fokus, muzikë karakteristike, sugjerime autentike dhe biseda inspiruese me të ftuar VIP që ndajnë marrëdhënien e tyre me udhëtimet dhe aventurat."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26473",
-     "title": "Nga intervista me Hygerta Sakon te operacionet plastike me Dr. Senera Hoxha &#8211; Top Fare 16/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26473/nga-intervista-me-hygerta-sakon-te-operacionet-plastike-me-dr-senera-hoxha-top-fare-16-11-2026.mp3",
-     "publishedAt": "2026-11-18T12:59:08.000Z",
-     "durationSec": 4054,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Të informohesh dhe të argëtohesh… duket si mision i pamundur! Por jo për Julian Hurdha dhe Anxhelo Shkreli! Dyshja sjellin për publikun “Top Fare”, një emision humoristik ku nuk do të mungojnë të qeshurat, por as aktualiteti. Java nis me programin më provokues dhe që nuk kursen askënd. Më pak sarkazëm, ironi e pak ‘spec djegës’, pasditet tuaja në Top Albania Radio nuk do jenë kurrë të mërzitshme!"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26472",
-     "title": "Gen Z më të stresuar dhe më pak s*ks/Psikologia: Pornografia ka dëmtuar bukurinë e marrëdhënieve…",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26472/gen-z-me-te-stresuar-dhe-me-pak-sks-psikologia-pornografia-ka-demtuar-bukurine-e-marredhenieve.mp3",
-     "publishedAt": "2026-11-18T11:11:52.000Z",
-     "durationSec": 1770,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Çdo gjë që ndodh rreth e qark nesh, drejtëpërdrejtë nga kryeqyteti. Revista ditore e ndodhive brenda dhe jashtë vendit vjen e trajtuar 360 gradë nga Top Albania Radio me të ftuar në studio, lidhje direkte dhe komunikim direkt me dëgjuesit përmes rrjeteve sociale."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26469",
-     "title": "A duhet ta shmangim mëngjesin apo jo? Nutricionisti jep përgjigjen befasuese/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26469/a-duhet-ta-shmangim-mengjesin-apo-jo-nutricionisti-jep-pergjigjen-befasuese-wake-up.mp3",
-     "publishedAt": "2026-11-17T10:42:21.000Z",
-     "durationSec": 1188,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
     }
@@ -3293,7 +3293,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 4
+   "fails": 5
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 276
+   "fails": 277
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 217
+   "fails": 218
   },
   {
    "id": "capitalfm",
@@ -3387,13 +3387,13 @@
   },
   {
    "id": "radiostar",
-   "online": false,
-   "fails": 2
+   "online": true,
+   "fails": 0
   },
   {
    "id": "radio7",
    "online": false,
-   "fails": 391
+   "fails": 392
   },
   {
    "id": "ubtcampus",
@@ -3473,7 +3473,7 @@
   {
    "id": "radiorainca",
    "online": true,
-   "fails": 1
+   "fails": 0
   }
  ]
 }
