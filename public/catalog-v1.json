@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-25T17:21:25.433Z",
+ "generatedAt": "2026-11-26T01:48:46.156Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -872,6 +872,17 @@
    "description": "Podcast i parë nga një media sportive në Shqipëri. Duele opinionesh nga Antoni, Denisi dhe Ndriçimi; me të ftuar të njohur dhe tifozë të zakonshëm nga komuniteti ynë sportiv.",
    "episodes": [
     {
+     "id": "1849137636:9e7d4545-51a2-4132-a7ad-80cf1a0ba7fc",
+     "title": "Versus #299: Champions League, në fushë zbresin Barcelona, Inter & Bayern",
+     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/130129150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F2a62fda0-214e-00de-0457-6fd075308f37.m4a",
+     "publishedAt": "2026-11-26T00:13:51.000Z",
+     "durationSec": 7538,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
+     "description": "Edhe pa yjet Lamine Yamal, Kane dhe Doue, kjo mbrëmje e Champions League garanton spektakël. Në fushë zbresin Barcelona, Inter, Bayern, Liverpool dhe PSG. Komente, analiza dhe parashikime (për sfidat e fundjavës). 0:00 Champions 1:47:24 Preview Fundjava 2:01:38 Parashikime",
+     "episodeNumber": 299,
+     "seasonNumber": 4
+    },
+    {
      "id": "1849137636:2d5e4103-5d88-4105-8887-deccf6efeec3",
      "title": "Versus #298: Champions League, komentet për Real Madrid, Arsenal dhe Manchester City",
      "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/130053627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F3157b146-3959-2f1e-0ea6-fdfb40d5ecd4.m4a",
@@ -1078,17 +1089,6 @@
      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
      "description": "Shqipëria luan ndeshjen e parë në Nations League me Bjellorusinë. Komente, analiza dhe debat për performancën e kuqezinjve si dhe për përballjen Angli - Spanjë, hiti i kësaj mbrëmjeje. 0:00 Shqipëri - Bjellorusi 1:31:18 Austri - Kosovë 2:08:18 Te Tjera 2:19:55 Manchester City 2:41:43 Parashikime",
      "episodeNumber": 280,
-     "seasonNumber": 4
-    },
-    {
-     "id": "1849137636:30a9731d-2aa3-4a72-9e62-813ced3070c4",
-     "title": "Versus #279: Atletico Madrid - Real Madrid, prova e parë e vërtetë!",
-     "audioUrl": "https://anchor.fm/s/f6563050/podcast/play/126056208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-20%2Fe29c58f8-c1b7-3159-691e-bb9a4db21376.mp3",
-     "publishedAt": "2026-09-20T23:55:38.000Z",
-     "durationSec": 12231,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41228436/41228436-1761660604219-02d3fa649b2d5.jpg",
-     "description": "Live në Versus për fundjavën në ligat europiane. Derbi i Madridit, Roma - Inter, humbja turpëruese e Arsenalit, shkëlqimi i Barcelonës dhe spektakli nga Bayern. Komente, analiza dhe parashikime të detajuara për sfidat kryesore. 0:00 La Liga 1:16:25 Premier League 1:47:40 Serie A 2:09:47 Bayern 2:19:17 Kombetarja 3:08:21 Parashikime 3:12:27 Fantazi",
-     "episodeNumber": 279,
      "seasonNumber": 4
     }
    ]
@@ -3293,7 +3293,7 @@
   {
    "id": "valarinore",
    "online": false,
-   "fails": 5
+   "fails": 6
   },
   {
    "id": "radiokosovaelire",
@@ -3313,7 +3313,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 277
+   "fails": 278
   },
   {
    "id": "radiok4",
@@ -3323,7 +3323,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 218
+   "fails": 219
   },
   {
    "id": "capitalfm",
@@ -3393,7 +3393,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 392
+   "fails": 393
   },
   {
    "id": "ubtcampus",
