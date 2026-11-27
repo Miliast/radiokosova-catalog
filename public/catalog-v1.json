@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-27T02:56:00.765Z",
+ "generatedAt": "2026-11-27T12:40:14.552Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -2311,6 +2311,24 @@
    "description": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe një larmi programesh kulturore",
    "episodes": [
     {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26549",
+     "title": "114-vjetori i Shpalljes së Pavarësisë. Si e gjeti ky përvjetor vendin tonë?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26549/114-vjetori-i-shpalljes-se-pavaresise-si-e-gjeti-ky-pervjetor-vendin-tone-wake-up.mp3",
+     "publishedAt": "2026-11-27T11:57:01.000Z",
+     "durationSec": 1328,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
+     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26548",
+     "title": "Banka e Shqipërisë, çfarë parashikon Taksonomia Kombëtare e gjelbër?/ Wake Up",
+     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26548/banka-e-shqiperise-cfare-parashikon-taksonomia-kombetare-e-gjelber-wake-up.mp3",
+     "publishedAt": "2026-11-27T11:56:12.000Z",
+     "durationSec": 1208,
+     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
+     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
+    },
+    {
      "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26542",
      "title": "&#8220;Ftesa për BBV më ka ardhur&#8230;&#8221;/Ina Kollçaku zbulon gjithçka në një intervistë pa filtra: Dua që unë&#8230;",
      "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26542/ftesa-per-bbv-me-ka-ardhur-ina-kollcaku-zbulon-gjithcka-ne-nje-interviste-pa-filtra-dua-qe-une.mp3",
@@ -2470,24 +2488,6 @@
      "durationSec": 5124,
      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
      "description": "“She’s On Air” është një emision radiofonik në trajtën e një “reality show”, që sjell në qendër të vëmendjes vajzat e reja; të guximshme, të sinqerta, të papërmbajtura dhe të vetëdijshme për fuqinë e tyre. Gjashtë vajza me karaktere të ndryshme nga njëra-tjetra, por të gjitha të vërteta, hapin zemrën për të folur për gjithçka që ndodh rreth tyre. Në “She’s On Air” asnjë temë tabu nuk mbetet pa u trajtuar."
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26493",
-     "title": "Nga parashikimet e Alfred Cakos te intervista me Kanitën &#8211; Pardon My French 18/11/2026",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26493/nga-parashikimet-e-alfred-cakos-te-intervista-me-kaniten-pardon-my-french-18-11-2026.mp3",
-     "publishedAt": "2026-11-20T17:07:49.000Z",
-     "durationSec": 4158,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Një emision ku, si asnjëherë më parë, mendimet dhe fjalët vijnë si në jetë, të pacensuruara… Mirë, ndoshta pak të censuruara. “Pardon My French” nga Jonida Aliçkolli, Niko Komani dhe Aulona Musta, ku e vetmja gjë që nuk dinë të bëjnë është të flasin frëngjisht!"
-    },
-    {
-     "id": "1552672198:https://podcasts.topalbaniaradio.com/?post_type=podcast&#038;p=26500",
-     "title": "“Smart City”, gazetari: Janë konstatuar mangesi në mbrojtjen e të dhënave!/ Wake Up",
-     "audioUrl": "https://podcasts.topalbaniaradio.com/podcast-download/26500/smart-city-gazetari-jane-konstatuar-mangesi-ne-mbrojtjen-e-te-dhenave-wake-up.mp3",
-     "publishedAt": "2026-11-20T09:36:14.000Z",
-     "durationSec": 1316,
-     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/e9/b8/ace9b80f-53a5-6c7f-91f4-1aa7f0e6766c/mza_17042392388927296044.jpeg/600x600bb.jpg",
-     "description": "Edhe këtë sezon “Wake Up”, programi i njëkohshëm radio-televiziv i “Top Channel” dhe “Top Albania Radio”, vjen në transmetim të drejtpërdrejtë çdo mëngjes në orën 7:00. Përmes informacioneve, intervistave, lojrave dhe muzikës, &#8220;Wake Up&#8221; fton shqiptarët brenda dhe jashtë vendit të zgjohen dhe ndërveprojnë me ekranin e Top Channel dhe valët e Top Albania Radio. Ky është viti i pestë që programi mban autorësinë dhe drejtimin e Blendi Salaj por risia e këtij sezoni janë Edea Demaliaj dh…"
     }
    ]
   },
@@ -3302,7 +3302,7 @@
   {
    "id": "radioprishtina",
    "online": true,
-   "fails": 0
+   "fails": 1
   },
   {
    "id": "radio1",
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 281
+   "fails": 282
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 222
+   "fails": 223
   },
   {
    "id": "capitalfm",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 396
+   "fails": 397
   },
   {
    "id": "ubtcampus",
