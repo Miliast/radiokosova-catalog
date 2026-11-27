@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-26T20:13:36.244Z",
+ "generatedAt": "2026-11-27T02:56:00.765Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -3051,6 +3051,17 @@
    "description": "Garage Lock Podcast is part of the Garage Lock Label project, created by Eugent Bushpepa and Renis Gjoka",
    "episodes": [
     {
+     "id": "1720218634:a9f1bcb8-dedf-472d-ad7c-381ff880e828",
+     "title": "Saimir Korreshi në Garage Lock",
+     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/130178318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-26%2F531da0f8-00c4-e438-52f2-e75975ea7687.mp3",
+     "publishedAt": "2026-11-26T20:46:06.000Z",
+     "durationSec": 4928,
+     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1795725950902-31db757bdcec38.jpg",
+     "description": "Garage Lock Podcast, drejtuar nga Renis Gjoka dhe Eglein Laknori.",
+     "episodeNumber": 2,
+     "seasonNumber": 4
+    },
+    {
      "id": "1720218634:c348a019-60bf-489a-b769-a86e621af288",
      "title": "Rei Sulejmani në Garage Lock",
      "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/129324325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2Fb7974038-4f6a-d220-5385-1a9c0f195471.mp3",
@@ -3258,17 +3269,6 @@
      "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
      "episodeNumber": 2,
      "seasonNumber": 3
-    },
-    {
-     "id": "1720218634:4525bd5e-3a2b-4240-b65a-79c44767a26b",
-     "title": "Xhevair Zeneli në Garage Lock",
-     "audioUrl": "https://anchor.fm/s/eebeae6c/podcast/play/110092158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-23%2F47605dc6-5536-a216-077e-3ff90aabd361.mp3",
-     "publishedAt": "2025-10-23T07:17:57.000Z",
-     "durationSec": 3663,
-     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39954739/39954739-1761203773736-8c650e95637e2.jpg",
-     "description": "Garage Lock Podcast është pjesë e projektit Garage Lock Label, i krijuar nga Eugent Bushpepa dhe Renis Gjoka.",
-     "episodeNumber": 1,
-     "seasonNumber": 3
     }
    ]
   }
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 280
+   "fails": 281
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 221
+   "fails": 222
   },
   {
    "id": "capitalfm",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 395
+   "fails": 396
   },
   {
    "id": "ubtcampus",
