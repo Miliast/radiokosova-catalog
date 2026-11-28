@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-28T03:58:11.173Z",
+ "generatedAt": "2026-11-28T13:11:13.703Z",
  "podcasts": [
   {
    "id": "1598825570",
@@ -371,6 +371,15 @@
    "description": "Në podkastin e Radios Evropa e Lirë, 5 pyetje, një temë sqarohet me ndihmën e profesionistëve dhe ekspertëve, përmes përgjigjeve që kapin thelbin.",
    "episodes": [
     {
+     "id": "1859577019:https://www.evropaelire.org/a/prishtina-gjelberim-3-metra-katrore/33907084.html",
+     "title": "\"Më pak se 3 metra katrorë gjelbërim për banor në Prishtinë\"",
+     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/11/27/0a4e103f-a1a0-46dc-87b6-08df3ee82709_hq.mp3",
+     "publishedAt": "2026-11-28T10:51:47.000Z",
+     "durationSec": 1268,
+     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
+     "description": "Lagje me shumë banesa, por pak parqe e hapësira publike në Prishtinë. Arkitektja dhe planifikuesja urbane Fjollë Caka shpjegon në podkastin 5 pyetje si interesi privat ka marrë përparësi ndaj atij publik dhe se çfarë po humb qyteti nga ky zhvillim."
+    },
+    {
      "id": "1859577019:https://www.evropaelire.org/a/kosova-rryma-dimri-pasiguri-energjetike/33901969.html",
      "title": "Kosova përballë një dimri tjetër me pasiguri energjetike",
      "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/11/19/7e93cabe-d9f3-4054-85b1-08df3ee82709_hq.mp3",
@@ -540,15 +549,6 @@
      "durationSec": 1554,
      "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
      "description": "Në podkastin “5 pyetje”, profesori i Teknologjisë Ushqimore, Salih Salihu, flet për përdorimin e vajit të palmës, rëndësinë e leximit të etiketave dhe nevojën për kontrolle më të rregullta të produkteve në treg."
-    },
-    {
-     "id": "1859577019:https://www.evropaelire.org/a/siguria-objektet-banesore-kosova/33795522.html",
-     "title": "Sa të sigurta janë objektet banesore në Kosovë?",
-     "audioUrl": "https://rfe-audio-ns.akamaized.net/ko/2026/07/03/a30b4376-ffec-45f5-7c04-08decad17715_hq.mp3",
-     "publishedAt": "2026-07-04T09:57:20.000Z",
-     "durationSec": 1562,
-     "imageUrl": "https://gdb.rferl.org/b1c2a2ba-4b5a-47fc-9f1a-08de2bf6eb80_w3000_h3000_q85.png",
-     "description": "A janë të sigurta ndërtesat ku jetojmë? Në episodin e ri të podkastit 5 pyetje të Radios Evropa e Lirë, dekani i Fakultetit të Inxhinierisë së Ndërtimit në Universitetin e Prishtinës, Florim Grajçevci, flet për mangësitë në kontrollin e ndërtimeve dhe standardet e sigurisë të objekteve të banimit në Kosovë."
     }
    ]
   },
@@ -3312,7 +3312,7 @@
   {
    "id": "radionostalgjia",
    "online": false,
-   "fails": 284
+   "fails": 285
   },
   {
    "id": "radiok4",
@@ -3322,7 +3322,7 @@
   {
    "id": "shqiperiaelire",
    "online": false,
-   "fails": 225
+   "fails": 226
   },
   {
    "id": "capitalfm",
@@ -3392,7 +3392,7 @@
   {
    "id": "radio7",
    "online": false,
-   "fails": 399
+   "fails": 400
   },
   {
    "id": "ubtcampus",
